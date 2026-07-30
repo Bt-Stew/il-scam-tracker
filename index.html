@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Illinois BBB ScamTracker — Daily Digest</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page-plane:     #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --series-1:       #2a78d6; /* blue - sequential */
+    --series-2:       #eb6834; /* orange */
+    --series-3:       #1baf7a; /* aqua */
+    --series-4:       #eda100; /* yellow */
+    --series-5:       #898781; /* other = neutral */
+    --status-critical:#d03b3b;
+    --seq-100:        #cde2fb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page-plane:     #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --series-1:       #3987e5;
+      --series-2:       #d95926;
+      --series-3:       #199e70;
+      --series-4:       #c98500;
+      --series-5:       #898781;
+      --status-critical:#e66767;
+      --seq-100:        #184f95;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--page-plane);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--text-primary);
+  }
+  .viz-root {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 28px 20px 48px;
+  }
+  header.page-head {
+    margin-bottom: 22px;
+  }
+  header.page-head h1 {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 4px;
+  }
+  header.page-head p {
+    margin: 0;
+    color: var(--text-secondary);
+    font-size: 13.5px;
+    line-height: 1.5;
+  }
+  .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    margin-top: 10px;
+    font-size: 12.5px;
+    color: var(--text-muted);
+  }
+  .meta-row span b { color: var(--text-secondary); font-weight: 600; }
+
+  .kpi-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 26px;
+  }
+  .kpi-tile {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+  .kpi-tile .label {
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--text-muted);
+    margin-bottom: 6px;
+  }
+  .kpi-tile .value {
+    font-size: 22px;
+    font-weight: 700;
+    font-variant-numeric: proportional-nums;
+    line-height: 1.15;
+  }
+  .kpi-tile .sub {
+    font-size: 11.5px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+  }
+  .kpi-tile.flag .value { color: var(--status-critical); }
+
+  section {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px 20px;
+    margin-bottom: 20px;
+  }
+  section h2 {
+    font-size: 14.5px;
+    font-weight: 700;
+    margin: 0 0 3px;
+  }
+  section .section-sub {
+    font-size: 12px;
+    color: var(--text-muted);
+    margin: 0 0 16px;
+  }
+
+  .bar-row {
+    display: grid;
+    grid-template-columns: 140px 1fr 46px;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .bar-row .bar-label {
+    font-size: 13px;
+    color: var(--text-secondary);
+    text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .bar-track {
+    background: var(--seq-100);
+    border-radius: 4px;
+    height: 16px;
+    position: relative;
+  }
+  .bar-fill {
+    background: var(--series-1);
+    height: 100%;
+    border-radius: 4px;
+    min-width: 4px;
+  }
+  .bar-row .bar-count {
+    font-size: 13px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--text-primary);
+  }
+
+  .table-controls {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 14px;
+    font-size: 13px;
+  }
+  .table-controls label { color: var(--text-secondary); }
+  .table-controls select {
+    font: inherit;
+    font-size: 13px;
+    padding: 5px 8px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--page-plane);
+    color: var(--text-primary);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  thead th {
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--text-muted);
+    font-weight: 600;
+    border-bottom: 1px solid var(--baseline);
+    padding: 0 8px 8px;
+    white-space: nowrap;
+  }
+  tbody td {
+    padding: 9px 8px;
+    border-bottom: 1px solid var(--gridline);
+    color: var(--text-primary);
+    vertical-align: top;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td.date { white-space: nowrap; color: var(--text-secondary); }
+  td.type { white-space: nowrap; }
+  td.desc { color: var(--text-secondary); max-width: 320px; }
+  tr.hidden-row { display: none; }
+
+  footer.page-foot {
+    font-size: 11.5px;
+    color: var(--text-muted);
+    line-height: 1.6;
+    padding-top: 4px;
+  }
+  footer.page-foot a { color: var(--text-secondary); }
+
+  @media (max-width: 640px) {
+    .kpi-row { grid-template-columns: repeat(2, 1fr); }
+    .bar-row { grid-template-columns: 96px 1fr 34px; }
+    table { font-size: 12px; }
+    td.desc { max-width: 160px; }
+  }
+</style>
+</head>
+<body>
+<div class="viz-root">
+
+  <header class="page-head">
+    <h1>Illinois BBB ScamTracker — Daily Digest</h1>
+    <p>A rolling snapshot of the most recently filed consumer scam reports for Illinois, pulled from the BBB's public Scam Tracker search.</p>
+    <div class="meta-row">
+      <span>Generated: <b id="genDate">—</b></span>
+      <span>Reports on file for IL: <b>23,246+</b></span>
+      <span>Sample shown: <b>30 most recent reports</b></span>
+      <span>Refresh: <b>daily</b></span>
+    </div>
+  </header>
+
+  <div class="kpi-row">
+    <div class="kpi-tile">
+      <div class="label">Reports Sampled</div>
+      <div class="value">30</div>
+      <div class="sub">Jul 25 – Jul 30, 2026</div>
+    </div>
+    <div class="kpi-tile flag">
+      <div class="label">$ Lost (sample)</div>
+      <div class="value">$35,075</div>
+      <div class="sub">Skewed by one $28,000 report</div>
+    </div>
+    <div class="kpi-tile">
+      <div class="label">Most Common Type</div>
+      <div class="value">Online Purchase</div>
+      <div class="sub">9 of 30 reports (30%)</div>
+    </div>
+    <div class="kpi-tile flag">
+      <div class="label">Costliest Report</div>
+      <div class="value">$28,000</div>
+      <div class="sub">Sweepstakes/Lottery — Zion, IL</div>
+    </div>
+  </div>
+
+  <section>
+    <h2>Reports by Scam Type</h2>
+    <p class="section-sub">Sample of 30 most recent Illinois reports, grouped into 5 buckets (smaller categories folded into "Other")</p>
+    <div id="barChart"></div>
+  </section>
+
+  <section>
+    <h2>Recent Reports</h2>
+    <p class="section-sub">Individual reports as filed by consumers — unverified, self-reported, not confirmed instances of fraud</p>
+    <div class="table-controls">
+      <label for="typeFilter">Filter by type:</label>
+      <select id="typeFilter"></select>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Scam Type</th>
+          <th>City</th>
+          <th class="num">$ Lost</th>
+          <th>Business Name Used</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody id="reportBody"></tbody>
+    </table>
+  </section>
+
+  <footer class="page-foot">
+    Source: <a href="https://www.bbb.org/scamtracker/lookupscam?q=state_province%3DUSA%7CIL%26from%3D0" target="_blank" rel="noopener">BBB Scam Tracker — Illinois</a>.
+    Data is consumer-submitted and unverified by BBB or X1 Marketing; treat dollar figures and business names as reported, not confirmed.
+    This dashboard samples the most recent ~30 reports at time of generation, not the full 23,000+ record history.
+    Rebuilt daily — ask to refresh anytime for the latest snapshot.
+  </footer>
+
+</div>
+
+<script>
+  const reports = [
+    {date:"2026-07-30", type:"Online Purchase", city:"Staunton, IL", amt:40, biz:"Justen Trading Co. Limited", desc:"Seller failed to deliver product after 2-month delay with altered tracking info."},
+    {date:"2026-07-30", type:"Phishing", city:"Milan, IL", amt:0, biz:"Wright Kenneth Law Office", desc:"Unsolicited fax sent to workplace with suspicious automated follow-up response."},
+    {date:"2026-07-30", type:"Online Purchase", city:"Goodfield, IL", amt:25, biz:"Cimamc", desc:"Ordered dresses never arrived; seller refused full refund despite multiple requests."},
+    {date:"2026-07-29", type:"Online Purchase", city:"Elgin, IL", amt:34, biz:"Molision INC", desc:"Capri pants order reported as scam."},
+    {date:"2026-07-29", type:"Employment", city:"Lombard, IL", amt:1500, biz:"She Sells Academy", desc:"Training program charged fee with unfulfilled promises; alleged pyramid scheme."},
+    {date:"2026-07-29", type:"Online Purchase", city:"Cobden, IL", amt:39.99, biz:"Kinky Cubes", desc:"Advertised product had misleading shipping timeline."},
+    {date:"2026-07-29", type:"Counterfeit Product", city:"Sherman, IL", amt:326.27, biz:"Epi cooler", desc:"AC units malfunctioned; seller refused full refund and stopped communicating."},
+    {date:"2026-07-29", type:"Identity Theft", city:"Woodlawn, IL", amt:0, biz:"Amazon", desc:"Unauthorized purchase attempt detected on account."},
+    {date:"2026-07-29", type:"Employment", city:"Wheeling, IL", amt:0, biz:"Mistake freight INC", desc:"Job scam involving identity documentation submission."},
+    {date:"2026-07-29", type:"Phishing", city:"Shelbyville, IL", amt:2550, biz:"Student Loan Service", desc:"Fraudulent service mimicked federal program while charging monthly fees."},
+    {date:"2026-07-28", type:"Phishing", city:"Macomb, IL", amt:0, biz:"—", desc:"Voicemail scam impersonating legal authority demanding immediate callback."},
+    {date:"2026-07-28", type:"Phishing", city:"Huntley, IL", amt:0, biz:"Debbie Stancliffe, disability manager", desc:"Harassing daily calls claiming disability management affiliation."},
+    {date:"2026-07-28", type:"Online Purchase", city:"Urbana, IL", amt:0, biz:"Mutedplatool", desc:"Snow blower order never received despite processing claims from vendor."},
+    {date:"2026-07-28", type:"Employment", city:"Chicago, IL", amt:0, biz:"—", desc:"Fake check / mystery shopper scheme requiring victim to purchase gift cards totaling $1,343."},
+    {date:"2026-07-28", type:"Employment", city:"Champaign, IL", amt:0, biz:"Amazon Remote Recruitment", desc:"Imposter Amazon job offer promising $100–$600 daily for flexible home work."},
+    {date:"2026-07-28", type:"Phishing", city:"Paxton, IL", amt:0, biz:"Debbie Stancliff, Disability Info Center", desc:"Repeated calls from spoofed numbers about disability status eligibility."},
+    {date:"2026-07-28", type:"Retail Business", city:"Tremont, IL", amt:0, biz:"Auto Pro's LLC", desc:"Fake website using stolen vehicle listings at artificially low prices."},
+    {date:"2026-07-28", type:"Counterfeit Product", city:"O'Fallon, IL", amt:90, biz:"Emblem Boutique", desc:"Dress arrived late with mismatched design and unresponsive return process."},
+    {date:"2026-07-28", type:"Phishing", city:"Waterloo, IL", amt:0, biz:"Musclepk.com Surprise US", desc:"Fraudulent $30+ charge flagged by credit card company."},
+    {date:"2026-07-28", type:"Online Purchase", city:"Springfield, IL", amt:175, biz:"Dice N Dragons", desc:"Resin lamp never shipped after double payment; seller stringing victim along."},
+    {date:"2026-07-27", type:"Online Purchase", city:"Chicago Heights, IL", amt:108, biz:"Vanta Commerce LLC", desc:"Ordered portable AC unit but received desktop fan instead."},
+    {date:"2026-07-27", type:"Online Purchase", city:"Bloomington, IL", amt:25, biz:"Ilonaria", desc:"Company claimed delivery twice but items never arrived and refused refunds."},
+    {date:"2026-07-27", type:"Phishing", city:"Springfield, IL", amt:0, biz:"Cracker Barrel (impersonator)", desc:"Fraudulent message requested payment via alternate card."},
+    {date:"2026-07-27", type:"Sweepstakes/Lottery", city:"Zion, IL", amt:28000, biz:"Publishers Clearing House (impostor)", desc:"Prize scam involving promised $50 million and vehicle over multiple payments."},
+    {date:"2026-07-27", type:"Phishing", city:"Kewanee, IL", amt:163.20, biz:"Microsoft (impostor)", desc:"Fake Microsoft site withdrew recurring charges since October 2025."},
+    {date:"2026-07-26", type:"Online Purchase", city:"Mount Vernon, IL", amt:17.98, biz:"—", desc:"Purchase issue documented in screenshot."},
+    {date:"2026-07-26", type:"Other", city:"Frankfort, IL", amt:10, biz:"Pest Free Home", desc:"Unwanted recurring shipments with no cancellation option."},
+    {date:"2026-07-26", type:"Employment", city:"Plainfield, IL", amt:1551, biz:"DC Medical Joint Research Center (DMJRC)", desc:"Job offer scam involving fake check and wire transfer requests."},
+    {date:"2026-07-26", type:"Debt Collections", city:"Oak Forest, IL", amt:0, biz:"Element Solution / Bryan Flemming", desc:"Unrecognized debt collection claim with questionable documentation."},
+    {date:"2026-07-25", type:"Charity/Phishing", city:"Glen Ellyn, IL", amt:420, biz:"Rising Phoenix LLC", desc:"Door-to-door donation request for job-seeking resources."}
+  ];
+
+  // ---- generated date ----
+  document.getElementById('genDate').textContent = new Date(reports[0].date + "T12:00:00").toLocaleDateString('en-US', {month:'long', day:'numeric', year:'numeric'});
+
+  // ---- bar chart: fold long tail into "Other" ----
+  const bucketOf = t => ["Online Purchase","Phishing","Employment","Counterfeit Product"].includes(t) ? t : "Other";
+  const counts = {};
+  reports.forEach(r => { const b = bucketOf(r.type); counts[b] = (counts[b]||0) + 1; });
+  const order = ["Online Purchase","Phishing","Employment","Counterfeit Product","Other"];
+  const max = Math.max(...order.map(k => counts[k]||0));
+  const barChart = document.getElementById('barChart');
+  order.forEach(k => {
+    const n = counts[k] || 0;
+    const row = document.createElement('div');
+    row.className = 'bar-row';
+    row.innerHTML = `
+      <div class="bar-label">${k}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${(n/max*100).toFixed(1)}%"></div></div>
+      <div class="bar-count">${n}</div>`;
+    barChart.appendChild(row);
+  });
+
+  // ---- table + filter ----
+  const fmtAmt = n => n > 0 ? ('$' + n.toLocaleString('en-US', {minimumFractionDigits: n % 1 !== 0 ? 2 : 0, maximumFractionDigits: 2})) : '$0';
+  const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString('en-US', {month:'short', day:'numeric'});
+  const tbody = document.getElementById('reportBody');
+  reports.forEach(r => {
+    const tr = document.createElement('tr');
+    tr.dataset.type = r.type;
+    tr.innerHTML = `
+      <td class="date">${fmtDate(r.date)}</td>
+      <td class="type">${r.type}</td>
+      <td>${r.city}</td>
+      <td class="num">${fmtAmt(r.amt)}</td>
+      <td>${r.biz}</td>
+      <td class="desc">${r.desc}</td>`;
+    tbody.appendChild(tr);
+  });
+
+  const typeFilter = document.getElementById('typeFilter');
+  const types = ["All", ...Array.from(new Set(reports.map(r => r.type))).sort()];
+  types.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    typeFilter.appendChild(opt);
+  });
+  typeFilter.addEventListener('change', () => {
+    const v = typeFilter.value;
+    tbody.querySelectorAll('tr').forEach(tr => {
+      tr.classList.toggle('hidden-row', v !== 'All' && tr.dataset.type !== v);
+    });
+  });
+</script>
+
+</body>
+</html>
