@@ -1,0 +1,61 @@
+name: Fetch Central Illinois Scam News
+
+on:
+  schedule:
+    # 10:30 UTC = 5:30am Central (CDT) — 30 min before the dashboard refresh task runs
+    - cron: '30 10 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Query GNews for each city + Central Illinois
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: |
+          set -e
+          FROM=$(date -u -d '-36 hours' +'%Y-%m-%dT%H:%M:%SZ')
+          QUERIES=(
+            "Peoria, IL"
+            "Springfield, IL"
+            "Champaign, IL"
+            "Urbana, IL"
+            "Bloomington, IL"
+            "Normal, IL"
+            "Decatur, IL"
+            "Pekin, IL"
+            "Galesburg, IL"
+            "Danville, IL"
+            "Central Illinois"
+          )
+          mkdir -p tmp_results
+          i=0
+          for LOC in "${QUERIES[@]}"; do
+            i=$((i+1))
+            Q="scam AND \"$LOC\""
+            ENC_Q=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$Q")
+            curl -s "https://gnews.io/api/v4/search?q=${ENC_Q}&lang=en&country=us&sortby=publishedAt&from=${FROM}&max=10&token=${GNEWS_API_KEY}" \
+              | jq '[.articles[]? | {headline: .title, source: .source.name, publishedAt: .publishedAt, url: .url, summary: .description}]' \
+              > "tmp_results/${i}.json" || echo "[]" > "tmp_results/${i}.json"
+            sleep 1
+          done
+          jq -s 'add | unique_by(.url) | sort_by(.publishedAt) | reverse' tmp_results/*.json > news.json
+          rm -rf tmp_results
+          echo "Collected $(jq 'length' news.json) unique articles"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GNews Bot"
+          git config user.email "actions@github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No changes to news.json"
+          else
+            git commit -m "Refresh local scam news: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
