@@ -230,6 +230,53 @@
   td.desc { color: var(--x1-dark); opacity: 0.8; max-width: 320px; }
   tr.hidden-row { display: none; }
 
+  .trend-summary {
+    font-family: var(--font-body);
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--x1-dark);
+    margin-bottom: 16px;
+  }
+  .trend-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+  .trend-item {
+    border-left: 3px solid var(--x1-cyan);
+    padding: 4px 0 4px 14px;
+  }
+  .trend-item .trend-cat {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--x1-navy);
+  }
+  .trend-item .trend-desc {
+    font-family: var(--font-body);
+    font-size: 13.5px;
+    color: var(--x1-dark);
+    opacity: 0.85;
+    line-height: 1.6;
+  }
+  .cite-link {
+    display: inline-block;
+    font-family: var(--font-body);
+    font-size: 10.5px;
+    font-weight: 700;
+    color: var(--x1-navy);
+    background: rgba(0, 188, 212, 0.12);
+    border-radius: 3px;
+    padding: 0 4px;
+    margin-left: 2px;
+    text-decoration: none;
+    vertical-align: super;
+  }
+  .cite-link:hover { background: rgba(0, 188, 212, 0.25); }
+  .trend-disclaimer {
+    font-family: var(--font-body);
+    font-size: 11px;
+    color: var(--x1-mid-blue);
+    font-style: italic;
+    margin-top: 14px;
+  }
+
   .news-list { display: flex; flex-direction: column; gap: 12px; }
   .news-item {
     display: block;
@@ -331,6 +378,49 @@
     <h2>Reports by Scam Type</h2>
     <p class="section-sub">Sample of 30 most recent Illinois reports, grouped into 5 buckets (smaller categories folded into "Other")</p>
     <div id="barChart"></div>
+  </section>
+
+  <section class="card-white">
+    <h2>Central Illinois Scam Trends</h2>
+    <p class="section-sub">A daily synthesized roundup of what's actively being reported across the region, with sources cited inline</p>
+    <div id="trendsContent">
+      <p class="trend-summary">Recent active scams circulating across Central Illinois center on fake local service providers, law enforcement impersonation calls, and government-themed phishing. Con artists consistently use urgency and spoofed official identities to pressure residents into fast payment.
+        <a class="cite-link" href="https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://www.wcia.com/news/champaign-county/champaign-police-sheriffs-office-warn-of-impersonation-scam/" target="_blank" rel="noopener">2</a><a class="cite-link" href="https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/" target="_blank" rel="noopener">3</a><a class="cite-link" href="https://www.wcia.com/news/state-news/state-police-warn-of-texting-scam-targeting-illinois-drivers/" target="_blank" rel="noopener">4</a>
+      </p>
+      <ul class="trend-list">
+        <li class="trend-item">
+          <div class="trend-cat">Fake Garage Door &amp; Repair Services</div>
+          <div class="trend-desc">Scammers manipulate search results to mimic real local repair companies, then show up in unmarked trucks and drastically overcharge for minor work, one case turned a $700 quote into a $2,200 bill.
+            <a class="cite-link" href="https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/" target="_blank" rel="noopener">1</a>
+          </div>
+        </li>
+        <li class="trend-item">
+          <div class="trend-cat">Law Enforcement Impersonation</div>
+          <div class="trend-desc">Callers pose as Champaign County sheriff's deputies or Pretrial Services staff, claim there's an active warrant, and demand immediate cash or digital payment to avoid arrest. Active enough that five separate outlets ran warnings on it in one week.
+            <a class="cite-link" href="https://www.wcia.com/news/champaign-county/champaign-police-sheriffs-office-warn-of-impersonation-scam/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://sjodaily.com/2026/07/30/champaign-county-sheriff-warns-residents-of-phone-scam-impersonating-law-enforcement/" target="_blank" rel="noopener">2</a><a class="cite-link" href="https://countryherald.com/news/champaign-county-il-scam-alert-fake-warrant-calls-reported-this-week/" target="_blank" rel="noopener">3</a>
+          </div>
+        </li>
+        <li class="trend-item">
+          <div class="trend-cat">City &amp; Government Invoices</div>
+          <div class="trend-desc">Fraudsters send fake city invoices and zoning violation notices on convincing letterhead. Pekin police have flagged this twice, and the FBI's IC3 issued a national advisory on officials being impersonated for planning and zoning permits specifically.
+            <a class="cite-link" href="https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://www.ic3.gov/PSA/2026/PSA260309" target="_blank" rel="noopener">2</a>
+          </div>
+        </li>
+        <li class="trend-item">
+          <div class="trend-cat">State/DMV Text Scams</div>
+          <div class="trend-desc">Texts falsely claim outstanding traffic tickets or "vehicular conduct violations," pressuring drivers to click a link or pay immediately to avoid losing their license. The Illinois Secretary of State issued a formal warning about a January enforcement-themed wave of these.
+            <a class="cite-link" href="https://www.wcia.com/news/state-news/state-police-warn-of-texting-scam-targeting-illinois-drivers/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://www.ilsos.gov/news/2026/january-16-2026-giannoulias-warns-about-rise-in-dmv-text-scams-citing-january-1.html" target="_blank" rel="noopener">2</a>
+          </div>
+        </li>
+        <li class="trend-item">
+          <div class="trend-cat">Romance &amp; Package-Delivery Phishing</div>
+          <div class="trend-desc">Ongoing romance schemes and fake delivery texts continue to harvest personal and banking details region-wide, the steadiest, least headline-driven category.
+            <a class="cite-link" href="https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/" target="_blank" rel="noopener">1</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <p class="trend-disclaimer">This is Claude's own synthesis of live web search results, refreshed daily. It is not Google's AI Overview feature, but is built to read the same way: a short summary plus categorized details, each claim linked back to its actual source.</p>
   </section>
 
   <section class="card-white">
