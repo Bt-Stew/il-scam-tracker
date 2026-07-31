@@ -173,11 +173,36 @@ jobs:
           jq -s 'add' gnews_results/*.json newsapi_results/*.json fbi.json > all_raw.json
           python3 <<'PYEOF'
           import json
+          import re
           from datetime import datetime, timezone
           from email.utils import parsedate_to_datetime
 
           with open('all_raw.json') as f:
               items = json.load(f)
+
+          # Hard safety net applied to EVERY source, not just FBI: a provider's own
+          # query filtering can silently fail (seen with NewsAPI.ai returning
+          # globally irrelevant results despite a location keyword being sent), so
+          # nothing reaches news.json unless it independently passes both checks here.
+          SCAM_KEYWORDS = [
+              "scam", "fraud", "phish", "swindle", "impersonat", "extortion",
+              "identity theft", "wire fraud", "con artist", "embezzl", "ponzi",
+              "romance scam", "elder fraud",
+          ]
+          CITIES = [
+              "Peoria", "Springfield", "Champaign", "Urbana", "Bloomington",
+              "Decatur", "Pekin", "Galesburg", "Danville",
+              "LaSalle", "Peru", "Aurora", "Joliet", "Central Illinois",
+          ]
+
+          def matches_scam(text):
+              t = text.lower()
+              return any(k in t for k in SCAM_KEYWORDS)
+
+          def matches_city(text):
+              if re.search(r'\bNormal,?\s+(IL|Illinois)\b', text):
+                  return True
+              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES)
 
           def normalize_date(raw):
               if not raw:
@@ -195,9 +220,14 @@ jobs:
 
           seen = set()
           deduped = []
+          dropped_irrelevant = 0
           for it in items:
               url = it.get('url')
               if not url or url in seen:
+                  continue
+              combined = f"{it.get('headline','')} {it.get('summary','')}"
+              if not (matches_scam(combined) and matches_city(combined)):
+                  dropped_irrelevant += 1
                   continue
               seen.add(url)
               it['publishedAt'] = normalize_date(it.get('publishedAt'))
@@ -208,7 +238,7 @@ jobs:
           with open('news.json', 'w') as f:
               json.dump(deduped, f, indent=2)
 
-          print(f"Merged: {len(deduped)} unique item(s) total")
+          print(f"Merged: {len(deduped)} unique relevant item(s) total, {dropped_irrelevant} dropped as irrelevant")
           PYEOF
           rm -rf gnews_results newsapi_results fbi.json fbi_raw.xml all_raw.json
 
