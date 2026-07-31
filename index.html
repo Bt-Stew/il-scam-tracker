@@ -248,6 +248,15 @@
     font-size: 14px;
     color: var(--x1-navy);
   }
+  .trend-heading {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--x1-navy);
+    margin-top: 18px;
+    margin-bottom: 6px;
+  }
+  .trend-heading:first-child { margin-top: 0; }
   .trend-item .trend-desc {
     font-family: var(--font-body);
     font-size: 13.5px;
@@ -681,13 +690,13 @@
     let html = '';
     data.text_blocks.forEach(block => {
       if (block.type === 'heading') {
-        html += `<div class="trend-cat" style="margin-top:14px;">${block.snippet || ''}</div>`;
+        html += `<div class="trend-heading">${block.snippet || ''}</div>`;
       } else if (block.type === 'paragraph') {
         html += `<p class="trend-summary">${block.snippet || ''}${citeLinks(block.reference_indexes)}</p>`;
       } else if (block.type === 'list' && block.list) {
         html += `<ul class="trend-list">${renderListItems(block.list)}</ul>`;
       } else if (block.type === 'expandable') {
-        html += `<div class="trend-cat" style="margin-top:14px;">${block.title || block.snippet || ''}</div>`;
+        html += `<div class="trend-heading">${block.title || block.snippet || ''}</div>`;
         if (block.list) html += `<ul class="trend-list">${renderListItems(block.list)}</ul>`;
       } else if (block.type === 'table' && Array.isArray(block.table) && block.table.length) {
         html += '<div class="trend-summary">' + block.table.map(row => Array.isArray(row) ? row.join(' — ') : String(row)).join('<br>') + '</div>';
