@@ -230,6 +230,48 @@
   td.desc { color: var(--x1-dark); opacity: 0.8; max-width: 320px; }
   tr.hidden-row { display: none; }
 
+  .news-list { display: flex; flex-direction: column; gap: 12px; }
+  .news-item {
+    display: block;
+    border: 1px solid rgba(20, 68, 135, 0.12);
+    border-left: 3px solid var(--x1-cyan);
+    border-radius: 8px;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.15s ease;
+  }
+  .news-item:hover { background: rgba(0, 188, 212, 0.06); }
+  .news-item .news-headline {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--x1-navy);
+    margin-bottom: 4px;
+  }
+  .news-item .news-meta {
+    font-family: var(--font-body);
+    font-size: 11.5px;
+    font-weight: 700;
+    color: var(--x1-mid-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 6px;
+  }
+  .news-item .news-summary {
+    font-family: var(--font-body);
+    font-size: 13px;
+    color: var(--x1-dark);
+    opacity: 0.85;
+  }
+  .news-empty {
+    font-family: var(--font-body);
+    font-size: 13px;
+    color: var(--x1-mid-blue);
+    font-style: italic;
+    padding: 6px 2px;
+  }
+
   footer.page-foot {
     font-family: var(--font-body);
     font-size: 11.5px;
@@ -292,6 +334,12 @@
   </section>
 
   <section class="card-white">
+    <h2>Local Scam-Related News</h2>
+    <p class="section-sub">Headlines from the last day mentioning "scam" alongside Peoria, Springfield, Champaign, Urbana, Bloomington, Normal, Decatur, Pekin, Galesburg, Danville, or Central Illinois generally (via GNews)</p>
+    <div class="news-list" id="newsList"></div>
+  </section>
+
+  <section class="card-white">
     <h2>Recent Reports</h2>
     <p class="section-sub">Individual reports as filed by consumers — unverified, self-reported, not confirmed instances of fraud</p>
     <div class="table-controls">
@@ -323,6 +371,29 @@
 </div>
 
 <script>
+  // Populated daily from news.json (produced by the "Fetch Central Illinois Scam News"
+  // GitHub Action) — each item: {headline, source, publishedAt, url, summary}
+  const newsItems = [];
+
+  const newsList = document.getElementById('newsList');
+  if (!newsItems.length) {
+    newsList.innerHTML = '<div class="news-empty">No local scam-related headlines in the last day, or the news feed hasn\'t run yet.</div>';
+  } else {
+    const fmtNewsDate = iso => new Date(iso).toLocaleDateString('en-US', {month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
+    newsItems.forEach(n => {
+      const a = document.createElement('a');
+      a.className = 'news-item';
+      a.href = n.url;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.innerHTML = `
+        <div class="news-headline">${n.headline}</div>
+        <div class="news-meta">${n.source}${n.publishedAt ? ' · ' + fmtNewsDate(n.publishedAt) : ''}</div>
+        <div class="news-summary">${n.summary || ''}</div>`;
+      newsList.appendChild(a);
+    });
+  }
+
   const reports = [
     {date:"2026-07-30", type:"Online Purchase", city:"Staunton, IL", amt:40, biz:"Justen Trading Co. Limited", desc:"Seller failed to deliver product after 2-month delay with altered tracking info."},
     {date:"2026-07-30", type:"Phishing", city:"Milan, IL", amt:0, biz:"Wright Kenneth Law Office", desc:"Unsolicited fax sent to workplace with suspicious automated follow-up response."},
