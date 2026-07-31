@@ -354,7 +354,7 @@
     <p>A rolling snapshot of the most recently filed consumer scam reports for Illinois, pulled from the BBB's public Scam Tracker search.</p>
     <div class="meta-row">
       <span>Generated: <b id="genDate">—</b></span>
-      <span>Reports on file for IL: <b>23,246+</b></span>
+      <span>Reports on file for IL: <b>23,254+</b></span>
       <span>Sample shown: <b>30 most recent reports</b></span>
       <span>Refresh: <b>daily</b></span>
     </div>
@@ -364,17 +364,17 @@
     <div class="kpi-card">
       <div class="kpi-label">Reports Sampled</div>
       <div class="kpi-number">30</div>
-      <div class="kpi-sub">Jul 25 – Jul 30, 2026</div>
+      <div class="kpi-sub">Jul 27 – Jul 31, 2026</div>
     </div>
     <div class="kpi-card flag">
       <div class="kpi-label">$ Lost (sample)</div>
-      <div class="kpi-number">$35,075</div>
+      <div class="kpi-number">$33,296</div>
       <div class="kpi-sub">Skewed by one $28,000 report</div>
     </div>
     <div class="kpi-card">
       <div class="kpi-label">Most Common Type</div>
       <div class="kpi-number" style="font-size:22px;">Online Purchase</div>
-      <div class="kpi-sub">9 of 30 reports (30%)</div>
+      <div class="kpi-sub">11 of 30 reports (37%)</div>
     </div>
     <div class="kpi-card flag">
       <div class="kpi-label">Costliest Report</div>
@@ -707,6 +707,12 @@
   renderAIOverview(aiOverviewData);
 
   const reports = [
+    {date:"2026-07-31", type:"Counterfeit Product", city:"Granite City, IL", amt:42.98, biz:"Niki New York", desc:"Toy decoration didn't match photos in size or quality; seller offered discounts, then demanded $30 return shipping to a China warehouse."},
+    {date:"2026-07-30", type:"Romance", city:"Riverton, IL", amt:200, biz:"Flip", desc:"Dating app match posed as a military staff sergeant and requested cryptocurrency; led to a flagged $2,950 unauthorized transfer."},
+    {date:"2026-07-30", type:"Employment", city:"Tinley Park, IL", amt:0, biz:"Theravion Oncology", desc:"Fake job offer led to depositing a fraudulent $650 check via mobile banking and sending screenshots to a Telegram contact; bank flagged it and restricted the account."},
+    {date:"2026-07-30", type:"Online Purchase", city:"Savanna, IL", amt:49.96, biz:"Danour Inc", desc:"Ordered 12 pairs of pants with no way to contact the seller about non-delivery."},
+    {date:"2026-07-30", type:"Online Purchase", city:"Springfield, IL", amt:90, biz:"Freshlysmile.com", desc:"Item never arrived; seller only reachable by email and never resolved the order."},
+    {date:"2026-07-30", type:"Online Purchase", city:"Chicago, IL", amt:0, biz:"Pulse Performance Products", desc:"Rep demanded credit card info for a replacement-parts request and became hostile when questioned."},
     {date:"2026-07-30", type:"Online Purchase", city:"Staunton, IL", amt:40, biz:"Justen Trading Co. Limited", desc:"Seller failed to deliver product after 2-month delay with altered tracking info."},
     {date:"2026-07-30", type:"Phishing", city:"Milan, IL", amt:0, biz:"Wright Kenneth Law Office", desc:"Unsolicited fax sent to workplace with suspicious automated follow-up response."},
     {date:"2026-07-30", type:"Online Purchase", city:"Goodfield, IL", amt:25, biz:"Cimamc", desc:"Ordered dresses never arrived; seller refused full refund despite multiple requests."},
@@ -730,13 +736,7 @@
     {date:"2026-07-27", type:"Online Purchase", city:"Chicago Heights, IL", amt:108, biz:"Vanta Commerce LLC", desc:"Ordered portable AC unit but received desktop fan instead."},
     {date:"2026-07-27", type:"Online Purchase", city:"Bloomington, IL", amt:25, biz:"Ilonaria", desc:"Company claimed delivery twice but items never arrived and refused refunds."},
     {date:"2026-07-27", type:"Phishing", city:"Springfield, IL", amt:0, biz:"Cracker Barrel (impersonator)", desc:"Fraudulent message requested payment via alternate card."},
-    {date:"2026-07-27", type:"Sweepstakes/Lottery", city:"Zion, IL", amt:28000, biz:"Publishers Clearing House (impostor)", desc:"Prize scam involving promised $50 million and vehicle over multiple payments."},
-    {date:"2026-07-27", type:"Phishing", city:"Kewanee, IL", amt:163.20, biz:"Microsoft (impostor)", desc:"Fake Microsoft site withdrew recurring charges since October 2025."},
-    {date:"2026-07-26", type:"Online Purchase", city:"Mount Vernon, IL", amt:17.98, biz:"—", desc:"Purchase issue documented in screenshot."},
-    {date:"2026-07-26", type:"Other", city:"Frankfort, IL", amt:10, biz:"Pest Free Home", desc:"Unwanted recurring shipments with no cancellation option."},
-    {date:"2026-07-26", type:"Employment", city:"Plainfield, IL", amt:1551, biz:"DC Medical Joint Research Center (DMJRC)", desc:"Job offer scam involving fake check and wire transfer requests."},
-    {date:"2026-07-26", type:"Debt Collections", city:"Oak Forest, IL", amt:0, biz:"Element Solution / Bryan Flemming", desc:"Unrecognized debt collection claim with questionable documentation."},
-    {date:"2026-07-25", type:"Charity/Phishing", city:"Glen Ellyn, IL", amt:420, biz:"Rising Phoenix LLC", desc:"Door-to-door donation request for job-seeking resources."}
+    {date:"2026-07-27", type:"Sweepstakes/Lottery", city:"Zion, IL", amt:28000, biz:"Publishers Clearing House (impostor)", desc:"Prize scam involving promised $50 million and vehicle over multiple payments."}
   ];
 
   // ---- generated date ----
