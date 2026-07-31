@@ -228,7 +228,36 @@
   td.date { white-space: nowrap; color: var(--x1-mid-blue); font-weight: 700; }
   td.type { white-space: nowrap; font-weight: 700; }
   td.desc { color: var(--x1-dark); opacity: 0.8; max-width: 320px; }
-  tr.hidden-row { display: none; }
+
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-top: 18px;
+    flex-wrap: wrap;
+    font-family: var(--font-body);
+  }
+  .pagination button {
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1.5px solid var(--x1-navy);
+    background: var(--x1-white);
+    color: var(--x1-navy);
+    cursor: pointer;
+  }
+  .pagination button:hover:not(:disabled) { background: rgba(0, 188, 212, 0.12); }
+  .pagination button:disabled { opacity: 0.35; cursor: not-allowed; }
+  .pagination button.active-page { background: var(--x1-navy); color: var(--x1-white); border-color: var(--x1-navy); }
+  .result-count {
+    font-family: var(--font-body);
+    font-size: 12.5px;
+    color: var(--x1-mid-blue);
+    margin-left: auto;
+  }
 
   .trend-summary {
     font-family: var(--font-body);
@@ -355,7 +384,7 @@
     <div class="meta-row">
       <span>Generated: <b id="genDate">—</b></span>
       <span>Reports on file for IL: <b>23,254+</b></span>
-      <span>Sample shown: <b>30 most recent reports</b></span>
+      <span>Sample shown: <b>100 most recent reports</b></span>
       <span>Refresh: <b>daily</b></span>
     </div>
   </header>
@@ -363,18 +392,18 @@
   <div class="kpi-row">
     <div class="kpi-card">
       <div class="kpi-label">Reports Sampled</div>
-      <div class="kpi-number">30</div>
-      <div class="kpi-sub">Jul 27 – Jul 31, 2026</div>
+      <div class="kpi-number">100</div>
+      <div class="kpi-sub">Jul 20 – Jul 31, 2026</div>
     </div>
     <div class="kpi-card flag">
       <div class="kpi-label">$ Lost (sample)</div>
-      <div class="kpi-number">$33,296</div>
+      <div class="kpi-number">$59,841</div>
       <div class="kpi-sub">Skewed by one $28,000 report</div>
     </div>
     <div class="kpi-card">
       <div class="kpi-label">Most Common Type</div>
       <div class="kpi-number" style="font-size:22px;">Online Purchase</div>
-      <div class="kpi-sub">11 of 30 reports (37%)</div>
+      <div class="kpi-sub">36 of 100 reports (36%)</div>
     </div>
     <div class="kpi-card flag">
       <div class="kpi-label">Costliest Report</div>
@@ -385,7 +414,7 @@
 
   <section class="card-white">
     <h2>Reports by Scam Type</h2>
-    <p class="section-sub">Sample of 30 most recent Illinois reports, grouped into 5 buckets (smaller categories folded into "Other")</p>
+    <p class="section-sub">Sample of 100 most recent Illinois reports, grouped into 5 buckets (smaller categories folded into "Other")</p>
     <div id="barChart"></div>
   </section>
 
@@ -408,6 +437,7 @@
     <div class="table-controls">
       <label for="typeFilter">Filter by type:</label>
       <select id="typeFilter"></select>
+      <span class="result-count" id="resultCount"></span>
     </div>
     <table>
       <thead>
@@ -422,12 +452,13 @@
       </thead>
       <tbody id="reportBody"></tbody>
     </table>
+    <div class="pagination" id="pagination"></div>
   </section>
 
   <footer class="page-foot">
     Source: <a href="https://www.bbb.org/scamtracker/lookupscam?q=state_province%3DUSA%7CIL%26from%3D0" target="_blank" rel="noopener">BBB Scam Tracker — Illinois</a>.
     Data is consumer-submitted and unverified by BBB or X1 Marketing; treat dollar figures and business names as reported, not confirmed.
-    This dashboard samples the most recent ~30 reports at time of generation, not the full 23,000+ record history.
+    This dashboard samples the most recent ~100 reports at time of generation (20 per page), not the full 23,000+ record history.
     Rebuilt daily — ask to refresh anytime for the latest snapshot.
   </footer>
 
@@ -736,7 +767,77 @@
     {date:"2026-07-27", type:"Online Purchase", city:"Chicago Heights, IL", amt:108, biz:"Vanta Commerce LLC", desc:"Ordered portable AC unit but received desktop fan instead."},
     {date:"2026-07-27", type:"Online Purchase", city:"Bloomington, IL", amt:25, biz:"Ilonaria", desc:"Company claimed delivery twice but items never arrived and refused refunds."},
     {date:"2026-07-27", type:"Phishing", city:"Springfield, IL", amt:0, biz:"Cracker Barrel (impersonator)", desc:"Fraudulent message requested payment via alternate card."},
-    {date:"2026-07-27", type:"Sweepstakes/Lottery", city:"Zion, IL", amt:28000, biz:"Publishers Clearing House (impostor)", desc:"Prize scam involving promised $50 million and vehicle over multiple payments."}
+    {date:"2026-07-27", type:"Sweepstakes/Lottery", city:"Zion, IL", amt:28000, biz:"Publishers Clearing House (impostor)", desc:"Prize scam involving promised $50 million and vehicle over multiple payments."},
+    {date:"2026-07-27", type:"Phishing", city:"Kewanee, IL", amt:163.2, biz:"Microsoft (impostor)", desc:"Fake Microsoft site withdrew recurring charges since October 2025."},
+    {date:"2026-07-26", type:"Online Purchase", city:"Mount Vernon, IL", amt:17.98, biz:"—", desc:"Purchase issue documented in screenshot."},
+    {date:"2026-07-26", type:"Other", city:"Frankfort, IL", amt:10, biz:"Pest Free Home", desc:"Unwanted recurring shipments with no cancellation option."},
+    {date:"2026-07-26", type:"Employment", city:"Plainfield, IL", amt:1551, biz:"DC Medical Joint Research Center (DMJRC)", desc:"Job offer scam involving fake check and wire transfer requests."},
+    {date:"2026-07-26", type:"Debt Collections", city:"Oak Forest, IL", amt:0, biz:"Element Solution / Bryan Flemming", desc:"Unrecognized debt collection claim with questionable documentation."},
+    {date:"2026-07-25", type:"Charity/Phishing", city:"Glen Ellyn, IL", amt:420, biz:"Rising Phoenix LLC", desc:"Door-to-door donation request for job-seeking resources."},
+    {date:"2026-07-25", type:"Phishing", city:"Rockford, IL", amt:10000, biz:"Jason Lahkon Law Office", desc:"Scammer posed as a law office over a fake inheritance letter, then demanded thousands more in processing fees after the victim wired $10,000."},
+    {date:"2026-07-25", type:"Employment", city:"Elburn, IL", amt:0, biz:"Streamline Inc.", desc:"A fake mystery-shopper job sent a fraudulent $1,793.62 cashier's check and told the victim to buy Foot Locker gift cards and email the codes."},
+    {date:"2026-07-25", type:"Online Purchase", city:"Marseilles, IL", amt:700, biz:"Ford F-100 Genuine Inventories", desc:"Seller on Facebook Marketplace took Cash App payment for classic truck parts, demanded an extra $300 for insurance, then disappeared."},
+    {date:"2026-07-25", type:"Employment", city:"Belleville, IL", amt:0, biz:"Zeus Thermal, Inc.", desc:"Fake Data Analyst job offer asked for a $500 equipment deposit and had the victim try to open a new bank account before all contact was deleted."},
+    {date:"2026-07-25", type:"Online Purchase", city:"Lovington, IL", amt:150, biz:"Free bird shaver", desc:"An online shaver seller kept repeatedly charging the victim's credit card despite no subscription and multiple requests to stop."},
+    {date:"2026-07-24", type:"Online Purchase", city:"Clarendon Hills, IL", amt:49.9, biz:"Syniapsebio", desc:"Victim paid for ambience lighting online but never received the order."},
+    {date:"2026-07-24", type:"Online Purchase", city:"Chicago, IL", amt:17.94, biz:"Sp pawnexa", desc:"An in-game ad promoted vision-assistance smart glasses that turned out to be a scam product."},
+    {date:"2026-07-24", type:"Other", city:"Mundelein, IL", amt:0, biz:"Ricky Lewis", desc:"Victim received repeated robocall voicemails soliciting a personal loan application from suspicious phone numbers."},
+    {date:"2026-07-24", type:"Charity/Phishing", city:"Aurora, IL", amt:1860, biz:"Catholic Charities/USCIS/DHS", desc:"Scammer posed as an immigration attorney and government agencies, collected $1,860 for a fake case, then staged a phony court hearing to demand $7,000 more."},
+    {date:"2026-07-24", type:"Online Purchase", city:"Glen Ellyn, IL", amt:64.95, biz:"The Bellemont Sisters", desc:"A dress ordered from a seemingly US-based website arrived poorly made and shipped from Asia, with only a 10% refund offered."},
+    {date:"2026-07-24", type:"Online Purchase", city:"Huntley, IL", amt:216, biz:"STACEES", desc:"Customer received poor quality merchandise and was refused a full refund, with the company suggesting return shipping to China would cost more than the purchase."},
+    {date:"2026-07-24", type:"Phishing", city:"Westmont, IL", amt:0, biz:"—", desc:"Victim received a scam voicemail claiming multiple prior contact attempts about a legal matter and a certified letter, demanding a callback to a suspicious number."},
+    {date:"2026-07-24", type:"Online Purchase", city:"Carbondale, IL", amt:87, biz:"BREEZE", desc:"Three shirts arrived in poor quality and the seller blocked return attempts by leaving the phone unavailable and the email non-functional."},
+    {date:"2026-07-24", type:"Phishing", city:"Chicago, IL", amt:945.89, biz:"PayPal (impersonator)", desc:"Victim received phishing emails and texts impersonating PayPal from an unrelated sender."},
+    {date:"2026-07-24", type:"Online Purchase", city:"Springfield, IL", amt:15.68, biz:"Furvista.com", desc:"A Facebook ad for cheap items redirected to an unauthorized payment processor, leading to unauthorized charges totaling $146.68 across several transactions."},
+    {date:"2026-07-23", type:"Online Purchase", city:"Lake Forest, IL", amt:0, biz:"Walgreen Pharm", desc:"A fake website impersonating Walgreens offered prescription medications without the normal legitimate requirements."},
+    {date:"2026-07-23", type:"Counterfeit Product", city:"Breese, IL", amt:109, biz:"Tom's Flag Shop", desc:"An American flag advertised as hand-carved by veterans turned out to be a cardboard flag with a stamped design shipped from China."},
+    {date:"2026-07-23", type:"Counterfeit Product", city:"Champaign, IL", amt:240, biz:"Berry branded", desc:"Counterfeit designer merchandise fell apart immediately, and the seller ignored complaints made via TikTok and phone."},
+    {date:"2026-07-23", type:"Online Purchase", city:"Chicago, IL", amt:82.88, biz:"Cartivra", desc:"Cat baskets and a brush ordered two weeks earlier never shipped and the merchant did not respond to inquiries."},
+    {date:"2026-07-23", type:"Online Purchase", city:"Chicago, IL", amt:79, biz:"Stan Stores", desc:"Customer was charged for a tool purchase but never received the product or any response from the merchant."},
+    {date:"2026-07-23", type:"Employment", city:"Collinsville, IL", amt:0, biz:"Latchwork Consulting", desc:"A person got a remote data-entry job offer with multiple red flags and could not verify the company was real."},
+    {date:"2026-07-23", type:"Counterfeit Product", city:"South Elgin, IL", amt:39.87, biz:"Dallas Zabran", desc:"A denture order didn't match what was advertised, and the seller ignored return requests and went unreachable."},
+    {date:"2026-07-23", type:"Debt Collections", city:"Mundelein, IL", amt:0, biz:"Allison Rebbinek ARC", desc:"A caller claimed the victim owed thousands on a loan, threatened to hurt their credit, cited a fake case number, and called back from a different number."},
+    {date:"2026-07-23", type:"Online Purchase", city:"Batavia, IL", amt:36.94, biz:"Try Strawberry", desc:"A customer was auto-enrolled in a subscription, charged extra fees to cancel, and was billed again anyway."},
+    {date:"2026-07-23", type:"Phishing", city:"Decatur, IL", amt:0, biz:"—", desc:"A caller posing as a tax agency claimed the victim had unresolved balances and filing issues and left a callback number."},
+    {date:"2026-07-23", type:"Online Purchase", city:"Evergreen Park, IL", amt:3.99, biz:"Kors", desc:"An Instagram seller offered free clothing for a shipping fee, asked for proof of payment, sent a fake tracking number, then vanished."},
+    {date:"2026-07-23", type:"Online Purchase", city:"Chicago, IL", amt:170.8, biz:"Cosmic Cell Foods (Instagram)", desc:"An order from March 2025 was never fulfilled, and a granted chargeback was later reversed after the dispute window closed."},
+    {date:"2026-07-23", type:"Retail Business", city:"Caseyville, IL", amt:250, biz:"Omni Creatine", desc:"A subscription auto-renewed with no way to cancel, and customer service was completely unresponsive."},
+    {date:"2026-07-23", type:"Other", city:"Schaumburg, IL", amt:1700, biz:"Horizon Garage Door", desc:"A garage door repair company demanded $1,700 in cash for unrequested work with no estimate, far above the normal market rate."},
+    {date:"2026-07-23", type:"Sweepstakes/Lottery", city:"Urbana, IL", amt:350, biz:"Publishers Clearing House (impostor)", desc:"A scammer impersonating Publishers Clearing House contacted the victim by email and escalated to a video call."},
+    {date:"2026-07-22", type:"Phishing", city:"Morton Grove, IL", amt:0, biz:"County Processors Office", desc:"Victim received a call claiming a judgment had been issued against them and was told to call back and ask for a specific person, a classic scare-tactic phishing attempt."},
+    {date:"2026-07-22", type:"Phishing", city:"Rockford, IL", amt:0, biz:"Premia Relocation Mtg", desc:"Victim got a letter posing as a final notice about their property with a waiver form asking them to call back, likely to harvest personal information."},
+    {date:"2026-07-22", type:"Other", city:"Chebanse, IL", amt:0, biz:"—", desc:"Scammers repeatedly called from multiple spoofed numbers pushing a fraudulent loan application despite the victim being on the do-not-call registry."},
+    {date:"2026-07-22", type:"Other", city:"Bloomington, IL", amt:5428.2, biz:"—", desc:"A scammer obtained power of attorney and used it to fraudulently transfer and sell the victim's stock holdings."},
+    {date:"2026-07-22", type:"Debt Collections", city:"Chicago, IL", amt:0, biz:"—", desc:"Victim received a text message claiming an outstanding health insurance balance needed immediate payment."},
+    {date:"2026-07-22", type:"Other", city:"Mount Prospect, IL", amt:630, biz:"Kingspoint TuckPointing", desc:"A home repair contractor collected a 30% deposit via Zelle for concrete work then vanished with a fake address and disconnected phone number."},
+    {date:"2026-07-22", type:"Phishing", city:"Evanston, IL", amt:0, biz:"—", desc:"Victim received an unordered package with a fake delivery photo, a hallmark of a brushing scam used to post fake reviews."},
+    {date:"2026-07-22", type:"Online Purchase", city:"Stillman Valley, IL", amt:0, biz:"Get Answers", desc:"A tech-help service advertised a $5 refundable fee but tried to charge $70 while the victim was trying to delete an email account; the bank blocked the charge."},
+    {date:"2026-07-22", type:"Other", city:"Calumet City, IL", amt:0, biz:"Air Duct Cleaning & Repairs Calumet City", desc:"A company contacted after a website inquiry gave robotic, evasive responses and had unverifiable business details, raising scam red flags."},
+    {date:"2026-07-22", type:"Online Purchase", city:"Oak Park, IL", amt:0, biz:"Smart Care Solutions", desc:"Victim was promised a healthcare marketplace policy but was instead enrolled in a fake insurance discount program."},
+    {date:"2026-07-21", type:"Phishing", city:"Vernon Hills, IL", amt:60, biz:"Publicrecords.us", desc:"A victim who paid $1 for a Cook County tax search was unknowingly enrolled in a $20/month subscription and only got one month refunded after several unauthorized charges."},
+    {date:"2026-07-21", type:"Identity Theft", city:"Hickory Hills, IL", amt:0, biz:"—", desc:"A victim kept receiving empty packages mailed to their address in a classic brushing scam."},
+    {date:"2026-07-21", type:"Online Purchase", city:"Chicago, IL", amt:24.98, biz:"Cozya Home", desc:"A TikTok Shop ad for cheap couches led to an unexpected charge and a further unauthorized charge at an unrelated store before the seller's site vanished."},
+    {date:"2026-07-21", type:"Phishing", city:"La Grange, IL", amt:0, biz:"privacysolutionsid.com", desc:"A letter about a data breach tried to get the victim to submit their Social Security number and email/password for a fake credit monitoring signup, but they declined."},
+    {date:"2026-07-21", type:"Phishing", city:"Joliet, IL", amt:0, biz:"—", desc:"An AI-voiced caller pushed the victim to a chatbot asking for their phone number and partial Social Security number, but they backed out."},
+    {date:"2026-07-21", type:"Phishing", city:"Round Lake, IL", amt:0, biz:"Chase Bank (impersonator)", desc:"A caller impersonating Chase Bank claimed a fraudulent Zelle transfer occurred and tried to get the victim to log into their account and describe the screen."},
+    {date:"2026-07-21", type:"Phishing", city:"Morton Grove, IL", amt:0, biz:"Universal Tax Mediation", desc:"A robocall claimed an account review found a balance issue and urged the victim to call back about payment reduction options."},
+    {date:"2026-07-21", type:"Online Purchase", city:"Lake Zurich, IL", amt:545, biz:"Harper Wells Boston", desc:"A fake 80%-off pants sale charged the victim despite an immediate cancellation request, with the seller claiming the order could not be stopped."},
+    {date:"2026-07-21", type:"Counterfeit Product", city:"Yorkville, IL", amt:65, biz:"Theoutwalk.com", desc:"A victim ordered what looked like genuine name-brand sneakers online but received a mismatched product and was refused a full refund."},
+    {date:"2026-07-21", type:"Sweepstakes/Lottery", city:"Taylor Ridge, IL", amt:0, biz:"American Cash Awards", desc:"A caller claimed the victim won $2.5 million and a car and just needed a signature to receive delivery, a typical prize-scam setup."},
+    {date:"2026-07-21", type:"Online Purchase", city:"Decatur, IL", amt:40, biz:"Molision Inc", desc:"Customer ordered shirts that were marked delivered but never arrived, and the seller's phone number led only to a private-number message."},
+    {date:"2026-07-21", type:"Other", city:"Chicago, IL", amt:0, biz:"—", desc:"A caller falsely billed Medicare/Medicaid for catheter services and hospital visits the victim says never happened."},
+    {date:"2026-07-21", type:"Identity Theft", city:"Chicago, IL", amt:0, biz:"—", desc:"A website posted the victim's personal and family information without consent and refused removal unless given a profile URL."},
+    {date:"2026-07-20", type:"Online Purchase", city:"Chicago, IL", amt:40, biz:"FunLuluu", desc:"Customer never received building kits ordered from China and got no response to follow-up emails."},
+    {date:"2026-07-20", type:"Online Purchase", city:"Virden, IL", amt:39.99, biz:"Licklo", desc:"Victim ordered a $9.99 dog grooming product but was hit with unauthorized $39.99 charges from a different company."},
+    {date:"2026-07-20", type:"Phishing", city:"East Alton, IL", amt:0, biz:"Document Services", desc:"A phishing call claimed a compliance notice and threatened legal action within days unless the victim responded."},
+    {date:"2026-07-20", type:"Phishing", city:"Park Forest, IL", amt:0, biz:"Civil Process Dispatch", desc:"A voicemail claiming to be from Civil Process Dispatch warned of pending legal documents and a fake case number, demanding a callback."},
+    {date:"2026-07-20", type:"Counterfeit Product", city:"Elmwood, IL", amt:70, biz:"zavrlymax.com", desc:"Victim ordered advertised large anniversary eagle items but received small counterfeit items despite a Made in USA claim."},
+    {date:"2026-07-20", type:"Online Purchase", city:"Wheaton, IL", amt:119.99, biz:"Lamps by Jamal", desc:"A themed lamp preorder made via Facebook never shipped beyond a carrier label, and the seller stopped responding to emails."},
+    {date:"2026-07-20", type:"Phishing", city:"Bartlett, IL", amt:0, biz:"The Mortgage Service Center", desc:"Victim received notifications claiming mortgage issues that weren't clearly identified as coming from their actual bank, so they did not call back."},
+    {date:"2026-07-20", type:"Online Purchase", city:"Lake Bluff, IL", amt:101.97, biz:"upgradeof", desc:"Customer paid for artificial tropical plants that never arrived despite tracking falsely showing delivery, and the seller wouldn't resolve it."},
+    {date:"2026-07-20", type:"Phishing", city:"Rockford, IL", amt:0, biz:"Experian (impersonator)", desc:"A caller posing as Experian tricked the victim into giving up account numbers and personal documents, later leading to over $7,500 in fraudulent invoices from fake companies."},
+    {date:"2026-07-20", type:"Phishing", city:"Mokena, IL", amt:0, biz:"Document Services", desc:"Victim received unwanted phishing-related phone calls at work tied to this organization."},
+    {date:"2026-07-20", type:"Online Purchase", city:"Carmi, IL", amt:48, biz:"sylaza", desc:"Customer ordered an advertised flower arrangement but received a nearly worthless plant instead, and the seller offered only a token refund."}
   ];
 
   // ---- generated date ----
@@ -760,22 +861,72 @@
     barChart.appendChild(row);
   });
 
-  // ---- table + filter ----
+  // ---- table + filter + pagination ----
+  const PAGE_SIZE = 20;
+  let currentPage = 1;
+  let activeType = 'All';
+
   const fmtAmt = n => n > 0 ? ('$' + n.toLocaleString('en-US', {minimumFractionDigits: n % 1 !== 0 ? 2 : 0, maximumFractionDigits: 2})) : '$0';
   const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString('en-US', {month:'short', day:'numeric'});
   const tbody = document.getElementById('reportBody');
-  reports.forEach(r => {
-    const tr = document.createElement('tr');
-    tr.dataset.type = r.type;
-    tr.innerHTML = `
-      <td class="date">${fmtDate(r.date)}</td>
-      <td class="type">${r.type}</td>
-      <td>${r.city}</td>
-      <td class="num">${fmtAmt(r.amt)}</td>
-      <td>${r.biz}</td>
-      <td class="desc">${r.desc}</td>`;
-    tbody.appendChild(tr);
-  });
+  const paginationEl = document.getElementById('pagination');
+  const resultCountEl = document.getElementById('resultCount');
+
+  function filteredReports() {
+    return activeType === 'All' ? reports : reports.filter(r => r.type === activeType);
+  }
+
+  function renderPagination(totalPages) {
+    paginationEl.innerHTML = '';
+    if (totalPages <= 1) return;
+
+    const makeBtn = (label, page, opts = {}) => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.textContent = label;
+      if (opts.active) btn.classList.add('active-page');
+      if (opts.disabled) btn.disabled = true;
+      btn.addEventListener('click', () => {
+        currentPage = page;
+        renderTable();
+        document.querySelector('.table-controls').scrollIntoView({behavior: 'smooth', block: 'start'});
+      });
+      return btn;
+    };
+
+    paginationEl.appendChild(makeBtn('‹ Prev', currentPage - 1, {disabled: currentPage === 1}));
+    for (let p = 1; p <= totalPages; p++) {
+      paginationEl.appendChild(makeBtn(String(p), p, {active: p === currentPage}));
+    }
+    paginationEl.appendChild(makeBtn('Next ›', currentPage + 1, {disabled: currentPage === totalPages}));
+  }
+
+  function renderTable() {
+    const filtered = filteredReports();
+    const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+    currentPage = Math.min(Math.max(currentPage, 1), totalPages);
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const pageItems = filtered.slice(start, start + PAGE_SIZE);
+
+    tbody.innerHTML = '';
+    pageItems.forEach(r => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td class="date">${fmtDate(r.date)}</td>
+        <td class="type">${r.type}</td>
+        <td>${r.city}</td>
+        <td class="num">${fmtAmt(r.amt)}</td>
+        <td>${r.biz}</td>
+        <td class="desc">${r.desc}</td>`;
+      tbody.appendChild(tr);
+    });
+
+    resultCountEl.textContent = filtered.length
+      ? `Showing ${start + 1}–${Math.min(start + PAGE_SIZE, filtered.length)} of ${filtered.length}`
+      : 'No reports match this filter';
+
+    renderPagination(totalPages);
+  }
 
   const typeFilter = document.getElementById('typeFilter');
   const types = ["All", ...Array.from(new Set(reports.map(r => r.type))).sort()];
@@ -785,11 +936,12 @@
     typeFilter.appendChild(opt);
   });
   typeFilter.addEventListener('change', () => {
-    const v = typeFilter.value;
-    tbody.querySelectorAll('tr').forEach(tr => {
-      tr.classList.toggle('hidden-row', v !== 'All' && tr.dataset.type !== v);
-    });
+    activeType = typeFilter.value;
+    currentPage = 1;
+    renderTable();
   });
+
+  renderTable();
 </script>
 
 </body>
