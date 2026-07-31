@@ -43,7 +43,8 @@ jobs:
             i=$((i+1))
             Q="scam AND \"$LOC\""
             ENC_Q=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$Q")
-            curl -s "https://gnews.io/api/v4/search?q=${ENC_Q}&lang=en&country=us&sortby=publishedAt&from=${FROM}&max=10&token=${GNEWS_API_KEY}" \
+            curl -s --connect-timeout 10 --max-time 25 --retry 2 --retry-delay 3 --retry-connrefused \
+              "https://gnews.io/api/v4/search?q=${ENC_Q}&lang=en&country=us&sortby=publishedAt&from=${FROM}&max=10&token=${GNEWS_API_KEY}" \
               | jq '[.articles[]? | {headline: .title, source: .source.name, publishedAt: .publishedAt, url: .url, summary: .description}]' \
               > "gnews_results/${i}.json" || echo "[]" > "gnews_results/${i}.json"
             sleep 1
@@ -77,7 +78,8 @@ jobs:
           i=0
           for LOC in "${QUERIES[@]}"; do
             i=$((i+1))
-            RESP=$(curl -s -G "https://eventregistry.org/api/v1/article/getArticles" \
+            RESP=$(curl -s -G --connect-timeout 10 --max-time 25 --retry 2 --retry-delay 3 --retry-connrefused \
+              "https://eventregistry.org/api/v1/article/getArticles" \
               --data-urlencode "keyword=scam" \
               --data-urlencode "keyword=${LOC}" \
               --data-urlencode "keywordOper=and" \
@@ -87,7 +89,7 @@ jobs:
               --data-urlencode "articlesSortByAsc=false" \
               --data-urlencode "articlesCount=10" \
               --data-urlencode "resultType=articles" \
-              --data-urlencode "apiKey=${NEWSAPI_AI_KEY}")
+              --data-urlencode "apiKey=${NEWSAPI_AI_KEY}") || RESP='{"articles":{"results":[]}}'
             echo "$RESP" | jq '[.articles.results[]? | {
                 headline: .title,
                 source: (.source.title // "NewsAPI.ai"),
@@ -105,7 +107,8 @@ jobs:
       - name: Query FBI Springfield press releases (scam-related, Central Illinois only)
         run: |
           set -e
-          curl -sL -A "Mozilla/5.0 (compatible; X1ScamTrackerBot/1.0; +https://bt-stew.github.io/il-scam-tracker/)" \
+          curl -sL --connect-timeout 10 --max-time 25 --retry 2 --retry-delay 3 --retry-connrefused \
+            -A "Mozilla/5.0 (compatible; X1ScamTrackerBot/1.0; +https://bt-stew.github.io/il-scam-tracker/)" \
             "https://www.fbi.gov/contact-us/field-offices/springfield/news/RSS" \
             -o fbi_raw.xml || echo "<rss><channel></channel></rss>" > fbi_raw.xml
 
