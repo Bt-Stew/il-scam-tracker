@@ -50,6 +50,58 @@ jobs:
           done
           echo "GNews: $(jq -s 'add | length' gnews_results/*.json) raw article(s) across all queries"
 
+      - name: Query NewsAPI.ai (Event Registry) for each city + Central Illinois
+        env:
+          NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
+        run: |
+          set -e
+          FROM_DATE=$(date -u -d '-2 days' +'%Y-%m-%d')
+          QUERIES=(
+            "Peoria"
+            "Springfield"
+            "Champaign"
+            "Urbana"
+            "Bloomington"
+            "Normal"
+            "Decatur"
+            "Pekin"
+            "Galesburg"
+            "Danville"
+            "LaSalle"
+            "Peru"
+            "Aurora"
+            "Joliet"
+            "Central Illinois"
+          )
+          mkdir -p newsapi_results
+          i=0
+          for LOC in "${QUERIES[@]}"; do
+            i=$((i+1))
+            RESP=$(curl -s -G "https://eventregistry.org/api/v1/article/getArticles" \
+              --data-urlencode "keyword=scam" \
+              --data-urlencode "keyword=${LOC}" \
+              --data-urlencode "keywordOper=and" \
+              --data-urlencode "lang=eng" \
+              --data-urlencode "dateStart=${FROM_DATE}" \
+              --data-urlencode "articlesSortBy=date" \
+              --data-urlencode "articlesSortByAsc=false" \
+              --data-urlencode "articlesCount=10" \
+              --data-urlencode "resultType=articles" \
+              --data-urlencode "apiKey=${NEWSAPI_AI_KEY}")
+            echo "$RESP" | jq '[.articles.results[]? | {
+                headline: .title,
+                source: (.source.title // "NewsAPI.ai"),
+                publishedAt: (.dateTimePub // ((.date // "") + "T" + (.time // "00:00:00") + "Z")),
+                url: .url,
+                summary: (.body // "")[0:300]
+              }]' > "newsapi_results/${i}.json" 2>/dev/null || echo "[]" > "newsapi_results/${i}.json"
+            # jq emits `null` (not valid JSON array) on malformed/error responses; guard against that
+            jq -e 'type == "array"' "newsapi_results/${i}.json" >/dev/null 2>&1 || echo "[]" > "newsapi_results/${i}.json"
+            sleep 1
+          done
+          echo "NewsAPI.ai: $(jq -s 'add | length' newsapi_results/*.json) raw article(s) across all queries"
+          echo "NOTE: if this is 0 across the board, check one raw response manually, Event Registry's exact parameter names were not fully verifiable from public docs at build time."
+
       - name: Query FBI Springfield press releases (scam-related, Central Illinois only)
         run: |
           set -e
@@ -118,7 +170,7 @@ jobs:
       - name: Merge sources and normalize dates
         run: |
           set -e
-          jq -s 'add' gnews_results/*.json fbi.json > all_raw.json
+          jq -s 'add' gnews_results/*.json newsapi_results/*.json fbi.json > all_raw.json
           python3 <<'PYEOF'
           import json
           from datetime import datetime, timezone
@@ -158,7 +210,7 @@ jobs:
 
           print(f"Merged: {len(deduped)} unique item(s) total")
           PYEOF
-          rm -rf gnews_results fbi.json fbi_raw.xml all_raw.json
+          rm -rf gnews_results newsapi_results fbi.json fbi_raw.xml all_raw.json
 
       - name: Commit and push if changed
         run: |
@@ -168,6 +220,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to news.json"
           else
-            git commit -m "Refresh local scam news (GNews + FBI Springfield): $(date -u +'%Y-%m-%d')"
+            git commit -m "Refresh local scam news (GNews + NewsAPI.ai + FBI Springfield): $(date -u +'%Y-%m-%d')"
             git push
           fi
