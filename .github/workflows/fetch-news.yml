@@ -245,14 +245,76 @@ jobs:
           PYEOF
           rm -rf gnews_results newsapi_results fbi.json fbi_raw.xml all_raw.json
 
+      - name: Query SerpApi for Central Illinois Scams AI Overview
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: |
+          set -e
+          python3 <<'PYEOF'
+          import json
+          import os
+          import time
+          import urllib.parse
+          import urllib.request
+          import urllib.error
+
+          API_KEY = os.environ['SERPAPI_KEY']
+          QUERY = "Central Illinois Scams"
+
+          def fetch(params, timeout=25):
+              url = "https://serpapi.com/search.json?" + urllib.parse.urlencode(params)
+              req = urllib.request.Request(url, headers={"User-Agent": "X1ScamTracker/1.0"})
+              with urllib.request.urlopen(req, timeout=timeout) as resp:
+                  return json.loads(resp.read().decode())
+
+          result = {"generated": False, "query": QUERY, "text_blocks": [], "references": []}
+
+          try:
+              data = fetch({"engine": "google", "q": QUERY, "hl": "en", "gl": "us", "api_key": API_KEY})
+              if data.get("error"):
+                  print(f"SerpApi returned an error on initial search: {data['error']}")
+              ai = data.get("ai_overview", {}) or {}
+
+              # Google doesn't always inline the full AI Overview in the first
+              # response. If not, SerpApi hands back a page_token (valid ~1 min)
+              # that must be exchanged immediately via the dedicated
+              # google_ai_overview engine to get the actual text_blocks/references.
+              if not ai.get("text_blocks") and ai.get("page_token"):
+                  time.sleep(1)
+                  try:
+                      data2 = fetch({"engine": "google_ai_overview", "page_token": ai["page_token"], "api_key": API_KEY})
+                      if data2.get("error"):
+                          print(f"SerpApi returned an error on page_token follow-up: {data2['error']}")
+                      ai = data2.get("ai_overview", ai) or ai
+                  except (urllib.error.URLError, TimeoutError) as e:
+                      print(f"SerpApi page_token follow-up request failed: {e}")
+
+              text_blocks = ai.get("text_blocks") or []
+              references = ai.get("references") or []
+
+              if text_blocks:
+                  result["generated"] = True
+                  result["text_blocks"] = text_blocks
+                  result["references"] = references
+              else:
+                  print("No AI Overview text_blocks were returned for this query today; leaving ai_overview.json empty/unset so the dashboard falls back gracefully.")
+          except Exception as e:
+              print(f"SerpApi AI Overview fetch failed: {e}")
+
+          with open('ai_overview.json', 'w') as f:
+              json.dump(result, f, indent=2)
+
+          print(f"AI Overview: generated={result['generated']}, {len(result['text_blocks'])} block(s), {len(result['references'])} reference(s)")
+          PYEOF
+
       - name: Commit and push if changed
         run: |
           git config user.name "GNews Bot"
           git config user.email "actions@github.com"
-          git add news.json
+          git add news.json ai_overview.json
           if git diff --cached --quiet; then
-            echo "No changes to news.json"
+            echo "No changes to news.json or ai_overview.json"
           else
-            git commit -m "Refresh local scam news (GNews + NewsAPI.ai + FBI Springfield): $(date -u +'%Y-%m-%d')"
+            git commit -m "Refresh local scam news + AI Overview (GNews + NewsAPI.ai + FBI Springfield + SerpApi): $(date -u +'%Y-%m-%d')"
             git push
           fi

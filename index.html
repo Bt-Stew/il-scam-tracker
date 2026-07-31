@@ -382,45 +382,9 @@
 
   <section class="card-white">
     <h2>Central Illinois Scam Trends</h2>
-    <p class="section-sub">A daily synthesized roundup of what's actively being reported across the region, with sources cited inline</p>
-    <div id="trendsContent">
-      <p class="trend-summary">Recent active scams circulating across Central Illinois center on fake local service providers, law enforcement impersonation calls, and government-themed phishing. Con artists consistently use urgency and spoofed official identities to pressure residents into fast payment.
-        <a class="cite-link" href="https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://www.wcia.com/news/champaign-county/champaign-police-sheriffs-office-warn-of-impersonation-scam/" target="_blank" rel="noopener">2</a><a class="cite-link" href="https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/" target="_blank" rel="noopener">3</a><a class="cite-link" href="https://www.wcia.com/news/state-news/state-police-warn-of-texting-scam-targeting-illinois-drivers/" target="_blank" rel="noopener">4</a>
-      </p>
-      <ul class="trend-list">
-        <li class="trend-item">
-          <div class="trend-cat">Fake Garage Door &amp; Repair Services</div>
-          <div class="trend-desc">Scammers manipulate search results to mimic real local repair companies, then show up in unmarked trucks and drastically overcharge for minor work, one case turned a $700 quote into a $2,200 bill.
-            <a class="cite-link" href="https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/" target="_blank" rel="noopener">1</a>
-          </div>
-        </li>
-        <li class="trend-item">
-          <div class="trend-cat">Law Enforcement Impersonation</div>
-          <div class="trend-desc">Callers pose as Champaign County sheriff's deputies or Pretrial Services staff, claim there's an active warrant, and demand immediate cash or digital payment to avoid arrest. Active enough that five separate outlets ran warnings on it in one week.
-            <a class="cite-link" href="https://www.wcia.com/news/champaign-county/champaign-police-sheriffs-office-warn-of-impersonation-scam/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://sjodaily.com/2026/07/30/champaign-county-sheriff-warns-residents-of-phone-scam-impersonating-law-enforcement/" target="_blank" rel="noopener">2</a><a class="cite-link" href="https://countryherald.com/news/champaign-county-il-scam-alert-fake-warrant-calls-reported-this-week/" target="_blank" rel="noopener">3</a>
-          </div>
-        </li>
-        <li class="trend-item">
-          <div class="trend-cat">City &amp; Government Invoices</div>
-          <div class="trend-desc">Fraudsters send fake city invoices and zoning violation notices on convincing letterhead. Pekin police have flagged this twice, and the FBI's IC3 issued a national advisory on officials being impersonated for planning and zoning permits specifically.
-            <a class="cite-link" href="https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://www.ic3.gov/PSA/2026/PSA260309" target="_blank" rel="noopener">2</a>
-          </div>
-        </li>
-        <li class="trend-item">
-          <div class="trend-cat">State/DMV Text Scams</div>
-          <div class="trend-desc">Texts falsely claim outstanding traffic tickets or "vehicular conduct violations," pressuring drivers to click a link or pay immediately to avoid losing their license. The Illinois Secretary of State issued a formal warning about a January enforcement-themed wave of these.
-            <a class="cite-link" href="https://www.wcia.com/news/state-news/state-police-warn-of-texting-scam-targeting-illinois-drivers/" target="_blank" rel="noopener">1</a><a class="cite-link" href="https://www.ilsos.gov/news/2026/january-16-2026-giannoulias-warns-about-rise-in-dmv-text-scams-citing-january-1.html" target="_blank" rel="noopener">2</a>
-          </div>
-        </li>
-        <li class="trend-item">
-          <div class="trend-cat">Romance &amp; Package-Delivery Phishing</div>
-          <div class="trend-desc">Ongoing romance schemes and fake delivery texts continue to harvest personal and banking details region-wide, the steadiest, least headline-driven category.
-            <a class="cite-link" href="https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/" target="_blank" rel="noopener">1</a>
-          </div>
-        </li>
-      </ul>
-    </div>
-    <p class="trend-disclaimer">This is Claude's own synthesis of live web search results, refreshed daily. It is not Google's AI Overview feature, but is built to read the same way: a short summary plus categorized details, each claim linked back to its actual source.</p>
+    <p class="section-sub">Google's own AI Overview for "Central Illinois Scams," pulled fresh daily via SerpApi, with Google's own cited sources linked inline</p>
+    <div id="trendsContent"></div>
+    <p class="trend-disclaimer">This is Google's real AI Overview result for the search "Central Illinois Scams," fetched daily through SerpApi. The numbered citations link to Google's own cited sources, not ours.</p>
   </section>
 
   <section class="card-white">
@@ -483,6 +447,55 @@
       newsList.appendChild(a);
     });
   }
+
+  // Populated daily from ai_overview.json (produced by the "Fetch Central
+  // Illinois Scam News" GitHub Action's SerpApi step). Shape:
+  // {generated, query, text_blocks:[{type, snippet, reference_indexes, list, table, title}], references:[{index, title, link, snippet, source}]}
+  const aiOverviewData = { generated: false, query: "", text_blocks: [], references: [] };
+
+  function renderAIOverview(data) {
+    const el = document.getElementById('trendsContent');
+    if (!data || !data.generated || !data.text_blocks || !data.text_blocks.length) {
+      el.innerHTML = '<p class="trend-summary">No AI Overview available yet for today, or the feed hasn\'t run. Check back soon.</p>';
+      return;
+    }
+    const refs = data.references || [];
+    const citeLinks = idxs => (idxs || []).map(i => {
+      const r = refs.find(x => x.index === i) ?? refs[i];
+      if (!r || !r.link) return '';
+      return `<a class="cite-link" href="${r.link}" target="_blank" rel="noopener">${i + 1}</a>`;
+    }).join('');
+
+    const renderListItems = items => items.map(item => {
+      let out = `<li class="trend-item"><div class="trend-cat">${item.title || ''}</div>`;
+      if (item.snippet) {
+        out += `<div class="trend-desc">${item.snippet}${citeLinks(item.reference_indexes)}</div>`;
+      }
+      if (item.list && item.list.length) {
+        out += `<ul class="trend-list" style="margin-top:8px;">${renderListItems(item.list)}</ul>`;
+      }
+      out += '</li>';
+      return out;
+    }).join('');
+
+    let html = '';
+    data.text_blocks.forEach(block => {
+      if (block.type === 'heading') {
+        html += `<div class="trend-cat" style="margin-top:14px;">${block.snippet || ''}</div>`;
+      } else if (block.type === 'paragraph') {
+        html += `<p class="trend-summary">${block.snippet || ''}${citeLinks(block.reference_indexes)}</p>`;
+      } else if (block.type === 'list' && block.list) {
+        html += `<ul class="trend-list">${renderListItems(block.list)}</ul>`;
+      } else if (block.type === 'expandable') {
+        html += `<div class="trend-cat" style="margin-top:14px;">${block.title || block.snippet || ''}</div>`;
+        if (block.list) html += `<ul class="trend-list">${renderListItems(block.list)}</ul>`;
+      } else if (block.type === 'table' && Array.isArray(block.table) && block.table.length) {
+        html += '<div class="trend-summary">' + block.table.map(row => Array.isArray(row) ? row.join(' — ') : String(row)).join('<br>') + '</div>';
+      }
+    });
+    el.innerHTML = html || '<p class="trend-summary">No AI Overview available yet for today, or the feed hasn\'t run. Check back soon.</p>';
+  }
+  renderAIOverview(aiOverviewData);
 
   const reports = [
     {date:"2026-07-30", type:"Online Purchase", city:"Staunton, IL", amt:40, biz:"Justen Trading Co. Limited", desc:"Seller failed to deliver product after 2-month delay with altered tracking info."},
