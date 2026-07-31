@@ -4,198 +4,175 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Active scams targeting Central Illinois include fake local service listings, government and municipal impersonations, and fraudulent text message alerts.",
-      "snippet_highlighted_words": [
-        "fake local service listings, government and municipal impersonations, and fraudulent text message alerts"
-      ],
-      "reference_indexes": [
-        1,
-        8,
-        6,
-        4
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "Local Service & Contractor Scams"
-    },
-    {
-      "type": "list",
-      "list": [
+      "snippet": "Central Illinois residents are frequently targeted by active local scams including fake local business impersonations, deceptive government text messages, and fraudulent utility or city notices.",
+      "snippet_links": [
         {
-          "snippet": "Fake Garage Door Repair: Con artists set up fake online listings or spoof trusted local business names, showing up in unmarked vehicles to drastically inflate repair bills (turning a $700 job into a $2,200 charge). <Quote>\u201ctwo Central Illinois women say they called a listing believing it was a garage door service but the people who showed up were not the company they expected a $700 repair turned into a $2,200 bill.\u201d, as noted by [25 News](https://www.facebook.com/25NewsWEEK/videos/a-700-garage-door-repair-turned-into-a-2200-bill-for-two-local-women-after-they-/1750619759468452/).</Quote>",
-          "snippet_links": [
-            {
-              "link": "https://www.youtube.com/watch?v=sO7HZceI69s&t=158"
-            }
-          ],
-          "reference_indexes": [
-            0,
-            1
-          ]
-        },
-        {
-          "snippet": "Storm Chaser Fraud: Door-to-door solicitors target neighborhoods after severe weather, offering quick home or roof repairs, demanding large cash deposits upfront, or posing as FEMA/state-certified agents. <Quote>\u201cDamaging storms draw scammers looking to exploit as communities rebuild.\u201d, according to [CBS News](https://www.cbsnews.com/chicago/news/illinois-ag-warns-scammers-targeting-repairs-storms/).</Quote>",
-          "snippet_links": [
-            {
-              "link": "https://ready.illinois.gov/after/beware-of-scams.html"
-            }
-          ]
+          "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
         }
       ],
       "reference_indexes": [
+        0,
+        1,
         2
       ]
     },
     {
       "type": "heading",
-      "snippet": "Government & Municipal Impersonation"
+      "snippet": "Common Scams in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Fake City Invoices: Fraudsters send phony letters and invoices on counterfeit official letterhead\u2014specifically targeting residents who recently appeared before local zoning boards, such as in Pekin. <Quote>\u201cThe Pekin Police Department is warning residents that scammers are attempting to impersonate city departments.\u201d, reported by [Central Illinois Proud](https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/).</Quote>",
+          "snippet": "Impostor Repair Services: Scammers set up fake websites and phone numbers posing as trusted local businesses (such as regional garage door repair companies) to overcharge customers heavily for simple fixes.",
+          "snippet_links": [
+            {
+              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
+            }
+          ]
+        },
+        {
+          "snippet": "Secretary of State Texts: Phishing text messages falsely claim to be from the Illinois Secretary of State or DMV, threatening license suspension or unpaid traffic fines to steal personal data.",
+          "snippet_links": [
+            {
+              "link": "https://www.facebook.com/ILSecofState/videos/these-texts-arent-real-scammers-are-targeting-illinoisans-with-phony-text-messag/902060445399845/"
+            }
+          ],
+          "reference_indexes": [
+            3
+          ]
+        },
+        {
+          "snippet": "City and Utility Impersonation: Fraudsters send fake invoices or official-looking letters\u2014such as phony notices targeting residents who recently appeared before local zoning boards\u2014to demand immediate payments.",
           "snippet_links": [
             {
               "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
             }
-          ],
-          "reference_indexes": [
-            4
           ]
         },
         {
-          "snippet": "DMV and Tollway Text Scams: Phishing texts falsely claim recipients owe money for unpaid traffic tickets, tolls, or face driver's license suspension, directing users to malicious payment links.",
+          "snippet": "Storm and Home Repair Fraud: Door-to-door scammers and fake contractors canvas neighborhoods after severe weather offering rushed repairs or high-pressure inspections without valid credentials.",
           "snippet_links": [
             {
-              "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/"
+              "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/"
             }
           ]
         }
       ],
       "reference_indexes": [
-        5,
-        6
+        4
       ]
     },
     {
       "type": "heading",
-      "snippet": "Digital & Delivery Phishing"
+      "snippet": "How to Protect Yourself"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Package Delivery Texts: Fraudulent SMS messages claiming to be from the USPS or UPS use missing address pretexts to steal credit card data.",
+          "snippet": "Verify Phone Numbers: Double-check contact numbers independently rather than clicking the top sponsored search result when searching for local service providers.",
           "snippet_links": [
             {
-              "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/"
+              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
+            }
+          ]
+        },
+        {
+          "snippet": "Ignore Threatening Texts: Remember that state agencies like the Illinois Secretary of State will never text residents demanding payment or threatening immediate license suspensions.",
+          "snippet_links": [
+            {
+              "link": "https://www.facebook.com/ILSecofState/videos/-illinoisans-across-the-state-are-receiving-threatening-texts-claiming-to-be-fro/2185179292224916/"
+            }
+          ],
+          "reference_indexes": [
+            5
+          ]
+        },
+        {
+          "snippet": "Confirm Official Notices: If you receive a bill or notice from a local municipality like Pekin or Springfield, call their official city hall number directly to verify.",
+          "snippet_links": [
+            {
+              "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
             }
           ]
         }
-      ],
-      "reference_indexes": [
-        7
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you want to protect yourself or report an issue, let me know:"
+      "snippet": "If you want to report a specific scam or check on a suspicious offer, let me know:"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Are you looking for info on a specific type of scam\n?"
+          "snippet": "were you contacted (phone, text, door-to-door)?"
         },
         {
-          "snippet": "Do you need contact details for the Illinois Attorney General or local authorities to report a suspicious incident?"
+          "snippet": "What is the specific claim or demand they made?"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "I can give you the exact local reporting agency to contact."
     }
   ],
   "references": [
     {
-      "title": "Scammers target Central Illinois with garage door repair ...",
-      "link": "https://www.youtube.com/watch?v=sO7HZceI69s&t=158",
-      "snippet": "and this particular uh website came up with a phone number he called again he was under the full impression that he was dealing with us these scammers count on you",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQJQn6QZnJ9FC31vB58NF2fn95v8DWlhVKx0aPssw7f4j40aXAdc1Ycn96Igx-ZwLqLyZ6E2b",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 0
-    },
-    {
-      "title": "A $700 garage door repair turned into a $2,200 bill for two ...",
-      "link": "https://www.facebook.com/25NewsWEEK/videos/a-700-garage-door-repair-turned-into-a-2200-bill-for-two-local-women-after-they-/1750619759468452/",
-      "snippet": "a simple Google search could cost you thousands. we were scammed yesterday two Central Illinois. women say they called a listing believing it was a garage door ser",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGKJR6grb0AyAxo_Xg6GcsakdkjZ0H1YwL7XQmYFciVNwXE167PdJsjA-x9NrkFFEwxvmHRgkt",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 1
-    },
-    {
-      "title": "Beware of Scams - Ready Illinois",
-      "link": "https://ready.illinois.gov/after/beware-of-scams.html",
-      "snippet": "Residents should be wary of door-to-door solicitors who hand out flyers and promise to speed up the insurance or building permit p...",
-      "source": "Ready Illinois (.gov)",
-      "thumbnail": "https://ready.illinois.gov/after/beware-of-scams.html",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ready.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 2
-    },
-    {
-      "title": "Illinois AG warns of scammers targeting people making repairs after ...",
-      "link": "https://www.cbsnews.com/chicago/news/illinois-ag-warns-scammers-targeting-repairs-storms/",
-      "snippet": "Such scammers are known as \\\"storm chasers.\\\" Raoul also warned that scammers might be operating as public adjusters who offer \\\"free\\\" inspections so property owners ...",
-      "source": "CBS News",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbcUVdvun26vH5OeTCu2V6Pt1opd4YBr_zz0--F9nXxzTE3PLrUs2QM2bkMIAnHPqgrPpqNyyR",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 3
-    },
-    {
-      "title": "Pekin police warn of scammers attempting to impersonate city ...",
+      "title": "Pekin police warn of scammers attempting to impersonate city officials",
       "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/",
-      "snippet": "Pekin police warn of scammers attempting to impersonate city officials. by: Sean Lisitza. Posted: Jul 16, 2026 / 03:19 PM CDT. Updated: Jul 16, 2026 / 03:19 PM CDT...",
+      "snippet": "PEKIN, Ill. (WMBD) \u2014 The Pekin Police Department is warning residents that scammers are attempting to impersonate city departments. The scammers are allegedly pret...",
       "source": "CIProud.com",
       "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUs5OLZl3TxZmciuY9T4dFzvzm6tuZ56TtmqPwXtoG1S1RZSIvQYR_AWPsx2shyAcGJfNrykHq",
       "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 0
+    },
+    {
+      "title": "Scammers target Central Illinois with garage door repair ...",
+      "link": "https://www.youtube.com/watch?v=sO7HZceI69s",
+      "snippet": "it's a universal truth your garage door breaks down and you need it fixed. but if you're not careful that repair person might not be who you think they are it's Tu",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQJQn6QZnJ9FC31vB58NF2fn95v8DWlhVKx0aPssw7f4j40aXAdc1Ycn96Igx-ZwLqLyZ6E2b",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 1
+    },
+    {
+      "title": "The Illinois Secretary of State is warning residents about a ...",
+      "link": "https://www.facebook.com/wandtv/videos/the-illinois-secretary-of-state-is-warning-residents-about-a-recent-surge-in-tex/1627038451872510/",
+      "snippet": "the Illinois Secretary of State is warning people about a surge in text scams the messages falsely claim to be from the Illinois Secretary of State's office or the",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRixUU_RWcW4Li_bAorCnvBG_mnvkVhRC7Kviz62remop8V2VVgqU9mwxhyU4JT21YBrbdnbNvT",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 2
+    },
+    {
+      "title": "THESE TEXTS AREN'T REAL! Scammers are targeting ...",
+      "link": "https://www.facebook.com/ILSecofState/videos/these-texts-arent-real-scammers-are-targeting-illinoisans-with-phony-text-messag/902060445399845/",
+      "snippet": "scammers are targeting Illinoisans with phony text messages. even I got one these scammers are trying to trick you into giving up personal and financial. informati",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEfUZUDNE1JI36XvFBYwkloQ041Hh1g7WvADDYehXHZSI84m3nmPmxKAlMtk3aVIYU_rNNhK4",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 3
+    },
+    {
+      "title": "I-Team Quick Tip: Storm repair fraud",
+      "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/",
+      "snippet": "here's a storm damage quick tip during severe weather. season the Illinois Attorney General is warning about scammers looking to cash in on cleanup. and repair wor",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtINBOLs9TgQxvh3JodCH5N1cijP-RD8VWOzGs-OkBQeCSa8Bun1bI22mwaQk_0vPv0edFeifA",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "Illinois state officials issued a warning on text message ...",
-      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
-      "snippet": "this is one of those scams designed to make you panic and act quickly state officials are saying texts are showing up on people's phones posing to be someone from ",
+      "title": "these are scams. The Illinois Secretary of State's office will NEVER text",
+      "link": "https://www.facebook.com/ILSecofState/videos/-illinoisans-across-the-state-are-receiving-threatening-texts-claiming-to-be-fro/2185179292224916/",
+      "snippet": "\ud83d\udea8 Illinoisans across the state are receiving threatening texts claiming to be from our office \u2013 these are scams. The Illinois Secretary of State's office will NEV...",
       "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsiWh6QasVWC-lrwolYxNCjK5Fc4uSzPfdGAfAGJPRc-c2blUtux7DPY008ZmMKPB_M16YuJhO",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BS6AEWJ_1UybG_rdCO2oMPiBamQxIxTq-FBIQnEoEtg_GK4kctsVk3HWMGxiIfvcPSLI8MTF",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 5
-    },
-    {
-      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
-      "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/",
-      "snippet": "another day another scam. text there's a new warning from the Secretary of State's office about a wave of scam texts. and phone calls that are impersonating. that ",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiVadVXOTziM3PJjIJSeCR6KWJUIWLtLMpz47RZ5owOrMLnVYzQ9rlfOO1Q_BDZR7b_9YJ0Cl8",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 6
-    },
-    {
-      "title": "Beware of these scam texts targeting Central IL package ...",
-      "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/",
-      "snippet": "Local News. Beware of these scam texts targeting Central IL package customers ahead of the holidays. by: Bradley Zimmerman. Posted: Nov 26, 2024 / 04:14 PM CST. Up...",
-      "source": "WCIA.com",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiw2oNrHlQnqv01jJZ4z6hMrAI5mf9keqqkS9D6awxa88zW6yEsZEcs2vFZARqbHLy6gbC5y48",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 7
-    },
-    {
-      "title": "Illinois residents are seeing a significant rise in fraudulent text ...",
-      "link": "https://www.facebook.com/EGVPD/posts/%F0%9D%90%92%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8C-%F0%9D%90%92%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%93%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%86%F0%9D%90%87%F0%9D%90%93-illinois-residents-are-seeing-a-significant-rise-in-fraudulent-te/1265352542438656/",
-      "snippet": "Scammers are targeting Illinois residents with fraudulent text messages that claim to be from the \u201cIllinois State Department of Motor Vehicles\u201d and threaten to sus...",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj0I3OCYSFru3vW4LccDMzJ5fOJdy1rIm1Bn9k6FNfV2C1Axoz36_xuQEP3MMTYi_-lBIXczQh",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 8
     }
   ]
 }
