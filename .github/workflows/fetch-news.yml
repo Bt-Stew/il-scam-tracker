@@ -33,7 +33,7 @@ jobs:
             "Danville, IL"
             "Central Illinois"
           )
-          mkdir -p tmp_results
+          mkdir -p gnews_results
           i=0
           for LOC in "${QUERIES[@]}"; do
             i=$((i+1))
@@ -41,12 +41,119 @@ jobs:
             ENC_Q=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$Q")
             curl -s "https://gnews.io/api/v4/search?q=${ENC_Q}&lang=en&country=us&sortby=publishedAt&from=${FROM}&max=10&token=${GNEWS_API_KEY}" \
               | jq '[.articles[]? | {headline: .title, source: .source.name, publishedAt: .publishedAt, url: .url, summary: .description}]' \
-              > "tmp_results/${i}.json" || echo "[]" > "tmp_results/${i}.json"
+              > "gnews_results/${i}.json" || echo "[]" > "gnews_results/${i}.json"
             sleep 1
           done
-          jq -s 'add | unique_by(.url) | sort_by(.publishedAt) | reverse' tmp_results/*.json > news.json
-          rm -rf tmp_results
-          echo "Collected $(jq 'length' news.json) unique articles"
+          echo "GNews: $(jq -s 'add | length' gnews_results/*.json) raw article(s) across all queries"
+
+      - name: Query FBI Springfield press releases (scam-related, Central Illinois only)
+        run: |
+          set -e
+          curl -sL -A "Mozilla/5.0 (compatible; X1ScamTrackerBot/1.0; +https://bt-stew.github.io/il-scam-tracker/)" \
+            "https://www.fbi.gov/contact-us/field-offices/springfield/news/RSS" \
+            -o fbi_raw.xml || echo "<rss><channel></channel></rss>" > fbi_raw.xml
+
+          python3 <<'PYEOF'
+          import re
+          import json
+          import xml.etree.ElementTree as ET
+
+          # Only these two conditions together count as a match: real scam/fraud
+          # language AND an explicit Central Illinois city name. FBI Springfield's
+          # jurisdiction runs from the Quad Cities down to Carbondale and publishes
+          # every crime category, not just scams, so both filters are required.
+          SCAM_KEYWORDS = [
+              "scam", "fraud", "phish", "swindle", "impersonat", "extortion",
+              "identity theft", "wire fraud", "con artist", "embezzl", "ponzi",
+              "romance scam", "elder fraud",
+          ]
+          CITIES = [
+              "Peoria", "Springfield", "Champaign", "Urbana", "Bloomington",
+              "Decatur", "Pekin", "Galesburg", "Danville",
+          ]
+
+          def matches_scam(text):
+              t = text.lower()
+              return any(k in t for k in SCAM_KEYWORDS)
+
+          def matches_city(text):
+              # "Normal" alone is too common a word; require it paired with IL/Illinois.
+              if re.search(r'\bNormal,?\s+(IL|Illinois)\b', text):
+                  return True
+              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES)
+
+          try:
+              tree = ET.parse('fbi_raw.xml')
+              items = tree.getroot().findall('.//item')
+          except ET.ParseError:
+              items = []
+
+          results = []
+          for item in items:
+              title = (item.findtext('title') or '').strip()
+              link = (item.findtext('link') or '').strip()
+              pubdate = (item.findtext('pubDate') or '').strip()
+              desc = (item.findtext('description') or '').strip()
+              combined = f"{title} {desc}"
+              if matches_scam(combined) and matches_city(combined):
+                  results.append({
+                      "headline": title,
+                      "source": "FBI Springfield Field Office",
+                      "publishedAt": pubdate,
+                      "url": link,
+                      "summary": re.sub('<[^<]+?>', '', desc)[:300],
+                  })
+
+          with open('fbi.json', 'w') as f:
+              json.dump(results, f, indent=2)
+
+          print(f"FBI Springfield: {len(results)} scam-related Central Illinois release(s) out of {len(items)} total items checked")
+          PYEOF
+
+      - name: Merge sources and normalize dates
+        run: |
+          set -e
+          jq -s 'add' gnews_results/*.json fbi.json > all_raw.json
+          python3 <<'PYEOF'
+          import json
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+
+          with open('all_raw.json') as f:
+              items = json.load(f)
+
+          def normalize_date(raw):
+              if not raw:
+                  return None
+              try:
+                  # GNews format: 2026-07-31T09:15:00Z
+                  return datetime.fromisoformat(raw.replace('Z', '+00:00')).isoformat()
+              except ValueError:
+                  pass
+              try:
+                  # RSS pubDate format: Fri, 31 Jul 2026 09:15:00 GMT
+                  return parsedate_to_datetime(raw).astimezone(timezone.utc).isoformat()
+              except (ValueError, TypeError):
+                  return raw
+
+          seen = set()
+          deduped = []
+          for it in items:
+              url = it.get('url')
+              if not url or url in seen:
+                  continue
+              seen.add(url)
+              it['publishedAt'] = normalize_date(it.get('publishedAt'))
+              deduped.append(it)
+
+          deduped.sort(key=lambda x: x.get('publishedAt') or '', reverse=True)
+
+          with open('news.json', 'w') as f:
+              json.dump(deduped, f, indent=2)
+
+          print(f"Merged: {len(deduped)} unique item(s) total")
+          PYEOF
+          rm -rf gnews_results fbi.json fbi_raw.xml all_raw.json
 
       - name: Commit and push if changed
         run: |
@@ -56,6 +163,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to news.json"
           else
-            git commit -m "Refresh local scam news: $(date -u +'%Y-%m-%d')"
+            git commit -m "Refresh local scam news (GNews + FBI Springfield): $(date -u +'%Y-%m-%d')"
             git push
           fi
