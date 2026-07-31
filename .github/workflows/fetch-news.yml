@@ -31,6 +31,10 @@ jobs:
             "Pekin, IL"
             "Galesburg, IL"
             "Danville, IL"
+            "LaSalle, IL"
+            "Peru, IL"
+            "Aurora, IL"
+            "Joliet, IL"
             "Central Illinois"
           )
           mkdir -p gnews_results
@@ -70,6 +74,7 @@ jobs:
           CITIES = [
               "Peoria", "Springfield", "Champaign", "Urbana", "Bloomington",
               "Decatur", "Pekin", "Galesburg", "Danville",
+              "LaSalle", "Peru", "Aurora", "Joliet",
           ]
 
           def matches_scam(text):
