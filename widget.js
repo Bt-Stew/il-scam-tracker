@@ -236,7 +236,7 @@
       + '  </div>'
       + '  <div class="bbbst-foot">'
       + '    <a class="bbbst-cta" href="' + escapeHtml(opts.ctaUrl) + '" target="_blank" rel="noopener">' + escapeHtml(opts.ctaText) + '</a>'
-      + '    <span class="bbbst-attrib">Powered by <a href="' + escapeHtml(dashboardUrl) + '" target="_blank" rel="noopener">BBB Scam Tracker</a></span>'
+      + '    <span class="bbbst-attrib">Powered by <a href="https://bbbscamstop.com/central-illinois" target="_blank" rel="noopener">BBB Scam Stop Program</a></span>'
       + '  </div>'
       + '</div>';
 
