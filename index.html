@@ -210,12 +210,23 @@
     cursor: pointer;
   }
 
+  .table-scroll {
+    overflow-x: auto;
+  }
   table {
     width: 100%;
+    min-width: 720px;
+    table-layout: fixed;
     border-collapse: collapse;
     font-family: var(--font-body);
     font-size: 13px;
   }
+  col.col-date   { width: 8%; }
+  col.col-type   { width: 12%; }
+  col.col-city   { width: 13%; }
+  col.col-amt    { width: 8%; }
+  col.col-biz    { width: 16%; }
+  col.col-desc   { width: 43%; }
   thead th {
     text-align: left;
     font-family: var(--font-display);
@@ -233,13 +244,14 @@
     border-bottom: 1px solid var(--x1-silver);
     color: var(--x1-dark);
     vertical-align: top;
+    overflow-wrap: break-word;
   }
   tbody tr:hover td { background: rgba(0, 188, 212, 0.06); }
   tbody tr:last-child td { border-bottom: none; }
   td.num { text-align: right; font-weight: 700; white-space: nowrap; color: var(--x1-navy); }
   td.date { white-space: nowrap; color: var(--x1-mid-blue); font-weight: 700; }
-  td.type { white-space: nowrap; font-weight: 700; }
-  td.desc { color: var(--x1-dark); opacity: 0.8; max-width: 320px; }
+  td.type { font-weight: 700; }
+  td.desc { color: var(--x1-dark); opacity: 0.8; }
 
   .pagination {
     display: flex;
@@ -383,7 +395,6 @@
     .kpi-row { grid-template-columns: repeat(2, 1fr); }
     .bar-row { grid-template-columns: 104px 1fr 34px; }
     table { font-size: 12px; }
-    td.desc { max-width: 160px; }
   }
 </style>
 </head>
@@ -453,19 +464,29 @@
       <input type="search" id="citySearch" placeholder="e.g. Peoria" autocomplete="off">
       <span class="result-count" id="resultCount"></span>
     </div>
-    <table>
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Scam Type</th>
-          <th>City</th>
-          <th class="num">$ Lost</th>
-          <th>Business Name Used</th>
-          <th>Description</th>
-        </tr>
-      </thead>
-      <tbody id="reportBody"></tbody>
-    </table>
+    <div class="table-scroll">
+      <table>
+        <colgroup>
+          <col class="col-date">
+          <col class="col-type">
+          <col class="col-city">
+          <col class="col-amt">
+          <col class="col-biz">
+          <col class="col-desc">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Scam Type</th>
+            <th>City</th>
+            <th class="num">$ Lost</th>
+            <th>Business Name Used</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody id="reportBody"></tbody>
+      </table>
+    </div>
     <div class="pagination" id="pagination"></div>
   </section>
 
