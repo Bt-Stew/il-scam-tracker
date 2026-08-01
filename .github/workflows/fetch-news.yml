@@ -2,8 +2,15 @@ name: Fetch Central Illinois Scam News
 
 on:
   schedule:
-    # 10:30 UTC = 5:30am Central (CDT) — 30 min before the dashboard refresh task runs
-    - cron: '30 10 * * *'
+    # Runs twice a day, all sources together (GNews, NewsAPI.ai, FBI, SerpApi):
+    #   10:30 UTC = 5:30am Central (CDT) — 30 min before the dashboard refresh task runs
+    #   22:30 UTC = 5:30pm Central (CDT) — second daily pull. Note: the dashboard
+    #   refresh scheduled task itself still only runs once a day (~6am Central),
+    #   so this evening run's fresher news.json/ai_overview.json won't be
+    #   reflected on the live page until the next morning's refresh — it just
+    #   means the morning refresh starts from a more complete, more current
+    #   news.json than a single once-a-day fetch would produce.
+    - cron: '30 10,22 * * *'
   workflow_dispatch: {}
 
 jobs:
