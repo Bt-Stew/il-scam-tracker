@@ -4,7 +4,7 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Central Illinois residents are frequently targeted by active local scams including fake local business impersonations, deceptive government text messages, and fraudulent utility or city notices.",
+      "snippet": "Scammers in Central Illinois frequently target residents using fake text messages, phony government notices, and deceptive door-to-door repair services. Popular schemes include texts impersonating the Illinois Secretary of State or delivery carriers, local utility or city department billing imposters, and fly-by-night contractors exploiting storm damage.",
       "snippet_links": [
         {
           "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
@@ -13,26 +13,20 @@
       "reference_indexes": [
         0,
         1,
-        2
+        2,
+        3,
+        6
       ]
     },
     {
       "type": "heading",
-      "snippet": "Common Scams in Central Illinois"
+      "snippet": "Common Scam Types"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Impostor Repair Services: Scammers set up fake websites and phone numbers posing as trusted local businesses (such as regional garage door repair companies) to overcharge customers heavily for simple fixes.",
-          "snippet_links": [
-            {
-              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
-            }
-          ]
-        },
-        {
-          "snippet": "Secretary of State Texts: Phishing text messages falsely claim to be from the Illinois Secretary of State or DMV, threatening license suspension or unpaid traffic fines to steal personal data.",
+          "snippet": "Fake Government & DMV Texts: Scammers send text messages claiming you owe unpaid toll or traffic fines, or that your driver's license will be suspended unless you click a link.",
           "snippet_links": [
             {
               "link": "https://www.facebook.com/ILSecofState/videos/these-texts-arent-real-scammers-are-targeting-illinoisans-with-phony-text-messag/902060445399845/"
@@ -43,7 +37,7 @@
           ]
         },
         {
-          "snippet": "City and Utility Impersonation: Fraudsters send fake invoices or official-looking letters\u2014such as phony notices targeting residents who recently appeared before local zoning boards\u2014to demand immediate payments.",
+          "snippet": "City and Utility Imposters: Fraudsters send fake invoices or notices using forged local municipal or zoning letterheads to demand immediate payment.",
           "snippet_links": [
             {
               "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
@@ -51,16 +45,40 @@
           ]
         },
         {
-          "snippet": "Storm and Home Repair Fraud: Door-to-door scammers and fake contractors canvas neighborhoods after severe weather offering rushed repairs or high-pressure inspections without valid credentials.",
+          "snippet": "Package Delivery Texts: Phishing texts pretend to be from UPS or USPS asking for credit card data or personal details to redeliver a fake package.",
           "snippet_links": [
             {
-              "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/"
+              "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/"
+            }
+          ],
+          "reference_indexes": [
+            4
+          ]
+        },
+        {
+          "snippet": "Storm and Home Repair Fraud: Door-to-door contractors offer \"free inspections\" or cheap rapid fixes after severe weather, demanding large cash down payments and leaving work unfinished.",
+          "snippet_links": [
+            {
+              "link": "https://www.centralillinoisproud.com/news/local-news/scammers-target-homeowners-storms-illinois/"
+            }
+          ],
+          "reference_indexes": [
+            5,
+            6
+          ]
+        },
+        {
+          "snippet": "Rental and Real Estate Fraud: Fake listings target students and movers with stolen property photos to collect upfront deposits and fake application fees.",
+          "snippet_links": [
+            {
+              "link": "https://www.wandtv.com/news/wand-investigates-property-deed-scams-in-central-illinois/article_1c54818a-a2db-11ef-a718-f7a45c922a88.html"
             }
           ]
         }
       ],
       "reference_indexes": [
-        4
+        7,
+        8
       ]
     },
     {
@@ -71,52 +89,68 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Verify Phone Numbers: Double-check contact numbers independently rather than clicking the top sponsored search result when searching for local service providers.",
+          "snippet": "Do not click links in unsolicited text messages or emails regarding traffic tickets, tolls, or package deliveries.",
           "snippet_links": [
             {
-              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
+              "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/"
             }
           ]
         },
         {
-          "snippet": "Ignore Threatening Texts: Remember that state agencies like the Illinois Secretary of State will never text residents demanding payment or threatening immediate license suspensions.",
-          "snippet_links": [
-            {
-              "link": "https://www.facebook.com/ILSecofState/videos/-illinoisans-across-the-state-are-receiving-threatening-texts-claiming-to-be-fro/2185179292224916/"
-            }
-          ],
-          "reference_indexes": [
-            5
-          ]
-        },
-        {
-          "snippet": "Confirm Official Notices: If you receive a bill or notice from a local municipality like Pekin or Springfield, call their official city hall number directly to verify.",
+          "snippet": "Verify bills independently by looking up official phone numbers for local cities, utilities, or agencies rather than using contact numbers on suspicious notices.",
           "snippet_links": [
             {
               "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
             }
+          ],
+          "reference_indexes": [
+            10,
+            11
+          ]
+        },
+        {
+          "snippet": "Reject cash-only deals and avoid paying full price upfront for any home repair or contractor work.",
+          "snippet_links": [
+            {
+              "link": "https://www.centralillinoisproud.com/news/local-news/scammers-target-homeowners-storms-illinois/"
+            }
+          ]
+        },
+        {
+          "snippet": "Check official portals or contact the Illinois Attorney General Consumer Fraud Bureau\nor the Better Business Bureau of Central Illinois if you suspect a scam.",
+          "snippet_links": [
+            {
+              "text": "Illinois Attorney General Consumer Fraud Bureau",
+              "link": "https://www.illinoisattorneygeneral.gov/"
+            },
+            {
+              "link": "https://www.centralillinoisproud.com/news/local-news/scammers-target-homeowners-storms-illinois/"
+            }
           ]
         }
+      ],
+      "reference_indexes": [
+        9
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you want to report a specific scam or check on a suspicious offer, let me know:"
+      "snippet": "If you want, tell me:"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "were you contacted (phone, text, door-to-door)?"
+          "snippet": "What type of message or contact\nyou received (text, phone call, or mail)"
         },
         {
-          "snippet": "What is the specific claim or demand they made?"
+          "snippet": "What the scammer claimed (money owed, prize won, service offered)"
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "I can give you the exact local reporting agency to contact."
+      "snippet": "I can help you figure out if it is a known scam and what next steps to take."
     }
   ],
   "references": [
@@ -130,12 +164,12 @@
       "index": 0
     },
     {
-      "title": "Scammers target Central Illinois with garage door repair ...",
-      "link": "https://www.youtube.com/watch?v=sO7HZceI69s",
-      "snippet": "it's a universal truth your garage door breaks down and you need it fixed. but if you're not careful that repair person might not be who you think they are it's Tu",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQJQn6QZnJ9FC31vB58NF2fn95v8DWlhVKx0aPssw7f4j40aXAdc1Ycn96Igx-ZwLqLyZ6E2b",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Beware of Scams",
+      "link": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "snippet": "Scammers can take advantage of people who are suffering from disasters. Here are some tips to avoid scams: * Never give out person...",
+      "source": "Ready Illinois (.gov)",
+      "thumbnail": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ready.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 1
     },
     {
@@ -157,22 +191,76 @@
       "index": 3
     },
     {
+      "title": "Beware of these scam texts targeting Central IL package ...",
+      "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/",
+      "snippet": "CENTRAL ILLINOIS (WCIA) \u2014 The holidays are here and as people begin placing online orders, scammers are tossing the bait for victims. One scam tactic targets peopl...",
+      "source": "WCIA.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiw2oNrHlQnqv01jJZ4z6hMrAI5mf9keqqkS9D6awxa88zW6yEsZEcs2vFZARqbHLy6gbC5y48",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 4
+    },
+    {
+      "title": "Illinois Attorney General warns of home and business repair scams",
+      "link": "https://www.centralillinoisproud.com/news/local-news/scammers-target-homeowners-storms-illinois/",
+      "snippet": "Illinois Attorney General warns of home and business repair scams * Be wary of contractors who go door to door to offer repair services or \u201cfree\u201d inspections. ... ...",
+      "source": "CIProud.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoyn_arLRWcE3-pxQIzRGtkTf4w4I87E5hewLCdMqaxmseInlq-JQkbbk1QoXzYNJO1UUih9d",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 5
+    },
+    {
       "title": "I-Team Quick Tip: Storm repair fraud",
       "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/",
       "snippet": "here's a storm damage quick tip during severe weather. season the Illinois Attorney General is warning about scammers looking to cash in on cleanup. and repair wor",
       "source": "Facebook",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtINBOLs9TgQxvh3JodCH5N1cijP-RD8VWOzGs-OkBQeCSa8Bun1bI22mwaQk_0vPv0edFeifA",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 4
+      "index": 6
     },
     {
-      "title": "these are scams. The Illinois Secretary of State's office will NEVER text",
-      "link": "https://www.facebook.com/ILSecofState/videos/-illinoisans-across-the-state-are-receiving-threatening-texts-claiming-to-be-fro/2185179292224916/",
-      "snippet": "\ud83d\udea8 Illinoisans across the state are receiving threatening texts claiming to be from our office \u2013 these are scams. The Illinois Secretary of State's office will NEV...",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BS6AEWJ_1UybG_rdCO2oMPiBamQxIxTq-FBIQnEoEtg_GK4kctsVk3HWMGxiIfvcPSLI8MTF",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 5
+      "title": "WAND Investigates: Property Deed Scams in central Illinois | News | wandtv.com",
+      "link": "https://www.wandtv.com/news/wand-investigates-property-deed-scams-in-central-illinois/article_1c54818a-a2db-11ef-a718-f7a45c922a88.html",
+      "snippet": "According to WAND News, scammers are targeting homeowners in central Illinois. Property deed scams are one of the types of real estate cyber crimes committed acros...",
+      "source": "WANDTV.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2c4swX7HoDPyCilXWys6e63f0G0c1IGgiLNi_hQtGiaWep4dK5UF64amg7JkjO9zGqkyUZ2W5",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wandtv.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 7
+    },
+    {
+      "title": "As 60 people fell victim to rental scams in Central Illinois ...",
+      "link": "https://www.25newsnow.com/video/2025/08/12/60-people-fell-victim-rental-scams-central-illinois-over-past-year-bbb-warns-college-students-watch-out/",
+      "snippet": "it is movein time at the college and the university. level for students and the fall semester. but the BBB has a warning renters beware good Tuesday evening i'm Ty",
+      "source": "25NewsNow.com",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMaPrt8EzSMTq39z5KkZb4ugWbCFN01Nl_Kaf8IznSeHAQyadqxl6Wv-8t6uo",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 8
+    },
+    {
+      "title": "Better Business Bureau of Central IL hosts scam seminar",
+      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
+      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqit0ExqBYTIqfDfR9Wi2UQcsChW6yAW0AA0P-K2nmBYjhe1HkQJxS5KaAMf1iAC1dKN7hzDxc",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 9
+    },
+    {
+      "title": "Scam Alert: Fake County Invoices Still Targeting Citizens",
+      "link": "https://www.pottcounty-ia.gov/news/scam_alert_fake_county_invoices_still_targeting_citizens/",
+      "snippet": "Verify the legitimacy of the invoice by using a phone number or email address that you know is official. You can find valid contact information for all county depa...",
+      "source": "Pottawattamie County (.gov)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQkFgZrYIoTXFsx1-A8opbXWBpqz6TO1iE5sPyun_kVMsMxC3mKRBok8T5nY6-Svmj9Dd_c0bM",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pottcounty-ia.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 10
+    },
+    {
+      "title": "\ud83d\udea8EMAIL SCAM ALERT\ud83d\udea8 The Massachusetts State Police - Commonwealth Fusion Center is seeing an increase in highly convincing scam emails impersonating local permitting and zoning offices. These messages use real staff names, official-looking logos, and detailed invoices to trick applicants into sending fraudulent payments. Scammers may send emails that \ud83d\udce9 -Claim your permit or application has been \u201capproved pending payment.\u201d -Attach a realistic-looking invoice with fees such as application review, processing, or public notice. -Request wire transfers, ACH payments, or \u201csettlement instructions\u201d via email. -Urge you to reply directly to the message to get payment details. -Insist that check payments are not accepted and that delays could impact your permit. How to Protect Yourself \ud83d\udcaa \u2714 Verify the sender. Check that emails come from an official government domain (e.g., .gov or .ma.us), not free public email services. \u2714 Do NOT wire money based solely on an email request. \u2714 Contact the office directly using the phone number on the town or city\u2019s official website, not the number provided in the email. \u2714 Be cautious with invoices that appear out of nowhere or don",
+      "link": "https://www.instagram.com/reel/DSYHCeLAN-B/",
+      "snippet": "Do not click any unverified links. \u26a0Call the real company: Verify your account status by calling the official number listed on your actual utility bill, not the nu...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwPq2l6ZXdLAAoWlKYP-U-P6bn6q4LDryA6JY_zCwCBCXzFouhkRYADXpU8ApRYRzn9qybfD2P",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 11
     }
   ]
 }
