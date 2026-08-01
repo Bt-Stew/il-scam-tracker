@@ -187,7 +187,8 @@
     font-size: 13px;
   }
   .table-controls label { color: var(--x1-dark); font-weight: 700; }
-  .table-controls select {
+  .table-controls select,
+  .table-controls input[type="search"] {
     font: inherit;
     font-size: 13px;
     padding: 6px 10px;
@@ -196,6 +197,17 @@
     background: var(--x1-white);
     color: var(--x1-navy);
     font-weight: 600;
+  }
+  .table-controls input[type="search"] {
+    width: 170px;
+  }
+  .table-controls input[type="search"]:focus {
+    outline: none;
+    border-color: var(--x1-cyan);
+    box-shadow: 0 0 0 2px rgba(0, 188, 212, 0.25);
+  }
+  .table-controls input[type="search"]::-webkit-search-cancel-button {
+    cursor: pointer;
   }
 
   table {
@@ -437,6 +449,8 @@
     <div class="table-controls">
       <label for="typeFilter">Filter by type:</label>
       <select id="typeFilter"></select>
+      <label for="citySearch">Search city:</label>
+      <input type="search" id="citySearch" placeholder="e.g. Peoria" autocomplete="off">
       <span class="result-count" id="resultCount"></span>
     </div>
     <table>
@@ -865,6 +879,7 @@
   const PAGE_SIZE = 20;
   let currentPage = 1;
   let activeType = 'All';
+  let activeCity = '';
 
   const fmtAmt = n => n > 0 ? ('$' + n.toLocaleString('en-US', {minimumFractionDigits: n % 1 !== 0 ? 2 : 0, maximumFractionDigits: 2})) : '$0';
   const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString('en-US', {month:'short', day:'numeric'});
@@ -873,7 +888,12 @@
   const resultCountEl = document.getElementById('resultCount');
 
   function filteredReports() {
-    return activeType === 'All' ? reports : reports.filter(r => r.type === activeType);
+    let result = activeType === 'All' ? reports : reports.filter(r => r.type === activeType);
+    if (activeCity) {
+      const q = activeCity.trim().toLowerCase();
+      result = result.filter(r => r.city.toLowerCase().includes(q));
+    }
+    return result;
   }
 
   function renderPagination(totalPages) {
@@ -923,7 +943,7 @@
 
     resultCountEl.textContent = filtered.length
       ? `Showing ${start + 1}–${Math.min(start + PAGE_SIZE, filtered.length)} of ${filtered.length}`
-      : 'No reports match this filter';
+      : (activeCity ? `No reports match "${activeCity}"` : 'No reports match this filter');
 
     renderPagination(totalPages);
   }
@@ -937,6 +957,13 @@
   });
   typeFilter.addEventListener('change', () => {
     activeType = typeFilter.value;
+    currentPage = 1;
+    renderTable();
+  });
+
+  const citySearch = document.getElementById('citySearch');
+  citySearch.addEventListener('input', () => {
+    activeCity = citySearch.value;
     currentPage = 1;
     renderTable();
   });
