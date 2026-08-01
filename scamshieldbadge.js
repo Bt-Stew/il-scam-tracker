@@ -6,7 +6,7 @@
  *   - is NOT tied to an individual BBB business profile
  *   - links to the public Scam Shield program page (bbbscamstop.com/central-illinois),
  *     not any bbb.org profile or third-party site
- *   - shows a self-updating "Active as of [today's date]" line, computed in the
+ *   - shows a self-updating "Current as of [today's date]" line, computed in the
  *     visitor's browser on every page load — no manual updates, ever.
  *
  * Install by pasting on any page:
@@ -47,21 +47,21 @@
   var TIERS = {
     'local-scout': {
       label: 'Local Scout',
-      tagline: 'BBB Central Illinois Scam Shield Partner',
+      tagline: 'BBB of Central Illinois Scam Shield Partner',
       image: SHIELD_IMAGE,
       accent: '#0047BB',
       blurb: 'Local Scout partners help BBB of Central Illinois spot and report emerging scams as they happen.'
     },
     'local-guardian': {
       label: 'Local Guardian',
-      tagline: 'BBB Central Illinois Scam Shield Partner',
+      tagline: 'BBB of Central Illinois Scam Shield Partner',
       image: SHIELD_IMAGE,
       accent: '#183C50',
       blurb: 'Local Guardian partners actively share scam alerts with their customers and community.'
     },
     'local-sentinel': {
       label: 'Local Sentinel',
-      tagline: 'BBB Central Illinois Scam Shield Partner',
+      tagline: 'BBB of Central Illinois Scam Shield Partner',
       image: SHIELD_IMAGE,
       accent: '#B88900',
       blurb: 'Local Sentinel is the highest Scam Shield tier — sustained, ongoing partnership in the fight against fraud in Central Illinois.'
@@ -146,7 +146,7 @@
 
   function render(container, opts) {
     var dark = opts.theme === 'dark' ? ' bbbss-dark' : '';
-    var ariaLabel = opts.label + ' — ' + opts.tagline + ' — Active as of ' + formatToday(opts.dateFormat) + '. Opens the BBB Central Illinois Scam Shield program page.';
+    var ariaLabel = opts.label + ' — ' + opts.tagline + ' — Current as of ' + formatToday(opts.dateFormat) + '. Opens the BBB Central Illinois Scam Shield program page.';
 
     container.innerHTML = ''
       + '<a class="bbbss-badge' + dark + '" href="' + escapeHtml(opts.url) + '" target="_blank" rel="noopener noreferrer" aria-label="' + escapeHtml(ariaLabel) + '">'
@@ -156,7 +156,7 @@
       + '  <div class="bbbss-tier">' + escapeHtml(opts.label) + '</div>'
       + '  <div class="bbbss-tagline">' + escapeHtml(opts.tagline) + '</div>'
       + '  <div class="bbbss-divider"></div>'
-      + '  <div class="bbbss-date"><span class="bbbss-dot"></span>Active as of <span class="bbbss-date-text">' + escapeHtml(formatToday(opts.dateFormat)) + '</span></div>'
+      + '  <div class="bbbss-date"><span class="bbbss-dot"></span>Current as of <span class="bbbss-date-text">' + escapeHtml(formatToday(opts.dateFormat)) + '</span></div>'
       + (opts.tooltip ? '  <div class="bbbss-tooltip" role="tooltip">' + escapeHtml(opts.blurb) + '</div>' : '')
       + '  <div class="bbbss-attrib">BBB of Central Illinois</div>'
       + '</a>';
