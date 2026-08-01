@@ -145,10 +145,11 @@ jobs:
           import xml.etree.ElementTree as ET
 
           # Only these two conditions together count as a match: real scam/fraud
-          # language AND an explicit Central Illinois city/county name. FBI
-          # Springfield's jurisdiction runs from the Quad Cities down to
-          # Carbondale and publishes every crime category, not just scams, so
-          # both filters are required.
+          # language AND an explicit Central Illinois city/county name that's
+          # actually paired with "IL"/"Illinois" in the text. FBI Springfield's
+          # jurisdiction runs from the Quad Cities down to Carbondale and
+          # publishes every crime category, not just scams, so both filters
+          # are required.
           SCAM_KEYWORDS = [
               "scam", "fraud", "phish", "swindle", "impersonat", "extortion",
               "identity theft", "wire fraud", "con artist", "embezzl", "ponzi",
@@ -156,7 +157,7 @@ jobs:
           ]
           CITIES = [
               "Peoria", "Springfield", "Champaign", "Urbana", "Bloomington",
-              "Decatur", "Pekin", "Galesburg", "Danville",
+              "Normal", "Decatur", "Pekin", "Galesburg", "Danville",
               "LaSalle", "Peru", "Aurora", "Joliet",
           ]
           # Counties, added so county-only mentions (e.g. "Sangamon County
@@ -165,23 +166,27 @@ jobs:
           # via the bare city names in CITIES, so they're not repeated here.
           COUNTIES = [
               "Sangamon", "McLean", "Macon", "Tazewell",
-              "Knox", "Vermilion", "Kane",
+              "Knox", "Vermilion", "Kane", "Will",
           ]
+          PLACES = CITIES + COUNTIES
 
           def matches_scam(text):
               t = text.lower()
               return any(k in t for k in SCAM_KEYWORDS)
 
           def matches_city(text):
-              # "Normal" and "Will" alone are too-common words; require each
-              # paired with IL/Illinois or County so they don't false-positive.
-              if re.search(r'\bNormal,?\s+(IL|Illinois)\b', text):
+              # "Central Illinois" already contains "Illinois", so it self-qualifies.
+              if re.search(r'\bCentral\s+Illinois\b', text):
                   return True
-              if re.search(r'\bWill\s+County\b', text):
-                  return True
-              if any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES):
-                  return True
-              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in COUNTIES)
+              # Every other place name must be paired with an explicit
+              # IL/Illinois mention somewhere in the same text. Bare city/county
+              # names are frequently ambiguous with places in other states
+              # (Springfield, MA; Peoria, AZ; Aurora, CO; Danville, VA;
+              # Decatur, GA; Bloomington, IN/MN) — this cost us a real false
+              # positive (a Springfield, MA bitcoin-scam story) on 2026-08-01.
+              if not (re.search(r'\bIL\b', text) or re.search(r'\bIllinois\b', text)):
+                  return False
+              return any(re.search(r'\b' + re.escape(p) + r'\b', text) for p in PLACES)
 
           try:
               tree = ET.parse('fbi_raw.xml')
@@ -228,9 +233,9 @@ jobs:
           # query filtering can silently fail (seen with NewsAPI.ai returning
           # globally irrelevant results despite a location keyword being sent), so
           # nothing reaches news.json unless it independently passes both checks here.
-          # This list must stay in sync with the CITIES/COUNTIES lists in the FBI
-          # step above — this is the filter that actually decides what survives
-          # into news.json, regardless of which source an article came from.
+          # This must stay in sync with the CITIES/COUNTIES/matches_city() logic in
+          # the FBI step above — this is the filter that actually decides what
+          # survives into news.json, regardless of which source an article came from.
           SCAM_KEYWORDS = [
               "scam", "fraud", "phish", "swindle", "impersonat", "extortion",
               "identity theft", "wire fraud", "con artist", "embezzl", "ponzi",
@@ -238,29 +243,32 @@ jobs:
           ]
           CITIES = [
               "Peoria", "Springfield", "Champaign", "Urbana", "Bloomington",
-              "Decatur", "Pekin", "Galesburg", "Danville",
-              "LaSalle", "Peru", "Aurora", "Joliet", "Central Illinois",
+              "Normal", "Decatur", "Pekin", "Galesburg", "Danville",
+              "LaSalle", "Peru", "Aurora", "Joliet",
           ]
           # Counties, so a county-only mention (no city named) isn't dropped here
           # even if it made it past the per-source query/filter above. Peoria,
           # Champaign, and LaSalle counties are already covered via CITIES.
           COUNTIES = [
               "Sangamon", "McLean", "Macon", "Tazewell",
-              "Knox", "Vermilion", "Kane",
+              "Knox", "Vermilion", "Kane", "Will",
           ]
+          PLACES = CITIES + COUNTIES
 
           def matches_scam(text):
               t = text.lower()
               return any(k in t for k in SCAM_KEYWORDS)
 
           def matches_city(text):
-              if re.search(r'\bNormal,?\s+(IL|Illinois)\b', text):
+              # "Central Illinois" already contains "Illinois", so it self-qualifies.
+              if re.search(r'\bCentral\s+Illinois\b', text):
                   return True
-              if re.search(r'\bWill\s+County\b', text):
-                  return True
-              if any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES):
-                  return True
-              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in COUNTIES)
+              # Every other place name must be paired with an explicit
+              # IL/Illinois mention somewhere in the same text — see the FBI
+              # step above for why (Springfield, MA false positive, 2026-08-01).
+              if not (re.search(r'\bIL\b', text) or re.search(r'\bIllinois\b', text)):
+                  return False
+              return any(re.search(r'\b' + re.escape(p) + r'\b', text) for p in PLACES)
 
           def normalize_date(raw):
               if not raw:
