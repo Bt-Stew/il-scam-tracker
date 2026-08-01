@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Query GNews for each city + Central Illinois
+      - name: Query GNews for each city/county + Central Illinois
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: |
@@ -36,6 +36,17 @@ jobs:
             "Aurora, IL"
             "Joliet, IL"
             "Central Illinois"
+            # Counties (catch smaller towns that never make the city list above,
+            # e.g. a scam reported out of Morton or Chillicothe rarely names the
+            # town but usually names "Tazewell County" or "Peoria County")
+            "Sangamon County, IL"
+            "McLean County, IL"
+            "Macon County, IL"
+            "Tazewell County, IL"
+            "Knox County, IL"
+            "Vermilion County, IL"
+            "Kane County, IL"
+            "Will County, IL"
           )
           mkdir -p gnews_results
           i=0
@@ -51,7 +62,7 @@ jobs:
           done
           echo "GNews: $(jq -s 'add | length' gnews_results/*.json) raw article(s) across all queries"
 
-      - name: Query NewsAPI.ai (Event Registry) for each city + Central Illinois
+      - name: Query NewsAPI.ai (Event Registry) for each city/county + Central Illinois
         env:
           NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
         run: |
@@ -73,6 +84,15 @@ jobs:
             "Aurora"
             "Joliet"
             "Central Illinois"
+            # Counties, to sweep in smaller towns the city list above misses
+            "Sangamon County"
+            "McLean County"
+            "Macon County"
+            "Tazewell County"
+            "Knox County"
+            "Vermilion County"
+            "Kane County"
+            "Will County"
           )
           mkdir -p newsapi_results
           i=0
@@ -118,9 +138,10 @@ jobs:
           import xml.etree.ElementTree as ET
 
           # Only these two conditions together count as a match: real scam/fraud
-          # language AND an explicit Central Illinois city name. FBI Springfield's
-          # jurisdiction runs from the Quad Cities down to Carbondale and publishes
-          # every crime category, not just scams, so both filters are required.
+          # language AND an explicit Central Illinois city/county name. FBI
+          # Springfield's jurisdiction runs from the Quad Cities down to
+          # Carbondale and publishes every crime category, not just scams, so
+          # both filters are required.
           SCAM_KEYWORDS = [
               "scam", "fraud", "phish", "swindle", "impersonat", "extortion",
               "identity theft", "wire fraud", "con artist", "embezzl", "ponzi",
@@ -131,16 +152,29 @@ jobs:
               "Decatur", "Pekin", "Galesburg", "Danville",
               "LaSalle", "Peru", "Aurora", "Joliet",
           ]
+          # Counties, added so county-only mentions (e.g. "Sangamon County
+          # Sheriff warns of...") that never name one of the cities above still
+          # match. Peoria, Champaign, and LaSalle counties are already covered
+          # via the bare city names in CITIES, so they're not repeated here.
+          COUNTIES = [
+              "Sangamon", "McLean", "Macon", "Tazewell",
+              "Knox", "Vermilion", "Kane",
+          ]
 
           def matches_scam(text):
               t = text.lower()
               return any(k in t for k in SCAM_KEYWORDS)
 
           def matches_city(text):
-              # "Normal" alone is too common a word; require it paired with IL/Illinois.
+              # "Normal" and "Will" alone are too-common words; require each
+              # paired with IL/Illinois or County so they don't false-positive.
               if re.search(r'\bNormal,?\s+(IL|Illinois)\b', text):
                   return True
-              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES)
+              if re.search(r'\bWill\s+County\b', text):
+                  return True
+              if any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES):
+                  return True
+              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in COUNTIES)
 
           try:
               tree = ET.parse('fbi_raw.xml')
@@ -187,6 +221,9 @@ jobs:
           # query filtering can silently fail (seen with NewsAPI.ai returning
           # globally irrelevant results despite a location keyword being sent), so
           # nothing reaches news.json unless it independently passes both checks here.
+          # This list must stay in sync with the CITIES/COUNTIES lists in the FBI
+          # step above — this is the filter that actually decides what survives
+          # into news.json, regardless of which source an article came from.
           SCAM_KEYWORDS = [
               "scam", "fraud", "phish", "swindle", "impersonat", "extortion",
               "identity theft", "wire fraud", "con artist", "embezzl", "ponzi",
@@ -197,6 +234,13 @@ jobs:
               "Decatur", "Pekin", "Galesburg", "Danville",
               "LaSalle", "Peru", "Aurora", "Joliet", "Central Illinois",
           ]
+          # Counties, so a county-only mention (no city named) isn't dropped here
+          # even if it made it past the per-source query/filter above. Peoria,
+          # Champaign, and LaSalle counties are already covered via CITIES.
+          COUNTIES = [
+              "Sangamon", "McLean", "Macon", "Tazewell",
+              "Knox", "Vermilion", "Kane",
+          ]
 
           def matches_scam(text):
               t = text.lower()
@@ -205,7 +249,11 @@ jobs:
           def matches_city(text):
               if re.search(r'\bNormal,?\s+(IL|Illinois)\b', text):
                   return True
-              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES)
+              if re.search(r'\bWill\s+County\b', text):
+                  return True
+              if any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in CITIES):
+                  return True
+              return any(re.search(r'\b' + re.escape(c) + r'\b', text) for c in COUNTIES)
 
           def normalize_date(raw):
               if not raw:
