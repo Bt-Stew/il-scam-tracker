@@ -4,59 +4,38 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Recent scams active in Central Illinois include fake local business listings for home services, fraudulent government text messages, and local municipal or law enforcement impersonation.",
+      "snippet": "Recent active scams in Central Illinois include fake local contractor and garage door impersonators, fraudulent DMV text messages, and sheriff/arrest warrant phone threats.",
       "snippet_links": [
         {
           "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/"
         }
       ],
       "snippet_highlighted_words": [
-        "fake local business listings for home services, fraudulent government text messages, and local municipal or law enforcement impersonation"
+        "fake local contractor and garage door impersonators, fraudulent DMV text messages, and sheriff/arrest warrant phone threats"
       ],
       "reference_indexes": [
         0,
         1,
-        2,
-        3
+        2
       ]
     },
     {
       "type": "heading",
-      "snippet": "Fake Local Business and Repair Scams"
+      "snippet": "Active Local Scams"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Garage Door Schemes: Con artists use fake online search listings pretending to be trusted local repair companies, arriving in unmarked vehicles and drastically inflating simple repair bills.",
+          "snippet": "Fake Garage Door Repair: Scammers use online search ads to pose as trusted local companies (like Bloomington's The Door Doctor), overcharging thousands for minor repairs or cutting hardware to fake extra damage\n.",
           "snippet_links": [
             {
-              "link": "https://www.facebook.com/25NewsWEEK/videos/a-700-garage-door-repair-turned-into-a-2200-bill-for-two-local-women-after-they-/1750619759468452/"
+              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
             }
           ]
         },
         {
-          "snippet": "Storm Chasers: Door-to-door solicitors exploit recent severe weather and tornadoes by demanding large cash deposits, offering fake \"free inspections,\" or failing to complete promised home repairs.",
-          "snippet_links": [
-            {
-              "link": "https://www.cbsnews.com/chicago/news/illinois-ag-warns-scammers-targeting-repairs-storms/"
-            }
-          ]
-        }
-      ],
-      "reference_indexes": [
-        5
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "Government and Official Impersonation"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Fake DMV Texts: Scammers send fraudulent text messages claiming to be from the state motor vehicle or Secretary of State office, threatening license or registration suspension if an immediate online fine is not paid.",
+          "snippet": "DMV/Secretary of State Texts: Fraudulent text messages claim recipients have unpaid driving fines or expiring licenses, telling victims to click a link and pay immediately. The state never texts for payment.",
           "snippet_links": [
             {
               "link": "https://www.centralillinoisproud.com/news/local-news/tazewell-county-scam-alert/"
@@ -64,21 +43,55 @@
           ]
         },
         {
-          "snippet": "City Department Letters: Fraudsters mail fake invoices or notices using copied official city letterheads (such as in Pekin) targeting residents who recently dealt with local zoning or public boards.",
+          "snippet": "Law Enforcement & Warrant Calls: Callers pretend to be local sheriffs or legal agents claiming the target missed a court date or owes a bond, demanding payment via Bitcoin or cash apps.",
           "snippet_links": [
             {
-              "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/"
+              "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/"
             }
+          ],
+          "reference_indexes": [
+            5
           ]
         },
         {
-          "snippet": "Arrest Warrant Calls: Callers impersonate local sheriffs or law enforcement, falsely claiming victims have missed court or warrants that can only be cleared by sending Bitcoin or digital payments.",
+          "snippet": "Door-to-Door Storm Chasers: Transient contractors target neighborhoods after severe weather, demanding large cash deposits upfront or full advance payment without local licensing.",
+          "snippet_links": [
+            {
+              "link": "https://ready.illinois.gov/after/beware-of-scams.html"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        3
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "How to Protect Yourself"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Verify phone numbers: Double-check contractor contact details independently rather than clicking the top sponsored web search result."
+        },
+        {
+          "snippet": "Practice the pause:\nTake time to verify urgent demands for money or secrecy instead of reacting immediately."
+        },
+        {
+          "snippet": "Never pay by crypto or wire: Government agencies and legitimate utilities will never demand immediate payment via cryptocurrency, gift cards, or wire transfers.",
           "snippet_links": [
             {
               "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/"
             }
           ]
         }
+      ],
+      "reference_indexes": [
+        4,
+        5,
+        6
       ]
     },
     {
@@ -97,49 +110,58 @@
       "index": 0
     },
     {
-      "title": "A $700 garage door repair turned into a $2,200 bill for two ...",
-      "link": "https://www.facebook.com/25NewsWEEK/videos/a-700-garage-door-repair-turned-into-a-2200-bill-for-two-local-women-after-they-/1750619759468452/",
-      "snippet": "a simple Google search could cost you thousands. we were scammed yesterday two Central Illinois. women say they called a listing believing it was a garage door ser",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGKJR6grb0AyAxo_Xg6GcsakdkjZ0H1YwL7XQmYFciVNwXE167PdJsjA-x9NrkFFEwxvmHRgkt",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Scammers target Central Illinois with garage door repair ...",
+      "link": "https://www.youtube.com/watch?v=sO7HZceI69s",
+      "snippet": "it's a universal truth your garage door breaks down and you need it fixed. but if you're not careful that repair person might not be who you think they are it's Tu",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQJQn6QZnJ9FC31vB58NF2fn95v8DWlhVKx0aPssw7f4j40aXAdc1Ycn96Igx-ZwLqLyZ6E2b",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 1
     },
     {
-      "title": "Tazewell County Sheriff\u2019s Office warns of DMV scam - CIProud.com",
+      "title": "Tazewell County Sheriff's Office warns of DMV scam",
       "link": "https://www.centralillinoisproud.com/news/local-news/tazewell-county-scam-alert/",
-      "snippet": "TAZEWELL COUNTY, Ill. (WMBD) \u2014 The Tazewell County Sheriff's Office is warning the public of scammers impersonating the Illinois Department of Motor Vehicles. The ...",
+      "snippet": "by: Sean Lisitza. Posted: Mar 9, 2026 / 05:28 PM CDT. Updated: Mar 9, 2026 / 05:28 PM CDT. by: Sean Lisitza. Posted: Mar 9, 2026 / 05:28 PM CDT. Updated: Mar 9, 20...",
       "source": "CIProud.com",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kKS3XaJvOX3C72kD9KUAR2LQ0kSdQF8UjstGMzOzeipNGI3GAbg69vHvm_23Ktilhyj0x_i8",
       "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 2
     },
     {
-      "title": "Pekin police warn of scammers attempting to impersonate city ...",
-      "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/",
-      "snippet": "(WMBD) \u2014 The Pekin Police Department is warning residents that scammers are attempting to impersonate city departments. The scammers are allegedly pretending to be...",
-      "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-CDPOj0njoULvLBlvjTRvrl6U3vCSsEXayuoyOl92ZPtJHR8IS3Z-HTlfus3twy07_yb1Jhf",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Beware of Scams - Ready Illinois",
+      "link": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "snippet": "Residents should be wary of door-to-door solicitors who hand out flyers and promise to speed up the insurance or building permit p...",
+      "source": "Ready Illinois (.gov)",
+      "thumbnail": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ready.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 3
     },
     {
-      "title": "Illinois AG warns of scammers targeting people making repairs after ...",
-      "link": "https://www.cbsnews.com/chicago/news/illinois-ag-warns-scammers-targeting-repairs-storms/",
-      "snippet": "Such scammers are known as \\\"storm chasers.\\\" Raoul also warned that scammers might be operating as public adjusters who offer \\\"free\\\" inspections so property owners ...",
-      "source": "CBS News",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbcUVdvun26vH5OeTCu2V6Pt1opd4YBr_zz0--F9nXxzTE3PLrUs2QM2bkMIAnHPqgrPpqNyyR",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Better Business Bureau of Central IL hosts scam seminar",
+      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
+      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqit0ExqBYTIqfDfR9Wi2UQcsChW6yAW0AA0P-K2nmBYjhe1HkQJxS5KaAMf1iAC1dKN7hzDxc",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "I-Team Quick Tip: Storm repair fraud",
-      "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/",
-      "snippet": "here's a storm damage quick tip during severe weather. season the Illinois Attorney General is warning about scammers looking to cash in on cleanup. and repair wor",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtINBOLs9TgQxvh3JodCH5N1cijP-RD8VWOzGs-OkBQeCSa8Bun1bI22mwaQk_0vPv0edFeifA",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Scams \\u0026 Fraud Prevention | City of Moline, IL - Official Website",
+      "link": "https://www.moline.il.us/1326/Scams-Fraud-Prevention",
+      "snippet": "The caller, claiming to be from the IRS, calls or leaves a voice message stating you owe back taxes and threatens that, unless funds are wired immediately, legal a...",
+      "source": "City of Moline, IL",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2Ua6AtQ4b0rmn5Dmpr5d0GjcbeP1ynX_X5HVnmZ06SOS0Qa9RBRo3v6BR_U",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moline.il.us&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 5
+    },
+    {
+      "title": "Common Frauds and Scams - FBI",
+      "link": "https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams",
+      "snippet": "Did you receive a message from the FBI? The FBI will never call or email private citizens to request they move money via wire transfer, cryptocurrency, gift cards,",
+      "source": "FBI (.gov)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZWtPGsvct5W8BNKHSjttJPw8jU6SDEY-wQ2FGn4fT_67c-2Iwihgi_ACX0D94yjJ24G68zUsB",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.fbi.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 6
     }
   ]
 }
