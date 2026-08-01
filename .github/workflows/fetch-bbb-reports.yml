@@ -1,0 +1,180 @@
+name: Fetch BBB Illinois Scam Reports
+
+on:
+  schedule:
+    # Runs twice a day, 9:00am and 9:00pm Central (CDT):
+    #   14:00 UTC = 9:00am Central
+    #   02:00 UTC = 9:00pm Central (previous calendar day locally)
+    # This is the priority pull (BBB reports matter more than the news/AI
+    # Overview pull in fetch-news.yml, which only runs once daily). The
+    # dashboard-refresh scheduled task runs 5 min after each of these
+    # (9:05am/9:05pm Central) so it picks up same-run-fresh reports.json.
+    - cron: '0 2,14 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  fetch-bbb-reports:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch 10 pages of BBB Scam Tracker Illinois search results
+        run: |
+          set -e
+          mkdir -p bbb_pages
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+          i=0
+          for FROM in 0 25 50 75 100 125 150 175 200 225; do
+            i=$((i+1))
+            curl -sL --connect-timeout 10 --max-time 25 --retry 2 --retry-delay 3 --retry-connrefused \
+              -A "$UA" \
+              -H "Accept: text/html,application/xhtml+xml" \
+              "https://www.bbb.org/scamtracker/lookupscam?q=state_province%3DUSA%7CIL%26from%3D${FROM}" \
+              -o "bbb_pages/page_${i}.html" || echo "<html></html>" > "bbb_pages/page_${i}.html"
+            sleep 1
+          done
+          echo "Fetched $(ls bbb_pages | wc -l) page(s), sizes:"
+          wc -c bbb_pages/*.html
+
+      - name: Parse BBB's embedded scamResult JSON into reports.json
+        run: |
+          set -e
+          python3 <<'PYEOF'
+          import json
+          import re
+          import sys
+          import glob
+
+          # BBB's search results page is a Next.js app. The results are
+          # embedded server-side in the initial HTML as React Server
+          # Component "flight data" -- a self.__next_f.push([1,"..."]) call
+          # whose string payload, once unescaped, contains a real
+          # {"scamResult": {"total": {"value": N}, "hits": [...]}} JSON
+          # object matching BBB's underlying Elasticsearch response.
+          # Discovered and validated against a real saved page on 2026-08-01
+          # (previously this pipeline used WebFetch/LLM scraping instead,
+          # which was unreliable in unattended sessions -- see project
+          # changelog for the full history).
+
+          def extract_next_f_chunks(html):
+              marker = 'self.__next_f.push([1,"'
+              pos = 0
+              while True:
+                  start = html.find(marker, pos)
+                  if start == -1:
+                      return
+                  i = start + len(marker)
+                  buf_start = i
+                  while i < len(html):
+                      c = html[i]
+                      if c == '\\':
+                          i += 2
+                          continue
+                      if c == '"':
+                          break
+                      i += 1
+                  yield html[buf_start:i]
+                  pos = i + 1
+
+          def unescape_js_string(raw):
+              return json.loads('"' + raw + '"')
+
+          def find_scam_result(html):
+              for raw_chunk in extract_next_f_chunks(html):
+                  if 'scamResult' not in raw_chunk:
+                      continue
+                  try:
+                      text = unescape_js_string(raw_chunk)
+                  except (json.JSONDecodeError, UnicodeDecodeError):
+                      continue
+                  text = re.sub(r'^\d+:', '', text, count=1)
+                  idx = text.find('"scamResult":')
+                  if idx == -1:
+                      continue
+                  obj_start = text.find('{', idx)
+                  try:
+                      obj, _end = json.JSONDecoder().raw_decode(text, obj_start)
+                  except json.JSONDecodeError:
+                      continue
+                  return obj
+              return None
+
+          def normalize_report(hit):
+              src = hit.get('_source', {})
+              city = src.get('target_city') or ''
+              state = src.get('target_state') or ''
+              loc = f"{city}, {state}".strip(', ') if city or state else ''
+              biz = (src.get('scammer_business_name') or '').strip()
+              return {
+                  'date': src.get('createdOn'),
+                  'type': src.get('scam_type') or 'Other',
+                  'city': loc,
+                  'amt': src.get('dollar_value') or 0,
+                  'biz': biz if biz else '—',
+                  'desc': (src.get('description') or '').strip(),
+                  'scam_id': src.get('scam_id'),
+              }
+
+          paths = sorted(glob.glob('bbb_pages/page_*.html'))
+          all_reports = {}
+          max_total = 0
+          pages_ok = 0
+          pages_failed = 0
+
+          for path in paths:
+              with open(path, encoding='utf-8') as f:
+                  html = f.read()
+              result = find_scam_result(html)
+              if result is None:
+                  print(f'WARN: no scamResult found in {path}')
+                  pages_failed += 1
+                  continue
+              pages_ok += 1
+              total_val = (result.get('total') or {}).get('value') or 0
+              max_total = max(max_total, total_val)
+              for hit in result.get('hits', []):
+                  r = normalize_report(hit)
+                  sid = r.get('scam_id')
+                  if sid is None or not r.get('date'):
+                      continue
+                  all_reports[sid] = r
+
+          print(f'{pages_ok} page(s) parsed OK, {pages_failed} failed, '
+                f'{len(all_reports)} unique report(s), reports-on-file={max_total}')
+
+          if pages_ok == 0:
+              print('ERROR: every page failed to parse -- BBB likely changed '
+                    'their page structure and this parser needs updating. '
+                    'Not writing reports.json so the dashboard keeps its '
+                    'last-known-good data instead of going empty.')
+              sys.exit(1)
+
+          reports = sorted(
+              all_reports.values(),
+              key=lambda r: (r['date'], r['scam_id']),
+              reverse=True,
+          )[:100]
+
+          for r in reports:
+              r.pop('scam_id', None)
+
+          with open('reports.json', 'w', encoding='utf-8') as f:
+              json.dump({'reports': reports, 'total_on_file': max_total}, f, indent=2, ensure_ascii=False)
+
+          print(f'Wrote reports.json: {len(reports)} report(s), total_on_file={max_total}')
+          PYEOF
+          rm -rf bbb_pages
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "BBB Fetch Bot"
+          git config user.email "actions@github.com"
+          git add reports.json
+          if git diff --cached --quiet; then
+            echo "No changes to reports.json"
+          else
+            git commit -m "Refresh BBB Illinois scam reports: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
