@@ -3,14 +3,18 @@ name: Fetch Central Illinois Scam News
 on:
   schedule:
     # Runs twice a day, all sources together (GNews, NewsAPI.ai, FBI, SerpApi):
-    #   10:30 UTC = 5:30am Central (CDT) — 30 min before the dashboard refresh task runs
-    #   22:30 UTC = 5:30pm Central (CDT) — second daily pull. Note: the dashboard
-    #   refresh scheduled task itself still only runs once a day (~6am Central),
-    #   so this evening run's fresher news.json/ai_overview.json won't be
-    #   reflected on the live page until the next morning's refresh — it just
-    #   means the morning refresh starts from a more complete, more current
-    #   news.json than a single once-a-day fetch would produce.
-    - cron: '30 10,22 * * *'
+    #   14:00 UTC = 9:00am Central (CDT)
+    #   02:00 UTC = 9:00pm Central (CDT) — previous calendar day locally
+    #   Changed 2026-08-01 from 5:30am/5:30pm to 9am/9pm Central per request.
+    #   Note this flips the prior relationship with the dashboard-refresh
+    #   scheduled task (~11:00 UTC / 6am Central): that digest run now lands
+    #   BETWEEN the two pulls rather than 30 min after the morning one, so it
+    #   picks up whatever news.json the previous night's 9pm pull produced
+    #   (up to ~9h old) rather than a same-morning fresh pull. The 9am pull's
+    #   freshness won't show on the live page until the following morning's
+    #   digest run. If same-day freshness matters more than the 9/9 alignment,
+    #   consider moving the dashboard-refresh task later than 14:00 UTC too.
+    - cron: '0 2,14 * * *'
   workflow_dispatch: {}
 
 jobs:
