@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-07-31",
+  "source": "BBB Scam Tracker — Illinois",
+  "source_url": "https://www.bbb.org/scamtracker/lookupscam",
+  "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
+  "reports": [
+    {
+      "date": "2026-07-31",
+      "type": "Counterfeit Product",
+      "city": "Granite City, IL",
+      "amt": 42.98,
+      "biz": "Niki New York",
+      "desc": "Toy decoration didn't match photos in size or quality; seller offered discounts, then demanded $30 return shipping to a China warehouse."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Romance",
+      "city": "Riverton, IL",
+      "amt": 200,
+      "biz": "Flip",
+      "desc": "Dating app match posed as a military staff sergeant and requested cryptocurrency; led to a flagged $2,950 unauthorized transfer."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Employment",
+      "city": "Tinley Park, IL",
+      "amt": 0,
+      "biz": "Theravion Oncology",
+      "desc": "Fake job offer led to depositing a fraudulent $650 check via mobile banking and sending screenshots to a Telegram contact; bank flagged it and restricted the account."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Online Purchase",
+      "city": "Savanna, IL",
+      "amt": 49.96,
+      "biz": "Danour Inc",
+      "desc": "Ordered 12 pairs of pants with no way to contact the seller about non-delivery."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 90,
+      "biz": "Freshlysmile.com",
+      "desc": "Item never arrived; seller only reachable by email and never resolved the order."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Pulse Performance Products",
+      "desc": "Rep demanded credit card info for a replacement-parts request and became hostile when questioned."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Online Purchase",
+      "city": "Staunton, IL",
+      "amt": 40,
+      "biz": "Justen Trading Co. Limited",
+      "desc": "Seller failed to deliver product after 2-month delay with altered tracking info."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Phishing",
+      "city": "Milan, IL",
+      "amt": 0,
+      "biz": "Wright Kenneth Law Office",
+      "desc": "Unsolicited fax sent to workplace with suspicious automated follow-up response."
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Online Purchase",
+      "city": "Goodfield, IL",
+      "amt": 25,
+      "biz": "Cimamc",
+      "desc": "Ordered dresses never arrived; seller refused full refund despite multiple requests."
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Online Purchase",
+      "city": "Elgin, IL",
+      "amt": 34,
+      "biz": "Molision INC",
+      "desc": "Capri pants order reported as scam."
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Employment",
+      "city": "Lombard, IL",
+      "amt": 1500,
+      "biz": "She Sells Academy",
+      "desc": "Training program charged fee with unfulfilled promises; alleged pyramid scheme."
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Online Purchase",
+      "city": "Cobden, IL",
+      "amt": 39.99,
+      "biz": "Kinky Cubes",
+      "desc": "Advertised product had misleading shipping timeline."
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Counterfeit Product",
+      "city": "Sherman, IL",
+      "amt": 326.27,
+      "biz": "Epi cooler",
+      "desc": "AC units malfunctioned; seller refused full refund and stopped communicating."
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Identity Theft",
+      "city": "Woodlawn, IL",
+      "amt": 0,
+      "biz": "Amazon",
+      "desc": "Unauthorized purchase attempt detected on account."
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Employment",
+      "city": "Wheeling, IL",
+      "amt": 0,
+      "biz": "Mistake freight INC",
+      "desc": "Job scam involving identity documentation submission."
+    }
+  ]
+}
