@@ -252,6 +252,36 @@
   td.date { white-space: nowrap; color: var(--x1-mid-blue); font-weight: 700; }
   td.type { font-weight: 700; }
   td.desc { color: var(--x1-dark); opacity: 0.8; }
+  td.desc .desc-text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    line-height: 1.45;
+    min-height: calc(1.45em * 3);
+  }
+  td.desc .desc-text.is-expanded {
+    -webkit-line-clamp: unset;
+    overflow: visible;
+    min-height: 0;
+  }
+  td.desc .desc-toggle {
+    display: inline-block;
+    visibility: hidden;
+    margin-top: 4px;
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--x1-navy);
+    opacity: 1;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  td.desc .desc-toggle.is-visible { visibility: visible; }
+  td.desc .desc-toggle:hover { color: var(--x1-cyan); }
 
   .pagination {
     display: flex;
@@ -870,6 +900,15 @@
 
   const fmtAmt = n => n > 0 ? ('$' + n.toLocaleString('en-US', {minimumFractionDigits: n % 1 !== 0 ? 2 : 0, maximumFractionDigits: 2})) : '$0';
   const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString('en-US', {month:'short', day:'numeric'});
+  // BBB's own report text sometimes already contains literal HTML entities
+  // (&rsquo; &ldquo; &rdquo; &amp; etc, e.g. "didn&rsquo;t order") rather than
+  // real curly-quote characters. Decode those first (safe textarea trick --
+  // sets as text content, never executes anything), THEN escape for safe
+  // re-insertion -- decode-then-escape, not escape-only, or entities like
+  // &rsquo; render as literal "&rsquo;" text instead of an apostrophe.
+  const entityDecoder = document.createElement('textarea');
+  const decodeEntities = s => { entityDecoder.innerHTML = String(s ?? ''); return entityDecoder.value; };
+  const escapeHtml = s => decodeEntities(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const tbody = document.getElementById('reportBody');
   const paginationEl = document.getElementById('pagination');
   const resultCountEl = document.getElementById('resultCount');
@@ -920,12 +959,26 @@
       const tr = document.createElement('tr');
       tr.innerHTML = `
         <td class="date">${fmtDate(r.date)}</td>
-        <td class="type">${r.type}</td>
-        <td>${r.city}</td>
+        <td class="type">${escapeHtml(r.type)}</td>
+        <td>${escapeHtml(r.city)}</td>
         <td class="num">${fmtAmt(r.amt)}</td>
-        <td>${r.biz}</td>
-        <td class="desc">${r.desc}</td>`;
+        <td>${escapeHtml(r.biz)}</td>
+        <td class="desc">
+          <div class="desc-text">${escapeHtml(r.desc)}</div>
+          <button type="button" class="desc-toggle">Read more</button>
+        </td>`;
       tbody.appendChild(tr);
+    });
+
+    // Rows have uniform height thanks to the 3-line clamp on .desc-text above;
+    // only show the "Read more" toggle on rows where text actually overflows
+    // that clamp (checked post-render since it depends on rendered layout).
+    tbody.querySelectorAll('td.desc').forEach(cell => {
+      const textEl = cell.querySelector('.desc-text');
+      const toggleEl = cell.querySelector('.desc-toggle');
+      if (textEl.scrollHeight > textEl.clientHeight + 1) {
+        toggleEl.classList.add('is-visible');
+      }
     });
 
     resultCountEl.textContent = filtered.length
@@ -953,6 +1006,16 @@
     activeCity = citySearch.value;
     currentPage = 1;
     renderTable();
+  });
+
+  // Delegated once on tbody (rather than per-row) since renderTable() wipes
+  // and rebuilds every row's markup on every filter/search/page change.
+  tbody.addEventListener('click', e => {
+    const btn = e.target.closest('.desc-toggle');
+    if (!btn) return;
+    const textEl = btn.previousElementSibling;
+    const expanded = textEl.classList.toggle('is-expanded');
+    btn.textContent = expanded ? 'Show less' : 'Read more';
   });
 
   renderTable();
