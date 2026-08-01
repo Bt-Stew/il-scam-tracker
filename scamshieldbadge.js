@@ -11,7 +11,9 @@
  *
  * Install by pasting on any page:
  *   <div id="bbb-scam-shield" data-tier="local-guardian"></div>
- *   <script src="https://bt-stew.github.io/il-scam-tracker/scam-shield-badge.js" async></script>
+ *   <script src="https://bt-stew.github.io/il-scam-tracker/scamshieldbadge.js" async></script>
+ *   (Note: the live filename on GitHub Pages has no hyphens — scamshieldbadge.js —
+ *   even though this source file is named scam-shield-badge.js locally.)
  *
  * Optional data-attributes on the container div:
  *   data-tier="local-scout"        "local-scout" | "local-guardian" | "local-sentinel" (default: local-scout)
@@ -38,29 +40,29 @@
   var SELECTOR = '#bbb-scam-shield, [data-bbb-scam-shield]';
   var PLACEHOLDER = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==';
 
-  // NOTE: only "local-scout" image is confirmed live at time of build.
-  // "local-guardian" / "local-sentinel" filenames follow the same naming
-  // convention but should be confirmed (or overridden via data-image) once
-  // those assets are uploaded to bbb.x1marketinginc.com/images/.
+  // All three tiers share one badge image (shield-only.gif) — only the
+  // label, tagline, and accent color change per tier. Override per-instance
+  // via data-image if a tier ever needs its own art.
+  var SHIELD_IMAGE = IMG_BASE + 'shield-only.gif';
   var TIERS = {
     'local-scout': {
       label: 'Local Scout',
       tagline: 'BBB Central Illinois Scam Shield Partner',
-      image: IMG_BASE + 'local-scout.gif',
+      image: SHIELD_IMAGE,
       accent: '#0047BB',
       blurb: 'Local Scout partners help BBB of Central Illinois spot and report emerging scams as they happen.'
     },
     'local-guardian': {
       label: 'Local Guardian',
       tagline: 'BBB Central Illinois Scam Shield Partner',
-      image: IMG_BASE + 'local-guardian.gif',
+      image: SHIELD_IMAGE,
       accent: '#183C50',
       blurb: 'Local Guardian partners actively share scam alerts with their customers and community.'
     },
     'local-sentinel': {
       label: 'Local Sentinel',
       tagline: 'BBB Central Illinois Scam Shield Partner',
-      image: IMG_BASE + 'local-sentinel.gif',
+      image: SHIELD_IMAGE,
       accent: '#B88900',
       blurb: 'Local Sentinel is the highest Scam Shield tier — sustained, ongoing partnership in the fight against fraud in Central Illinois.'
     }
@@ -74,14 +76,14 @@
       + '--bbbss-teal:#183C50;--bbbss-burgundy:#411624;--bbbss-yellow:#F0C400;'
       + '--bbbss-card-bg:#FFFFFF;--bbbss-text:#1a1a1a;--bbbss-muted:#5b6472;--bbbss-border:#e2e6ec;--bbbss-accent:#0047BB;'
       + 'box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;'
-      + 'display:inline-flex;flex-direction:column;align-items:center;gap:10px;width:200px;'
+      + 'display:inline-flex;flex-direction:column;align-items:center;gap:10px;width:220px;'
       + 'padding:16px 14px 14px;border-radius:14px;background:var(--bbbss-card-bg);border:1px solid var(--bbbss-border);'
       + 'box-shadow:0 1px 3px rgba(3,33,96,0.08);position:relative;text-align:center;text-decoration:none;cursor:pointer;'
       + 'transition:box-shadow .2s ease, transform .2s ease;outline:none;}'
       + '.bbbss-badge *{box-sizing:border-box;}'
       + '.bbbss-badge:hover,.bbbss-badge:focus-visible{box-shadow:0 6px 18px rgba(3,33,96,0.16);transform:translateY(-2px);}'
       + '.bbbss-badge.bbbss-dark{--bbbss-card-bg:#0f1d33;--bbbss-text:#f2f4f8;--bbbss-muted:#aeb8c9;--bbbss-border:#233150;}'
-      + '.bbbss-imgwrap{width:96px;height:96px;display:flex;align-items:center;justify-content:center;}'
+      + '.bbbss-imgwrap{width:124px;height:124px;display:flex;align-items:center;justify-content:center;}'
       + '.bbbss-img{max-width:100%;max-height:100%;display:block;opacity:0;transition:opacity .3s ease;}'
       + '.bbbss-img.bbbss-loaded{opacity:1;}'
       + '.bbbss-tier{font-size:14px;font-weight:800;color:var(--bbbss-navy);line-height:1.25;}'
