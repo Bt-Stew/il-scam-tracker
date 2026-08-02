@@ -142,7 +142,7 @@
       theme: ds.theme === 'dark' ? 'dark' : 'light',
       title: ds.title || 'Recent Scam Reports — Central Illinois',
       ctaText: ds.ctaText || 'Report a Scam',
-      ctaUrl: ds.ctaUrl || 'https://www.bbb.org/scamtracker/lookupscam'
+      ctaUrl: ds.ctaUrl || 'https://www.bbb.org/scamtracker/reportscam'
     };
   }
 
