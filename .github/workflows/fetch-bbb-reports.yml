@@ -2,14 +2,19 @@ name: Fetch BBB Illinois Scam Reports
 
 on:
   schedule:
-    # Runs twice a day, 9:00am and 9:00pm Central (CDT):
-    #   14:00 UTC = 9:00am Central
-    #   02:00 UTC = 9:00pm Central (previous calendar day locally)
+    # Runs twice a day, 6:00am and 6:00pm Central (CDT):
+    #   11:00 UTC = 6:00am Central
+    #   23:00 UTC = 6:00pm Central
     # This is the priority pull (BBB reports matter more than the news/AI
-    # Overview pull in fetch-news.yml, which only runs once daily). The
-    # dashboard-refresh scheduled task runs 5 min after each of these
-    # (9:05am/9:05pm Central) so it picks up same-run-fresh reports.json.
-    - cron: '0 2,14 * * *'
+    # Overview pull in fetch-news.yml, which only runs once daily).
+    # Changed 2026-08-03: moved from 9:00am/9:00pm (5 min before the digest)
+    # to 6:00am/6:00pm — GitHub Actions' `schedule` trigger is best-effort
+    # and can lag by hours under high platform load (observed: this pull
+    # scheduled for 14:00 UTC on 2026-08-03 didn't actually run until 16:28
+    # UTC, so the digest task at 14:08 UTC read stale data and skipped its
+    # commit). A 3-hour buffer before the 9:00am/9:00pm digest runs gives
+    # this pull much more room to actually land before the digest reads it.
+    - cron: '0 11,23 * * *'
   workflow_dispatch: {}
 
 jobs:

@@ -3,16 +3,20 @@ name: Fetch Central Illinois Scam News
 on:
   schedule:
     # Runs once a day, all sources together (GNews, NewsAPI.ai, FBI, SerpApi):
-    #   14:00 UTC = 9:00am Central (CDT)
+    #   11:00 UTC = 6:00am Central (CDT)
     #   Changed 2026-08-01: cut from twice daily (9am/9pm Central) to once
     #   daily (9am only), by request — the BBB report pull is the priority
     #   pull and stays twice daily; this news/AI-Overview pull only needs
-    #   once. The digest scheduled task still runs at 9:05am AND 9:05pm
-    #   Central (5 min after each BBB pull); the 9:05pm run picks up
-    #   whatever news.json/ai_overview.json this morning's pull produced
-    #   (same as before, just now the "before" is the only pull of the day
-    #   instead of one of two).
-    - cron: '0 14 * * *'
+    #   once.
+    #   Changed 2026-08-03: moved from 9:00am to 6:00am Central, matching
+    #   the same buffer fix applied to fetch-bbb-reports.yml — GitHub
+    #   Actions' `schedule` trigger can lag by hours under high platform
+    #   load, so pulling 3 hours ahead of the 9:00am digest run gives this
+    #   more room to actually land before the digest reads it. The digest
+    #   scheduled task still runs at 9:00am AND 9:00pm Central; the 9:00pm
+    #   run picks up whatever news.json/ai_overview.json this morning's
+    #   6:00am pull produced (same as before, just shifted earlier).
+    - cron: '0 11 * * *'
   workflow_dispatch: {}
 
 jobs:
