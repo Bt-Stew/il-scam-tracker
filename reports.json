@@ -162,6 +162,14 @@
     },
     {
       "date": "2026-07-30",
+      "type": "Phishing",
+      "city": "Highland, IL",
+      "amt": 0,
+      "biz": "Central help desk And They support all airlines",
+      "desc": "$12"
+    },
+    {
+      "date": "2026-07-30",
       "type": "Online Purchase",
       "city": "Springfield, IL",
       "amt": 90,
@@ -234,11 +242,11 @@
     },
     {
       "date": "2026-07-29",
-      "type": "Counterfeit Product",
-      "city": "Rockford, IL",
-      "amt": 40,
-      "biz": "Uktrendzone",
-      "desc": "Advertised as Comoau ocean and galaxy projector. Nothing but a single image!!!!!! Garbage"
+      "type": "Phishing",
+      "city": "Antioch, IL",
+      "amt": 20000000,
+      "biz": "Avenues To indepence",
+      "desc": "Lavern Miitchell is in my Estate is Disabilied  and needs the non-assist of not going into Any Financial Records of Mitchell-Poyser Family and' is not The True Sister of the Socapath Named: Nadine Mitchell-Poyser IT HelpDesk Supervisor 847-635-1965 on my Bio in Student Profile [ MA English NEIU]"
     },
     {
       "date": "2026-07-29",
@@ -313,12 +321,12 @@
       "desc": "Purchases denim jacket through Spotify.  Never received.   Email links all are now broken"
     },
     {
-      "date": "2026-07-29",
-      "type": "Counterfeit Product",
-      "city": "Peoria, IL",
+      "date": "2026-07-28",
+      "type": "Retail Business",
+      "city": "Tremont, IL",
       "amt": 0,
-      "biz": "Teachabag",
-      "desc": "Teachabag is advertising military grade ultimate survival flashlights. The product shipped is cheap plastic flashlights not even the same size as advertised."
+      "biz": "AUTO PRO'S LLC",
+      "desc": "False website using an actual business address with a similar name. The scammer is using actual bringatrailer.com vehicle listings and importing them to their website at a lower price advertising delivery to the customers door and an online only shopping experience. They send an email invoice to get payment. That is followed by a phone call which was a woman with a foreign accent. When I mentioned the stolen listings she hung up on me."
     },
     {
       "date": "2026-07-28",
@@ -394,11 +402,11 @@
     },
     {
       "date": "2026-07-27",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 82000,
-      "biz": "Cook County",
-      "desc": "Lost wages, as I believed I was being offered employment opportunity."
+      "type": "Phishing",
+      "city": "Kewanee, IL",
+      "amt": 163.2,
+      "biz": "Microsoft / impostor",
+      "desc": "Scam site pretending to be Microsoft has been withdrawing money from my credit card since oct 2025\nCan't contact anyone to file a complaint or get refund"
     },
     {
       "date": "2026-07-26",
@@ -473,12 +481,12 @@
       "desc": "Use of celebrity endorses to\nGet you to purchase product that is ineffective for weight loss.when asked for money back guarantee. Tells me they will give 12%, 14%, and now 20% refund.  Tells me I have not used product long enough.\nOr OK...you will be losing out on your investment if you request refund and pay cost of shipping, product restock etc . .."
     },
     {
-      "date": "2026-07-25",
-      "type": "Other",
-      "city": "Chicago, IL",
-      "amt": 622.96,
-      "biz": "Timeshares Only",
-      "desc": "$25"
+      "date": "2026-07-24",
+      "type": "Online Purchase",
+      "city": "Oak Lawn, IL",
+      "amt": 90,
+      "biz": "Zorkx",
+      "desc": "I purchased an electric grill cleaning brush on June 18, 2026.  At the end of my order, it asked if I would like to buy a second one and I accidentally clicked yes expecting it was just going to confirm my original order.  There was never an opportunity to delete the second one and it automatically had me purchase two.  I contacted customer service asking them to delete the second one and refund me if they could - but if not, I would just take both if it was too late.  I was told they could refund the second one as it had not shipped yet but that it would have to be escalated to a different staff member.  I never heard anything back and I have contacted them numerous times.  The website says that my order never shipped and any time I contact them they say they need to escalate my request to someone else.  Over a month has gone by and my credit card was charged but I never received anything."
     },
     {
       "date": "2026-07-24",
@@ -553,12 +561,12 @@
       "desc": "I was called from number 810-258-5757 and told that our quickbooks payment hadn't gone through. When i asked what company \"Alice Johns\" worked for, she told me she had to look it up--she didn't remember the name of the company she worked for. Obviously a scam. She wanted to speak with whoever was responsible for our accounting. She knew we were a business. She asked me to have them call me back at 877-201-2997. When I started to ask her questions, she responded that she would need to transfer mt to her her more \"senior advisor.\" when I agreed, she hung up on me. Anyways, that was a scam."
     },
     {
-      "date": "2026-07-24",
-      "type": "Investment",
-      "city": "Chicago, IL",
-      "amt": 2431,
-      "biz": "Potemkin Limited",
-      "desc": "In March 2026 I received a cash offer for stock that I own. I filled out the forms and sent in the requested information to the New York Depositary, LLC which posed as a legitimate business.  The letter stated it was a cash offer to purchase shares in MetLife, Inc. by Potemkin Limited. After returning the forms to them, I received a letter in June 2026  acknowledging the transfer of 55 shares valued at $2,431.00 USD. $2,431.00 payment was expected to be sent by check within ten business days.  I have received nothing.  When I try to call the number, it says there is a high volume of calls, and to go to their website to ask questions.  I have not done that as I saw the scam alert BBB has posted.  They also have my Social Security number that was requested to \"avoid backup withholding\"."
+      "date": "2026-07-23",
+      "type": "Phishing",
+      "city": "Hampshire, IL",
+      "amt": 0,
+      "biz": "Process Verification for Franklin County",
+      "desc": "I was called asking to give a message to my ex-husband and was given a case # and a call back #"
     },
     {
       "date": "2026-07-23",
@@ -574,7 +582,7 @@
       "city": "Wheaton, IL",
       "amt": 156.87,
       "biz": "PuriBreeze",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-07-23",
@@ -634,11 +642,11 @@
     },
     {
       "date": "2026-07-23",
-      "type": "Government Agency Imposter",
-      "city": "Rockford, IL",
-      "amt": 125.83,
-      "biz": "Passport-assist",
-      "desc": "Thought I was signing up to get passport. Though that fee being charged was for the passport and that payment would be in a database the post office would access when I went in to register for passport."
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 89.09,
+      "biz": "The Primal Edge",
+      "desc": "I made a purchase with this company on May 19th and they stated that the package had been delivered and that I needed to contact the carrier. I did so and the carrier stated it was lost and it was a fault of their own. I forwarded the email to them and I was told they would get back to me, now they have stopped answering their emails. This has been going on for two months now."
     },
     {
       "date": "2026-07-23",
@@ -715,10 +723,10 @@
     {
       "date": "2026-07-22",
       "type": "Online Purchase",
-      "city": "Mattoon, IL",
-      "amt": 20,
-      "biz": "VitalGuard.com",
-      "desc": "I ordered online from a Facebook post. Ordered June 29 th. Still haven&rsquo;t received the product. When I messaged the company, they messaged back saying the orders were taking longer due to demand( haha). Been 2 more weeks &amp; still nothing. But they wasted no time stealing my $$. Who knows what else they stole ( contact info, my credit card info). Never ordering from FB again."
+      "city": "Harwood Heights, IL",
+      "amt": 130,
+      "biz": "Hormify",
+      "desc": "Hormify is a fraud. they claimed to have delivered product but never received it. When I tried to contact their courier I couldn&rsquo;t get a hold of anyone only message and they just reply package delivered and do not allow you to go further then that. Can never speak to a real person. Be ware do not purchase from them."
     },
     {
       "date": "2026-07-22",
@@ -791,15 +799,7 @@
       "amt": 43.96,
       "biz": "Orvelta",
       "desc": "The item I purchased was not as pictured. I also paid for express shipping and did not receive item until almost a month. I reached out to seller as soon as I received the item and did not received a response. After several emails attempts I finally got a response and provided the requested information along with photos to receive my &ldquo;no hassle refund&rdquo; as it states in the website. I didn&rsquo;t not receive a response until a sent another email letting them know I&rsquo;d be filing a complaint with the BBB. I finally got a response and was only offered 5% refund. I requested a full refund as this is clearly stated on the website. They are now offering 10% refund and want to charge me $20 to return the item. I have chosen to cease communication since they are clearly not honored their refund policy. Please do not purchase anything from this website orvelta.com. They are not honest and do not respond unless you continuously email them and state that you&rsquo;ll be filing a complaint with the BBB."
-    },
-    {
-      "date": "2026-07-22",
-      "type": "Online Purchase",
-      "city": "Willowbrook, IL",
-      "amt": 47.85,
-      "biz": "Olivia Deals",
-      "desc": "I purchased a \"hardcover \" Bible for $4.90. What I received was a PDF file and another charge for $42.95 a week later. I'm glad I caught it sooner because they set up a reoccurring fee of $42.95 to come out. The banker didn't know if it was daily, monthly, or yearly. I had to deactivate my husband's debit card and report it as fraud. If you see it on your bank statement, it'll be under unicoboutique.com."
     }
   ],
-  "total_on_file": 23317
+  "total_on_file": 23318
 }
