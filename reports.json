@@ -2,6 +2,14 @@
   "reports": [
     {
       "date": "2026-08-05",
+      "type": "Advance Fee Loan",
+      "city": "East Moline, IL",
+      "amt": 0,
+      "biz": "Leo",
+      "desc": "A script of the constant voicemail is provided"
+    },
+    {
+      "date": "2026-08-05",
       "type": "Phishing",
       "city": "Brighton, IL",
       "amt": 0,
@@ -73,12 +81,12 @@
       "desc": "They called me and offered me a loan for 3000 dollars I gave them personal information bank information and as of this time im waiting on them to give me a loan agreement"
     },
     {
-      "date": "2026-08-04",
-      "type": "Online Purchase",
-      "city": "Lisle, IL",
-      "amt": 191.07,
-      "biz": "Mary and Susan Savannah.com",
-      "desc": "I purchased several items from Mary and Susan Savannah. The website looked well put together and the items looked cute and for my age/body type. However, I was hesitate because the type of fabric used to make the garments was not listed. But, I thought if I don't like them, I could just return the items. My CC was charged immediately, but it took two weeks to get the items. The fabric is cheap. Tags cut out of the garments. The cut is awful - doesn't fit. When I asked for the return information through the support email - no response. I was going to call or just send items back to the store. No phone or address is listed. So, this was a scam. I believe out of China. And, I am out my money. Shame on me."
+      "date": "2026-08-03",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Sumner, IL",
+      "amt": 0,
+      "biz": "Hedge capital refund bank",
+      "desc": "They contacted me about a refund. And know they want 800 for a debit card to get the refund. So it is another scam"
     },
     {
       "date": "2026-08-03",
@@ -153,12 +161,12 @@
       "desc": "I attempted to purchase a water bottle online through a company called Cicontrol. I input my credit card information and immediately my browser stalled indefinitely. Then I received a notification that I had successfully enrolled in Apple Pay (which I had not). Somehow the scammer used my credit card through Apple Pay for a purchase in Oakbrook Illinois at Sephora and tried to spend over $1,000 at Jewel Osco in Chicago. Attached is a screenshot of the home page of the scam company Cicontrol."
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-02",
       "type": "Phishing",
-      "city": "Belleville, IL",
+      "city": "Elmhurst, IL",
       "amt": 0,
       "biz": "—",
-      "desc": "Recording was saying about documents to be delivered to call and pay to have documents sent ot they will look at my last employment. No company name but gave a docket number which sounded suspicious."
+      "desc": "I'm looking for an apartment on Facebook and they wont meet me on site unless a fill out an application and try to seal my identity first. this is the 2nd time someone tried this on me"
     },
     {
       "date": "2026-08-02",
@@ -233,12 +241,12 @@
       "desc": "A scam that tet messaged me 8 times between July 24, 2026 &amp; July 31, 2026. It claimed they were following up on a \"Lendify\" inquiry for a personal loan for $100,000. No such inquiry happened. They requested I contact (951) 669-6580 to discuss. When I finally responded asking who they were and why they were harrassing me they quickly stopped responding. I noted that I am on the do not call registry."
     },
     {
-      "date": "2026-08-01",
+      "date": "2026-07-31",
       "type": "Online Purchase",
-      "city": "Greenfield, IL",
-      "amt": 0,
-      "biz": "Svelte Training",
-      "desc": "Svelte Training.. watched a video they advertised a bargain, but then it just kept hitting you up for additional services.. all seems to be suspicious, would like to warn others to ignore them as they plaster ads all over facebook, I am in process of getting all monies refunded if not will be filing a new complaint, just ignore them"
+      "city": "Mc Lean, IL",
+      "amt": 39.98,
+      "biz": "Luxesilks",
+      "desc": "Luxesilks,mulberry silk bonnet. Supposed to help with haircare. Ordered it online June22. Got a text June 26 saying it was on it's way, would be delivered in 3-5 days. July 9 I texted them to find out where it was . They said be patient, it's on it's way. Everytime I ask where it is they send me the same message. Be patient it's on it's way.  I told them that I  want my money back $39.98 they said they would give me a 10% refund. I want my money in full not 10%."
     },
     {
       "date": "2026-07-31",
@@ -313,12 +321,12 @@
       "desc": "Rat Fink Collectible Model Toy Halloween Decoration.\nPhoto on website did not match item that I received in size or quality.\nI emailed them back 3 times trying to send item back for refund but they offered discounts on other items twice.\nAnd the third time they gave me an address in China (there  warehouse) were I would have to send the item back to, that would cost me $30.00,  almost the cost of the item. Later I found out they took the item off of there website."
     },
     {
-      "date": "2026-07-30",
-      "type": "Romance",
-      "city": "Riverton, IL",
-      "amt": 200,
-      "biz": "Flip",
-      "desc": "I met a man on flip we talked online for well on the phone for 14 months when he asked me could he send his friend send me $30,000 so that I could send it to him through cryptocurrency I told him no so after I told him, no, he broke up with me and went on ******&nbsp;and friending women with the money I sent him for Internet and I&rsquo;m afraid he&rsquo;s gonna try to scam one of them women too he says he is a staff sergeant in the army stationed in Syria he had his friends sending me money to send to him through cryptocurrency bitcoin and one day they sent me a wire to my bank and it was $2950 and he was giving me some money to pay the doctor in the rest, I sent to him well the police from Pennsylvania called me because they called that transaction back and said it was unauthorized and they were gonna arrest me and I told him what had happened and they dropped the charges against me, but it was a scam. I&rsquo;m sure they said it was."
+      "date": "2026-07-29",
+      "type": "Other",
+      "city": "Northbrook, IL",
+      "amt": 0,
+      "biz": "None stated",
+      "desc": "Received \"FINAL NOTICE\" mail from a home warranty company (name and address not provided) which included the name of my bank/mortgage holder, marked \"Private and Confidential\" with an ID number. This was designed to make me think something was wrong and I had to call \"Andy Perkins\" immediately. Whatever this company is they need to be stopped. I have no doubt they are preying upon the elderly."
     },
     {
       "date": "2026-07-29",
@@ -395,10 +403,10 @@
     {
       "date": "2026-07-29",
       "type": "Employment",
-      "city": "Park Ridge, IL",
+      "city": "Pinckneyville, IL",
       "amt": 0,
-      "biz": "https://www.jemsearchapply.com/",
-      "desc": "$24"
+      "biz": "Healthcare Fraud Solutions",
+      "desc": "Resume"
     },
     {
       "date": "2026-07-29",
@@ -473,12 +481,12 @@
       "desc": "I received a letter urging me to call immediately about my home warranty, and that it is set to lapse and they are going to revoke my eligibility, and that all repairs without this will be more expensive. There was no name, nor address, nor website listed as to who these people were, only a vague reference that it was secured through my credit union. The letter was intentionally scary, and in fine, light print at the bottom it admits that \"Not all consumers have previous protection. We are not affiliated with your current mortgage broker.\" Yet at the top they implied it in heavy dark print."
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-27",
       "type": "Online Purchase",
-      "city": "Pittsfield, IL",
-      "amt": 76.62,
-      "biz": "Supportpipatea.com",
-      "desc": "I ordered 2 get 1 free pipatea. They charged me $76.72 should be 19.99 for 2. Plus they charged me expedite shipping that I didn&rsquo;t order. $9.99"
+      "city": "Springfield, IL",
+      "amt": 37,
+      "biz": "—",
+      "desc": "They post a fake website with fake items to buy"
     },
     {
       "date": "2026-07-27",
@@ -553,12 +561,12 @@
       "desc": "Ad for weight loss patches"
     },
     {
-      "date": "2026-07-27",
-      "type": "Online Purchase",
-      "city": "Mc Leansboro, IL",
-      "amt": 70,
-      "biz": "ascent bicycle.com",
-      "desc": "did not reveil country of orgin"
+      "date": "2026-07-25",
+      "type": "Charity",
+      "city": "Glen Ellyn, IL",
+      "amt": 420,
+      "biz": "Rising Phoenix LLC",
+      "desc": "Women came door to door, asking for donations to cover books and magazines that would help people from underserved communities with job-seeking opportunities."
     },
     {
       "date": "2026-07-25",
@@ -633,12 +641,12 @@
       "desc": "Advertised multiple classic ford truck parts. Contact was thepugh FB Marketplace back and forth on messenger. Once I paid through cash app, I was sent emails from info@imperialcargologistics.com asking for another 300 to ensure that my parts would be insured and would be refunded upon delivery. ,,Once i realized this was all a scam and confronted the seller, they prefessed it was all legit, then ghosted after that."
     },
     {
-      "date": "2026-07-25",
-      "type": "Employment",
-      "city": "Belleville, IL",
+      "date": "2026-07-24",
+      "type": "Phishing",
+      "city": "Channahon, IL",
       "amt": 0,
-      "biz": "Zeus Thermal, inc.",
-      "desc": "$26"
+      "biz": "Disability Center",
+      "desc": "I have received 200 calls a day from an 815 number all with a robotic voice indicating that her name is Debbie and I should return the call about disability services. I have never asked for or received those services and I am not on disability."
     },
     {
       "date": "2026-07-24",
@@ -713,12 +721,12 @@
       "desc": "ORDERED 3 SHIRTS TRIED TO RETURN FOR REFUND AND THERE IS NO WAY TO REACH THEM PHONE NUMBER SAYS THEY ARE NOT AVAILABLE AND EMAIL ADDRESS IS BOGUS.POOR QUALITY PRODUCT."
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-23",
       "type": "Phishing",
       "city": "Chicago, IL",
-      "amt": 945.89,
-      "biz": "PayPal",
-      "desc": "I received this email via email yesterday.    There were a subsequent phone call about it a week ago but I dismissed it as just a scam call but they were for real.\nI think I deleted it if I find it I will send it to you it was a text.   This was sent from a biswanna mondal"
+      "amt": 0,
+      "biz": "Kirkland Myers",
+      "desc": "This message is solely intended for myself in my former married name that I have been divorced for over 10 years. Please press one out to connect with the Kirkland Myers resolution about my account or records indicate we&rsquo;ve been unable to reach you regarding this matter. I have no accounts in collections they keep calling from numerous numbers."
     },
     {
       "date": "2026-07-23",
@@ -791,15 +799,7 @@
       "amt": 0,
       "biz": "Allison Rebbinek ARC",
       "desc": "I received a call from Marcia at Allison Rebbinek ARC she said that I had a loan in the amount of 600 dollars and that now it had accumulated to 3876.51 she also gave me a case #26J-21016851 and said that I needed to pay them or it was gonna come up on my credit. She said that I was sent multiple notices to my address and I said no I haven&rsquo;t receive anything. I hung up and she called me from a different number but I did not answer"
-    },
-    {
-      "date": "2026-07-23",
-      "type": "Online Purchase",
-      "city": "Batavia, IL",
-      "amt": 36.94,
-      "biz": "Try Strawberry",
-      "desc": "i ordered from them in april and they automatically signed me up for autoship and wasn&rsquo;t aware of it. when i sent an email to customer service, they made me pay the difference for the discount that comes with autoship to cancel it. i told them to cancel it when my first purchase was made in april. this morning 7/23, my card was charged for autoship again and they are refusing to cancel the order and give me a full refund."
     }
   ],
-  "total_on_file": 23359
+  "total_on_file": 23360
 }
