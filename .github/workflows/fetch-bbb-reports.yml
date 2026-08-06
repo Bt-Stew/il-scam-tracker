@@ -172,14 +172,48 @@ jobs:
           PYEOF
           rm -rf bbb_pages
 
+      - name: Regenerate widget-data.json (top 15) from reports.json
+        run: |
+          set -e
+          python3 <<'PYEOF'
+          import json
+
+          # Keeps the embeddable carousel widget's static snapshot
+          # (widget-data.json) in sync with reports.json on the same
+          # twice-daily cadence as the rest of this pull, instead of the
+          # one-time 2026-07-31 snapshot it shipped with. widget.js fetches
+          # this file directly at runtime (no API calls, no backend) -- see
+          # widget.js's own header comment and the project changelog for
+          # the full carousel-widget history.
+
+          with open('reports.json', encoding='utf-8') as f:
+              data = json.load(f)
+
+          reports = data.get('reports', [])[:15]
+          newest_date = reports[0]['date'] if reports else None
+
+          payload = {
+              'generated_at': newest_date,
+              'source': 'BBB Scam Tracker — Illinois',
+              'source_url': 'https://www.bbb.org/scamtracker/lookupscam',
+              'dashboard_url': 'https://bt-stew.github.io/il-scam-tracker/',
+              'reports': reports,
+          }
+
+          with open('widget-data.json', 'w', encoding='utf-8') as f:
+              json.dump(payload, f, indent=2, ensure_ascii=False)
+
+          print(f'Wrote widget-data.json: {len(reports)} report(s), generated_at={newest_date}')
+          PYEOF
+
       - name: Commit and push if changed
         run: |
           git config user.name "BBB Fetch Bot"
           git config user.email "actions@github.com"
-          git add reports.json
+          git add reports.json widget-data.json
           if git diff --cached --quiet; then
-            echo "No changes to reports.json"
+            echo "No changes to reports.json / widget-data.json"
           else
-            git commit -m "Refresh BBB Illinois scam reports: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Refresh BBB Illinois scam reports + widget snapshot: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
