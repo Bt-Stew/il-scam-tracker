@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-08-06",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-07-31",
-      "type": "Counterfeit Product",
-      "city": "Granite City, IL",
-      "amt": 42.98,
-      "biz": "Niki New York",
-      "desc": "Toy decoration didn't match photos in size or quality; seller offered discounts, then demanded $30 return shipping to a China warehouse."
+      "date": "2026-08-06",
+      "type": "Online Purchase",
+      "city": "Elkville, IL",
+      "amt": 119.12,
+      "biz": "Lasta",
+      "desc": "$24"
     },
     {
-      "date": "2026-07-30",
-      "type": "Romance",
-      "city": "Riverton, IL",
-      "amt": 200,
-      "biz": "Flip",
-      "desc": "Dating app match posed as a military staff sergeant and requested cryptocurrency; led to a flagged $2,950 unauthorized transfer."
+      "date": "2026-08-05",
+      "type": "Advance Fee Loan",
+      "city": "East Moline, IL",
+      "amt": 0,
+      "biz": "Leo",
+      "desc": "A script of the constant voicemail is provided"
     },
     {
-      "date": "2026-07-30",
-      "type": "Employment",
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Rolling Meadows, IL",
+      "amt": 119.6,
+      "biz": "Modvani",
+      "desc": "Ordered online products. When I attempted to return items they send I had to send all this information in. No contact number only email. I paid for these items, i received items but not what I excepted.  Now I also called Nordstrom and they said they are not a part of them at all. Also if I purchased something you would have the information needed not sure why I need to send something again."
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Palatine, IL",
+      "amt": 46,
+      "biz": "Cozy grips shop",
+      "desc": "Order items off of a website that charged me and never delivered it."
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Plainfield, IL",
+      "amt": 30,
+      "biz": "https://winsleigh.com/",
+      "desc": "Ordered cloths thru this site watched tracking all of a sudden it said delivered  but never was please dont order from this site claims to help with breast cancer but just scams"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Saint Charles, IL",
+      "amt": 168.84,
+      "biz": "Pureveen",
+      "desc": "Pureveen advertises itself as a thyroid balance supplement that is supposed to help people with hypothyroid disease. They have a 90-day satisfaction guarantee or promise a full refund. The product did not work and I was not satisfied, but of course, when I contacted them for a refund they refused. Their 90-day guarantee says you have to use the product for the full 90 days, but they say I don't qualify for a refund because I had a monthly subscription, not a one-time purchase. They offered me only a 20% refund on the last shipment. Also, the phone number they list on their website is a dead line, you just get a busy signal. The address they list in Sheridan, Wyoming, is a known \"front\" for international businesses, mostly from China. When the packages arrive they come from an individual, residential address. It was a different person and address on each shipment. Very suspicious. They advertise on social media like Instagram, Facebook, and TikTok. Don't fall for it! I lost $168 to these scammers."
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Phishing",
       "city": "Tinley Park, IL",
       "amt": 0,
-      "biz": "Theravion Oncology",
-      "desc": "Fake job offer led to depositing a fraudulent $650 check via mobile banking and sending screenshots to a Telegram contact; bank flagged it and restricted the account."
+      "biz": "Stripe 2660 Monterey Rd San Jose CA 95111 USA - IMPOSTER",
+      "desc": "Sent me an email saying I sent a payment to Apple Store via Paypal, contact them if any questions concerning order"
     },
     {
-      "date": "2026-07-30",
-      "type": "Online Purchase",
-      "city": "Savanna, IL",
-      "amt": 49.96,
-      "biz": "Danour Inc",
-      "desc": "Ordered 12 pairs of pants with no way to contact the seller about non-delivery."
-    },
-    {
-      "date": "2026-07-30",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 90,
-      "biz": "Freshlysmile.com",
-      "desc": "Item never arrived; seller only reachable by email and never resolved the order."
-    },
-    {
-      "date": "2026-07-30",
+      "date": "2026-08-05",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Pulse Performance Products",
-      "desc": "Rep demanded credit card info for a replacement-parts request and became hostile when questioned."
+      "amt": 35.98,
+      "biz": "Weresigamewell",
+      "desc": "I play games on my apple tablet. There are ads in between games. I saw an ad for a thing that you attach a propane bottle to and then you pull the trigger and it shoots flames to kill weeds. I ordered it thru that ad. It didn't go to a specific website.  I hit the \"shop now\" button and filled out everything.  I wondered why it hasn't been delivered. I looked at mt cc statement, and I saw the charge for Weresigamewell. I didn't recognize it, so I googled the name and that's where I found out they are scammers."
     },
     {
-      "date": "2026-07-30",
-      "type": "Online Purchase",
-      "city": "Staunton, IL",
-      "amt": 40,
-      "biz": "Justen Trading Co. Limited",
-      "desc": "Seller failed to deliver product after 2-month delay with altered tracking info."
-    },
-    {
-      "date": "2026-07-30",
+      "date": "2026-08-05",
       "type": "Phishing",
-      "city": "Milan, IL",
-      "amt": 0,
-      "biz": "Wright Kenneth Law Office",
-      "desc": "Unsolicited fax sent to workplace with suspicious automated follow-up response."
-    },
-    {
-      "date": "2026-07-30",
-      "type": "Online Purchase",
-      "city": "Goodfield, IL",
-      "amt": 25,
-      "biz": "Cimamc",
-      "desc": "Ordered dresses never arrived; seller refused full refund despite multiple requests."
-    },
-    {
-      "date": "2026-07-29",
-      "type": "Online Purchase",
-      "city": "Elgin, IL",
-      "amt": 34,
-      "biz": "Molision INC",
-      "desc": "Capri pants order reported as scam."
-    },
-    {
-      "date": "2026-07-29",
-      "type": "Employment",
-      "city": "Lombard, IL",
-      "amt": 1500,
-      "biz": "She Sells Academy",
-      "desc": "Training program charged fee with unfulfilled promises; alleged pyramid scheme."
-    },
-    {
-      "date": "2026-07-29",
-      "type": "Online Purchase",
-      "city": "Cobden, IL",
-      "amt": 39.99,
-      "biz": "Kinky Cubes",
-      "desc": "Advertised product had misleading shipping timeline."
-    },
-    {
-      "date": "2026-07-29",
-      "type": "Counterfeit Product",
-      "city": "Sherman, IL",
-      "amt": 326.27,
-      "biz": "Epi cooler",
-      "desc": "AC units malfunctioned; seller refused full refund and stopped communicating."
-    },
-    {
-      "date": "2026-07-29",
-      "type": "Identity Theft",
-      "city": "Woodlawn, IL",
+      "city": "Brighton, IL",
       "amt": 0,
       "biz": "Amazon",
-      "desc": "Unauthorized purchase attempt detected on account."
+      "desc": "$25"
     },
     {
-      "date": "2026-07-29",
-      "type": "Employment",
-      "city": "Wheeling, IL",
-      "amt": 0,
-      "biz": "Mistake freight INC",
-      "desc": "Job scam involving identity documentation submission."
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 62.95,
+      "biz": "Pioyune",
+      "desc": "Pioyune is the name of the company, I purchased clothing from them never received my package,  and I never got my money back"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Counterfeit Product",
+      "city": "Elgin, IL",
+      "amt": 150,
+      "biz": "Zovelyshop",
+      "desc": "Saw product advertised on Facebook.  Went to website and ordered a bundle of 6 items - Garden Fairies.  The product arrived 16 days from order date and were not at all what was advertised on the website.  They are flat cheap metal with dandelions hot glued together - not good for a garden in the hot sun.  They refuse to honor their money-back guarantee.  I have contacted my credit card company."
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Matteson, IL",
+      "amt": 268,
+      "biz": "FYTOO",
+      "desc": "I ordered 2 pair of prescription glasses"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Granite City, IL",
+      "amt": 100,
+      "biz": "Ebikeultimatestore.com",
+      "desc": "Bought and paid for ebikes that after many attempted deliveries (10) never made it here they act like they are investigating  and nothing comes of it... ebikeultimatescam"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Online Purchase",
+      "city": "Oak Lawn, IL",
+      "amt": 53.98,
+      "biz": "Say it with a tea",
+      "desc": "Took forever to ship order then it got &ldquo;lost&rdquo;. I continuously tried contacting them for a little over a year because I wanted what I paid for since they wouldn&rsquo;t give a refund. Their customer service (owner) was awful when they did reply. This screenshot is from today 8/5/26 ??"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "Other",
+      "city": "West Chicago, IL",
+      "amt": 136.24,
+      "biz": "US passport  visa.org",
+      "desc": "I would like to report this website for offering something and charging for a service that is free.  They also inquired about information that is not needed.  They are charging for a visa application and are not a government website. I paid $136.24 for their services and i still have to pay for the actual visa fee.  I requested a refund but 2 days later when i found out they were really not helping with anything for the visa application.  I was denied. Please stop this scam, thanks."
     }
   ]
 }
