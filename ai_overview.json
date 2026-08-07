@@ -1,6 +1,210 @@
 {
-  "generated": false,
+  "generated": true,
   "query": "Central Illinois Scams",
-  "text_blocks": [],
-  "references": []
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Central Illinois residents are currently targeted by fraudulent text messages, phone calls, and imposter home service scams demanding immediate payment or personal details. Local authorities and the Better Business Bureau of Central Illinois urge residents to stay alert.",
+      "snippet_links": [
+        {
+          "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/"
+        }
+      ],
+      "snippet_highlighted_words": [
+        "fraudulent text messages, phone calls, and imposter home service scams demanding immediate payment or personal details"
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        2,
+        8,
+        9
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Trending Scams"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Fake DMV / Toll Texts: Scammers send text messages claiming unpaid tolls, parking fines, or vehicle rebate money, threatening license suspension if you click a link. The State of Illinois never texts about payment.",
+          "snippet_links": [
+            {
+              "link": "https://www.centralillinoisproud.com/news/local-news/tazewell-county-scam-alert/"
+            }
+          ],
+          "reference_indexes": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "snippet": "Imposter Repair Services: Con artists set up fake search engine listings pretending to be real local garage door or HVAC companies, heavily overcharging or sabotaging equipment.",
+          "snippet_links": [
+            {
+              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
+            }
+          ]
+        },
+        {
+          "snippet": "Sheriff / Court Phone Calls: Callers pretend to be local law enforcement or courts claiming you missed a jury duty or court date, demanding payment via Bitcoin or cash to avoid arrest.",
+          "snippet_links": [
+            {
+              "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/"
+            }
+          ]
+        },
+        {
+          "snippet": "Google Listing Verification: Local businesses receive convincing phone calls demanding hundreds of dollars for a \"verification fee\" to keep search profiles active."
+        }
+      ],
+      "reference_indexes": [
+        6
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "How to Protect Yourself"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Do not click links in unexpected text messages or emails regarding government fees, tolls, or tickets."
+        },
+        {
+          "snippet": "Hang up immediately\nif a caller claims to be a sheriff or judge asking for money."
+        },
+        {
+          "snippet": "Verify phone numbers independently before hiring repair technicians instead of clicking the top sponsored search result."
+        },
+        {
+          "snippet": "Report active threats\nor suspicious trends using resources like the BBB Scam Stop Program or the Illinois Attorney General\n.",
+          "snippet_links": [
+            {
+              "text": "Illinois Attorney General",
+              "link": "https://illinoisattorneygeneral.gov/"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you want to check a specific message or situation, tell me:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "were you contacted (text, phone, email)?"
+        },
+        {
+          "snippet": "What did the message or caller claim?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "I can help you figure out if it is a scam."
+    }
+  ],
+  "references": [
+    {
+      "title": "Central Illinois sheriffs warn residents of phone scams",
+      "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/",
+      "snippet": "The scammer tried to solicit money after telling a county resident they missed a court date for a serious crime. ... The scammer grew frustrated with the resident ...",
+      "source": "WCIA.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDhFFW5PP_veP-oGIY6DW7fWbqawiPFsSvfWj90V6MAR49P6HuitJ9NpCijqMeVdhkfpe3Gw",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 0
+    },
+    {
+      "title": "Scammers target Central Illinois with garage door repair ...",
+      "link": "https://www.youtube.com/watch?v=sO7HZceI69s",
+      "snippet": "it's a universal truth your garage door breaks down and you need it fixed. but if you're not careful that repair person might not be who you think they are it's Tu",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTO00hNeT59jf9Kw3rfpRT7Lo_Kp2TwRlL1STdPcT2el6OCQ2PJyZevpz1kuuuLoRPz39BHjY",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 1
+    },
+    {
+      "title": "Tazewell County Sheriff's Office warns of DMV scam",
+      "link": "https://www.centralillinoisproud.com/news/local-news/tazewell-county-scam-alert/",
+      "snippet": "TAZEWELL COUNTY, Ill. (WMBD) \u2014 The Tazewell County Sheriff's Office is warning the public of scammers impersonating the Illinois Department of Motor Vehicles. The ...",
+      "source": "CIProud.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0e7cb0yOKZYMOpBe1GRqQUMgJlQU7ZMAylsZvCEx0DdLbYnLZBIstfWby1Iy6Y3xQVc_yNA",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 2
+    },
+    {
+      "title": "The Illinois Secretary of State is warning residents about a recent ...",
+      "link": "https://www.facebook.com/wandtv/videos/the-illinois-secretary-of-state-is-warning-residents-about-a-recent-surge-in-tex/1627038451872510/",
+      "snippet": "The Illinois secretary of state's office is warning of a scam claiming to be from the ILSOS office or from \u201cIllinois DMV.\u201d The most recent scam is a text message c...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9h_28g4qJU0Vk_Dr1GmodYOZZv5gxFeEQGsBRJKQwPXAZfbdfQ5xQUxExBt44hbUZ8a1EZQ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 3
+    },
+    {
+      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
+      "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/",
+      "snippet": "another day another scam. text there's a new warning from the Secretary of State's office about a wave of scam texts. and phone calls that are impersonating. that ",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyIUxdfTh-VhnV0vjDNpgEDKk3oEReGX5pWAHTxarM5cxYjcNPeUUeCa03wTHFNiKK_JwhxR8",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 4
+    },
+    {
+      "title": "these are scams. The Illinois Secretary of State's office will NEVER text",
+      "link": "https://www.facebook.com/ILSecofState/videos/-illinoisans-across-the-state-are-receiving-threatening-texts-claiming-to-be-fro/2185179292224916/",
+      "snippet": "\ud83d\udea8 Illinoisans across the state are receiving threatening texts claiming to be from our office \u2013 these are scams. The Illinois Secretary of State's office will NEV...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdxjLBKTaQGtpzHUbtIkZq4f7qP_LGqIZWvancpu905MYSmW6BjSx3qp2Yi3HcvAZl1krGA",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 5
+    },
+    {
+      "title": "BBB Scam Stop Program \u2013 Central Illinois Scam Prevention ...",
+      "link": "https://bbbscamstop.com/",
+      "snippet": "Business owners. Residents. City employees. Scammers do not care who picks up. They have written scripts that work on all of us. T...",
+      "source": "bbbscamstop.com",
+      "thumbnail": "https://bbbscamstop.com/",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bbbscamstop.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 6
+    },
+    {
+      "title": "Scams impacting Illinois",
+      "link": "https://www.youtube.com/watch?v=9tWjhREgw8g",
+      "snippet": "in a consumer alert now spring brings a lot of nice things like flowers warm weather. and of course Easter. but the change of season has brought in a new set of sc",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2q-aB_nBykAhWQIxx65drtCpLHi8XTF6pOpocBLLmjDlZCaG1aB6AjvSYTg",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 7
+    },
+    {
+      "title": "THESE TEXTS AREN'T REAL! Scammers are targeting ...",
+      "link": "https://www.facebook.com/ILSecofState/videos/these-texts-arent-real-scammers-are-targeting-illinoisans-with-phony-text-messag/902060445399845/",
+      "snippet": "scammers are targeting Illinoisans with phony text messages. even I got one these scammers are trying to trick you into giving up personal and financial. informati",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw4ldE88YGQGauDXWVL6HU3TcVLHxKre_VH1Vr0cGwm2k-cHNEauVWL46jnekXdxfDDBHgEs",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 8
+    },
+    {
+      "title": "Better Business Bureau of Central IL hosts scam seminar",
+      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
+      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDXPm6SZa0SzLtjQEx0GqjbnNviJ-vQ3WayXKrnvf2MiwFx0KLVcrF1tRFj2xNy2cqhZTo3I",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 9
+    }
+  ]
 }
