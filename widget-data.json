@@ -1,64 +1,88 @@
 {
-  "generated_at": "2026-08-06",
+  "generated_at": "2026-08-07",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-07",
+      "type": "Retail Business",
+      "city": "Chicago, IL",
+      "amt": 339.96,
+      "biz": "My Store",
+      "desc": "Receipt"
+    },
+    {
+      "date": "2026-08-07",
+      "type": "Online Purchase",
+      "city": "Decatur, IL",
+      "amt": 139.8,
+      "biz": "Vebtools",
+      "desc": "I found the site while googling for a new push mower. It seemed like a great deal and the site looked legit so I made the purchase. When I try to track it all it says is processing and when I try to call the number provided on the website I get no answer"
+    },
+    {
+      "date": "2026-08-07",
+      "type": "Home Improvement",
+      "city": "Decatur, IL",
+      "amt": 0,
+      "biz": "Ray Garage Door Repair",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Phishing",
+      "city": "Mascoutah, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Online Purchase",
+      "city": "Effingham, IL",
+      "amt": 40,
+      "biz": "Aiorrox",
+      "desc": "Ordered a product with a return policy. The product was inferior. I asked for label to return. They refused and they offered a 20% coupon off next item purchased and would not accept the item back or a refund. After several emails they gave me a $10.59 credit on my card and i am stuck with an inferior product. They would not honor the return policy stated on the site. Since the purchase i have had attempts made for new credit cards in my name. Not sure if it's this site but suspicious."
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Phishing",
+      "city": "Urbana, IL",
+      "amt": 0,
+      "biz": "Unknown",
+      "desc": "Just annoying calls multiple times a day from this and other types like it. Number is always spoofed. Given number was callback number"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 70,
+      "biz": "Donna's Dresses Charleston",
+      "desc": "I purchased a dress from Donna's Dresses but realized within a few minutes that the company seemed like a scam. I emailed the support email address and asked for a cancellation within 20 minutes. The policy only stated that I was able to cancel my order within 4 hours, but they told me it had to be fulfilled. When I received the dress, it was poor quality, unlike the photo online. When I've emailed to request a refund, no one has responded to me."
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 44.95,
+      "biz": "Santelio",
+      "desc": "I ordered a dress and received the wrong item. I sent pictures and the company said I received the correct item. It was by no means the correct item."
+    },
     {
       "date": "2026-08-06",
       "type": "Online Purchase",
       "city": "Elkville, IL",
       "amt": 119.12,
       "biz": "Lasta",
-      "desc": "$24"
+      "desc": "$26"
     },
     {
-      "date": "2026-08-05",
-      "type": "Advance Fee Loan",
-      "city": "East Moline, IL",
-      "amt": 0,
-      "biz": "Leo",
-      "desc": "A script of the constant voicemail is provided"
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Online Purchase",
-      "city": "Rolling Meadows, IL",
-      "amt": 119.6,
-      "biz": "Modvani",
-      "desc": "Ordered online products. When I attempted to return items they send I had to send all this information in. No contact number only email. I paid for these items, i received items but not what I excepted.  Now I also called Nordstrom and they said they are not a part of them at all. Also if I purchased something you would have the information needed not sure why I need to send something again."
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Online Purchase",
-      "city": "Palatine, IL",
-      "amt": 46,
-      "biz": "Cozy grips shop",
-      "desc": "Order items off of a website that charged me and never delivered it."
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 30,
-      "biz": "https://winsleigh.com/",
-      "desc": "Ordered cloths thru this site watched tracking all of a sudden it said delivered  but never was please dont order from this site claims to help with breast cancer but just scams"
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Healthcare/Medicaid/Medicare",
-      "city": "Saint Charles, IL",
-      "amt": 168.84,
-      "biz": "Pureveen",
-      "desc": "Pureveen advertises itself as a thyroid balance supplement that is supposed to help people with hypothyroid disease. They have a 90-day satisfaction guarantee or promise a full refund. The product did not work and I was not satisfied, but of course, when I contacted them for a refund they refused. Their 90-day guarantee says you have to use the product for the full 90 days, but they say I don't qualify for a refund because I had a monthly subscription, not a one-time purchase. They offered me only a 20% refund on the last shipment. Also, the phone number they list on their website is a dead line, you just get a busy signal. The address they list in Sheridan, Wyoming, is a known \"front\" for international businesses, mostly from China. When the packages arrive they come from an individual, residential address. It was a different person and address on each shipment. Very suspicious. They advertise on social media like Instagram, Facebook, and TikTok. Don't fall for it! I lost $168 to these scammers."
-    },
-    {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "type": "Phishing",
-      "city": "Tinley Park, IL",
+      "city": "Prophetstown, IL",
       "amt": 0,
-      "biz": "Stripe 2660 Monterey Rd San Jose CA 95111 USA - IMPOSTER",
-      "desc": "Sent me an email saying I sent a payment to Apple Store via Paypal, contact them if any questions concerning order"
+      "biz": "None",
+      "desc": "Said last chance to claim allocated waiver"
     },
     {
       "date": "2026-08-05",
@@ -74,7 +98,7 @@
       "city": "Brighton, IL",
       "amt": 0,
       "biz": "Amazon",
-      "desc": "$25"
+      "desc": "$24"
     },
     {
       "date": "2026-08-05",
@@ -86,43 +110,19 @@
     },
     {
       "date": "2026-08-05",
-      "type": "Counterfeit Product",
-      "city": "Elgin, IL",
-      "amt": 150,
-      "biz": "Zovelyshop",
-      "desc": "Saw product advertised on Facebook.  Went to website and ordered a bundle of 6 items - Garden Fairies.  The product arrived 16 days from order date and were not at all what was advertised on the website.  They are flat cheap metal with dandelions hot glued together - not good for a garden in the hot sun.  They refuse to honor their money-back guarantee.  I have contacted my credit card company."
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 49.63,
+      "biz": "Golden Delta",
+      "desc": "Golden Delta is company name, I purchased clothing from them never, received my package nor got my money back"
     },
     {
       "date": "2026-08-05",
       "type": "Online Purchase",
-      "city": "Matteson, IL",
-      "amt": 268,
-      "biz": "FYTOO",
-      "desc": "I ordered 2 pair of prescription glasses"
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Online Purchase",
-      "city": "Granite City, IL",
-      "amt": 100,
-      "biz": "Ebikeultimatestore.com",
-      "desc": "Bought and paid for ebikes that after many attempted deliveries (10) never made it here they act like they are investigating  and nothing comes of it... ebikeultimatescam"
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Online Purchase",
-      "city": "Oak Lawn, IL",
-      "amt": 53.98,
-      "biz": "Say it with a tea",
-      "desc": "Took forever to ship order then it got &ldquo;lost&rdquo;. I continuously tried contacting them for a little over a year because I wanted what I paid for since they wouldn&rsquo;t give a refund. Their customer service (owner) was awful when they did reply. This screenshot is from today 8/5/26 ??"
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Other",
-      "city": "West Chicago, IL",
-      "amt": 136.24,
-      "biz": "US passport  visa.org",
-      "desc": "I would like to report this website for offering something and charging for a service that is free.  They also inquired about information that is not needed.  They are charging for a visa application and are not a government website. I paid $136.24 for their services and i still have to pay for the actual visa fee.  I requested a refund but 2 days later when i found out they were really not helping with anything for the visa application.  I was denied. Please stop this scam, thanks."
+      "city": "Chicago, IL",
+      "amt": 48.49,
+      "biz": "Meanloon",
+      "desc": "Meanloon name of company,  I  purchased clothing from them, never received my package, nor did they give me my money back"
     }
   ]
 }
