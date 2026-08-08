@@ -6,6 +6,14 @@
   "reports": [
     {
       "date": "2026-08-07",
+      "type": "Employment",
+      "city": "Gurnee, IL",
+      "amt": 4297.09,
+      "biz": "—",
+      "desc": "It&rsquo;s website based on 3rd Party Merchandise shipping, you have to use crypto money to pay for the order and that is a Task, I have done 60/60 tasks to get my mom back, then they stopped me for withdrawal the Money and forced me to another 15 more tasks, I don&rsquo;t know what I agreed to and I&rsquo;m forced to pay $496.99 to continue something I&rsquo;ve already finished 60/60 as promised I suppose to get paid and lock my again and make me do tasks"
+    },
+    {
+      "date": "2026-08-07",
       "type": "Retail Business",
       "city": "Chicago, IL",
       "amt": 339.96,
@@ -77,12 +85,12 @@
       "desc": "$26"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-05",
       "type": "Phishing",
-      "city": "Prophetstown, IL",
+      "city": "Tinley Park, IL",
       "amt": 0,
-      "biz": "None",
-      "desc": "Said last chance to claim allocated waiver"
+      "biz": "Stripe 2660 Monterey Rd San Jose CA 95111 USA - IMPOSTER",
+      "desc": "Sent me an email saying I sent a payment to Apple Store via Paypal, contact them if any questions concerning order"
     },
     {
       "date": "2026-08-05",
@@ -115,14 +123,6 @@
       "amt": 49.63,
       "biz": "Golden Delta",
       "desc": "Golden Delta is company name, I purchased clothing from them never, received my package nor got my money back"
-    },
-    {
-      "date": "2026-08-05",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 48.49,
-      "biz": "Meanloon",
-      "desc": "Meanloon name of company,  I  purchased clothing from them, never received my package, nor did they give me my money back"
     }
   ]
 }
