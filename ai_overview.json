@@ -4,22 +4,11 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Central Illinois residents face active scams including fake DMV/Tollway text messages, impostor local repair services, and business directory verification calls. Con artists also target college rental markets and use AI-driven impersonation tactics to steal money or personal details.",
+      "snippet": "Residents in Central Illinois are frequently targeted by common scams involving fake government text messages, impostor calls, online retail fraud, and tech support traps. Fraudsters frequently use artificial intelligence to mimic family members or officials, demanding urgent payments via untraceable methods.",
       "snippet_links": [
         {
-          "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
+          "link": "https://www.youtube.com"
         }
-      ],
-      "snippet_highlighted_words": [
-        "fake DMV/Tollway text messages, impostor local repair services, and business directory verification calls"
-      ],
-      "reference_indexes": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5
       ]
     },
     {
@@ -30,48 +19,37 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Fake DMV & Toll Texts: Fraudulent SMS messages claim you owe money for unpaid tolls or state tickets, threatening license suspension if you click the link.",
+          "snippet": "Fake DMV / Secretary of State Texts: Scammers send text messages claiming your driver\u2019s license or vehicle registration will be suspended unless you click a link to pay an overdue fee. The state never requests payment or personal data via text.",
           "snippet_links": [
             {
-              "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/"
-            }
-          ],
-          "reference_indexes": [
-            6
-          ]
-        },
-        {
-          "snippet": "Impostor Repair Services: Scammers use fake search engine listings and mimic legitimate local garage door or home service companies, overcharging drastically or damaging equipment.",
-          "snippet_links": [
-            {
-              "link": "https://www.youtube.com/watch?v=sO7HZceI69s"
+              "link": "https://www.facebook.com"
             }
           ]
         },
         {
-          "snippet": "Google Listing Calls: Callers pose as Google Business support, threatening local shops with unverified status or lost rankings unless they pay an urgent verification fee."
-        },
-        {
-          "snippet": "Rental & Housing Fraud: Fake landlords copy real property listings to grab deposits and first-month rent from students and movers.",
+          "snippet": "Impostor and AI Scams: Con artists pose as government agents, utility workers, or tech support, using fear and urgency to trick victims into sharing private login details or sending money.",
           "snippet_links": [
             {
-              "link": "https://www.25newsnow.com/video/2025/08/12/60-people-fell-victim-rental-scams-central-illinois-over-past-year-bbb-warns-college-students-watch-out/"
+              "link": "https://www.youtube.com"
             }
           ]
         },
         {
-          "snippet": "AI & Family Impersonation: Scammers use voice tools or artificial intelligence to pretend to be distressed family members or officials demanding immediate payment.",
+          "snippet": "Online Purchase & Pet Scams: Fake shopping sites or classified ads trap buyers looking for retail items or companion pets, taking money via peer-to-peer payment apps without delivering any goods.",
           "snippet_links": [
             {
-              "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
+              "link": "https://westcentralreporter.com"
+            }
+          ]
+        },
+        {
+          "snippet": "Charity & Disaster Fraud: Phony organizations and callers solicit fake donations following emergency events or community tragedies.",
+          "snippet_links": [
+            {
+              "link": "https://ready.illinois.gov"
             }
           ]
         }
-      ],
-      "reference_indexes": [
-        8,
-        9,
-        10
       ]
     },
     {
@@ -82,146 +60,117 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Practice the pause: Stop and think before acting on urgent requests for money or personal data."
-        },
-        {
-          "snippet": "Do not click links:\nNever open unexpected text or email links about tolls, packages, or fees."
-        },
-        {
-          "snippet": "Verify independently: Look up official phone numbers separately rather than trusting caller ID or top search results."
-        },
-        {
-          "snippet": "Report suspicious activity:\nCheck or file reports with the Better Business Bureau of Central Illinois.",
+          "snippet": "Practice the pause: Take a step back when pressured to act immediately. Verify urgent requests by looking up official phone numbers independently.",
           "snippet_links": [
             {
-              "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
+              "link": "https://www.youtube.com"
+            }
+          ]
+        },
+        {
+          "snippet": "Do not click links: Never open unsolicited links or attachments found in text messages or emails regarding tolls, traffic tickets, or package deliveries.",
+          "snippet_links": [
+            {
+              "link": "https://www.wcia.com"
+            }
+          ]
+        },
+        {
+          "snippet": "Guard your data: Never share banking details, passwords, or personal identification numbers over the phone with unknown contacts.",
+          "snippet_links": [
+            {
+              "link": "https://ready.illinois.gov"
+            }
+          ]
+        },
+        {
+          "snippet": "Report suspicious activity: Track and report fraudulent trends using resources like the Federal Trade Commission Fraud Reporting\n\nportal or the local Better Business Bureau of Central Illinois.",
+          "snippet_links": [
+            {
+              "text": "Federal Trade Commission Fraud Reporting",
+              "link": "https://www.google.com/goto?url=CAESPwHuR6pN0PI-9k1JlnthqRmdjxT98g68AP6qx1Bs4ummFpG0pWtPyIwoDyMhKrRML2jzXa3Xvfs7lYeY5j41BQ=="
+            },
+            {
+              "link": "https://www.youtube.com"
             }
           ]
         }
-      ],
-      "reference_indexes": [
-        7
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you want to look into a specific situation, tell me:"
+      "snippet": "If you suspect you've been targeted, tell me:"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "What type of communication or offer\nyou received (a text, a phone call, or a contractor at your door)"
+          "snippet": "were you contacted (text, phone call, email)?"
         },
         {
-          "snippet": "The specific details or claims made by the sender"
+          "snippet": "What did the message or caller claim?"
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "I can help you check if it matches a known regional scam."
+      "snippet": "I can help you confirm if it matches a known active scam in your area."
     }
   ],
   "references": [
     {
       "title": "Better Business Bureau of Central IL hosts scam seminar",
-      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
+      "link": "https://www.youtube.com",
       "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
       "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoXIAdAnE_29rpzzq4kG9Y6L1ti_x-pyhSgQEGp-X6Qz0AqAVgoCIaX_nINSVUDwq_Qd5tfo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqit0ExqBYTIqfDfR9Wi2UQcsChW6yAW0AA0P-K2nmBYjhe1HkQJxS5KaAMf1iAC1dKN7hzDxc",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 0
     },
     {
-      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
-      "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/",
-      "snippet": "another day another scam. text there's a new warning from the Secretary of State's office about a wave of scam texts. and phone calls that are impersonating. that ",
+      "title": "THESE TEXTS AREN'T REAL! Scammers are targeting ...",
+      "link": "https://www.facebook.com",
+      "snippet": "scammers are targeting Illinoisans with phony text messages. even I got one these scammers are trying to trick you into giving up personal and financial. informati",
       "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKsB8YFYQBMevL1XxYUQvqrnyWdGiqaL3MbXY8hhv8aRxULmobMFB7aDiIdDyoxS_KzVFA6BU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEfUZUDNE1JI36XvFBYwkloQ041Hh1g7WvADDYehXHZSI84m3nmPmxKAlMtk3aVIYU_rNNhK4",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 1
     },
     {
-      "title": "Scammers target Central Illinois with garage door repair ...",
-      "link": "https://www.youtube.com/watch?v=sO7HZceI69s",
-      "snippet": "it's a universal truth your garage door breaks down and you need it fixed. but if you're not careful that repair person might not be who you think they are it's Tu",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1bd7thcQunidveftayQHrS2NDmRbsGcOs9feijuAYfgfwbt7AcnNHGVOyA",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Scams - Division of Public Safety - University of Illinois",
+      "link": "https://www.police.illinois.edu",
+      "snippet": "Tech Support and Hacking. These scams involve fake warnings that your computer, phone, or account has been hacked. Scammers may ask for remote access, login inform...",
+      "source": "University of Illinois Urbana-Champaign",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiuufkX2RhnLfL7Sk9KU1Cl6y7S7e4CzOvSzgRbcKtw4S__xwO781OsZuJKVwgChLDGWH5wPuP",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.police.illinois.edu&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 2
     },
     {
-      "title": "BBB Scam Stop Program \u2013 Central Illinois Scam Prevention ...",
-      "link": "https://bbbscamstop.com/",
-      "snippet": "Business owners. Residents. City employees. Scammers do not care who picks up. They have written scripts that work on all of us. T...",
-      "source": "bbbscamstop.com",
-      "thumbnail": "https://bbbscamstop.com/",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bbbscamstop.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Prairie City tied for 81st among Illinois cities for June scam reports",
+      "link": "https://westcentralreporter.com",
+      "snippet": "Prairie City logged one scam report in June 2026 and was one of 157 cities tied for 81st among 237 Illinois cities with at least one BBB Scam Tracker report, accor...",
+      "source": "West Central Reporter",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRySv5ccVABeKo2xIMMCW8qmdQAfBhSW5G3aDSPLLaVoR2Ttd_xOTFslO1In3OeNWEEEZPGEiAf",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://westcentralreporter.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 3
     },
     {
-      "title": "As 60 people fell victim to rental scams in Central Illinois ...",
-      "link": "https://www.25newsnow.com/video/2025/08/12/60-people-fell-victim-rental-scams-central-illinois-over-past-year-bbb-warns-college-students-watch-out/",
-      "snippet": "it is movein time at the college and the university. level for students and the fall semester. but the BBB has a warning renters beware good Tuesday evening i'm Ty",
-      "source": "WEEK | 25 News Now",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRByfwHwjQ72byExZ9kGHTqFmnPV3id5GUpZSgZmWcNQCkrLq1LmBKvfGDeQw",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Beware of Scams - Ready Illinois",
+      "link": "https://ready.illinois.gov",
+      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
+      "source": "Ready Illinois (.gov)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGRoEsvG0lXSXczUA6zDVbpyP4yXX-0FjnkULt22sIUsIjtnc_9TqDr0AhGXTuWoNqTpPoGNFLCVP9u8Y",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ready.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "Better Business Bureau of Central IL hosts scam seminar",
-      "link": "https://www.yahoo.com/news/us/articles/practice-pause-better-business-bureau-005747131.html",
-      "snippet": "Derrick Mitchell Thu, July 23, 2026 at 12:57 AM UTC 2 min read Add Yahoo as a preferred source to see more of our stories on Googl...",
-      "source": "Yahoo",
-      "thumbnail": "https://www.yahoo.com/news/us/articles/practice-pause-better-business-bureau-005747131.html",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 5
-    },
-    {
-      "title": "THESE TEXTS AREN'T REAL! Scammers are targeting ...",
-      "link": "https://www.facebook.com/ILSecofState/videos/these-texts-arent-real-scammers-are-targeting-illinoisans-with-phony-text-messag/902060445399845/",
-      "snippet": "scammers are targeting Illinoisans with phony text messages. even I got one these scammers are trying to trick you into giving up personal and financial. informati",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyo0fXMyLb332ppaavhrQIIZbrEt1UqnxkPuDlARi1DwZXQsgiGL1hhuCKYI3vBqsAFoqjpk",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 6
-    },
-    {
-      "title": "Two Central Illinois sheriffs are taking to social media to inform ...",
-      "link": "https://www.facebook.com/wandtv/posts/two-central-illinois-sheriffs-are-taking-to-social-media-to-inform-people-about-/1286151230224827/",
-      "snippet": "Scammers call random citizens claiming to be with the Kane County Sheriff's Office and request payment for supposed outstanding warrants, citations or a legal matt...",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSAQAuCtig67qfaVEvyXdiIiUG_ODHe-hOIB0XzhFW98LpxOBbBStsMFAY9q_QdgaiWGeCJw",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 7
-    },
-    {
-      "title": "PCSD warns residents of scam callers impersonating family members - YouTube",
-      "link": "https://www.youtube.com/watch?v=6k14YBfYJE4",
-      "snippet": "PCSD warns residents of scam callers impersonating family members the Pima County Sheriff's Department reminding residents to be aware of scammers using AI with ne...",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwsc24t3nGclbsCNHekhsnrNcLCLZA0Ux_WTXgsLi19FBXWlLuVkTU0auJJLTPhXhOgoisBw",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 8
-    },
-    {
-      "title": "Protect Yourself from Scams \\u0026 Fraud",
-      "link": "https://listerhill.com/scam-center",
-      "snippet": "Yes. Voice-cloned scams frequently imitate family members asking for help with fake emergencies. A safe word system can help prevent this.",
-      "source": "Listerhill Credit Union",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbX4BIgQ1GzrNjinfuTi95KCQI8iyNF2LyUDlagofG59evL_nCeJpBZBkzxZ1gPBRHdoLRsA",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://listerhill.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 9
-    },
-    {
-      "title": "Beware of these scam texts targeting Central IL package customers ...",
-      "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/",
+      "title": "Beware of these scam texts targeting Central IL package ...",
+      "link": "https://www.wcia.com",
       "snippet": "Beware of these scam texts targeting Central IL package customers ahead of the holidays * Claiming a payment is needed or overdue. * Claiming a payment is needed f...",
       "source": "WCIA.com",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHIumFil9FoKYRwj8VO5r5CxooxQaBs5NfXoBq0nwQFOms6wAU9tDLZEhAfueRRfcxYwWXQQ",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiw2oNrHlQnqv01jJZ4z6hMrAI5mf9keqqkS9D6awxa88zW6yEsZEcs2vFZARqbHLy6gbC5y48",
       "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 10
+      "index": 5
     }
   ]
 }
