@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-08-10",
+  "generated_at": "2026-08-11",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-11",
+      "type": "Employment",
+      "city": "Milan, IL",
+      "amt": 0,
+      "biz": "Credera Inc",
+      "desc": "I was contacted by email from Megan Hall, Talent Acquisition Specialist, with Credera Inc by email. They received an application for Order Processing &amp; Data Entry Coordinator position. They offered to move me forward in the interview process by booking a 30 minute interview with Ava Wilson, using Microsoft Teams. I communicated with them only on Microsoft Teams. They then offered me the position with an employment agreement. They had me proceed with the onboarding process through the Credera Secure Employment Enrollment Portal by uploading a signed copy of employment agreement, completed FW4 form, Copy of my State ID, and current mailing address. My social security number was listed on the W4 form. They sent me a check for $3850.12 to deposit into my bank account for office and tech supplies. At this point, I stopped communicating with them and reported it as a scam."
+    },
+    {
+      "date": "2026-08-11",
+      "type": "Identity Theft",
+      "city": "Troy, IL",
+      "amt": 0,
+      "biz": "Regions Bank",
+      "desc": "Called the phone number, told them some medical info then they asked for my phone number"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "Other",
+      "city": "Champaign, IL",
+      "amt": 215,
+      "biz": "Chris mobile mechanic",
+      "desc": "This guy advertised his business and I sent him a message on his business page and we agreed on a set price but he wanted the money up front so I sent him money for parts and labor but then he demanded more money before he would come out to do the work,I asked him for my money back and he refused to do so and never came and did anything to my truck"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "Online Purchase",
+      "city": "Smithton, IL",
+      "amt": 69.98,
+      "biz": "Tiktok ad Km* Vzyreva Zyreva.Com CA.",
+      "desc": "I clicked on an ad to purchase an outfit from TikTok and it took me to an outer website with the same picture of the item which was a two piece set, which was biker shorts and the oversized T-shirt and they took the amount out twice of 34.99 which totaled to 69.98. I never received my item or a refund or anything and I have been trying to fight to get my money back for months and I have not got anything back or any product. From the link of a see site sorrel&rsquo;s and the transaction was listed as Km* Vzyreva Zyreva.Com CA. On my bank statement"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Phishing",
+      "city": "Metropolis, IL",
+      "amt": 0,
+      "biz": "JK Ogata Law Group",
+      "desc": "They have contacted me several times stating that someone is going to take my trademark and that I need to let them register it for me. Also if I do not that they will file for the \"other applicant\" and then sue me for using my name."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Phishing",
+      "city": "Millstadt, IL",
+      "amt": 6000,
+      "biz": "Fliff",
+      "desc": "Won money on their platform and then the said it was fraud and didn&rsquo;t pay"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Online Purchase",
+      "city": "Mattoon, IL",
+      "amt": 39.99,
+      "biz": "Licklo",
+      "desc": "Ordered a dog brush from a Facebook ad for Licklo. There was no indication that I was signing up for a subscription but was subsequently charged $39.99 from EM-PAWWZONE. Reported fraud to my bank and got money back. A month later EM-PAWWZONE attempted to again charge the stolen card for $39.99 but charge was denied. I have contacted my bank to make sure there is no way for this biller to access my funds. There is no way to contact Licklo nor is there any contact information for EM-PAWWZONE to cancel the recurring subscription."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Cobden, IL",
+      "amt": 75000,
+      "biz": "Publisher's Clearinghouse Impostor",
+      "desc": "Grandmother responded to mail regarding PCH winnings, was coerced into believing she had won and was required to pay taxes. Scammers pretended to also be IRS. She paid $75,000 in \"taxes\" to receive winnings. Phone numbers included 516-585-7678, 516-899-7022, 518-226-9837, 205-205-4144. Alias used James Goodman, Senior Choice Ins LLC, FDIC Susan Janet, Dave Sayer, Dave Goodman."
+    },
     {
       "date": "2026-08-10",
       "type": "Employment",
@@ -21,108 +85,44 @@
       "desc": "$24"
     },
     {
-      "date": "2026-08-10",
-      "type": "Phishing",
-      "city": "Edwardsville, IL",
-      "amt": 0,
-      "biz": "none",
-      "desc": "Just calling and leaving messages to talk to me about an important matter"
-    },
-    {
-      "date": "2026-08-09",
-      "type": "Phishing",
-      "city": "Taylorville, IL",
-      "amt": 0,
-      "biz": "Gateway Warehouse Corporation",
-      "desc": "I received a package on August 6th.  The name was Martina Rodriguez and the address is 1000 State Street in Calumet City Illinois.  This is the ad of Gateway Warehouse Corporation.  Inside was a lotion named Unicorn Fruit.  I did order this item.  I am calling Gateway tomorrow to inform them.  This person has my address.  Please advise."
-    },
-    {
-      "date": "2026-08-09",
+      "date": "2026-08-08",
       "type": "Online Purchase",
-      "city": "Greenville, IL",
-      "amt": 0,
-      "biz": "Paw Warz",
-      "desc": "It tries to get you to sign up for an email newsletter and it only has just this one cat tower listed and you can buy one for 129 dollars or two for 208. They only use AI generated media for their promotions, pictures of the so called product, and even in the \"reviews\" it uses ai generated pictures from AI videos they used for tiktok."
+      "city": "Park Forest, IL",
+      "amt": 50,
+      "biz": "Aueinry Clothing",
+      "desc": "After I ordered the merchandise I wanted they said that my order was processed a few weeks later they said it was on its way after that I got a text saying it was delivered but it wasn&rsquo;t so I reached out to them again and it was the same thing as the first time"
     },
     {
-      "date": "2026-08-09",
-      "type": "Employment",
-      "city": "East Peoria, IL",
-      "amt": 0,
-      "biz": "Amazon",
-      "desc": "Offered a job with Amazon\nCall 645-241-3705"
-    },
-    {
-      "date": "2026-08-09",
-      "type": "Retail Business",
-      "city": "Metamora, IL",
-      "amt": 0,
-      "biz": "Douglas: The Cuddle Toy Imposter",
-      "desc": "This is a fake website made to look identical to the actual website. It collects your payment information and then tells you that it needs you to enter a verification code from your bank to proceed, but the code never arrives."
+      "date": "2026-08-08",
+      "type": "Counterfeit Product",
+      "city": "Naperville, IL",
+      "amt": 59.95,
+      "biz": "Hair-Team",
+      "desc": "I found The University of Michigan sun glasses online and I purchased them with a visa gift card. What arrived in the mail was a cheap doesn&rsquo;t look anything like it. I contacted the company with no response. The name Charles Pike appeared on shop  app . The company that was promoting them I believe. He has an address in North Carolina I believe."
     },
     {
       "date": "2026-08-08",
       "type": "Online Purchase",
-      "city": "Moline, IL",
-      "amt": 86,
-      "biz": "Whirlpool General Domestic USA",
-      "desc": "$25"
+      "city": "Woodstock, IL",
+      "amt": 78,
+      "biz": "Compression Socks World",
+      "desc": "When you purchase the item from the website, you are involuntarily put in a \"subscription\" service for $39 a month without any onscreen notice or ability to opt out.\nI had confused the first charge for the original order of the socks. But it is a recurring charge and looking to see that I had been charged twice. On the second charge, I put up a dispute with PayPal and unsubscribed from the 'service'.\nFor this money I received 3 pairs of socks and some spam messages in my email. No additional product or any other item of value for that subscription charge."
+    },
+    {
+      "date": "2026-08-08",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 140,
+      "biz": "USA Special Process Servers",
+      "desc": "Spoke to scammer and said he would give my tenant a 5 day service notice."
     },
     {
       "date": "2026-08-08",
       "type": "Online Purchase",
-      "city": "Palos Heights, IL",
-      "amt": 0,
-      "biz": "Harer Mrran",
-      "desc": "I received an unsolicited package from this address by USPS Ground Advantage. The item that I received was a \"panoramic rearview mirror.\" I have received several other unsolicited packages in the last few months, but not from this return address."
-    },
-    {
-      "date": "2026-08-08",
-      "type": "Online Purchase",
-      "city": "Greenup, IL",
-      "amt": 55,
-      "biz": "Vaultabags",
-      "desc": "Ordered a bag from vaulta bags on Facebook I paid with my American Xpress card called and the purchase went through no email explanation"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Phishing",
-      "city": "Mascoutah, IL",
-      "amt": 0,
-      "biz": "None",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Online Purchase",
-      "city": "Effingham, IL",
-      "amt": 40,
-      "biz": "Aiorrox",
-      "desc": "Ordered a product with a return policy. The product was inferior. I asked for label to return. They refused and they offered a 20% coupon off next item purchased and would not accept the item back or a refund. After several emails they gave me a $10.59 credit on my card and i am stuck with an inferior product. They would not honor the return policy stated on the site. Since the purchase i have had attempts made for new credit cards in my name. Not sure if it's this site but suspicious."
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Online Purchase",
-      "city": "Olympia Fields, IL",
-      "amt": 49,
-      "biz": "Forlest",
-      "desc": "It took a long time to get the item and stated if does not fit contact the company first and we need to pay for our own return"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Phishing",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "Unknown",
-      "desc": "Just annoying calls multiple times a day from this and other types like it. Number is always spoofed. Given number was callback number"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 70,
-      "biz": "Donna's Dresses Charleston",
-      "desc": "I purchased a dress from Donna's Dresses but realized within a few minutes that the company seemed like a scam. I emailed the support email address and asked for a cancellation within 20 minutes. The policy only stated that I was able to cancel my order within 4 hours, but they told me it had to be fulfilled. When I received the dress, it was poor quality, unlike the photo online. When I've emailed to request a refund, no one has responded to me."
+      "city": "Glencoe, IL",
+      "amt": 34,
+      "biz": "Brenner Bakery - Rhinebeck NY",
+      "desc": "Brenner Bakery describes a Rhinebeck NY bakery owned by Hollis and Cathy Brenner who are closing their bakery after 40 years.  It claims to be selling handmade beeswax bread storage bags.  In reality there is no bricks and mortar bakery in Rhinebeck and the cheaply made, mass production bags come from China.  Attached is a photo of the bag shown on the website as what is being ordered/paid for.  The actual bag doesn't remotely resemble the finely crafted bag.  It has a plastic lining and black clips to close it.  Seller would not refund purchase price and credit card company did not classify as fraud despite dramatic differences in website photos.  Out the $34."
     }
   ]
 }
