@@ -6,6 +6,14 @@
   "reports": [
     {
       "date": "2026-08-10",
+      "type": "Employment",
+      "city": "Mt Zion, IL",
+      "amt": 0,
+      "biz": "Victoria Hayes",
+      "desc": "Victoria Hayes claims to work for Amazon and wants to recruit me. H??????????????????ello there, Victoria Hayes speaking&mdash;I represent Amazon's distant staffing division.\nYour skills stood out to us, and we think you'd be ideal for a part-time online assignment.\nYou would help Amazon business owners fine-tune their product entries to increase consumer reach.\n&bull; Daily commitment: 60&ndash;90 minutes, 4 days per week\n&bull; Pay band: $100&ndash;$600 per day (guaranteed $5,300 per 30 working days)\n&bull; Bonus items: Free guided training + 15&ndash;20 annual days of holiday pay\nRight now, 18 candidates are needed. If you are over 24 and interested, please text &ldquo;More Info&rdquo; to 5168711276"
+    },
+    {
+      "date": "2026-08-10",
       "type": "Online Purchase",
       "city": "Chicago, IL",
       "amt": 39.95,
@@ -37,6 +45,22 @@
       "desc": "It tries to get you to sign up for an email newsletter and it only has just this one cat tower listed and you can buy one for 129 dollars or two for 208. They only use AI generated media for their promotions, pictures of the so called product, and even in the \"reviews\" it uses ai generated pictures from AI videos they used for tiktok."
     },
     {
+      "date": "2026-08-09",
+      "type": "Employment",
+      "city": "East Peoria, IL",
+      "amt": 0,
+      "biz": "Amazon",
+      "desc": "Offered a job with Amazon\nCall 645-241-3705"
+    },
+    {
+      "date": "2026-08-09",
+      "type": "Retail Business",
+      "city": "Metamora, IL",
+      "amt": 0,
+      "biz": "Douglas: The Cuddle Toy Imposter",
+      "desc": "This is a fake website made to look identical to the actual website. It collects your payment information and then tells you that it needs you to enter a verification code from your bank to proceed, but the code never arrives."
+    },
+    {
       "date": "2026-08-08",
       "type": "Online Purchase",
       "city": "Moline, IL",
@@ -61,28 +85,36 @@
       "desc": "Ordered a bag from vaulta bags on Facebook I paid with my American Xpress card called and the purchase went through no email explanation"
     },
     {
-      "date": "2026-08-08",
-      "type": "Other",
-      "city": "Romeoville, IL",
+      "date": "2026-08-06",
+      "type": "Phishing",
+      "city": "Mascoutah, IL",
       "amt": 0,
-      "biz": "Joe Kelly Auto sales",
-      "desc": "I saw a truck I was interested in purchasing online. Www.joekellyautosales.com I contacted the business and asked for photos of the truck I was interested in. I liked it and made an offer. My offer was accepted I told the salesman it would take me a few days to get the money together he said no problem just send a photo copy of my drivers license. I told him I was driving and that if he sent me the paperwork I would send it back. He said he would ship the vehicle to my address at no extra cost. I told him my street was being resurfaced and that I could meet them at my local police department. Since then I haven&rsquo;t been able to contact them. This morning 8/8/26 I saw the exact same photos of the trucks I was looking at on a different website for a dealership in PA www.Butlerautotrucksales.com."
+      "biz": "None",
+      "desc": "$24"
     },
     {
-      "date": "2026-08-08",
+      "date": "2026-08-06",
       "type": "Online Purchase",
-      "city": "Mount Carmel, IL",
-      "amt": 189,
-      "biz": "uspassport-online.org",
-      "desc": "I was trying to renew my passport and really thought it was a legitimate website, and I feel stupid for even falling for it, I\nshould know better.  I filled out the info and paid the fee and never heard back from them.  When I checked online for the\nstatus, this was where I found I was scammed.  I find it harder to believe that this website is still up and running when it looks like the BBB knows about it and it's not shut down yet.  Will I be able to get my money back?  Is there something\nmore I can do to get this place shut down?  Can I file charges?"
+      "city": "Effingham, IL",
+      "amt": 40,
+      "biz": "Aiorrox",
+      "desc": "Ordered a product with a return policy. The product was inferior. I asked for label to return. They refused and they offered a 20% coupon off next item purchased and would not accept the item back or a refund. After several emails they gave me a $10.59 credit on my card and i am stuck with an inferior product. They would not honor the return policy stated on the site. Since the purchase i have had attempts made for new credit cards in my name. Not sure if it's this site but suspicious."
     },
     {
-      "date": "2026-08-08",
-      "type": "Credit Cards",
-      "city": "Bluford, IL",
+      "date": "2026-08-06",
+      "type": "Online Purchase",
+      "city": "Olympia Fields, IL",
+      "amt": 49,
+      "biz": "Forlest",
+      "desc": "It took a long time to get the item and stated if does not fit contact the company first and we need to pay for our own return"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Phishing",
+      "city": "Urbana, IL",
       "amt": 0,
-      "biz": "Account Services",
-      "desc": "$26"
+      "biz": "Unknown",
+      "desc": "Just annoying calls multiple times a day from this and other types like it. Number is always spoofed. Given number was callback number"
     },
     {
       "date": "2026-08-06",
@@ -91,38 +123,6 @@
       "amt": 70,
       "biz": "Donna's Dresses Charleston",
       "desc": "I purchased a dress from Donna's Dresses but realized within a few minutes that the company seemed like a scam. I emailed the support email address and asked for a cancellation within 20 minutes. The policy only stated that I was able to cancel my order within 4 hours, but they told me it had to be fulfilled. When I received the dress, it was poor quality, unlike the photo online. When I've emailed to request a refund, no one has responded to me."
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Phishing",
-      "city": "Carol Stream, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "called to try to get money for a computer program"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Phishing",
-      "city": "Winfield, IL",
-      "amt": 708.19,
-      "biz": "Melt Drops",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Employment",
-      "city": "Maywood, IL",
-      "amt": 3400,
-      "biz": "Depotrac",
-      "desc": "I was scammed out of work I started working on June 8 an never received my paycheck it&rsquo;s now August 6 an still no check"
-    },
-    {
-      "date": "2026-08-06",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Lakeside and associates",
-      "desc": "Kathy Moore left two voicemails on 8/5/26 and 8/6/26 stating she was with LAKESIDE ASSOCIATES and that it was a civil complaint filed against me. They are going to go to an address I no longer live at and on an undisclosed date and time to serve me papers. I should call them back to discuss how I want to settle the matter. I googled the number and name of the company, but nothing of use was generated. I've received calls like this before."
     }
   ]
 }
