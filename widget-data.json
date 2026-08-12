@@ -1,40 +1,120 @@
 {
-  "generated_at": "2026-08-11",
+  "generated_at": "2026-08-12",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-08-11",
-      "type": "Employment",
-      "city": "Milan, IL",
-      "amt": 0,
-      "biz": "Credera Inc",
-      "desc": "I was contacted by email from Megan Hall, Talent Acquisition Specialist, with Credera Inc by email. They received an application for Order Processing &amp; Data Entry Coordinator position. They offered to move me forward in the interview process by booking a 30 minute interview with Ava Wilson, using Microsoft Teams. I communicated with them only on Microsoft Teams. They then offered me the position with an employment agreement. They had me proceed with the onboarding process through the Credera Secure Employment Enrollment Portal by uploading a signed copy of employment agreement, completed FW4 form, Copy of my State ID, and current mailing address. My social security number was listed on the W4 form. They sent me a check for $3850.12 to deposit into my bank account for office and tech supplies. At this point, I stopped communicating with them and reported it as a scam."
+      "date": "2026-08-12",
+      "type": "Online Purchase",
+      "city": "West Frankfort, IL",
+      "amt": 72,
+      "biz": "Rosabella beet pills",
+      "desc": "I saw their ad on Amazon and decided to order Rosabella beet pills.  I paid $72.00 for 6 bottles, buy 3, get 3 free it said.  My card was debited and I never received the product.  I want my back.  It is a scam."
     },
     {
-      "date": "2026-08-11",
-      "type": "Identity Theft",
-      "city": "Troy, IL",
-      "amt": 0,
-      "biz": "Regions Bank",
-      "desc": "Called the phone number, told them some medical info then they asked for my phone number"
+      "date": "2026-08-12",
+      "type": "Online Purchase",
+      "city": "Grayville, IL",
+      "amt": 160,
+      "biz": "Snitch Street",
+      "desc": "I ordered two toys for grandchildren. 4 emails later, no response. They scammed me for 160.00 dollars."
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-12",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Yates City, IL",
+      "amt": 995,
+      "biz": "Readers digest",
+      "desc": "Readers digest, won new mercedes 2.5 million sent 2 amazon cards 500.00 and. One for 485.00 now they want 2500.for delivery fee on a paper scratch card"
+    },
+    {
+      "date": "2026-08-12",
       "type": "Other",
-      "city": "Champaign, IL",
-      "amt": 215,
-      "biz": "Chris mobile mechanic",
-      "desc": "This guy advertised his business and I sent him a message on his business page and we agreed on a set price but he wanted the money up front so I sent him money for parts and labor but then he demanded more money before he would come out to do the work,I asked him for my money back and he refused to do so and never came and did anything to my truck"
+      "city": "Peoria, IL",
+      "amt": 140,
+      "biz": "WinRed",
+      "desc": "WinRed has fraudulently charged me at least four times on my credit card in order to force me to contribute without my consent. I have disputed this each time, and they keep doing it. I never signed up for reoccurring charges. There is no way to get ahold of anyone. They have a phone number and an email address support@winred.com that no one will respond to. The only way of receiving a refund is by going through my credit card."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 69.78,
+      "biz": "UMB Bank",
+      "desc": "Bought 2 Kobalt batteries.  UMB helped this fraud be done to me"
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 50,
+      "biz": "Achandise",
+      "desc": "Ordered on July 16th. Said it was delivered on August 8th. Handed off to a person and I never received.  No customer service only email and they keep sending me the tracking show. It was handed off to an individual."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Debt Collections",
+      "city": "East Moline, IL",
+      "amt": 0,
+      "biz": "National Document Services",
+      "desc": "A man called me using a local area code asking me if I would be home to sign a legal document. When I said no he told me I needed to call National Document Services at (888) 980-5825 and that he would put my account on hold for 30 minutes to give me time to settle the issue."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Fairfield, IL",
+      "amt": 114,
+      "biz": "Tiktok",
+      "desc": "They said I was award money for scrolling wouldn&rsquo;t let me back out of page and next thing I knew money was being taken out of my account from my virtual wallet on my phone I am struggling to dispute charges as they are still pending and they took everything in my account"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "Debt Collections",
+      "city": "Columbia, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "They keep calling everyday trying to collect a debt from 2018"
     },
     {
       "date": "2026-08-11",
       "type": "Online Purchase",
-      "city": "Smithton, IL",
-      "amt": 69.98,
-      "biz": "Tiktok ad Km* Vzyreva Zyreva.Com CA.",
-      "desc": "I clicked on an ad to purchase an outfit from TikTok and it took me to an outer website with the same picture of the item which was a two piece set, which was biker shorts and the oversized T-shirt and they took the amount out twice of 34.99 which totaled to 69.98. I never received my item or a refund or anything and I have been trying to fight to get my money back for months and I have not got anything back or any product. From the link of a see site sorrel&rsquo;s and the transaction was listed as Km* Vzyreva Zyreva.Com CA. On my bank statement"
+      "city": "Granite City, IL",
+      "amt": 24.99,
+      "biz": "Cozya Home",
+      "desc": "They got my name, address and account info which I had to cancel that card."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Other",
+      "city": "Naperville, IL",
+      "amt": 0,
+      "biz": "Zybra Inc",
+      "desc": "I received three packages in the mail that I did not order thinking it is a brushing scam. The first two packages I threw away because that&rsquo;s what it said to do online but I have pictures of everything. The third package I still have is unopened and it has a USPS shipping label tracking number 9400136208423334180821."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Phishing",
+      "city": "Elmhurst, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Got this voicemail&mdash;   A member of our hi, this is Matt.  I wanted to call and confirm that we received your request for your tax debt review and preliminarily it looks like we'll be able to help.  I want to make sure I understand your tax situation.  I know tax debt can be super frustrating and hard to deal with, but we have new programs to eliminate or reduce your tax debt substantially.  Please give me a call back at 217-394-8983 when you get a chance.  That number again is 217-394-8983.  Looking forward to your call.  As always, these programs have limited eligibility want to get you in it as soon"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Counterfeit Product",
+      "city": "Chicago, IL",
+      "amt": 250.75,
+      "biz": "Margot & Ivy Greenville",
+      "desc": "The scam company represented itself as a company in Greenville, SC however no such company exists. The supposed owner &ldquo;Margot&rdquo; does not exist either. They have no address and no phone number, and the clothing items are not authentic. They don't even have the label required by federal law."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Phishing",
+      "city": "Downers Grove, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "Recieve in the mail are very official looking &ldquo;final notice&rdquo; with my mortgage company info all over, saying it was an allocated waiver, and appeared to be a check for me."
     },
     {
       "date": "2026-08-10",
@@ -43,86 +123,6 @@
       "amt": 0,
       "biz": "JK Ogata Law Group",
       "desc": "They have contacted me several times stating that someone is going to take my trademark and that I need to let them register it for me. Also if I do not that they will file for the \"other applicant\" and then sue me for using my name."
-    },
-    {
-      "date": "2026-08-10",
-      "type": "Phishing",
-      "city": "Millstadt, IL",
-      "amt": 6000,
-      "biz": "Fliff",
-      "desc": "Won money on their platform and then the said it was fraud and didn&rsquo;t pay"
-    },
-    {
-      "date": "2026-08-10",
-      "type": "Online Purchase",
-      "city": "Mattoon, IL",
-      "amt": 39.99,
-      "biz": "Licklo",
-      "desc": "Ordered a dog brush from a Facebook ad for Licklo. There was no indication that I was signing up for a subscription but was subsequently charged $39.99 from EM-PAWWZONE. Reported fraud to my bank and got money back. A month later EM-PAWWZONE attempted to again charge the stolen card for $39.99 but charge was denied. I have contacted my bank to make sure there is no way for this biller to access my funds. There is no way to contact Licklo nor is there any contact information for EM-PAWWZONE to cancel the recurring subscription."
-    },
-    {
-      "date": "2026-08-10",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Cobden, IL",
-      "amt": 75000,
-      "biz": "Publisher's Clearinghouse Impostor",
-      "desc": "Grandmother responded to mail regarding PCH winnings, was coerced into believing she had won and was required to pay taxes. Scammers pretended to also be IRS. She paid $75,000 in \"taxes\" to receive winnings. Phone numbers included 516-585-7678, 516-899-7022, 518-226-9837, 205-205-4144. Alias used James Goodman, Senior Choice Ins LLC, FDIC Susan Janet, Dave Sayer, Dave Goodman."
-    },
-    {
-      "date": "2026-08-10",
-      "type": "Employment",
-      "city": "Mt Zion, IL",
-      "amt": 0,
-      "biz": "Victoria Hayes",
-      "desc": "Victoria Hayes claims to work for Amazon and wants to recruit me. H??????????????????ello there, Victoria Hayes speaking&mdash;I represent Amazon's distant staffing division.\nYour skills stood out to us, and we think you'd be ideal for a part-time online assignment.\nYou would help Amazon business owners fine-tune their product entries to increase consumer reach.\n&bull; Daily commitment: 60&ndash;90 minutes, 4 days per week\n&bull; Pay band: $100&ndash;$600 per day (guaranteed $5,300 per 30 working days)\n&bull; Bonus items: Free guided training + 15&ndash;20 annual days of holiday pay\nRight now, 18 candidates are needed. If you are over 24 and interested, please text &ldquo;More Info&rdquo; to 5168711276"
-    },
-    {
-      "date": "2026-08-10",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 39.95,
-      "biz": "Erth Labs",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-08",
-      "type": "Online Purchase",
-      "city": "Park Forest, IL",
-      "amt": 50,
-      "biz": "Aueinry Clothing",
-      "desc": "After I ordered the merchandise I wanted they said that my order was processed a few weeks later they said it was on its way after that I got a text saying it was delivered but it wasn&rsquo;t so I reached out to them again and it was the same thing as the first time"
-    },
-    {
-      "date": "2026-08-08",
-      "type": "Counterfeit Product",
-      "city": "Naperville, IL",
-      "amt": 59.95,
-      "biz": "Hair-Team",
-      "desc": "I found The University of Michigan sun glasses online and I purchased them with a visa gift card. What arrived in the mail was a cheap doesn&rsquo;t look anything like it. I contacted the company with no response. The name Charles Pike appeared on shop  app . The company that was promoting them I believe. He has an address in North Carolina I believe."
-    },
-    {
-      "date": "2026-08-08",
-      "type": "Online Purchase",
-      "city": "Woodstock, IL",
-      "amt": 78,
-      "biz": "Compression Socks World",
-      "desc": "When you purchase the item from the website, you are involuntarily put in a \"subscription\" service for $39 a month without any onscreen notice or ability to opt out.\nI had confused the first charge for the original order of the socks. But it is a recurring charge and looking to see that I had been charged twice. On the second charge, I put up a dispute with PayPal and unsubscribed from the 'service'.\nFor this money I received 3 pairs of socks and some spam messages in my email. No additional product or any other item of value for that subscription charge."
-    },
-    {
-      "date": "2026-08-08",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Chicago, IL",
-      "amt": 140,
-      "biz": "USA Special Process Servers",
-      "desc": "Spoke to scammer and said he would give my tenant a 5 day service notice."
-    },
-    {
-      "date": "2026-08-08",
-      "type": "Online Purchase",
-      "city": "Glencoe, IL",
-      "amt": 34,
-      "biz": "Brenner Bakery - Rhinebeck NY",
-      "desc": "Brenner Bakery describes a Rhinebeck NY bakery owned by Hollis and Cathy Brenner who are closing their bakery after 40 years.  It claims to be selling handmade beeswax bread storage bags.  In reality there is no bricks and mortar bakery in Rhinebeck and the cheaply made, mass production bags come from China.  Attached is a photo of the bag shown on the website as what is being ordered/paid for.  The actual bag doesn't remotely resemble the finely crafted bag.  It has a plastic lining and black clips to close it.  Seller would not refund purchase price and credit card company did not classify as fraud despite dramatic differences in website photos.  Out the $34."
     }
   ]
 }
