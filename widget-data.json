@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-08-13",
+  "generated_at": "2026-08-14",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-08-13",
-      "type": "Phishing",
-      "city": "Dupo, IL",
+      "date": "2026-08-14",
+      "type": "Online Purchase",
+      "city": "Cuba, IL",
+      "amt": 53,
+      "biz": "https://www.maynardhandmade.com/products/kalsten-lucky-love-wind-chimes",
+      "desc": "Identified ad on facebook.  Helping a Disabled Veteran.  Checked out the website: BBB A+, Veteran certified, claiming to be Handmade out of horseshoes, pictures of Jordan Maynard, Supporting US Disabled Vets,  looks perfectly legit.  Ordered 2 chimes, never received after almost a month, inquired customer support (86+ country number China), received 2 bogus USPS tracking #s, finally received product, they are junk, not handmade, not of horseshoe material (probable 3D printed), string to hold, not leather as pictured.  Requested refund and will only give 30%.  It's a hoax using a disabled US Military Veteran as the ploy. maynardhandmade.com  (purchase worry free)  BS"
+    },
+    {
+      "date": "2026-08-14",
+      "type": "Advance Fee Loan",
+      "city": "Springfield, IL",
       "amt": 0,
-      "biz": "Kirkland Myers",
-      "desc": "Have received several messages saying to use the number on my caller ID to contact Kirkland Myers to resolve my account. I do not have debts in collection. After so many attempts, I checked with BBB to see if this is a scam, and here we are! I have not reached back out to the number."
+      "biz": "Anchor Lending",
+      "desc": "Constant phone calls."
+    },
+    {
+      "date": "2026-08-14",
+      "type": "Online Purchase",
+      "city": "Winchester, IL",
+      "amt": 25.99,
+      "biz": "Gansu Deze Tongtu Trading Co., Ltd.  Mimuy",
+      "desc": "I ordered a set of shorts that were supposedly being cleared out.  After a few weeks, I inquired and was sent a tracking number.  The tracking number is bogus and leads to Tracy718, but it does not give any results.  It just buffers and then says unavailable.  I've emailed probably 15 different times, and I'm now being told they need to keep 15.99 because the logistics company won't refund it.  They still won't refund the remaining balance of 10.00.  It's an endless loop of dead-end emails."
+    },
+    {
+      "date": "2026-08-14",
+      "type": "Advance Fee Loan",
+      "city": "Peoria, IL",
+      "amt": 0,
+      "biz": "Anchor Loan",
+      "desc": "Repeat phone calls claiming I'm pre-approved for a loan"
+    },
+    {
+      "date": "2026-08-14",
+      "type": "Online Purchase",
+      "city": "Decatur, IL",
+      "amt": 37.84,
+      "biz": "Dmitrivoro",
+      "desc": "I ordered a bundle of eight pairs of jeans on July 27, 2026 and was given no tracking number. My pants have not arrived yet."
+    },
+    {
+      "date": "2026-08-14",
+      "type": "Online Purchase",
+      "city": "Romeoville, IL",
+      "amt": 349,
+      "biz": "Vendplacer",
+      "desc": "This company present itself as a platform helping to look for a vending machine locations. They provided listing and contact potential location. I paid  $349.00 for the subscription. Aftet subscribing, I found multiple issues that makes me believed that it was scam. I received  response from the 2 property managers then nothing since then. I tried calling the said property and the name of the property manager does not exist.  I emailed vendplacer but no response from them. I got charged for $ 349.00 for subscription.  I am waiting for the refund."
+    },
+    {
+      "date": "2026-08-14",
+      "type": "Phishing",
+      "city": "Brussels, IL",
+      "amt": 0,
+      "biz": "Just said documents delivery sevices",
+      "desc": "Here&rsquo;s the message\n****** ******.  I am calling on behalf of document delivery services.  We have been retained to schedule and deliver legal documents to you between the hours of 8 a.m. and 4 PM at either your home or your place of employment.  We'll be making only two attempts to deliver these documents, which will require a signature as proof of delivery.  If we are unable to deliver these documents after 2 attempts, it will be classified as a failed action to serve, which will result in the pending matter to proceed further without your consent.  If you have any questions or if you need to reschedule this delivery, press one now to be connected to the next available representative, or you can call the office directly at ************&nbsp;and reference your file number 2026 757165.  Please be advised this call has been logged and submitted as proof you have been notified of this vending legal matter.  Have a good day."
     },
     {
       "date": "2026-08-13",
       "type": "Online Purchase",
-      "city": "Kirkwood, IL",
-      "amt": 50,
-      "biz": "sales@cubesofficial.com",
-      "desc": "I was given a fake tracking number, when the USPS looked it up, they advised it was a scam and the tracking number isn&rsquo;t legit."
-    },
-    {
-      "date": "2026-08-13",
-      "type": "Other",
-      "city": "Wood Dale, IL",
-      "amt": 70,
-      "biz": "Waterpikk",
-      "desc": "Bought a waterpik through this website. Never got a confirmation email but took a screenshot of the order number. Contacted the actual company which told me this was a fake website. Called my bank and they said no transaction occured. Fast forward a week and someone in another state is taking ubers using my card info using apple pay. I called my bank again and they cancel my card. The website pops up only at night. Possibly to avoid detection by the real company. Scam website looks official."
-    },
-    {
-      "date": "2026-08-13",
-      "type": "Debt Collections",
-      "city": "Park Forest, IL",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Rock Bend Solutions Debt Collections Phishing and Identity Theft Scam",
-      "desc": "Sent an official looking letter with very careful wording, suggesting a lot of money and a settlement number, also language suggesting if I didn&rsquo;t call them in ten days I would be subject to massive fines"
+      "biz": "Harer Mrran",
+      "desc": "My wife received a panoramic rearview mirror we didn't order. From a sender that appears to be fabricated. It seems like a brushing scam but I can't figure out how to stop it (usually she gets small empty envelopes)"
     },
     {
       "date": "2026-08-13",
-      "type": "Other",
-      "city": "Morrison, IL",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Elk Grove Village, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "I was looking at buying a Mrs. Meyer's Clean Day product on Amazon. I use Rakuten and it gave me a suggestion saying that the item was cheaper through the Mrs. Meyer's website. So I clicked on the link and went to place an order. It kept saying that my payment method was not supported by the website. I googled what that meant and saw that someone had posted on Reddit a month ago saying it is a scam website. The real website is mrsmeyers.com the scam website is mrsmeyers.it.com. I don't understand why Rakuten would direct me to a scam website. I would have never found it on my own."
+      "biz": "Owen Nolan",
+      "desc": "Received a notification from Shop App saying purchased a software for a PC. Wanted me to call if it wasn't me purchasing this. Had my email address."
+    },
+    {
+      "date": "2026-08-13",
+      "type": "Phishing",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Tax resolution",
+      "desc": "Tax resolution"
     },
     {
       "date": "2026-08-12",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 172,
-      "biz": "Kittysupps",
-      "desc": "Kittysupps\nMy one time order has turned into auto ship despite my contacting them vie email.  Was told my subscription was cancelled but they keep sending product and charging my card. Their website says 30 day refund, but they will not honor it"
+      "amt": 80,
+      "biz": "PatioLuxeCo",
+      "desc": "I receive a delivery confirmation email, but the items purchased/expected did not arrive. Several attempts were made to get location information of the delivery.\nTwo days before, I received a small manila bubble envelope delivered via USPS to home mailbox. Inside were two purple cross charms. Baffled, I did a Google search on the shipper's address. Here's what I learned.\n&nbsp;\nSHIPPING DEPARTMENT\nSTE 313\n20 HAYPRESS RD\nCRANDBURY, NJ 08512-3421\n&nbsp;\nThis address is heavily linked to online purchase scams (such as bait-and-switch orders) and \"brushing\" scams. Unfortunately, I had no clue the Purple Crosses were related and they were tossed out."
     },
     {
       "date": "2026-08-12",
-      "type": "Employment",
-      "city": "Aurora, IL",
+      "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 50,
+      "biz": "Achandise",
+      "desc": "Ordered on July 16th. Said it was delivered on August 8th. Handed off to a person and I never received.  No customer service only email and they keep sending me the tracking show. It was handed off to an individual."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Debt Collections",
+      "city": "East Moline, IL",
       "amt": 0,
-      "biz": "Bad Brother",
-      "desc": "The site presents itself as a generic employment/recruiting site, but its own page immediately tells applicants that they need to obtain a credit report before proceeding. The Indeed posting soon disappeared afterwards."
-    },
-    {
-      "date": "2026-08-12",
-      "type": "Online Purchase",
-      "city": "West Frankfort, IL",
-      "amt": 72,
-      "biz": "Rosabella beet pills",
-      "desc": "I saw their ad on Amazon and decided to order Rosabella beet pills.  I paid $72.00 for 6 bottles, buy 3, get 3 free it said.  My card was debited and I never received the product.  I want my back.  It is a scam."
-    },
-    {
-      "date": "2026-08-12",
-      "type": "Online Purchase",
-      "city": "Grayville, IL",
-      "amt": 160,
-      "biz": "Snitch Street",
-      "desc": "I ordered two toys for grandchildren. 4 emails later, no response. They scammed me for 160.00 dollars."
+      "biz": "National Document Services",
+      "desc": "A man called me using a local area code asking me if I would be home to sign a legal document. When I said no he told me I needed to call National Document Services at (888) 980-5825 and that he would put my account on hold for 30 minutes to give me time to settle the issue."
     },
     {
       "date": "2026-08-12",
       "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Yates City, IL",
-      "amt": 995,
-      "biz": "Readers digest",
-      "desc": "Readers digest, won new mercedes 2.5 million sent 2 amazon cards 500.00 and. One for 485.00 now they want 2500.for delivery fee on a paper scratch card"
+      "city": "Fairfield, IL",
+      "amt": 114,
+      "biz": "Tiktok",
+      "desc": "They said I was award money for scrolling wouldn&rsquo;t let me back out of page and next thing I knew money was being taken out of my account from my virtual wallet on my phone I am struggling to dispute charges as they are still pending and they took everything in my account"
     },
     {
       "date": "2026-08-11",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 470,
-      "biz": "Emptyoo",
-      "desc": "I ordered a Christmas tree and sham. It looked cheap so I returned it with their authorization. They offered me money to keep it. I refused. I paid $134 for shipping to return them. At first, they said they would issue the refund. Then they said I rejected it. Now, they won&rsquo;t respond. I am out of $470.00."
-    },
-    {
-      "date": "2026-08-11",
-      "type": "Phishing",
-      "city": "Romeoville, IL",
+      "type": "Debt Collections",
+      "city": "Columbia, IL",
       "amt": 0,
-      "biz": "Legal",
-      "desc": "I will put the transcription of the voicemail here.\n\"This is not a sales or marketing call, this is a legal notification and an attempt to make contact with (my real name first and last). Hello, my name is Monica, calling from the processor's office regarding file number 2020-16810. 888-762-3470. Again, the number is 888-762-3470.\"\nI called back and &ldquo;Monica&rdquo; wanted me to confirm my &ldquo;file&rdquo;. She asked me to verify my first and last name, which I did not. I told her I&rsquo;m not confirming or denying anything until I speak to whoever called me. The tone shifted quickly and &ldquo;Monica&rdquo; became aggressive. I told her they can try again because I don&rsquo;t respond well to threats. The number looked familiar to me so I checked my contacts and that number is the same number for advent health pharmacy which is legitimate"
-    },
-    {
-      "date": "2026-08-11",
-      "type": "Fake Check/Money Order",
-      "city": "Freeport, IL",
-      "amt": 0,
-      "biz": "No name used",
-      "desc": "Got letter in mail that said the letter was inform me about important matter regarding home I just bought.said to call a number to verify information and sent a thing that looks like a check for $199"
-    },
-    {
-      "date": "2026-08-11",
-      "type": "Online Purchase",
-      "city": "Aurora, IL",
-      "amt": 64,
-      "biz": "Donnas Dresses",
-      "desc": "I ordered a dress and it didn&rsquo;t fit. The website looked like a reputable boutique. When I requested a return I was put off with another email and asked for several reasons for return. What a scam! I still have no refund. I believe merchandise came from China.\nNo phone number available. Scary. Please help!"
-    },
-    {
-      "date": "2026-08-11",
-      "type": "Online Purchase",
-      "city": "Nebo, IL",
-      "amt": 80,
-      "biz": "Ponneteous.com",
-      "desc": "Bought 4 pair of shoes. No tracking number given no response to email"
+      "biz": "None",
+      "desc": "They keep calling everyday trying to collect a debt from 2018"
     }
   ]
 }
