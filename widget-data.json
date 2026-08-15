@@ -78,11 +78,19 @@
     },
     {
       "date": "2026-08-13",
-      "type": "Phishing",
-      "city": "Belleville, IL",
+      "type": "Tech Support",
+      "city": "Plano, IL",
       "amt": 0,
-      "biz": "Tax resolution",
-      "desc": "Tax resolution"
+      "biz": "Geek Squad",
+      "desc": "The person stole an old credit number from me. And made a charge of $422. On Geek squad online, they refuse to listen to me and hang up on me several times. I have asked them many times to cancel the charge then they tell me I needed to download Whatsapp, I told them no to please cancel it the refused. This happens daily. It is really annoying me. I did try to talk to them but they are rude, and hang up."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 69.78,
+      "biz": "UMB Bank",
+      "desc": "Bought 2 Kobalt batteries.  UMB helped this fraud be done to me"
     },
     {
       "date": "2026-08-12",
@@ -115,14 +123,6 @@
       "amt": 114,
       "biz": "Tiktok",
       "desc": "They said I was award money for scrolling wouldn&rsquo;t let me back out of page and next thing I knew money was being taken out of my account from my virtual wallet on my phone I am struggling to dispute charges as they are still pending and they took everything in my account"
-    },
-    {
-      "date": "2026-08-11",
-      "type": "Debt Collections",
-      "city": "Columbia, IL",
-      "amt": 0,
-      "biz": "None",
-      "desc": "They keep calling everyday trying to collect a debt from 2018"
     }
   ]
 }

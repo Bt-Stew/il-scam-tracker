@@ -74,11 +74,19 @@
     },
     {
       "date": "2026-08-13",
-      "type": "Phishing",
-      "city": "Belleville, IL",
+      "type": "Tech Support",
+      "city": "Plano, IL",
       "amt": 0,
-      "biz": "Tax resolution",
-      "desc": "Tax resolution"
+      "biz": "Geek Squad",
+      "desc": "The person stole an old credit number from me. And made a charge of $422. On Geek squad online, they refuse to listen to me and hang up on me several times. I have asked them many times to cancel the charge then they tell me I needed to download Whatsapp, I told them no to please cancel it the refused. This happens daily. It is really annoying me. I did try to talk to them but they are rude, and hang up."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 69.78,
+      "biz": "UMB Bank",
+      "desc": "Bought 2 Kobalt batteries.  UMB helped this fraud be done to me"
     },
     {
       "date": "2026-08-12",
@@ -154,11 +162,11 @@
     },
     {
       "date": "2026-08-11",
-      "type": "Advance Fee Loan",
-      "city": "Kankakee, IL",
-      "amt": 0,
-      "biz": "npautoins.com",
-      "desc": "I am unsure about the questions before this because I was applying for a loan and one of the texts has what I reported and said refund of 615 dollars for safe driving. just opened haven't found out yet if anything has happened because of opening"
+      "type": "Debt Collections",
+      "city": "Hamilton, IL",
+      "amt": 1156.63,
+      "biz": "National Debt Recovery Department",
+      "desc": "$24"
     },
     {
       "date": "2026-08-11",
@@ -190,7 +198,7 @@
       "city": "Mokena, IL",
       "amt": 435,
       "biz": "Emily Homestead",
-      "desc": "$24"
+      "desc": "$25"
     },
     {
       "date": "2026-08-11",
@@ -233,12 +241,12 @@
       "desc": "Called the phone number, told them some medical info then they asked for my phone number"
     },
     {
-      "date": "2026-08-11",
-      "type": "Other",
-      "city": "Champaign, IL",
-      "amt": 215,
-      "biz": "Chris mobile mechanic",
-      "desc": "This guy advertised his business and I sent him a message on his business page and we agreed on a set price but he wanted the money up front so I sent him money for parts and labor but then he demanded more money before he would come out to do the work,I asked him for my money back and he refused to do so and never came and did anything to my truck"
+      "date": "2026-08-10",
+      "type": "Counterfeit Product",
+      "city": "Chicago, IL",
+      "amt": 250.75,
+      "biz": "Margot & Ivy Greenville",
+      "desc": "The scam company represented itself as a company in Greenville, SC however no such company exists. The supposed owner &ldquo;Margot&rdquo; does not exist either. They have no address and no phone number, and the clothing items are not authentic. They don't even have the label required by federal law."
     },
     {
       "date": "2026-08-10",
@@ -313,12 +321,12 @@
       "desc": "Grandmother responded to mail regarding PCH winnings, was coerced into believing she had won and was required to pay taxes. Scammers pretended to also be IRS. She paid $75,000 in \"taxes\" to receive winnings. Phone numbers included 516-585-7678, 516-899-7022, 518-226-9837, 205-205-4144. Alias used James Goodman, Senior Choice Ins LLC, FDIC Susan Janet, Dave Sayer, Dave Goodman."
     },
     {
-      "date": "2026-08-10",
-      "type": "Online Purchase",
-      "city": "Mundelein, IL",
-      "amt": 121.64,
-      "biz": "Gianna New York",
-      "desc": "Ordered form Gianna New York. Received inferior products. Sent e mail to start return. Was told I had to pay to send it to China for return. NOTHING on the website mentioned China.  Told me I could get a 15% return of send to China for 60.00 to get full refund! I have all emails saved."
+      "date": "2026-08-09",
+      "type": "Phishing",
+      "city": "Taylorville, IL",
+      "amt": 0,
+      "biz": "Gateway Warehouse Corporation",
+      "desc": "I received a package on August 6th.  The name was Martina Rodriguez and the address is 1000 State Street in Calumet City Illinois.  This is the ad of Gateway Warehouse Corporation.  Inside was a lotion named Unicorn Fruit.  I did order this item.  I am calling Gateway tomorrow to inform them.  This person has my address.  Please advise."
     },
     {
       "date": "2026-08-09",
@@ -393,12 +401,12 @@
       "desc": "This is a fake website made to look identical to the actual website. It collects your payment information and then tells you that it needs you to enter a verification code from your bank to proceed, but the code never arrives."
     },
     {
-      "date": "2026-08-09",
-      "type": "Online Purchase",
-      "city": "Fox Lake, IL",
-      "amt": 60,
-      "biz": "Instant hydration",
-      "desc": "Order their product and never recieved. Demanded a refund multiple time and kept getting repeated emails back."
+      "date": "2026-08-08",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Elgin, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Received a letter in the mail stating I won a Viking River Cruise or another top prize and call the number."
     },
     {
       "date": "2026-08-08",
@@ -473,12 +481,12 @@
       "desc": "I have received a call or voicemail from a convincing AI voice saying something to the effect of they&rsquo;ve gotten your request for a loan, and that they&rsquo;d like to connect you with a loan officer. The number changes every time, so they can&rsquo;t be blocked."
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "type": "Phishing",
-      "city": "Lombard, IL",
+      "city": "Mascoutah, IL",
       "amt": 0,
-      "biz": "pretendig to be Humana",
-      "desc": "claiming to be Humana medicare with pharmacy benefit updates"
+      "biz": "None",
+      "desc": "$24"
     },
     {
       "date": "2026-08-06",
@@ -526,7 +534,7 @@
       "city": "Winfield, IL",
       "amt": 708.19,
       "biz": "Melt Drops",
-      "desc": "$24"
+      "desc": "$25"
     },
     {
       "date": "2026-08-06",
@@ -550,15 +558,15 @@
       "city": "McHenry, IL",
       "amt": 89.99,
       "biz": "Lirabella",
-      "desc": "$25"
+      "desc": "$26"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-05",
       "type": "Online Purchase",
-      "city": "Gurnee, IL",
-      "amt": 90,
-      "biz": "Grace and Anna",
-      "desc": "My order quality was far away from the commercial. It was not disclosed that will be ship from China. Returned are almost impossibles and money returned not guarantee."
+      "city": "Rolling Meadows, IL",
+      "amt": 119.6,
+      "biz": "Modvani",
+      "desc": "Ordered online products. When I attempted to return items they send I had to send all this information in. No contact number only email. I paid for these items, i received items but not what I excepted.  Now I also called Nordstrom and they said they are not a part of them at all. Also if I purchased something you would have the information needed not sure why I need to send something again."
     },
     {
       "date": "2026-08-05",
@@ -635,10 +643,10 @@
     {
       "date": "2026-08-05",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 49.53,
-      "biz": "Shafik LLC",
-      "desc": "Shafik LLC, name of company, I purchased clothing from them, never received them, and never got my money back"
+      "city": "Granite City, IL",
+      "amt": 100,
+      "biz": "Ebikeultimatestore.com",
+      "desc": "Bought and paid for ebikes that after many attempted deliveries (10) never made it here they act like they are investigating  and nothing comes of it... ebikeultimatescam"
     },
     {
       "date": "2026-08-05",
@@ -713,12 +721,12 @@
       "desc": "$24"
     },
     {
-      "date": "2026-08-04",
-      "type": "Phishing",
-      "city": "New Lenox, IL",
-      "amt": 0,
-      "biz": "JLB",
-      "desc": "Received call inquiring about my ex brother in law, that there was some sort of case against him. I called to inform them I have no contact with the person they want.  Individual identified himself as Jacob L Baldermann (sp). Very rude and tried his best to insult me.  He called back from different number to inform me a lien was being placed against my property.  Two numbers he used are , 866.804.6243 and 815.287.9793."
+      "date": "2026-08-03",
+      "type": "Counterfeit Product",
+      "city": "Tiskilwa, IL",
+      "amt": 49.95,
+      "biz": "mnyyoda",
+      "desc": "item to take blood pressure, blood sugar, pulse, and blood oxygen but received a fingertip pulse oximeter. this multifunction item was advertised on You-tube"
     },
     {
       "date": "2026-08-03",
@@ -791,15 +799,7 @@
       "amt": 34.97,
       "biz": "SWEET PUP JELLY ONLINE CASINO GAME",
       "desc": "I had won money online and had to pay some 1 fee of $9.99 to get my money 1 fee of $14.99 to pay taxes and another $9.99 to expedite my money and then after all that my account was removed"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "Tech Support",
-      "city": "Galesburg, IL",
-      "amt": 2850,
-      "biz": "MacAfee Virus - IMPOSTER",
-      "desc": "$25"
     }
   ],
-  "total_on_file": 23559
+  "total_on_file": 23560
 }
