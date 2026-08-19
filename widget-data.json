@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-18",
+  "generated_at": "2026-08-19",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-19",
+      "type": "Phishing",
+      "city": "Plainfield, IL",
+      "amt": 0,
+      "biz": "stripe - IMPOSTER",
+      "desc": "Received an email that I purchased a coffee maker for over $500 it looked like a PayPal receipt. They had an email address I no longer use &amp; I wasn't sure if that email was on PayPal account"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "Employment",
+      "city": "Hickory Hills, IL",
+      "amt": 150,
+      "biz": "Health Gorilla",
+      "desc": "The person reached out Via Monster job search. With an offer and I code to identify myself. Indicating the position was for a manager position. I ended getting the job. Give personal information. From there, my bank account got blocked. Then tried taking out loans on my personal information. That&rsquo;s when I decided to stop all contact."
+    },
+    {
+      "date": "2026-08-18",
+      "type": "Online Purchase",
+      "city": "Des Plaines, IL",
+      "amt": 34.87,
+      "biz": "Molision Inc",
+      "desc": "Capris were ordered. A pack of 5. I helped my mother order them. Unfortunately, we didn&rsquo;t check out the company prior and didn&rsquo;t see the website return name which would have been a clue as well as no confirmation. The phone number was a personal number saying it is not associated with any clothing."
+    },
     {
       "date": "2026-08-18",
       "type": "Online Purchase",
@@ -11,6 +35,22 @@
       "amt": 0,
       "biz": "Healthy Petz",
       "desc": "I ordered from an ad on my phone.  After I placed the order I found out from the real company that the link they used was  a scam link.  I attempted to email them and told them i wanted  a return label because I was returning the product. They never responded.  There is no phone number to contact them.  After the order was placed the ad never came back.  I received the product today.  I do not know how to return it and get a refund."
+    },
+    {
+      "date": "2026-08-18",
+      "type": "Online Purchase",
+      "city": "Normal, IL",
+      "amt": 120,
+      "biz": "Miss me",
+      "desc": "I purchased discounted jeans from the website that i never received. I attempted to reach out when i noticed the tracking said it was delivered when it did not arrive and was told they would send out another package. Again i was told it was delivered and nothing. I teied to get my money back and they never responded after that"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "Other",
+      "city": "Urbana, IL",
+      "amt": 0,
+      "biz": "Busey/ 4Ever Home Warranty",
+      "desc": "4Ever Home Warranty using unethical sales/scare tactics in attempts to get people to call them, and convince them to get their insurance.\nIf they are this dishonest in their attempts to get clients, I doubt that they are honest when it comes to paying out claims."
     },
     {
       "date": "2026-08-18",
@@ -22,6 +62,22 @@
     },
     {
       "date": "2026-08-18",
+      "type": "Online Purchase",
+      "city": "Metropolis, IL",
+      "amt": 45,
+      "biz": "Zillions Gift Card",
+      "desc": "My mother bought me a gift card for christmas. I have tried over and over to get the beinifits of the card but nothing has every happened. I think they try to make it so technical and hard so people just give up. The process is as such.......\n1. Get on their site pick where you want you card from.\n2. Supposed to get an e mail with said spendable card.\n3. Print out and spend money where ever you have chossen.\nI have never received anything from them and their customer service number is crap. Both of them!"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "Online Purchase",
+      "city": "Sidell, IL",
+      "amt": 38.16,
+      "biz": "Holmbech Thomas",
+      "desc": "I ordered some capris&amp; supposedly fed ex called &amp; said package was lost.i called fed ex the tracking number doesn't exist.So i lost my money..."
+    },
+    {
+      "date": "2026-08-18",
       "type": "Advance Fee Loan",
       "city": "Plainfield, IL",
       "amt": 14077,
@@ -29,100 +85,44 @@
       "desc": "I ask for a loan for $2000.00, they okay we can help you. First we send you 1477.00 and send it back using chim or cash app. I send the money back through cash app. Now my bank said I am negative-1477.00 because the check they submitted was a fake,  now that leaves me pay back the bank."
     },
     {
-      "date": "2026-08-18",
-      "type": "Phishing",
-      "city": "Posen, IL",
+      "date": "2026-08-17",
+      "type": "Debt Collections",
+      "city": "Grayville, IL",
       "amt": 0,
-      "biz": "Norton 360 Deluxe 1865-299-9805 - IMPOSTER",
-      "desc": "Bill sent by pay pal for 406.24 requesting pay from my account"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Tax Collection",
-      "city": "Collinsville, IL",
-      "amt": 0,
-      "biz": "American Tax Advisors",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Counterfeit Product",
-      "city": "Mount Vernon, IL",
-      "amt": 34.99,
-      "biz": "Brenner Bakery",
-      "desc": "Saw an ad on FB that said he was a retired baker from NY selling his beeswax bread bags BOGO&hellip;received the bags from an address in CA&hellip;bags did not say Brenner Bakery on them as pictured and were made of plastic&hellip;contacted them\nand said I would report them if I didn&rsquo;t receive a full refund&hellip;they offered a partial refund&hellip;contacted credit card company, received a full refund&hellip;"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Phishing",
-      "city": "Maywood, IL",
-      "amt": 25000,
-      "biz": "1 st Investment",
-      "desc": "This is a Real estate Scheme that was use own me  I Invested $25,000 on Rehab real estate Investment Project called a Joint Investment project. with Anderson Booth Campbell and he never returned\nmy money or phone calls."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Government Agency Imposter",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "Business Resource Center",
-      "desc": "Upon starting an LLC I received a letter stating I needed to pay for a &ldquo;certificate of status&rdquo; to be in compliance and open a business bank account.<br class=\"t-last-br\" />"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 130,
-      "biz": "PelfWorld",
-      "desc": "I ordered a hoodie from the brand PelfWorld on July 8th 2026. On the website the shipping says it should take 3-5 business days. It&rsquo;s currently August 14, 2026 and the brand owner has blocked me and even friends of mine after contacting him regarding my money."
+      "biz": "Mdsl",
+      "desc": "Said they was debt relief and i was  Qualified for UP to $42000 in debt relief. Just call Sarah  at mdsl 866 510 6219 i checked it out here first  did not call them back"
     },
     {
       "date": "2026-08-17",
       "type": "Phishing",
-      "city": "Murphysboro, IL",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "I have received several calls asking for my daughter in law. Saying they were trying to reach her about a new meter that was installed recently at her/sons address. There's not been a new meter installed. Son and daughter in law know nothing about this. I told the man that there was no one here by her name and to stop calling. Hes called twice since this. Last time he used sam&divide; number and hung up on me when i told him to give me his name or company name and their phone number. He called again today from 447-200-4727 Melvin IL he hung up on me when i requested to speak to his manager."
+      "biz": "Unknown",
+      "desc": "I received a call talking about someone trying have me sign a letter. The person hand no information just told me to call 855 762 4025"
     },
     {
-      "date": "2026-08-16",
-      "type": "Employment",
-      "city": "La Grange, IL",
+      "date": "2026-08-17",
+      "type": "Tax Collection",
+      "city": "Villa Park, IL",
       "amt": 0,
-      "biz": "Sourcehire",
-      "desc": "I applied for a job that was advertised on LinkedIn. I&rsquo;ve continued to get emails with requests for additional information, and I&rsquo;ve suddenly started to get spam to my email address (which I&rsquo;ve rarely used outside of professional activities). I also tried to unsubscribe and I keep getting emails from this scammer trying to get me to pay to &ldquo;promote&rdquo; my resume."
+      "biz": "American Tax Advisors",
+      "desc": "I keep receiving these calls. I have never not paid taxes. I don&rsquo;t know why they are calling me."
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "type": "Online Purchase",
-      "city": "Edwardsville, IL",
-      "amt": 400,
-      "biz": "Big Helpful Gentlemen",
-      "desc": "Took the money to help me move but never showed up and stopped answering calls after they got payment and all my information. When I looked up reviews I saw they they had never came for other customers time and time again."
+      "city": "McHenry, IL",
+      "amt": 170,
+      "biz": "Rosie in the sky",
+      "desc": "Ordered 3 dresses for granddaughter hoco. One came not at all the dress, not new no tags worn deodorant stains. Second package never came. Wanted me to pat for shipping return to china.!! Never again!!"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "type": "Online Purchase",
-      "city": "Sugar Grove, IL",
-      "amt": 37,
-      "biz": "whisperdress.com budaTX",
-      "desc": "I NEVER ORDERED or purchased the dresses I was scammed on. I never RECEIVED any dresses.\nHow do I get my money back/"
-    },
-    {
-      "date": "2026-08-16",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 45,
-      "biz": "Hooma",
-      "desc": "Was scrolling one night on instagram saw an add for a mega tablet for 39.99 decided to buy and it all went down hill from there to the shipment delays to the we tried to deliver but no one was available to receive the item although the house was full of people. I ordered on 7/18and have yet to receive anything but a bunch of emails"
-    },
-    {
-      "date": "2026-08-16",
-      "type": "Online Purchase",
-      "city": "Seneca, IL",
-      "amt": 159,
-      "biz": "Allure Haven",
-      "desc": "I didn&rsquo;t sign up for a subscription. Allure Haven charged my husbands card 159 dollars and some cents. It&rsquo;s fraudulent company that guarantees you pain relief. They didn&rsquo;t mention thc in the form of a Rice Krispie bar. Watch out for this company. They have used different names of the company and different addresses located in California. The post office was cracking down on Kiwi company but needs to flag down Allure Haven. These are bad men or women. I hope someone can take them down. I called the number and the number wasn&rsquo;t available. You couldn&rsquo;t leave a voicemail or talk to a human. These people need to be stopped because they take your money and you receive fraudulent items that you never ordered. They charge you a subscription and it&rsquo;s hard to cancel because they lie and say it&rsquo;s canceled when you call them. Thank you for all you do in this matter. ***** ****"
+      "city": "Maple Park, IL",
+      "amt": 39,
+      "biz": "BLUE CLARITY GLASSES",
+      "desc": "I fell for it! I am so ******&nbsp;off at myself for even thinking this was ligit!  Never again.  Lesson learned."
     }
   ]
 }
