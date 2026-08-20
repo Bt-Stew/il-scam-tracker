@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-08-19",
+  "generated_at": "2026-08-20",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-20",
+      "type": "Online Purchase",
+      "city": "Darien, IL",
+      "amt": 40.91,
+      "biz": "LANYRO",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 35,
+      "biz": "Style Clothing Life",
+      "desc": "Ordered clothing  no communication till said delivered  but it was not"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Employment",
+      "city": "Springfield, IL",
+      "amt": 0,
+      "biz": "Document Deliverly Services",
+      "desc": "States that they have been retained to deliver legal documents to my home or business between the hours of 8am to 4pm. Only two attempts will be made before legal action takes place. Don't avoid them, call stated number 815-570-0409."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Online Purchase",
+      "city": "Dolton, IL",
+      "amt": 0,
+      "biz": "Reserve Credit Card",
+      "desc": "They advertise on Facebook &amp; Intstagram offering a credit card with a $300 limit I pad my fees back in April still haven&rsquo;t received my card I&rsquo;ve reached out through email still haven&rsquo;t heard back."
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Phishing",
+      "city": "East Saint Louis, IL",
+      "amt": 500,
+      "biz": "TVG",
+      "desc": "TVG Horse racing had no trouble for years ( and lost a lot of money ) then Sunday I bet on 2 pick 3s at Delmar race track during the 8th race. When the race was complete I had won the 2 pick 3s worth $500+ in which I WAS NOT PAID. numerous attempts followed in order to try and contact the people at TVG and I was completly ignored. Something has to be done to these on line Gambling sites that not only doesn&rsquo;t pay out but also lgnores you trying to contact them. Like I told them many times though emails, etc I AM NOT LETTING THIS GO!!! I hope you report TVG and in the meantime I am going to contact other Consumer Protection Agencies. Thank you."
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Bank/Credit Card Company Imposter",
+      "city": "Washington, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Appeared like a refund check from my bank re: my mortgage.   Looked like I could cash it for $199.00 , not sure what would happen if I had cashed it. but it had a phone number to call that I did not call"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Online Purchase",
+      "city": "Mascoutah, IL",
+      "amt": 103,
+      "biz": "Curve and Bloom Nashville",
+      "desc": "I ordered merchandise from this company that was showing a Nashville, TN address. The clothes looked nice and affordable.  After a couple of weeks I tried tracking and found that it was coming from Canada &amp; being delivered by the same company that delivers for SHEIN and Temu.   When I received my order it is really\nPoor quality, smells and looks nothing like the pictures.  Lost over $100 on this order.  Found I am not the only one this has happened too.\nDo Not Order from Them."
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Phishing",
+      "city": "Macomb, IL",
+      "amt": 0,
+      "biz": "National Advisory Center",
+      "desc": "Voice mail message said I was preapproved for up to $50,000 for the alternative debt hardship programs that \"went to affect July 1st, 2026\" and I should call back at 833-333-7511."
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Employment",
+      "city": "Peoria, IL",
+      "amt": 111,
+      "biz": "Vendepay 1* vendepay",
+      "desc": "On Facebook and ad come up saying it was YouTube. They said they would pay me for helping out on AI. I had to pay (they copied the same as real Ai ads looking for help ."
+    },
     {
       "date": "2026-08-19",
       "type": "Phishing",
@@ -14,59 +86,27 @@
     },
     {
       "date": "2026-08-18",
-      "type": "Employment",
-      "city": "Hickory Hills, IL",
-      "amt": 150,
-      "biz": "Health Gorilla",
-      "desc": "The person reached out Via Monster job search. With an offer and I code to identify myself. Indicating the position was for a manager position. I ended getting the job. Give personal information. From there, my bank account got blocked. Then tried taking out loans on my personal information. That&rsquo;s when I decided to stop all contact."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Des Plaines, IL",
-      "amt": 34.87,
-      "biz": "Molision Inc",
-      "desc": "Capris were ordered. A pack of 5. I helped my mother order them. Unfortunately, we didn&rsquo;t check out the company prior and didn&rsquo;t see the website return name which would have been a clue as well as no confirmation. The phone number was a personal number saying it is not associated with any clothing."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Rockton, IL",
+      "type": "Debt Collections",
+      "city": "Great Lakes, IL",
       "amt": 0,
-      "biz": "Healthy Petz",
-      "desc": "I ordered from an ad on my phone.  After I placed the order I found out from the real company that the link they used was  a scam link.  I attempted to email them and told them i wanted  a return label because I was returning the product. They never responded.  There is no phone number to contact them.  After the order was placed the ad never came back.  I received the product today.  I do not know how to return it and get a refund."
+      "biz": "Hr consultants/Prs",
+      "desc": "They called about a old debt from 2015 and said they would take me to court if not paid and sent over a fake Docusign to sign to pay the $500 I didn&rsquo;t sign it and they tried to take the money anyway but I had already switched my card out once I found out they were a fake company. So they called and left a voicemail again today and then transferred me over to someone who can&rsquo;t control his temper so I hung up on him once he realized he couldn&rsquo;t get my to pay the debt he said it would not be raised to $3,000 I asked for other documentation of this debt and they said they could not provide me with any just the fake Docusign."
     },
     {
       "date": "2026-08-18",
       "type": "Online Purchase",
-      "city": "Normal, IL",
-      "amt": 120,
-      "biz": "Miss me",
-      "desc": "I purchased discounted jeans from the website that i never received. I attempted to reach out when i noticed the tracking said it was delivered when it did not arrive and was told they would send out another package. Again i was told it was delivered and nothing. I teied to get my money back and they never responded after that"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Other",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "Busey/ 4Ever Home Warranty",
-      "desc": "4Ever Home Warranty using unethical sales/scare tactics in attempts to get people to call them, and convince them to get their insurance.\nIf they are this dishonest in their attempts to get clients, I doubt that they are honest when it comes to paying out claims."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Counterfeit Product",
-      "city": "Fairbury, IL",
-      "amt": 59.96,
-      "biz": "Northend Shop",
-      "desc": "I ordered a pair of sandals from Northend Shop in what I thought was located in Denver, Colorado. I received a cheap pair of plastic Sandals from China. They are wanting me to pay to have them shipped back at my expense. Which is half the price of what I paid for the shoes. I even sent them pictures and they refuse to resolve this any other way! Never order from this company. When you call them they tell you to leave a message and never return your call!  When looking at reviews they look good until you research the company! DO NOT ORDER FROM NORTHEND SHOP!"
+      "city": "Chicago, IL",
+      "amt": 93.42,
+      "biz": "Mayberry North Carolina",
+      "desc": "I purchased 2 dresses. The quality of what was delivered was completely different than what was advertised on their website. The return process was impossible. I actually spent $35 to send the merchandise back to China, only to have the company change their email address and stop responding. They pretend to be a North Carolina based company but in reality they are based in China."
     },
     {
       "date": "2026-08-18",
       "type": "Online Purchase",
-      "city": "Metropolis, IL",
-      "amt": 45,
-      "biz": "Zillions Gift Card",
-      "desc": "My mother bought me a gift card for christmas. I have tried over and over to get the beinifits of the card but nothing has every happened. I think they try to make it so technical and hard so people just give up. The process is as such.......\n1. Get on their site pick where you want you card from.\n2. Supposed to get an e mail with said spendable card.\n3. Print out and spend money where ever you have chossen.\nI have never received anything from them and their customer service number is crap. Both of them!"
+      "city": "Lake Bluff, IL",
+      "amt": 41.97,
+      "biz": "Berryinty",
+      "desc": "I ordered no pump vacuum bags for $31. With no shipping. Thay added $10 shipping. The two bags cost $41.97. But I found most companies sell 12 bags with\na pump for less money. I tried to return them but Paypal found in the company's favor. Why cant I return them unopened. Even if I have to pay shipping. Others would save me money. Im 85 with only Socuak Securiry.\nThey give no info on phone, country, address. Etc."
     },
     {
       "date": "2026-08-18",
@@ -78,51 +118,11 @@
     },
     {
       "date": "2026-08-18",
-      "type": "Advance Fee Loan",
-      "city": "Plainfield, IL",
-      "amt": 14077,
-      "biz": "Advance usa loan",
-      "desc": "I ask for a loan for $2000.00, they okay we can help you. First we send you 1477.00 and send it back using chim or cash app. I send the money back through cash app. Now my bank said I am negative-1477.00 because the check they submitted was a fake,  now that leaves me pay back the bank."
-    },
-    {
-      "date": "2026-08-17",
-      "type": "Debt Collections",
-      "city": "Grayville, IL",
-      "amt": 0,
-      "biz": "Mdsl",
-      "desc": "Said they was debt relief and i was  Qualified for UP to $42000 in debt relief. Just call Sarah  at mdsl 866 510 6219 i checked it out here first  did not call them back"
-    },
-    {
-      "date": "2026-08-17",
-      "type": "Phishing",
+      "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Unknown",
-      "desc": "I received a call talking about someone trying have me sign a letter. The person hand no information just told me to call 855 762 4025"
-    },
-    {
-      "date": "2026-08-17",
-      "type": "Tax Collection",
-      "city": "Villa Park, IL",
-      "amt": 0,
-      "biz": "American Tax Advisors",
-      "desc": "I keep receiving these calls. I have never not paid taxes. I don&rsquo;t know why they are calling me."
-    },
-    {
-      "date": "2026-08-17",
-      "type": "Online Purchase",
-      "city": "McHenry, IL",
-      "amt": 170,
-      "biz": "Rosie in the sky",
-      "desc": "Ordered 3 dresses for granddaughter hoco. One came not at all the dress, not new no tags worn deodorant stains. Second package never came. Wanted me to pat for shipping return to china.!! Never again!!"
-    },
-    {
-      "date": "2026-08-17",
-      "type": "Online Purchase",
-      "city": "Maple Park, IL",
-      "amt": 39,
-      "biz": "BLUE CLARITY GLASSES",
-      "desc": "I fell for it! I am so ******&nbsp;off at myself for even thinking this was ligit!  Never again.  Lesson learned."
+      "amt": 78.98,
+      "biz": "lora hair",
+      "desc": "Try it for 60 days!\n60-Day Hassle-Free Returns\nLove it or your money back. Enjoy a 60-day money-back guarantee\nStatement above means nothing to them, if you actually tried loving it and used it on your hair.\nItems is not refundable, false advertising all over the website."
     }
   ]
 }
