@@ -4,11 +4,14 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Common active scams reported across Central Illinois include fake text messages about unpaid traffic or toll violations, pre-trial release phone scams, and fraudulent package delivery alerts. Scammers frequently use artificial intelligence and spoofed local numbers to create a false sense of urgency.",
+      "snippet": "Common scams actively targeting residents across Central Illinois include fake government text alerts, pre-trial release demands, and fraudulent package delivery notifications. Scammers frequently use artificial intelligence and local data to make these requests look and sound authentic.",
       "snippet_links": [
         {
           "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/"
         }
+      ],
+      "snippet_highlighted_words": [
+        "fake government text alerts, pre-trial release demands, and fraudulent package delivery notifications"
       ],
       "reference_indexes": [
         0,
@@ -25,10 +28,10 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Fake Traffic and Toll Texts: Fraudulent messages claiming unpaid fines from transit or toll agencies threaten license suspension if you do not click a payment link (warned by the Office of the Illinois Attorney General\n).",
+          "snippet": "Fake Traffic & Toll Violations: Text messages claiming to be from the Illinois Secretary of State, IDOT, or tollway services threaten immediate license suspension or legal action if you do not click a link to pay an overdue fine. State agencies never request payments via text.",
           "snippet_links": [
             {
-              "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations"
+              "link": "https://www.cbsnews.com/chicago/news/kwame-raoul-scam-fake-traffic-violations/"
             }
           ],
           "reference_indexes": [
@@ -37,7 +40,7 @@
           ]
         },
         {
-          "snippet": "Pre-Trial Release Extortion: Scammers call or email victims claiming a relative is in jail and demanding immediate cash via apps like Zelle or Cash App to pay for GPS monitoring or bail.",
+          "snippet": "Pre-Trial Release Scams: Con artists contact family members of individuals in local justice systems, posing as pre-trial services or court officials and demanding immediate cash (via apps like Zelle or Cash App) to secure a relative's release or GPS monitoring.",
           "snippet_links": [
             {
               "link": "https://www.youtube.com/watch?v=Mf4FukkEZHA"
@@ -45,7 +48,7 @@
           ]
         },
         {
-          "snippet": "Delivery and Porch Pirate Alerts: Texts claiming a package cannot be delivered due to a missing address number, prompting users to click a malicious link to verify personal details.",
+          "snippet": "Package Delivery Texts: Phishing texts claiming a package is held by the USPS or UPS ask for personal data or small fee payments to update a missing delivery address.",
           "snippet_links": [
             {
               "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/"
@@ -53,16 +56,24 @@
           ]
         },
         {
-          "snippet": "Pen Pal and Impersonation Cons: Unsolicited texts mimic friendly contacts or family members in distress, eventually asking for gift cards or wire transfers.",
+          "snippet": "Pen Pal & Relationship Scams: Unsolicited messages mirror your personal interests on social media or text, eventually steering you to alternate apps before asking for gift cards or cash assistance.",
+          "snippet_links": [
+            {
+              "link": "https://www.youtube.com/watch?v=z-pIlM47s6I"
+            }
+          ],
+          "reference_indexes": [
+            6
+          ]
+        },
+        {
+          "snippet": "AI-Driven Impostor Calls: Scammers use voice cloning or urgent family/celebrity impersonation to trick older adults into wiring money under false emergencies.",
           "snippet_links": [
             {
               "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
             }
           ]
         }
-      ],
-      "reference_indexes": [
-        6
       ]
     },
     {
@@ -73,7 +84,7 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Practice the Pause: Stop and take time to verify any urgent request before sending money or sharing details.",
+          "snippet": "Practice the Pause: Take a step back when a message or call demands immediate action, secrecy, or panic.",
           "snippet_links": [
             {
               "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
@@ -81,7 +92,18 @@
           ]
         },
         {
-          "snippet": "Never Click Links: Do not open links or call numbers provided in unsolicited texts about fines or packages.",
+          "snippet": "Never Click Links: Do not tap on links in unexpected text messages or emails regarding fines, tolls, or packages.",
+          "snippet_links": [
+            {
+              "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
+            }
+          ],
+          "reference_indexes": [
+            7
+          ]
+        },
+        {
+          "snippet": "Verify Independently: Hang up and call official numbers directly (like a family member or a verified agency line) rather than dialing numbers provided in suspicious messages.",
           "snippet_links": [
             {
               "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
@@ -89,15 +111,7 @@
           ]
         },
         {
-          "snippet": "Verify Independently: Government and transit agencies do not text or call unprompted demanding immediate payment. Look up official contact numbers independently to check status.",
-          "snippet_links": [
-            {
-              "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations"
-            }
-          ]
-        },
-        {
-          "snippet": "Report Fraud: If targeted, report incidents to the Better Business Bureau of Central Illinois or forward scam texts to state authorities.",
+          "snippet": "Report Fraud: File local reports or check active alerts through the Better Business Bureau of Central Illinois or report state text scams directly to the official Illinois Scam Alert site.",
           "snippet_links": [
             {
               "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA"
@@ -108,42 +122,33 @@
     },
     {
       "type": "paragraph",
-      "snippet": "If you or someone you know was targeted, tell me:"
+      "snippet": "If you or someone you know received a specific message, tell me:"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "How were you contacted\n(text, phone call, email)?"
+          "snippet": "What did the message or call say?"
         },
         {
-          "snippet": "What did the message or caller claim?"
+          "snippet": "What method of payment or action did they ask for?"
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "I can help you figure out if it is a known scam and what steps you should take next."
+      "snippet": "I can help you confirm if it matches a known regional scam."
     }
   ],
   "references": [
     {
       "title": "Beware of these scam texts targeting Central IL package ...",
       "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/",
-      "snippet": "Beware of these scam texts targeting Central IL package customers ahead of the holidays by: Bradley Zimmerman Posted: Nov 26, 2024 / 04:14 PM CST Updated: Nov 26, ...",
+      "snippet": "Beware of these scam texts targeting Central IL package customers ahead of the holidays. ... CENTRAL ILLINOIS (WCIA) \u2014 The holidays are here and as people begin pl...",
       "source": "WCIA.com",
       "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEGRwHPrF84MtSBBUcRX7aHmP3n6dm7c3fdeUtgrxiBfacafRZyzIHn84oFU6ZeFeGcayXTA",
       "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 0
-    },
-    {
-      "title": "Office of the Illinois Attorney General Kwame Raoul",
-      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations",
-      "snippet": "***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL URGES ILLINOISANS TO BE ALERT FOR TEXT MESSAGE SCAMS INVOLVING FAKE TRAFFIC VIOLATIONS...",
-      "source": "Office of the Illinois Attorney General (.gov)",
-      "thumbnail": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 1
     },
     {
       "title": "Peoria County Sheriff warns against pre-trial release scam ...",
@@ -152,6 +157,15 @@
       "source": "YouTube",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT4GsgOdO4KahhSVucodXTGF86ofojWTy6b7-FCGZI0vKeDTnHJrf2yeMrw",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 1
+    },
+    {
+      "title": "Illinois state officials issued a warning on text message ...",
+      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
+      "snippet": "this is one of those scams designed to make you panic and act quickly state officials are saying texts are showing up on people's phones posing to be someone from ",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ7gr__rzz_6kbcLRpAnUlhvVoP4oftsLpkuhM-DTQruNb8m7wHBOBtJBWpqmPhsZAbeMkltk",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 2
     },
     {
@@ -164,20 +178,20 @@
       "index": 3
     },
     {
-      "title": "Illinois state officials issued a warning on text message ...",
-      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
-      "snippet": "this is one of those scams designed to make you panic and act quickly state officials are saying texts are showing up on people's phones posing to be someone from ",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ7gr__rzz_6kbcLRpAnUlhvVoP4oftsLpkuhM-DTQruNb8m7wHBOBtJBWpqmPhsZAbeMkltk",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Illinois Attorney General Kwame Raoul warns about scam involving ...",
+      "link": "https://www.cbsnews.com/chicago/news/kwame-raoul-scam-fake-traffic-violations/",
+      "snippet": "Illinois Attorney General Kwame Raoul warns about scam involving fake traffic violations. ... If you received a text message about a traffic violation that you kno...",
+      "source": "CBS News",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBKvV6ZwC5ertm0U9J9S6F1ELXGkVTeJY2ezODGhXIixKxKw8byKy76N8F3PR17AIpUCQVSg",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
-      "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/",
-      "snippet": "another day another scam. text there's a new warning from the Secretary of State's office about a wave of scam texts. and phone calls that are impersonating. that ",
+      "title": "If you get a text claiming to be from the \u201cIllinois Secretary of ...",
+      "link": "https://www.facebook.com/ILSecofState/posts/if-you-get-a-text-claiming-to-be-from-the-illinois-secretary-of-state-threatenin/1521739556238679/",
+      "snippet": "scammers are targeting Illinoisans with phony text messages. even I got one these scammers are trying to trick you into giving up personal and financial. informati",
       "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1IMtUSWinffSbE4mKH7ogZ33R2R9L7dGj73F2ieTG125_DCVN65boPANbvSdk2XKdXPrAWiw",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV6_HOydWlyZomOvlEzs1ZqIWq6b5u-Zj_GfUKdVi94C4W7lvPwyaYcqTTIPw_vwN9yKv8bBc",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 5
     },
@@ -189,6 +203,15 @@
       "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvfc5wi-74Y5iVsDSlXcDabHOZXe7LbrMtWZ-6JCUyiFEFiuqeROq2JADExA",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 6
+    },
+    {
+      "title": "Scams impacting Illinois",
+      "link": "https://www.youtube.com/watch?v=9tWjhREgw8g",
+      "snippet": "in a consumer alert now spring brings a lot of nice things like flowers warm weather. and of course Easter. but the change of season has brought in a new set of sc",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU00Smu3jJodU_nHqME8Lcc_aB6xqy3nJ6zIsg_fZDsNtW19TT0-4s35Y6tw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 7
     }
   ]
 }
