@@ -1,64 +1,112 @@
 {
-  "generated_at": "2026-08-20",
+  "generated_at": "2026-08-21",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-08-20",
-      "type": "Online Purchase",
-      "city": "Darien, IL",
-      "amt": 40.91,
-      "biz": "LANYRO",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-20",
-      "type": "Online Purchase",
-      "city": "Peoria, IL",
-      "amt": 35,
-      "biz": "Style Clothing Life",
-      "desc": "Ordered clothing  no communication till said delivered  but it was not"
-    },
-    {
-      "date": "2026-08-20",
-      "type": "Employment",
-      "city": "Springfield, IL",
-      "amt": 0,
-      "biz": "Document Deliverly Services",
-      "desc": "States that they have been retained to deliver legal documents to my home or business between the hours of 8am to 4pm. Only two attempts will be made before legal action takes place. Don't avoid them, call stated number 815-570-0409."
-    },
-    {
-      "date": "2026-08-20",
-      "type": "Online Purchase",
-      "city": "Dolton, IL",
-      "amt": 0,
-      "biz": "Reserve Credit Card",
-      "desc": "They advertise on Facebook &amp; Intstagram offering a credit card with a $300 limit I pad my fees back in April still haven&rsquo;t received my card I&rsquo;ve reached out through email still haven&rsquo;t heard back."
-    },
-    {
-      "date": "2026-08-19",
+      "date": "2026-08-21",
       "type": "Phishing",
-      "city": "East Saint Louis, IL",
-      "amt": 500,
-      "biz": "TVG",
-      "desc": "TVG Horse racing had no trouble for years ( and lost a lot of money ) then Sunday I bet on 2 pick 3s at Delmar race track during the 8th race. When the race was complete I had won the 2 pick 3s worth $500+ in which I WAS NOT PAID. numerous attempts followed in order to try and contact the people at TVG and I was completly ignored. Something has to be done to these on line Gambling sites that not only doesn&rsquo;t pay out but also lgnores you trying to contact them. Like I told them many times though emails, etc I AM NOT LETTING THIS GO!!! I hope you report TVG and in the meantime I am going to contact other Consumer Protection Agencies. Thank you."
+      "city": "Saint Charles, IL",
+      "amt": 0,
+      "biz": "My Store - Owen Nolan",
+      "desc": "Fake transaction showed up on my Shop account for $339.96 for a PC protection plan that I did not purchase in an attempt to get me to call the phone number listed in the address: 1-888-527-7789 and steal personal details and access my device."
     },
     {
-      "date": "2026-08-19",
-      "type": "Bank/Credit Card Company Imposter",
-      "city": "Washington, IL",
+      "date": "2026-08-21",
+      "type": "Online Purchase",
+      "city": "East Peoria, IL",
+      "amt": 250,
+      "biz": "Eleven forest",
+      "desc": "I thought i was purchasing clothing items (6 total, 3 per order).  I waited a week and never got a shipping notice and still haven't gotten one for either order. I have emailed them multiple times and i just get multiple excuses."
+    },
+    {
+      "date": "2026-08-21",
+      "type": "Phishing",
+      "city": "Sterling, IL",
+      "amt": 0,
+      "biz": "Owen Nolan",
+      "desc": "Received message (see attached) on personal smart phone. I called the number and told the person who answered I needed to speak to someone about a charge I didn't make. That person started asking me about what types of devices I use to access SHOP, which I thought was unusual and not needed to resolve the disputed charge. Initially I tried to answer some of the questions, but then I said, \"This information isn't needed. Are you going to remove this charge?\" The male answered that I had reached SHOP Customer Service and they needed me to not use my SHOP account for 24 hours. While talking to this individual, I googled the phone number and saw that it had come up as a SCAM, so I immediately hung up. The SHOP charge has not yet hit my bank account. In SHOP, it currently has a message that says \"Waiting for details\". I will attempt to update this report later if this status changes and let you know if the charge is deducted from my bank account."
+    },
+    {
+      "date": "2026-08-21",
+      "type": "Other",
+      "city": "Marengo, IL",
+      "amt": 0,
+      "biz": "KOHLS Impostor",
+      "desc": "I was tracking down why I got a receipt from Kohls.  I looked up telephone number online 855.564.5705 and the person (with a strong accent) told me I needed to call 888-647-1712 to talk to the credit card people.  They asked for my SSN - I said no-\nthey asked for birthday.  - they then said they had my information from Pottery Barn.  That card is very old and was cancelled.  Made me realize I was probably scammed."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Clifton, IL",
+      "amt": 223.26,
+      "biz": "Freecash",
+      "desc": "Freecash is a website where you play mobile games to get money. There were games where I spent my money with the intention of completing higher levels to get higher rewards. Freecash let's you do this while taking your info and when you get high enough they ban your account so you can't withdraw your rewards. I did not do anything to violate any TOS."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Phishing",
+      "city": "Maryville, IL",
       "amt": 0,
       "biz": "—",
-      "desc": "Appeared like a refund check from my bank re: my mortgage.   Looked like I could cash it for $199.00 , not sure what would happen if I had cashed it. but it had a phone number to call that I did not call"
+      "desc": "I looked up a number for Utube tv online and the number listed was 877-496-9399 and it merely a scam trying to obtain account numbers and bank information."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Online Purchase",
+      "city": "Palmyra, IL",
+      "amt": 41,
+      "biz": "Dmitrivoro",
+      "desc": "Advertisement of 10 pair double button mid waist jeans for $29.99 plus tax and shipping. Tracking information made no sense and upon trying to make contact i have received no response."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Phishing",
+      "city": "Maryville, IL",
+      "amt": 0,
+      "biz": "Utube tv",
+      "desc": "I got a number for Utube tv from google for tech support. The call was answered by someone sounding like from India. She advised me that they had no payment method on file. She was able to take over my screen and creat several PayPal debit cards. I was able to contact PayPal and advise them of the potential scam."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Identity Theft",
+      "city": "Champaign, IL",
+      "amt": 125.88,
+      "biz": "Sezzle",
+      "desc": "It&rsquo;s name is Sezzle. . They fraudulently took money out of my bank account. And then after doing a fraud investigation through their own company, they refuse to return my money, even though I have a report with the FTC and an identity theft report."
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Identity Theft",
+      "city": "Modoc, IL",
+      "amt": 0,
+      "biz": "New England Medical Supply",
+      "desc": "My UnitedHealthcare (UHC) insurance information appears to have been compromised and used to submit a claim for four different services that I did not receive. While I did not incur any out-of-pocket expenses or make any payments, my insurance plan was billed and paid 100% of the charges associated with these claims.\nI am reporting this as potential insurance fraud."
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Employment",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Route Stride LLC",
+      "desc": "Got a job offer for a company I cannot find any history or information on"
     },
     {
       "date": "2026-08-19",
       "type": "Online Purchase",
-      "city": "Mascoutah, IL",
-      "amt": 103,
-      "biz": "Curve and Bloom Nashville",
-      "desc": "I ordered merchandise from this company that was showing a Nashville, TN address. The clothes looked nice and affordable.  After a couple of weeks I tried tracking and found that it was coming from Canada &amp; being delivered by the same company that delivers for SHEIN and Temu.   When I received my order it is really\nPoor quality, smells and looks nothing like the pictures.  Lost over $100 on this order.  Found I am not the only one this has happened too.\nDo Not Order from Them."
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Airdog Air",
+      "desc": "I have a product that carries a 365-day Warranty, it's not working and the company will not take back"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "Online Purchase",
+      "city": "Park Ridge, IL",
+      "amt": 99,
+      "biz": "Purelia",
+      "desc": "I believe I've fallen for a scam I saw on Facebook.  There was a testemonial from a woman whose sister died of liver failure, &amp; she shared info about Purelia.  Talking with others &amp; now looking up reviews, I see that the same story has been copied &amp; pasted, &amp; the names changed.  I only ordered yesterday so there's a chance I'll receive the supplement in the mail, but now that I've had a day to think about it, I'm thinking the product might not be legitimate &amp; I'm wondering if the BBB could investigate.\nThank you!"
     },
     {
       "date": "2026-08-19",
@@ -70,59 +118,11 @@
     },
     {
       "date": "2026-08-19",
-      "type": "Employment",
-      "city": "Peoria, IL",
-      "amt": 111,
-      "biz": "Vendepay 1* vendepay",
-      "desc": "On Facebook and ad come up saying it was YouTube. They said they would pay me for helping out on AI. I had to pay (they copied the same as real Ai ads looking for help ."
-    },
-    {
-      "date": "2026-08-19",
       "type": "Phishing",
-      "city": "Plainfield, IL",
-      "amt": 0,
-      "biz": "stripe - IMPOSTER",
-      "desc": "Received an email that I purchased a coffee maker for over $500 it looked like a PayPal receipt. They had an email address I no longer use &amp; I wasn't sure if that email was on PayPal account"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Debt Collections",
-      "city": "Great Lakes, IL",
-      "amt": 0,
-      "biz": "Hr consultants/Prs",
-      "desc": "They called about a old debt from 2015 and said they would take me to court if not paid and sent over a fake Docusign to sign to pay the $500 I didn&rsquo;t sign it and they tried to take the money anyway but I had already switched my card out once I found out they were a fake company. So they called and left a voicemail again today and then transferred me over to someone who can&rsquo;t control his temper so I hung up on him once he realized he couldn&rsquo;t get my to pay the debt he said it would not be raised to $3,000 I asked for other documentation of this debt and they said they could not provide me with any just the fake Docusign."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 93.42,
-      "biz": "Mayberry North Carolina",
-      "desc": "I purchased 2 dresses. The quality of what was delivered was completely different than what was advertised on their website. The return process was impossible. I actually spent $35 to send the merchandise back to China, only to have the company change their email address and stop responding. They pretend to be a North Carolina based company but in reality they are based in China."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Lake Bluff, IL",
-      "amt": 41.97,
-      "biz": "Berryinty",
-      "desc": "I ordered no pump vacuum bags for $31. With no shipping. Thay added $10 shipping. The two bags cost $41.97. But I found most companies sell 12 bags with\na pump for less money. I tried to return them but Paypal found in the company's favor. Why cant I return them unopened. Even if I have to pay shipping. Others would save me money. Im 85 with only Socuak Securiry.\nThey give no info on phone, country, address. Etc."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Sidell, IL",
-      "amt": 38.16,
-      "biz": "Holmbech Thomas",
-      "desc": "I ordered some capris&amp; supposedly fed ex called &amp; said package was lost.i called fed ex the tracking number doesn't exist.So i lost my money..."
-    },
-    {
-      "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 78.98,
-      "biz": "lora hair",
-      "desc": "Try it for 60 days!\n60-Day Hassle-Free Returns\nLove it or your money back. Enjoy a 60-day money-back guarantee\nStatement above means nothing to them, if you actually tried loving it and used it on your hair.\nItems is not refundable, false advertising all over the website."
+      "amt": 0,
+      "biz": "VIP loan shop",
+      "desc": "Called said I took out a loan with VIP in 2021 which I never I never heard of a company called VIP. Guy said they will filed a case in court but didn&rsquo;t provide me with a case number just demanded money when I said I never had loan with them he said I&rsquo;ll see you in court"
     }
   ]
 }
