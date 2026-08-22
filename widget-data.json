@@ -70,6 +70,14 @@
     },
     {
       "date": "2026-08-20",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 0.37,
+      "biz": "Oros eye patches",
+      "desc": "I ordered the patches and they guaranteed money back the product doesn&rsquo;t work and they contact information available"
+    },
+    {
+      "date": "2026-08-20",
       "type": "Identity Theft",
       "city": "Champaign, IL",
       "amt": 125.88,
@@ -77,12 +85,12 @@
       "desc": "It&rsquo;s name is Sezzle. . They fraudulently took money out of my bank account. And then after doing a fraud investigation through their own company, they refuse to return my money, even though I have a report with the FTC and an identity theft report."
     },
     {
-      "date": "2026-08-20",
-      "type": "Identity Theft",
-      "city": "Modoc, IL",
+      "date": "2026-08-19",
+      "type": "Phishing",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "New England Medical Supply",
-      "desc": "My UnitedHealthcare (UHC) insurance information appears to have been compromised and used to submit a claim for four different services that I did not receive. While I did not incur any out-of-pocket expenses or make any payments, my insurance plan was billed and paid 100% of the charges associated with these claims.\nI am reporting this as potential insurance fraud."
+      "biz": "Business poster compliance",
+      "desc": "Once I filed for my personal LLC, I received 2 letters by the business poster compliance and business resource center. Telling me that to stay in code with the law I must pay two fees. 97.58 and 92.25"
     },
     {
       "date": "2026-08-19",
@@ -115,14 +123,6 @@
       "amt": 0,
       "biz": "National Advisory Center",
       "desc": "Voice mail message said I was preapproved for up to $50,000 for the alternative debt hardship programs that \"went to affect July 1st, 2026\" and I should call back at 833-333-7511."
-    },
-    {
-      "date": "2026-08-19",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "VIP loan shop",
-      "desc": "Called said I took out a loan with VIP in 2021 which I never I never heard of a company called VIP. Guy said they will filed a case in court but didn&rsquo;t provide me with a case number just demanded money when I said I never had loan with them he said I&rsquo;ll see you in court"
     }
   ]
 }

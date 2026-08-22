@@ -66,6 +66,14 @@
     },
     {
       "date": "2026-08-20",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 0.37,
+      "biz": "Oros eye patches",
+      "desc": "I ordered the patches and they guaranteed money back the product doesn&rsquo;t work and they contact information available"
+    },
+    {
+      "date": "2026-08-20",
       "type": "Identity Theft",
       "city": "Champaign, IL",
       "amt": 125.88,
@@ -73,12 +81,12 @@
       "desc": "It&rsquo;s name is Sezzle. . They fraudulently took money out of my bank account. And then after doing a fraud investigation through their own company, they refuse to return my money, even though I have a report with the FTC and an identity theft report."
     },
     {
-      "date": "2026-08-20",
-      "type": "Identity Theft",
-      "city": "Modoc, IL",
+      "date": "2026-08-19",
+      "type": "Phishing",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "New England Medical Supply",
-      "desc": "My UnitedHealthcare (UHC) insurance information appears to have been compromised and used to submit a claim for four different services that I did not receive. While I did not incur any out-of-pocket expenses or make any payments, my insurance plan was billed and paid 100% of the charges associated with these claims.\nI am reporting this as potential insurance fraud."
+      "biz": "Business poster compliance",
+      "desc": "Once I filed for my personal LLC, I received 2 letters by the business poster compliance and business resource center. Telling me that to stay in code with the law I must pay two fees. 97.58 and 92.25"
     },
     {
       "date": "2026-08-19",
@@ -153,12 +161,12 @@
       "desc": "They&rsquo;re offering a discount on mushroom coffee and then they charge you for a subscription fee never received the product and they charge me for subscription free can ever get a hold of someone countless emails."
     },
     {
-      "date": "2026-08-19",
-      "type": "Counterfeit Product",
-      "city": "Rockford, IL",
-      "amt": 16.98,
-      "biz": "HenaCharm",
-      "desc": "I purchased a bra and it was too big. I emailed customer service for a refund. They told me to send them a picture of the shipping label and the bra. They then emailed me back and gave me 2 options: keep the bra that is too big and pay an additional $7 for one that does fit or keep the bra that does not fit and receive a 10% refund, which did not even amount to $2. That is not how I interpreted the refund/exchange policy to be. Why would I pay an additional $7 for a product that did not fit correctly to begin with. I was compliant in providing the info they asked for and did so within in 30-45 days. I did not even receive the bra until 2 weeks after I ordered it. I was never given and option to return the bra for a full refund. Before buying anything from this company or 3rd party sellers of this company, make sure you understand the refund/exchange policy and anticipate losing money if the product does not work out. I would not recommend purchasing anything from this company."
+      "date": "2026-08-18",
+      "type": "Credit Cards",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Member Services",
+      "desc": "Caller claimed they were from Member Services and wanted to know how much credit card debt I had so they could consolidate it. When I asked for them to explain who they were calling with they restated that again. The voice could have been Ai but they used my name and pushed me to give them a number for the amount of debt I carry. I refused and stopped answering them, they repeated and hung up"
     },
     {
       "date": "2026-08-18",
@@ -234,11 +242,11 @@
     },
     {
       "date": "2026-08-18",
-      "type": "Online Purchase",
-      "city": "Bolingbrook, IL",
-      "amt": 30.21,
-      "biz": "Fiviora",
-      "desc": "Saw ad for Mens shirts @ extremely low prices on\nFACEBOOK, had NORDSTROMS RACK NAME IN AD.\nOrder shirts , shoes on April 20th, 2026.\nWas charged $30.21 to credit card.\nWas sent shipping notice that box was delivered on SUN in June, never happened.\nSo, they claim to have resent order.\nAgain. Never received.\nThey offered cash settlelement @ 70%, I agreed.\nNever sent any refund.\nKeep saying its being processed.\nTotal scam.\nFake shipping nvoices.\nFIVIORA Located in China.\nPLEASE INVESTIGATE.\nThank you.\nDon Nekoliczak"
+      "type": "Counterfeit Product",
+      "city": "Manteno, IL",
+      "amt": 49,
+      "biz": "Amber Porch",
+      "desc": "The items you get shipped are not what is on the website. My item looked so nice on the website, but when I got the item, it was a sticker on wood."
     },
     {
       "date": "2026-08-18",
@@ -315,10 +323,10 @@
     {
       "date": "2026-08-17",
       "type": "Online Purchase",
-      "city": "Gurnee, IL",
-      "amt": 94.66,
-      "biz": "EveriCharm",
-      "desc": "I purchased 4 pair of capris for a total of $93.66.  I was told via email that they were working on my order and it will shipped out very soon.  With every email I sent them I would get the same story \"we are working on your order #1168-36821\" ."
+      "city": "Romeoville, IL",
+      "amt": 6.95,
+      "biz": "Shrimp Up Aquatics",
+      "desc": "I ordered live shrimp from their website and.paid for 1-2 day shipping. They notified me they would deliver in 4 days, on Thursday. The shrimp will be dead by then, causing another $89.90 loss from purchase."
     },
     {
       "date": "2026-08-17",
@@ -393,12 +401,12 @@
       "desc": "They impersonated Walmart Vision and said that insurance didn't cover the glasses for my daughter which were fully paid 3 months ago. I denied to provide any further information except my name, and they told me I would receive a bill by mail."
     },
     {
-      "date": "2026-08-17",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "National Service Bureau impostor Allstate Insurance Company",
-      "desc": "I was call and told my insurance  company  sent a letter denying  my car insurance  coverage in 2024. That they represented  Allatate insurance  complany. that before  the state  steps in the wanted me to pay 16000. Gave me  online  payment  obtions. Was rude and unfortunately  sounded real. After calling  Allstate  and the ill secretary  of state. They informed me that this sounded like a scam. Allstate  denied any knowledge  of this company. And encouraged  me to file a police report asap"
+      "date": "2026-08-15",
+      "type": "Online Purchase",
+      "city": "Pekin, IL",
+      "amt": 60,
+      "biz": "Sylaza",
+      "desc": "Saw the flowers on facebook, they claimed they would look like real petunias. They  were pictured in a hanging pot &amp; were a big beautiful bouquet. I only received some really fakey straggly ( multi) colored flowers. I also had ordered another plant that was to be red petunias in the same type of arrangement. I still have not received the red ones &amp; every time I check my order on their site, It says order complete. It also says if any problems or questions feel free to contact them at service@sylaza.com ( good luck with that) my order was placed 0n 6/21/26."
     },
     {
       "date": "2026-08-15",
@@ -473,12 +481,12 @@
       "desc": "Maely&rsquo;s!!! They are a scam!!!  While on social media be careful!  Even just accidentally or possibly clicking something you don&rsquo;t even know&hellip;.they are sneaky! Beware please. They will take your information and find a way to take money from your account.\nOf this company!"
     },
     {
-      "date": "2026-08-15",
-      "type": "Online Purchase",
-      "city": "Mundelein, IL",
-      "amt": 149,
-      "biz": "Hormify",
-      "desc": "I was intrigued by the ad for weight loss using a product that was not GLP related. I purchased a 6 month supply of Hormify. I eventually received the product and used it for 30 days. There was no change in eating habits/behaviors and no weight loss. i wrote to the company to return the unused product and was informed I missed the 14 day return window. Hormify used the date I ordered the product versus the date of shipment. And how can one possibly use a product within 14 days to see if it works. This is a sham business."
+      "date": "2026-08-14",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "ShepherdOutsourcing",
+      "desc": "I received an unsolicited text message claiming to be from Shepherd Outsourcing, stating that I owe $964.62 related to The Bank of Missouri and offering to settle the debt for $482.31. I have never had an account with The Bank of Missouri and do not recognize Aspire or Fortiva, which appear to be associated with this type of account. I also checked my Experian credit report, which currently shows 0 collection accounts. I believe this may be a scam, a case of mistaken identity, or an unauthorized account, so I have not clicked the payment link or made any payment."
     },
     {
       "date": "2026-08-14",
@@ -553,12 +561,12 @@
       "desc": "$24"
     },
     {
-      "date": "2026-08-14",
-      "type": "Online Purchase",
-      "city": "Winchester, IL",
-      "amt": 25.99,
-      "biz": "Gansu Deze Tongtu Trading Co., Ltd.  Mimuy",
-      "desc": "I ordered a set of shorts that were supposedly being cleared out.  After a few weeks, I inquired and was sent a tracking number.  The tracking number is bogus and leads to Tracy718, but it does not give any results.  It just buffers and then says unavailable.  I've emailed probably 15 different times, and I'm now being told they need to keep 15.99 because the logistics company won't refund it.  They still won't refund the remaining balance of 10.00.  It's an endless loop of dead-end emails."
+      "date": "2026-08-13",
+      "type": "Advance Fee Loan",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Anchor lending",
+      "desc": "Loan approval"
     },
     {
       "date": "2026-08-13",
@@ -633,12 +641,12 @@
       "desc": "Have received several messages saying to use the number on my caller ID to contact Kirkland Myers to resolve my account. I do not have debts in collection. After so many attempts, I checked with BBB to see if this is a scam, and here we are! I have not reached back out to the number."
     },
     {
-      "date": "2026-08-13",
-      "type": "Online Purchase",
-      "city": "Kirkwood, IL",
-      "amt": 50,
-      "biz": "sales@cubesofficial.com",
-      "desc": "I was given a fake tracking number, when the USPS looked it up, they advised it was a scam and the tracking number isn&rsquo;t legit."
+      "date": "2026-08-12",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Fairfield, IL",
+      "amt": 114,
+      "biz": "Tiktok",
+      "desc": "They said I was award money for scrolling wouldn&rsquo;t let me back out of page and next thing I knew money was being taken out of my account from my virtual wallet on my phone I am struggling to dispute charges as they are still pending and they took everything in my account"
     },
     {
       "date": "2026-08-11",
@@ -714,11 +722,11 @@
     },
     {
       "date": "2026-08-11",
-      "type": "Phishing",
-      "city": "Romeoville, IL",
-      "amt": 0,
-      "biz": "Legal",
-      "desc": "I will put the transcription of the voicemail here.\n\"This is not a sales or marketing call, this is a legal notification and an attempt to make contact with (my real name first and last). Hello, my name is Monica, calling from the processor's office regarding file number 2020-16810. 888-762-3470. Again, the number is 888-762-3470.\"\nI called back and &ldquo;Monica&rdquo; wanted me to confirm my &ldquo;file&rdquo;. She asked me to verify my first and last name, which I did not. I told her I&rsquo;m not confirming or denying anything until I speak to whoever called me. The tone shifted quickly and &ldquo;Monica&rdquo; became aggressive. I told her they can try again because I don&rsquo;t respond well to threats. The number looked familiar to me so I checked my contacts and that number is the same number for advent health pharmacy which is legitimate"
+      "type": "Online Purchase",
+      "city": "Mokena, IL",
+      "amt": 435,
+      "biz": "Emily Homestead",
+      "desc": "$24"
     },
     {
       "date": "2026-08-11",
@@ -791,15 +799,7 @@
       "amt": 76,
       "biz": "Orange valley",
       "desc": "Trying to buy a two in one bench through facebook advertising pay with paypal. Item never came, I dispute it with paypal.  the seller claim it was deliver so paypal believe it and closed the case in favor of the crooks.end of story I lost $76.00 dollars."
-    },
-    {
-      "date": "2026-08-11",
-      "type": "Online Purchase",
-      "city": "Smithton, IL",
-      "amt": 69.98,
-      "biz": "Tiktok ad Km* Vzyreva Zyreva.Com CA.",
-      "desc": "I clicked on an ad to purchase an outfit from TikTok and it took me to an outer website with the same picture of the item which was a two piece set, which was biker shorts and the oversized T-shirt and they took the amount out twice of 34.99 which totaled to 69.98. I never received my item or a refund or anything and I have been trying to fight to get my money back for months and I have not got anything back or any product. From the link of a see site sorrel&rsquo;s and the transaction was listed as Km* Vzyreva Zyreva.Com CA. On my bank statement"
     }
   ],
-  "total_on_file": 23730
+  "total_on_file": 23731
 }
