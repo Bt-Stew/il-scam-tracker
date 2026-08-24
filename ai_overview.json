@@ -1,56 +1,6 @@
 {
-  "generated": true,
+  "generated": false,
   "query": "Central Illinois Scams",
-  "text_blocks": [
-    {
-      "type": "paragraph",
-      "snippet": "Residents in Central Illinois are targeted by common digital, phone, and home repair scams. Official agencies like the Illinois Attorney General warn consumers to watch out for urgent text messages about fake traffic tickets, fraudulent package delivery alerts, and door-to-door contractor scams."
-    },
-    {
-      "type": "heading",
-      "snippet": "Common Scams in Central Illinois"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Fake Traffic and Toll Texts: Scammers send text messages claiming you owe money for unpaid tolls or traffic violations, threatening license suspension if you do not click a link to pay."
-        },
-        {
-          "snippet": "Package Delivery Alerts:\nText messages pretend to be from delivery services like UPS or the USPS, claiming a package cannot be delivered unless you click a link and provide personal or credit card info."
-        },
-        {
-          "snippet": "Storm Chaser and Home Repair Scams: Unsolicited contractors go door-to-door after severe weather, offering cheap roof or tree-removal work, demanding cash upfront, and failing to complete the job."
-        },
-        {
-          "snippet": "Debt and Legal Cons:\nCallers pose as fake debt-relief attorneys claiming high credit card interest rates are illegal, tricking people into paying fees to clear non-existent legal problems."
-        },
-        {
-          "snippet": "Imposter and Charity Calls: Con artists pretend to be government officials or disaster relief charities, using high-pressure tactics to demand immediate payment or bank details."
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "How to Protect Yourself"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Do not click links: Never tap links in unexpected text messages or emails regarding tolls, traffic fines, or packages."
-        },
-        {
-          "snippet": "Practice the pause:\nIf a caller creates a sense of high urgency or panic, hang up and verify the story independently through an official number."
-        },
-        {
-          "snippet": "Verify contractors: Always ask for local references, proof of insurance, and written estimates before hiring home repair workers."
-        },
-        {
-          "snippet": "Report fraud:\nFile complaints with the Better Business Bureau of Central Illinois or the Federal Trade Commission if you are targeted."
-        }
-      ]
-    }
-  ],
+  "text_blocks": [],
   "references": []
 }
