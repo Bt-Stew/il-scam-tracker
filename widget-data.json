@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-08-24",
+  "generated_at": "2026-08-25",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-25",
+      "type": "Phishing",
+      "city": "Chester, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "Hey this is Ryan Weber\nI didn't expect to get your voicemail so I apologize for that\nBut the reason why I'm calling is that I have a pending legal matter that's being tied directly to your social and also to your ID\nThe paperwork actually said that I need either you or responsible adult from your residents to give me a call back\nUm the holidays are actually coming up soon so I want to give you an opportunity for you to make your statement for the record or I will be forced to sign off on your behalf\nUm I'm actually really concerned about maintaining your privacy regarding this pendant legal matter\nSo when you get this message give me a call as soon as possible I'm only taking lunch for about 30 minutes today so I'm going to be available when you call back the office just call back in and access speak directly to Ryan and I'll be able to explain everything to you in detail"
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Employment",
+      "city": "Naperville, IL",
+      "amt": 0,
+      "biz": "Apex Legal Partners LLP",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Bartlett, IL",
+      "amt": 0,
+      "biz": "GPaak Equipments LLC Fake Medical Equipment Invoice Medicare Health Insurance Billing Phishing and Identity Theft Scam",
+      "desc": "GPAAK Equipment billed Medicare for durable medical products that were not prescribed for me, I do not need and never received.  I did report this to Medicare as fraud several times.  The billing to my medicare account was in 2025."
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Counterfeit Product",
+      "city": "Chicago, IL",
+      "amt": 89.91,
+      "biz": "Bleecker New York - Greatgoodie, LLC",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 65.98,
+      "biz": "GetGlocky",
+      "desc": "I ordered 5 items from their site; only 3 were delivered. Intermittent contact via email since May 7th, yet last email they sent was May 23 which they haven't responded to."
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Moving",
+      "city": "Naperville, IL",
+      "amt": 5025,
+      "biz": "Joes Moving and Storage",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Phishing",
+      "city": "Belleville, IL",
+      "amt": 188,
+      "biz": "Hims/Hers",
+      "desc": "At 9:50 pm, I was told that I would only be charged $39 the first month for the subscription. 2 hours later, i was then charged $149 for the medication. When inquiring about the fee and what amount would I be charged the following month, I informed the company that I wanted to cancel my whole order. The company then stated that they could not refund me my $39 for the subscription because the order was already assessed. I then inquired about the rest of my funds and was then informed that they could not refund me the rest because the system would not allow them to do so once my order has been processed. This was then at 12:45ish am."
+    },
+    {
+      "date": "2026-08-25",
+      "type": "Online Purchase",
+      "city": "West Frankfort, IL",
+      "amt": 26,
+      "biz": "Melvessina",
+      "desc": "There was an ad on Facebook for Boston Scally Caps on clearance. I ordered two caps. I got an email saying my caps have been shipped, but it wasn&rsquo;t from Boston Scally Caps. It was from Melvessina, not from Boston Scally as advertised. The ad used the same spokesman as BSC, which looking back it was probably AI. It was supposed shipped by the same company (DHL) as BSC uses, so I didn&rsquo;t think much of it. The tracking supposedly went through Los Angeles customs, which I found odd since it was supposed to ship from Boston. The tracking afterwards made no sense at all. A month later, Melvessina claimed it was delivered; however, there was no documentation of the delivery, just their claim it was delivered. I emailed and questioned Melvessina about the delivery. They said they would investigate it, but I never heard back after their initial reply. I tried to follow up a week later but never heard back from them."
+    },
+    {
+      "date": "2026-08-24",
+      "type": "Online Purchase",
+      "city": "Saint Joseph, IL",
+      "amt": 35.63,
+      "biz": "Selinlab",
+      "desc": "I placed an order for Jean and never received them. I&rsquo;ve contacted them and they say they are going to refund part of my money but never have. I paid using ApplePay."
+    },
+    {
+      "date": "2026-08-24",
+      "type": "Online Purchase",
+      "city": "Cornell, IL",
+      "amt": 41.96,
+      "biz": "Damoor Inc.",
+      "desc": "OrderedJune 30 3026. I  never rwceived order. Contacted the company\nNmumerous times\nThe last contact indicated tthey could offer 30% of the purchase price. I ANDOLUTELY REFUSED.\nThis was a spam and fraud. DO NOT ORDER. Address was located in MT US. but I was told it was shipped the package was shipped from China"
+    },
     {
       "date": "2026-08-24",
       "type": "Phishing",
@@ -14,115 +94,35 @@
     },
     {
       "date": "2026-08-24",
-      "type": "Online Purchase",
-      "city": "Lewistown, IL",
-      "amt": 36.16,
-      "biz": "My Faith World ASCDY Trading Co.Ltd",
-      "desc": "I ordered a product that was never delivered. They insisted package was delivered, but my local post office stated the tracking number given did not exist. After several attemps, they refused to refund. Also, there was no mention product was not made in USA and would be shipped from a different country."
-    },
-    {
-      "date": "2026-08-23",
-      "type": "Online Purchase",
-      "city": "Bloomington, IL",
-      "amt": 0,
-      "biz": "Lume Deodorant Impostor",
-      "desc": "Fake seller trying to scam people by listing Lume Deodorant products at very cheap prices. Normally a stick of deodorant is around $17-$20, but these were listed at $1-$2 each. The contact us page was very suspicious. The email listed was an IUBRIDGE email address, which is associated with scammers."
-    },
-    {
-      "date": "2026-08-23",
-      "type": "Employment",
-      "city": "Grafton, IL",
-      "amt": 0,
-      "biz": "Wade Chambers",
-      "desc": "I dont know who it is but it definitely isn't Wade Chambers."
-    },
-    {
-      "date": "2026-08-23",
-      "type": "Online Purchase",
-      "city": "Mount Vernon, IL",
-      "amt": 250,
-      "biz": "—",
-      "desc": "I ordered from John and Ave in July.  Never received my product.  Gave me a so called tracking number that can it be tracked and when I go to contact them...the contact goes nowhere."
-    },
-    {
-      "date": "2026-08-23",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 63.9,
-      "biz": "Grant and Morgan",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-23",
-      "type": "Online Purchase",
-      "city": "Addison, IL",
-      "amt": 0,
-      "biz": "shoeboxbyki.com",
-      "desc": "checkout counter .Card not accepted  for some reason.It means they have all info involving details especially card holder name and address, codes and exp date"
-    },
-    {
-      "date": "2026-08-22",
-      "type": "Online Purchase",
-      "city": "Waterloo, IL",
-      "amt": 79.95,
-      "biz": "Bladetrade",
-      "desc": "Bladetrade on facebook is a scam. Finally returned my email after they discovered my credit card dispute. Sent me a tracking number in Chinese. It didn&rsquo;t work. Asked me to cancel dispute. I told them I would after the product was delivered."
-    },
-    {
-      "date": "2026-08-22",
-      "type": "Online Purchase",
-      "city": "Niles, IL",
-      "amt": 0,
-      "biz": "Hot street scooters",
-      "desc": "Ordered a part that was never received...emails went unanswered...when answered they mention they work multiple jobs and had to see if they even had the part and mentions they will get back but never Attempted to notify any updates...."
-    },
-    {
-      "date": "2026-08-22",
-      "type": "Retail Business",
-      "city": "Vernon Hills, IL",
-      "amt": 0,
-      "biz": "IMPOSTER Ecom Partnerz",
-      "desc": "$25"
-    },
-    {
-      "date": "2026-08-21",
-      "type": "Counterfeit Product",
-      "city": "Woodstock, IL",
-      "amt": 78.17,
-      "biz": "ITagPro",
-      "desc": "Website promised GPS tracker compatible with Apple Find My. Tracker refused to connect with the Find My app and did not work reliably with their app called iSearching. Spent all day going back and forth with a tech support person and could not resolve the problem.\nWas contacted by Glen (get-ITagPro.com) who offered 25% credit of the original purchase price to avoid having to ship the tags back to them. In addition they had to be unopened and unused!"
-    },
-    {
-      "date": "2026-08-21",
-      "type": "Phishing",
-      "city": "East Alton, IL",
-      "amt": 365,
-      "biz": "Wings Care LLC",
-      "desc": "I was having problems with my printer. I called the Cannon phone number and was told that there was site blocking my use of printer."
-    },
-    {
-      "date": "2026-08-21",
-      "type": "Counterfeit Product",
+      "type": "Home Improvement",
       "city": "Chicago, IL",
-      "amt": 105,
-      "biz": "Wordsmiths & Writers",
-      "desc": "This is a company that claims to want to feature author&rsquo;s books and help promote them. They contact you through email to say how well your book is doing on Amazon and how they can help give you more visibility. Their website looks real. For an annual fee of $25 you can have your book featured, which they did. But then they ask if you want to have your book in literary magazines like the Paris review. That was $80. I have yet to see that article or the grants that I applied for. And now they do not respond to email, their Facebook page no longer exists, and you can&rsquo;t call them or submit a customer service request."
+      "amt": 600,
+      "biz": "Storybook Electrical LLC",
+      "desc": "I hired an electrician based on his brother&rsquo;s recommendations. The electrician name is Anthony Ramirez. I signed the contract online and sent money via Zelle to a phone number that the electrician provided me. The electrician (Anthony) failed to show up for work on several occasions, claiming he had injured his leg. It has been over a moths, and I asked him for a refund. The electrician says he will send the money, but he has not returned it.  When I told him to return my money back, he replied with a bible verses. I went to the police station and file and report Anthony. I have the case number with a criminal charges against the electrician because the police discovered a irregularity on the contract and licenses. Anthony was called by the police station and he does not returned my money. He still texting me bible verses."
     },
     {
-      "date": "2026-08-21",
-      "type": "Online Purchase",
-      "city": "Western Springs, IL",
-      "amt": 207,
-      "biz": "Tienda Tennis",
-      "desc": "I purchased 2 pairs of shoes and never received my shoes. I called and left a message. I received a call back telling me that someone was taking payments, that the company didn't exist and the phone number used was a different store."
-    },
-    {
-      "date": "2026-08-21",
-      "type": "Advance Fee Loan",
-      "city": "Homer Glen, IL",
+      "date": "2026-08-24",
+      "type": "Tax Collection",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "They tried to offer me a fake loan."
+      "biz": "Johnson & Associates LLC",
+      "desc": "The website https://johnsonandassociatesllc.com/ is a fake accounting firm. It uses a photo of my current colleague and gives him a different name (Robert Stevens) and then uses a former colleague's photo (David White) and his actual name. There is no business located at the address they provide on their website. When I looked up the domain, it said it was registered in AZ and the phone number 480-624-2599, which is linked to multiple scams."
+    },
+    {
+      "date": "2026-08-24",
+      "type": "Online Purchase",
+      "city": "Rockford, IL",
+      "amt": 180,
+      "biz": "Cashifygcmart.com (555) 013-2099",
+      "desc": "I was trying to sell a Amazon gift card to gain some of my money back because I wasn't going to use it. The website stated instant cash and you have to go through a verification process. Theres no live person to talk to, the email is fake or not working, and the phone number doesn't exist. I tried to redeem my Amazon card and it said already redeemed. So this site took my money and no return."
+    },
+    {
+      "date": "2026-08-24",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 124.85,
+      "biz": "Paul Wardrobe",
+      "desc": "$24"
     }
   ]
 }
