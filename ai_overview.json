@@ -1,6 +1,188 @@
 {
-  "generated": false,
+  "generated": true,
   "query": "Central Illinois Scams",
-  "text_blocks": [],
-  "references": []
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Scammers in Central Illinois frequently target residents using fake text messages about unpaid tolls or traffic fines, imposter phone calls claiming missed court appearances, and deceptive home repair schemes."
+    },
+    {
+      "type": "heading",
+      "snippet": "Common Scams in Central Illinois"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Fake Toll and Traffic Text Messages: Fraudsters send text messages claiming you owe money for delinquent toll roads or traffic tickets, threatening driver's license suspension. Government agencies do not use unprompted texts for payment.",
+          "snippet_links": [
+            {
+              "link": "https://idot.illinois.gov/about-idot/contact-us/report-a-problem/text-scam-alert.html"
+            }
+          ],
+          "reference_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "snippet": "Law Enforcement Phone Imposters: Callers impersonate local sheriffs or court officials, demanding immediate payment via Bitcoin or cash to clear fake arrest warrants.",
+          "snippet_links": [
+            {
+              "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/"
+            }
+          ],
+          "reference_indexes": [
+            2,
+            3
+          ]
+        },
+        {
+          "snippet": "Home Repair and Storm Scams: Con artists go door-to-door or set up fake local business websites (such as bogus garage door repair or post-storm contractors) demanding large cash deposits upfront without providing valid licensing.",
+          "snippet_links": [
+            {
+              "link": "https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "How to Protect Yourself"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Do not click links: Never open unfamiliar links in unexpected text messages or emails."
+        },
+        {
+          "snippet": "Hang up immediately:\nLaw enforcement and courts will never call to demand money or crypto over the phone."
+        },
+        {
+          "snippet": "Verify contractors: Check for branded company vehicles, physical addresses, and official local licenses before hiring repair services."
+        },
+        {
+          "snippet": "Report fraud:\nFile complaints with local law enforcement or through the Federal Trade Commission. You can also contact the Office of the Illinois Attorney General consumer fraud hotline.",
+          "snippet_links": [
+            {
+              "link": "https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you'd like, let me know:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "What type of suspicious message or contact\nyou received"
+        },
+        {
+          "snippet": "Which town or county you are located in in Central Illinois"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "I can give you the specific local reporting contacts or more tailored advice."
+    }
+  ],
+  "references": [
+    {
+      "title": "Text Scam Alert",
+      "link": "https://idot.illinois.gov/about-idot/contact-us/report-a-problem/text-scam-alert.html",
+      "snippet": "March 2026 SCAM ALERT: A current text message smishing scam claims recipients owe money associated with traffic tickets, tolls and...",
+      "source": "IDOT (.gov)",
+      "thumbnail": "https://idot.illinois.gov/about-idot/contact-us/report-a-problem/text-scam-alert.html",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://idot.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 0
+    },
+    {
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations",
+      "snippet": "***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL URGES ILLINOISANS TO BE ALERT FOR TEXT MESSAGE SCAMS INVOLVING FAKE TRAFFIC VIOLATIONS...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "thumbnail": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 1
+    },
+    {
+      "title": "Central Illinois sheriffs warn residents of phone scams",
+      "link": "https://www.wcia.com/news/illinois-news/central-illinois-sheriffs-warn-of-phone-scams/",
+      "snippet": "Central Illinois sheriffs warn residents of phone scams The scammer grew frustrated with the resident after they asked follow-up questions. Additionally, the scamm...",
+      "source": "WCIA.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDhFFW5PP_veP-oGIY6DW7fWbqawiPFsSvfWj90V6MAR49P6HuitJ9NpCijqMeVdhkfpe3Gw",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 2
+    },
+    {
+      "title": "SCAM TELEPHONE CALLS",
+      "link": "https://www.ilcd.uscourts.gov/news/scam-telephone-calls-0",
+      "snippet": "SCAM TELEPHONE CALLS Tuesday, November 21, 2023 We have had recent reports that individuals are receiving scam phone calls from a ...",
+      "source": "Central District of Illinois (.gov)",
+      "thumbnail": "https://www.ilcd.uscourts.gov/news/scam-telephone-calls-0",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ilcd.uscourts.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 3
+    },
+    {
+      "title": "Scammers target Central Illinois with garage door repair scheme",
+      "link": "https://www.25newsnow.com/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/",
+      "snippet": "Scammers target Central Illinois with garage door repair scheme This particular website came up with a phone number. He called [the scammers], again he was under t...",
+      "source": "WEEK | 25 News Now",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrO3-Z8Hz3DZ24T3mHngBIv9Jn-yUwOhxDHSZQIXUSD3nsDS_YGIBV0BbrTnrDRhFF6Eltdw",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 4
+    },
+    {
+      "title": "Beware of Scams - Ready Illinois",
+      "link": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "snippet": "Residents should be wary of door-to-door solicitors who hand out flyers and promise to speed up the insurance or building permit p...",
+      "source": "Ready Illinois (.gov)",
+      "thumbnail": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ready.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 5
+    },
+    {
+      "title": "I-Team Quick Tip: Storm repair fraud",
+      "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/",
+      "snippet": "here's a storm damage quick tip during severe weather. season the Illinois Attorney General is warning about scammers looking to cash in on cleanup. and repair wor",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykr2cdOfln3KmUl7dY1quTVZ_y_3rtJAIjoCqQ-Vur2Defty9F5hRxgGN2IK30YM7IwN0atY",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 6
+    },
+    {
+      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
+      "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/",
+      "snippet": "another day another scam. text there's a new warning from the Secretary of State's office about a wave of scam texts. and phone calls that are impersonating. that ",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyIUxdfTh-VhnV0vjDNpgEDKk3oEReGX5pWAHTxarM5cxYjcNPeUUeCa03wTHFNiKK_JwhxR8",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 7
+    },
+    {
+      "title": "The Illinois Department of Revenue is warning of a new nationwide ...",
+      "link": "https://www.facebook.com/WCIA3News/posts/the-illinois-department-of-revenue-is-warning-of-a-new-nationwide-scam-that-come/1242380344594334/",
+      "snippet": "Secretary of State Jesse White Warns Residents to be Aware of Scams Targeting Illinoisans Scams involve emails or text messages asking residents to provide persona...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThrf3jA7IFAzzkIQvR3RfLL0zy6wHdX1vKvlUxMCXttbqVjFcGlm1gOWsebiCPL37nbosRyg",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 8
+    }
+  ]
 }
