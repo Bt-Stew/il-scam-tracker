@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-08-26",
+  "generated_at": "2026-08-27",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-27",
+      "type": "Online Purchase",
+      "city": "Alton, IL",
+      "amt": 455,
+      "biz": "NANA HARDWARE",
+      "desc": "We placed an order for a Pergola 8/17/26. We received an email that it had shipped. It was supposed to arrive 8/24, then 8/25. We called 6 times and no one ever answers the phone, just a recording. Left messages Tuesday, Wednesday and Thursday with our order number, name and phone number. No one ever calls back. Emailed the support contact. Email response was never received. When we go to the website to view order status it still says order processing. Not sure why a business would never answer the phone and/or never call back. Pretty sure its a scam. No further emails regarding shipping update have been received."
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Counterfeit Product",
+      "city": "Orland Park, IL",
+      "amt": 74.97,
+      "biz": "Olive and Evy",
+      "desc": "I was shopping for men's shoes. Found a pair on a website. Olive and Evy. The shoes were listed at 24.99 free shipping. I purchased it with my Visa credit. They charged  me 74.97 . I contacted my credit card company. They canceled my card."
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Online Purchase",
+      "city": "Mattoon, IL",
+      "amt": 21,
+      "biz": "getdailyden.com",
+      "desc": "I ordered an item and I received an email stating that it had shipped the next day. After waiting for a month and a half, and not receiving my item, I emailed customer service. They provided me with a link to track the shipping of my order. I had been checking the shipping periodically, but one day, the link had been disabled. I knew something was wrong when the shipper kept having nothing but problems with delivery. I contacted customer service again when the link was disabled and asked for a refund. They told me they couldn&rsquo;t give me a refund immediately since the package was still out for delivery, but they had elevated my request to the highest priority level."
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Online Purchase",
+      "city": "Troy, IL",
+      "amt": 119,
+      "biz": "Neckline",
+      "desc": "Came across an ad for a neckline massager to do four different functions. Stating it would relieve dizziness intention in the neck. Receive device all it does is vibrate. This device is cheap and deceptive. When contacted by email they responded by saying they would give 50% refund. 10 emails later in correspondence nothing has transpired in the form of a refund. I don't know why they keep carrying on a conversation when they're not going to intentionally refund the money. Very deceptive company very .. dishonest company! Trying to protect others from making the same mistake by purchasing one of these from this dishonest company."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Online Purchase",
+      "city": "Alton, IL",
+      "amt": 34,
+      "biz": "Sanvort",
+      "desc": "Ordered cargo shorts that have not been delivered.  Now asking for $15.00 to try and complete shipment."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Pekin, IL",
+      "amt": 2200,
+      "biz": "Captivating Travels by Connie",
+      "desc": "I booked a cruise through this person.  I was told it was paid in full and we were \"all set\".  I checked on the cruise website and yes,  the cruise was booked!!  I was emailed by connie this week that all reservation are being canceled and that her company is no more.   Where's my money?  I contacted the cruise line and yes,  she canceled it,  but she had only placed a non refundable deposit of $500.  I was told it was paid in full.... where's the rest?   Also, in order for me to use the $500, I need the TRAVEL ADVISOR to sign off on it,..... which she can't because her attorney won't allow her to speak to clients.  After reading other peoples struggles with the agent,  I consider myself lucky it wasn't a larger amount."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Calvin Bell",
+      "desc": "I received an email from the sender l who is an old college friend. It was a paperless post e-invite which of course I trusted. But, something seemed off because when I clicked the link to sign in, to view the invitation, it took me to my email. That spoofed me so I quickly changed my password and signed out all of my devices. I&rsquo;m not positive his email was hacked and they are trying to get people in his contacts."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 30,
+      "biz": "Hooma",
+      "desc": "I got scammed out of a product that was too good to be true. I shouldve known better when the adress they listed lead to either a warehouse in the middle of nowhere or just a tall building that showed no trace of the shop as shown on the website. After cancelling and receiving a new card, I still kept getting failed \"delivery\" attempts shown on their postal tracker."
+    },
     {
       "date": "2026-08-26",
       "type": "Counterfeit Product",
@@ -14,115 +78,51 @@
     },
     {
       "date": "2026-08-26",
-      "type": "Phishing",
-      "city": "Westville, IL",
-      "amt": 259,
-      "biz": "—",
-      "desc": "Called about a home warranty"
-    },
-    {
-      "date": "2026-08-26",
       "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 46.97,
-      "biz": "Pavilook",
-      "desc": "Ordered 16 pack of summer dresses/short sets. Said it had been deluvered but was not. Asked for refund 4 times but received same format messages. I lost $46.97. This is the first time anything like this has happened to me. Never again."
+      "city": "Hillside, IL",
+      "amt": 52.99,
+      "biz": "Desirand",
+      "desc": "I ordered the pants I never received they keep saying they are on their way. No tracking one no email respond.  Order #SOV29780 tracking number DZT9387429689U."
     },
     {
       "date": "2026-08-26",
       "type": "Other",
-      "city": "Cordova, IL",
+      "city": "Coal Valley, IL",
+      "amt": 45,
+      "biz": "Barbara Dever Boutique",
+      "desc": "I purchased a dress at Barbara Dever Boutique website. The item I ordered was not what I expected, as the quality is terrible and the color did not match the picture on the site. There is no mention of the fiber content on any of the dresses. The site shows photos of people opening these nicely staged boxes with tissue paper. My item came in a very small, balled up bag in a tiny box. The return policy is attached. They will not return or refund. They only offer a 15% refund. I've emailed at least 5 times. I feel like the response is AI generated. I hope this business can be wiped off the planet."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Advance Fee Loan",
+      "city": "IL",
       "amt": 0,
-      "biz": "Peak Footwear",
-      "desc": "This company, peak footwear out of Delaware,  sells shoes from China and even though you order the same size that you did before, they all come different sizes and do not fit. When you try to return them, they claim its not their fault and demand you pay return shipping!!"
+      "biz": "SDF Capital",
+      "desc": "They are sending me text messages offering $850,000 credit line. They used my legal name.\nI have not replied to them."
     },
     {
       "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Broadview, IL",
-      "amt": 229.17,
-      "biz": "Sellout Tickets",
-      "desc": "There was a post on Instagram about live Mario Karts in Chicago. I bought 3 tickets following the link it provided from the post- they sent an email rescheduling the event but it never happened!"
+      "type": "Phishing",
+      "city": "Marissa, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "Keeps calling and goes to VM and telling me that I have a vacation package to use."
     },
     {
-      "date": "2026-08-25",
-      "type": "Other",
-      "city": "Bryant, IL",
-      "amt": 30,
-      "biz": "USA-XPRES",
-      "desc": "Used Officialrecordsonline.com to order a certified copy of birth certificate. Told I was being charged a one-time processing fee. USA-XPRES charged the initial fee, then another $9.99 fee on 30Jul, and another $9.99 on 24Aug."
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "type": "Identity Theft",
-      "city": "Herrin, IL",
-      "amt": 50,
-      "biz": "The Credit Pros",
-      "desc": "Cash App information\nThey have my name, profile, 50.00"
+      "city": "Frankfort, IL",
+      "amt": 45,
+      "biz": "Mobileho",
+      "desc": "This company, Mobileho which exclaimed to be affiliated with PayPal took 15.00 dollars in three separate transactions using my debit card. In my checking transactions info for each the give a telephone number 402-935-7733. This number leads the what sounds like a PayPal customer service #.\nPayPal has no record of this transaction, no 402 area code reference, and has never heard of Mobileho. Mobileho is said to be a charitable organization. I found this out from the dispute with my bank. I'm the only user on this account."
     },
     {
-      "date": "2026-08-25",
-      "type": "Phishing",
-      "city": "Summit Argo, IL",
+      "date": "2026-08-26",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Delivery department of Document procedures",
-      "desc": "This is James Owens from the delivery department of document procedures and conduct regarding a sale document that is scheduled to be delivered by eight in person agents to (My name said )by computer File number or (alpha and numeric said by computer )to either your home or place of employment. If no contact is established this will be escalated and classified as a failure to comply. All questions or concerns must be addressed with a office by contacting the office directly at 877-832-8043."
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Phishing",
-      "city": "Bloomington, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "I was trying to call prudential insurance to talk about a claim i have.  I misdialed and call the fax which then led me to calling the number provided and it was a scam. The women answered the phone and said what is your name and what is your routing and account number? I then said whatbare you asking that for and she said it was for my $100 gift card i would be recieving in my bank account. I then said ok. I did not give her my bank information  but gave her my name and address. I then said would you like my claim number and she said ok. So i gave it to her and then she sat there saying ok ok..... then i finally said whay do you need my account number again then she said ok and attempted to ask for a check number and i said for what . She said you have to pay $4.21 since to get the $100 gift card. I then said i dont think im in the right spot. And hung up ahe said ok."
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Phishing",
-      "city": "Carpentersville, IL",
-      "amt": 0,
-      "biz": "Goldburge Polaaky",
-      "desc": "They have been leaving theatening collection messages with no company name. I called and asked for the company name at first they refused to give it to me. I called back and asked for their license number and was hung up on. They are trying to get $5000 and would not tell me why"
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Moving",
-      "city": "Naperville, IL",
-      "amt": 5025,
-      "biz": "Joes Moving and Storage",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 55,
-      "biz": "SwanSway",
-      "desc": "Ordered an item that was not made right and wrong size. Wanted a refund, they only wanted to exchange for another item and wanted more money for shipping but I never received the new item."
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 188,
-      "biz": "Hims/Hers",
-      "desc": "At 9:50 pm, I was told that I would only be charged $39 the first month for the subscription. 2 hours later, i was then charged $149 for the medication. When inquiring about the fee and what amount would I be charged the following month, I informed the company that I wanted to cancel my whole order. The company then stated that they could not refund me my $39 for the subscription because the order was already assessed. I then inquired about the rest of my funds and was then informed that they could not refund me the rest because the system would not allow them to do so once my order has been processed. This was then at 12:45ish am."
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Online Purchase",
-      "city": "West Frankfort, IL",
-      "amt": 26,
-      "biz": "Melvessina",
-      "desc": "There was an ad on Facebook for Boston Scally Caps on clearance. I ordered two caps. I got an email saying my caps have been shipped, but it wasn&rsquo;t from Boston Scally Caps. It was from Melvessina, not from Boston Scally as advertised. The ad used the same spokesman as BSC, which looking back it was probably AI. It was supposed shipped by the same company (DHL) as BSC uses, so I didn&rsquo;t think much of it. The tracking supposedly went through Los Angeles customs, which I found odd since it was supposed to ship from Boston. The tracking afterwards made no sense at all. A month later, Melvessina claimed it was delivered; however, there was no documentation of the delivery, just their claim it was delivered. I emailed and questioned Melvessina about the delivery. They said they would investigate it, but I never heard back after their initial reply. I tried to follow up a week later but never heard back from them."
-    },
-    {
-      "date": "2026-08-25",
-      "type": "Debt Collections",
-      "city": "Waukegan, IL",
-      "amt": 0,
-      "biz": "Blitt and Gaines, PC",
-      "desc": "They claim to be a debt collector, they never return their emails. They need to be investigated and shut down"
+      "biz": "Commercial lending team",
+      "desc": "Voicemail: This is Nicole Cruz with the commercial lending team.  Hi, this is Nicole Cruz.  I'm calling regarding your business financing request.  Based on the information currently available, your business may be eligible to explore financing of up to $370,000, subject to final lender review.  Call me at 877-578-2202.  Depending on the lender and completion of all requirements, some approved applications may be funded within a few business days.  Call me at 8  Call me at 877-578."
     }
   ]
 }
