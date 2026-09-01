@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-01",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-01",
+      "type": "Online Purchase",
+      "city": "Mundelein, IL",
+      "amt": 52.17,
+      "biz": "CRACKLIVELY",
+      "desc": "My experience duplicates that of another claim shown on your BBB site TO A TEE.\nPlaced an order. Original receipt did not match claims of order.. challenged said fee, which was removed.\nPlaced order July 13, 2026.\nMerchant provided tracking information only after I made third reach out\nTracking number into the states was Accurate\nTracking number provided within states was incorrect.\nProvided a secondary tracking number which was also incorrect\nClaims the tracking numbers belong to USPS\nUSPS local never was in possession of merchandise\nMerchant continued daily argument items were received\nFiled claim with PayPal. They received same argument from merchant and closed case without.\nI paid shipping insurance for this transaction\nMerchant says my claim is with shipper, but provides no assistance in filing claim\nMerchant list, BBB accredited, now I find this is an accurate."
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Online Purchase",
+      "city": "Girard, IL",
+      "amt": 100,
+      "biz": "Molision inc.",
+      "desc": "I ordered a bunch of shirts and never received them and tried to email them and it is a fake email"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Online Purchase",
+      "city": "Girard, IL",
+      "amt": 39,
+      "biz": "Molision inc.",
+      "desc": "I ordered shirts from them never received tracking number says it was delivered and I never received it."
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Tinley Park, IL",
+      "amt": 139,
+      "biz": "buyskyline",
+      "desc": "Ordered Akemi in May(3 months supply). They sent another 3 months worth in June and July, almost another 3 in August.  I only ordered in May. Called to cancel and get a refund. Took almost an hour to convince to stop the orders and they told me no refund, would give discount on further order. Tried EMAIL as well, they wont return EMAILS."
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Vandalia, IL",
+      "amt": 31.8,
+      "biz": "Atlas Library",
+      "desc": "I placed my order via email and the seller sent me a link to access the books on line and that they would send the hard copies soon. I have not every received the actual books themselves."
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Elgin, IL",
+      "amt": 53.19,
+      "biz": "America250localsupply",
+      "desc": "$12"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Credit Cards",
+      "city": "Marion, IL",
+      "amt": 0,
+      "biz": "Lender Bank of Marion",
+      "desc": "I received a check said it&rsquo;s not a check. It is an allocated lender. It was an attempt to look like a check. It said it&rsquo;s not a check. It is a allocated lender. And it read. It was a letter to inform me about an important manner regarding the property at my address and it said I had seven days of receiving the notice and it was secured by our current lender, which is the Bank Of Marion and they had the right to revoke allocated waiver they said to call this one800 number and gave us a property code number and it did look like a check. I just said allocated waiver for $199.00 and then it said not all consumers have previous coverage not affiliated with the Bank Of Marion, but I had the Bank Of Marion all over it. I will send you a picture of it.  (We have had our property paid off for years. We have no mortgage) but it was through Bank of Marion. So somehow they knew that."
+    },
     {
       "date": "2026-08-31",
       "type": "Fake Invoice/Supplier Bill",
@@ -29,100 +85,44 @@
       "desc": "I received a text claiming to be GMD management about my house going to auction soon."
     },
     {
-      "date": "2026-08-28",
-      "type": "Online Purchase",
-      "city": "Cowden, IL",
-      "amt": 25,
-      "biz": "Nebulaforgeio",
-      "desc": "Ordered online. Package says delivered, but was not. Company will not provide POD. Company said they reshipped, still not delivered. Tracking numbers do not work. Company will not provide carrier."
-    },
-    {
-      "date": "2026-08-28",
-      "type": "Employment",
-      "city": "Alton, IL",
-      "amt": 0,
-      "biz": "Stevens Blair & company",
-      "desc": "Fake w2 form"
-    },
-    {
       "date": "2026-08-27",
-      "type": "Online Purchase",
-      "city": "Downers Grove, IL",
-      "amt": 39.95,
-      "biz": "Nordica lab",
-      "desc": "I paid for and supposedly took an IQ test. I was charged $1.95 through PayPal. Today, August 27, 2027 I received a PayPal notice authorizing $39.95 For Nordica lab. I did not authorize any additional payments to Nordicsl lab. In fact test was incorrect. I do not want to pay Nordica lab any further amount. I paid the initial amount as requested for the supposed results.\nI have contacted PayPal to deny amount but now have opened a case. What else do I need to do?"
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Bank/Credit Card Company Imposter",
-      "city": "Eureka, IL",
-      "amt": 0,
-      "biz": "Mutual of Omaha",
-      "desc": "I received a text message from the number posing to be my morgage company. They set up a phone call and had known the amount of my loan and stated they needed to set up morgage protection"
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Phishing",
-      "city": "Naperville, IL",
-      "amt": 0,
-      "biz": "Richard Mckay ESQ",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Phishing",
-      "city": "O Fallon, IL",
-      "amt": 0,
-      "biz": "Jon Ossof's Political Campaign",
-      "desc": "I received a text from a Michigan phone number that stated, \"Payment Confirmation #. Your donation to Jon Ossoff has been verified. Click here for details: https://e.givact.com/KCpWgNtl0Mk\"."
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Phishing",
-      "city": "Des Plaines, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "I received a small mailer delivered to my current address but using my maiden name. When I opened the mailer, the only thing inside was a clipping of another USPS mailer pouch."
-    },
-    {
-      "date": "2026-08-26",
-      "type": "Travel/Vacation/Timeshare",
-      "city": "Pekin, IL",
-      "amt": 2200,
-      "biz": "Captivating Travels by Connie",
-      "desc": "I booked a cruise through this person.  I was told it was paid in full and we were \"all set\".  I checked on the cruise website and yes,  the cruise was booked!!  I was emailed by connie this week that all reservation are being canceled and that her company is no more.   Where's my money?  I contacted the cruise line and yes,  she canceled it,  but she had only placed a non refundable deposit of $500.  I was told it was paid in full.... where's the rest?   Also, in order for me to use the $500, I need the TRAVEL ADVISOR to sign off on it,..... which she can't because her attorney won't allow her to speak to clients.  After reading other peoples struggles with the agent,  I consider myself lucky it wasn't a larger amount."
-    },
-    {
-      "date": "2026-08-26",
       "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Calvin Bell",
-      "desc": "I received an email from the sender l who is an old college friend. It was a paperless post e-invite which of course I trusted. But, something seemed off because when I clicked the link to sign in, to view the invitation, it took me to my email. That spoofed me so I quickly changed my password and signed out all of my devices. I&rsquo;m not positive his email was hacked and they are trying to get people in his contacts."
+      "biz": "harcourt llp",
+      "desc": "wanted to help me claim 13 million insurance policy"
     },
     {
-      "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 30,
-      "biz": "Hooma",
-      "desc": "I got scammed out of a product that was too good to be true. I shouldve known better when the adress they listed lead to either a warehouse in the middle of nowhere or just a tall building that showed no trace of the shop as shown on the website. After cancelling and receiving a new card, I still kept getting failed \"delivery\" attempts shown on their postal tracker."
-    },
-    {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "type": "Counterfeit Product",
-      "city": "Wyanet, IL",
-      "amt": 50,
-      "biz": "Uktrendzone",
-      "desc": "Product is supposed to project moving images on ceilings....it does nothing."
+      "city": "Morrison, IL",
+      "amt": 0,
+      "biz": "Goopearls",
+      "desc": "The item that I received was not the same item as pictured in the commercial on YouTube. It is cheaply made and not worth the money I paid for it. The cost of the item was $34.85 including shipping. The item was made in China and shipped from China to the USA to me. The item was said to have been made by Jason Maynard a wounded veteran in the commercial."
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
+      "type": "Counterfeit Product",
+      "city": "Morrison, IL",
+      "amt": 0,
+      "biz": "Goopearls",
+      "desc": "The item that I received was not the same item as pictured in the commercial on YouTube. It is cheaply made and not worth the money I paid for it. The cost of the item was $34.85 including shipping. The item was made in China and shipped from China to the USA to me. The item was said to have been made by Jason Maynard a wounded veteran in the commercial."
+    },
+    {
+      "date": "2026-08-27",
       "type": "Online Purchase",
-      "city": "Hillside, IL",
-      "amt": 52.99,
-      "biz": "Desirand",
-      "desc": "I ordered the pants I never received they keep saying they are on their way. No tracking one no email respond.  Order #SOV29780 tracking number DZT9387429689U."
+      "city": "Mattoon, IL",
+      "amt": 21,
+      "biz": "getdailyden.com",
+      "desc": "I ordered an item and I received an email stating that it had shipped the next day. After waiting for a month and a half, and not receiving my item, I emailed customer service. They provided me with a link to track the shipping of my order. I had been checking the shipping periodically, but one day, the link had been disabled. I knew something was wrong when the shipper kept having nothing but problems with delivery. I contacted customer service again when the link was disabled and asked for a refund. They told me they couldn&rsquo;t give me a refund immediately since the package was still out for delivery, but they had elevated my request to the highest priority level."
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Online Purchase",
+      "city": "Troy, IL",
+      "amt": 119,
+      "biz": "Neckline",
+      "desc": "Came across an ad for a neckline massager to do four different functions. Stating it would relieve dizziness intention in the neck. Receive device all it does is vibrate. This device is cheap and deceptive. When contacted by email they responded by saying they would give 50% refund. 10 emails later in correspondence nothing has transpired in the form of a refund. I don't know why they keep carrying on a conversation when they're not going to intentionally refund the money. Very deceptive company very .. dishonest company! Trying to protect others from making the same mistake by purchasing one of these from this dishonest company."
     }
   ]
 }
