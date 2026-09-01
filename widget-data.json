@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-28",
+  "generated_at": "2026-08-31",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-08-31",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Monmouth, IL",
+      "amt": 0,
+      "biz": "Enterprise recovery department",
+      "desc": "I rented a vehicle from enterprise while my car was being repaired.  I rented the vehicle from June 8th- 12th. When I returned the rental the car was signed off from any damage.  Then about 6 weeks later I received a letter demanding money for damage to the vehicle. I went over to enterprise in Galesburg, Il where I  rented the vehicle from. I was told that if the claim was under 1000 then they wouldn't presume it. I was given a claim number and phone number to contact the claims department.  When I called I was told there wasn't anything under my name or claim number. I thought that would be the end of it. This past Friday I received a text and phone number about the same claim number. I was told I did damage the car and now they say I damaged the carpet as well. I google this phone number 866-3004407. It states this is a scam claiming damage was done to a vehicle rented from enterprise."
+    },
+    {
+      "date": "2026-08-28",
+      "type": "Online Purchase",
+      "city": "Palmyra, IL",
+      "amt": 235,
+      "biz": "noteapex.com",
+      "desc": "I placed two orders with this website a week apart. First order #129375 was placed on 7/1/26 and I received an order conformation and transaction number 202607012244072534. The second order was placed on 7/7/26 order #129379. The amount for both purchases were charged on my visa gift card (reloadable card). I have never received the merchandise or any replies to my numerous emails and letters sent. This website has NO Phone number...? They have a service email but it does not work. Messages get timed out and not delivered? No way to contact them I even called the building they are located in and they could not connect me either...  I do believe I have been scammed out of $235..."
+    },
     {
       "date": "2026-08-28",
       "type": "Phishing",
@@ -50,7 +66,7 @@
       "city": "Naperville, IL",
       "amt": 0,
       "biz": "Richard Mckay ESQ",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-08-27",
@@ -69,60 +85,44 @@
       "desc": "I received a small mailer delivered to my current address but using my maiden name. When I opened the mailer, the only thing inside was a clipping of another USPS mailer pouch."
     },
     {
-      "date": "2026-08-27",
-      "type": "Counterfeit Product",
-      "city": "Normal, IL",
-      "amt": 26.98,
-      "biz": "Vossera",
-      "desc": "Vossera sold a 'Halloween Bat Plush' on their website with images that clearly advertised it as the Build-A-Bear bat plush. When I received the stuffed animal, it was clearly not the same product it was advertised as. It was much smaller, did not have some of the detail of the B-A-B product, and did not have the B-A-B insignia on the foot. It seems they have taken down the webpage after I filed a complaint about a refund, but I have attached a screenshot where you can still see the images of the bat from their 'Products' section. If you look at the bat plush on the Build-A-Bear website, the pictures are exactly the same."
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Online Purchase",
-      "city": "Dover, IL",
-      "amt": 32.23,
-      "biz": "Vivly",
-      "desc": "$13"
+      "date": "2026-08-26",
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Pekin, IL",
+      "amt": 2200,
+      "biz": "Captivating Travels by Connie",
+      "desc": "I booked a cruise through this person.  I was told it was paid in full and we were \"all set\".  I checked on the cruise website and yes,  the cruise was booked!!  I was emailed by connie this week that all reservation are being canceled and that her company is no more.   Where's my money?  I contacted the cruise line and yes,  she canceled it,  but she had only placed a non refundable deposit of $500.  I was told it was paid in full.... where's the rest?   Also, in order for me to use the $500, I need the TRAVEL ADVISOR to sign off on it,..... which she can't because her attorney won't allow her to speak to clients.  After reading other peoples struggles with the agent,  I consider myself lucky it wasn't a larger amount."
     },
     {
       "date": "2026-08-26",
       "type": "Phishing",
-      "city": "Westville, IL",
-      "amt": 259,
-      "biz": "—",
-      "desc": "Called about a home warranty"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Oak Park, IL",
-      "amt": 1478.45,
-      "biz": "ALBINA DYLA",
-      "desc": "Seller confirmed receipt date before my order and did not even prepare my dress and was non responsive in emails, text, and repeated phone calls. Deceptive seller."
-    },
-    {
-      "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Melrose Park, IL",
-      "amt": 37.98,
-      "biz": "Pixeolane",
-      "desc": "Keep getting information of delivery coming and/or delivered but nothing and they do not respond to emails."
-    },
-    {
-      "date": "2026-08-26",
-      "type": "Investment",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "D3vtech",
-      "desc": "Hand off email scam to aquire trade secrets."
+      "biz": "Calvin Bell",
+      "desc": "I received an email from the sender l who is an old college friend. It was a paperless post e-invite which of course I trusted. But, something seemed off because when I clicked the link to sign in, to view the invitation, it took me to my email. That spoofed me so I quickly changed my password and signed out all of my devices. I&rsquo;m not positive his email was hacked and they are trying to get people in his contacts."
     },
     {
       "date": "2026-08-26",
-      "type": "Home Improvement",
-      "city": "Belleville, IL",
-      "amt": 2500,
-      "biz": "Tri State Tree and Landscaping Solutions",
-      "desc": "$24"
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 30,
+      "biz": "Hooma",
+      "desc": "I got scammed out of a product that was too good to be true. I shouldve known better when the adress they listed lead to either a warehouse in the middle of nowhere or just a tall building that showed no trace of the shop as shown on the website. After cancelling and receiving a new card, I still kept getting failed \"delivery\" attempts shown on their postal tracker."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Counterfeit Product",
+      "city": "Wyanet, IL",
+      "amt": 50,
+      "biz": "Uktrendzone",
+      "desc": "Product is supposed to project moving images on ceilings....it does nothing."
+    },
+    {
+      "date": "2026-08-26",
+      "type": "Online Purchase",
+      "city": "Hillside, IL",
+      "amt": 52.99,
+      "biz": "Desirand",
+      "desc": "I ordered the pants I never received they keep saying they are on their way. No tracking one no email respond.  Order #SOV29780 tracking number DZT9387429689U."
     }
   ]
 }
