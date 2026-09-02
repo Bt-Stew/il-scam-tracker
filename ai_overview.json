@@ -4,26 +4,29 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Fake text messages about unpaid traffic tolls, fines, and delivery packages are currently the most common scams targeting residents in Central Illinois."
+      "snippet": "Common scams targeting residents in Central Illinois include fake traffic text messages, utility slamming, and fraudulent online shopping or package delivery alerts."
     },
     {
       "type": "heading",
-      "snippet": "Common Scams in Central Illinois"
+      "snippet": "Active Scam Trends in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Tollway and Traffic Text Scams: Scammers send text messages pretending to be the Illinois Secretary of State, Illinois Department of Transportation (IDOT), or local toll authorities. These texts claim you have unpaid fines or toll violations and threaten license suspension if you do not click a link to pay immediately . State agencies do not send text messages demanding payment."
+          "snippet": "Fake Toll and Traffic Texts: Scammers send text messages pretending to be from the Illinois Secretary of State or IDOT, claiming you owe unpaid toll fines or tickets under threat of license suspension. The state never uses text messages to demand payment."
         },
         {
-          "snippet": "Utility Slamming Scams: Con artists call local residents, schools, and businesses claiming to be with \"Energy Choice\" or \"Ameren Choice.\" They trick people into switching their electricity providers by asking about current rates."
+          "snippet": "Utility Slamming: Con artists pose as utility representatives (such as Choice or Ameren Choice) to trick homeowners into switching their electricity or gas suppliers."
         },
         {
-          "snippet": "Package Delivery Texts: Scammers send fake SMS messages purporting to be from USPS or UPS. They claim a package delivery failed or is on hold due to a missing address, prompting you to provide credit card or personal details via a link."
+          "snippet": "Package and Delivery Phishing: Fake texts claim a delivery is stuck or missing a house number, asking you to click a link and pay a small fee or enter credit card info."
         },
         {
-          "snippet": "Government and Agency Imposters: Scammers pose as officials from the IRS, Social Security Administration, or the FCC, threatening legal action or arrest unless you wire money or share personal data over the phone."
+          "snippet": "Online Shopping and Holiday Scams: Fake websites and social media ads on Facebook or Instagram offer deep discounts on hard-to-find items to steal credit card data."
+        },
+        {
+          "snippet": "Storm and Home Repair Fraud: Door-to-door contractors offer quick roof or storm repairs after bad weather, demanding cash upfront and leaving jobs unfinished."
         }
       ]
     },
@@ -35,91 +38,56 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Do not click links: Never click on unfamiliar links or attachments in unexpected text messages or emails."
+          "snippet": "Do not click links in unsolicited text messages or emails regarding fines, tolls, or package deliveries."
         },
         {
-          "snippet": "Practice the pause: Take a moment to step back and verify urgent requests rather than acting out of panic."
+          "snippet": "Verify independently by looking up the official phone number of the agency or utility rather than using the contact info provided in a suspicious message."
         },
         {
-          "snippet": "Verify independently: Look up the official phone number of the agency or business independently rather than using the number provided in a suspicious text or call."
-        },
-        {
-          "snippet": "Report suspicious activity: Forward fraudulent texts to the state tracking resource at Illinois Scam Alert or report them directly through the Illinois Attorney General office. You can also contact the Better Business Bureau of Central Illinois for guidance."
+          "snippet": "Check local warnings through the Better Business Bureau of Central Illinois or report scams to the Office of the Illinois Attorney General."
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you want, let me know:"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "What type of message or call you received"
-        },
-        {
-          "snippet": "Which agency or company the person claimed to represent"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "snippet": "I can tell you if it matches a known active scam pattern."
+      "snippet": "If you received a specific suspicious message or call, tell me what the text or caller claimed, and I can help you verify if it is a known scam."
     }
   ],
   "references": [
-    {
-      "title": "Text Scam Alert - Illinois Department of Transportation",
-      "link": "https://idot.illinois.gov",
-      "snippet": "SCAM ALERT: A current text message smishing scam claims recipients owe money associated with traffic tickets, tolls and other fines. These are not legitimate messa...",
-      "source": "IDOT (.gov)",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://idot.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 0
-    },
-    {
-      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
-      "link": "https://www.facebook.com",
-      "snippet": "The ABC7 Chicago I-Team has a warning about tollway scams inundating phones recently. | ABC 7 Chicago | Facebook another day another scam. text there's a new warni",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIbmiXUEspYe0iR4Az8YVouytoEZlm2XPZNdSNfl7f8sPpAjpIuOMg9lDnNec7O38GZabJO4X18pkJKOALWsF0USTQZod3otR2swR85Q",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 1
-    },
     {
       "title": "Office of the Illinois Attorney General Kwame Raoul",
       "link": "https://illinoisattorneygeneral.gov",
       "snippet": "Chicago \u2013 Attorney General Kwame Raoul today urged Illinois consumers to be alert for scam text messages claiming they committed a traffic or tollway violation and...",
       "source": "Illinois Attorney General (.gov)",
       "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 2
+      "index": 0
+    },
+    {
+      "title": "Illinois state officials issued a warning on text message scams ...",
+      "link": "https://www.facebook.com",
+      "snippet": "Illinois state officials issued a warning on text message scams targeting drivers with false claims of unpaid fines and license suspensions. The messages are desig",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdWDmBDok8a_AOTAJCqpbh_2k8kWyhyNXA6j-tZrFLnQhqSf-BboanBafBEKOw85aHw5WgQnHpc4HXIXvdGkbd5MUqsIPJI-3Z_YGCDw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 1
     },
     {
       "title": "Beware of these scam texts targeting Central IL package ...",
       "link": "https://www.wcia.com",
-      "snippet": "by: Bradley Zimmerman Posted: Nov 26, 2024 / 04:14 PM CST Updated: Nov 26, 2024 / 04:14 PM CST (Getty Images) by: Bradley Zimmerman Posted: Nov 26, 2024 / 04:14 PM...",
+      "snippet": "(Getty Images) Local News Beware of these scam texts targeting Central IL package customers ahead of the holidays by: Bradley Zimmerman Posted: Nov 26, 2024 / 04:1...",
       "source": "WCIA.com",
       "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7SdyvVMwSHEiY2G1pxB-EZKd9grzmr3Qm6x2wRuTHCe-ShYjEGTK--AfUSHVQvsKZ4qRSHX0QUB7PMlLVjL3dqNfWOqWccqcdID-u",
       "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 2
+    },
+    {
+      "title": "BBB warns shoppers about rise in online holiday scams - WMBD",
+      "link": "https://www.centralillinoisproud.com",
+      "snippet": "PEORIA, Ill. (WMBD) \u2014 As holiday shopping ramps up, the Better Business Bureau is warning Central Illinois consumers to be extra cautious when buying gifts online.",
+      "source": "CIProud.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9n7r5csVJbEvbgWrCNLrz_I6t6FyhR7iKWP3K5bsBhHbB0nBL4kyLpx7eRN1gFbWpQYJRC99bnJWIz-9wKdBL7c1_gVno3pnqRdb",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 3
-    },
-    {
-      "title": "Here are the top scams residents of Illinois fall for, according to the ...",
-      "link": "https://www.mystateline.com",
-      "snippet": "Here are the top scams residents of Illinois fall for, according to the BBB * Online Purchase: Numerous reports of online scams involving fake websites, fraudulent...",
-      "source": "MyStateline",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7SdyvVMwSHEiY2G1pxB-EZKd9grzmr3Qm6x2wRuTHCe-ShYjEGTK--AfUSHVQvsKZ4qRSHX0QUB7PMlLVjL3dqNfWOqWccqcdID-u",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mystateline.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 4
-    },
-    {
-      "title": "Better Business Bureau of Central IL hosts scam seminar",
-      "link": "https://www.youtube.com",
-      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkoTLFv1nJ7qXEjuEGI6DVcjdlK50yDOfS5Ik-cld-PHwpD3eeWw_wH9YAydi_s4P0H8NPOnHKkg5GOqoQJDLUukE",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 5
     }
   ]
 }
