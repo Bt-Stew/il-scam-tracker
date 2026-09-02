@@ -6,6 +6,22 @@
   "reports": [
     {
       "date": "2026-09-01",
+      "type": "Online Purchase",
+      "city": "Stonefort, IL",
+      "amt": 50,
+      "biz": "Hooma",
+      "desc": "Ordered chairs s from TikTok thru a hooma website over a month ago"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Phishing",
+      "city": "Wood River, IL",
+      "amt": 0,
+      "biz": "Lending Side",
+      "desc": "This is the WORST. They call literally 6 times a day from different numbers all claiming to be from Lending Side about a 50k loan that I've been pre-approved for. It's NONSTOP."
+    },
+    {
+      "date": "2026-09-01",
       "type": "Phishing",
       "city": "IL",
       "amt": 0,
@@ -14,11 +30,19 @@
     },
     {
       "date": "2026-09-01",
+      "type": "Employment",
+      "city": "Madison, IL",
+      "amt": 0,
+      "biz": "Vktrx Logistics LLC",
+      "desc": "Vktrx Logistics LLC is a known fraudulent entity operating a package reshipping scam designed to steal personal information and trick individuals into handling illegally obtained goods."
+    },
+    {
+      "date": "2026-09-01",
       "type": "Counterfeit Product",
       "city": "Edwardsville, IL",
       "amt": 0,
       "biz": "Joe's Place Farms /impostor",
-      "desc": "$24"
+      "desc": "$12"
     },
     {
       "date": "2026-09-01",
@@ -45,6 +69,14 @@
       "desc": "I ordered shirts from them never received tracking number says it was delivered and I never received it."
     },
     {
+      "date": "2026-09-01",
+      "type": "Employment",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Freight Tank Inc",
+      "desc": "This fake company when I did my onboarding paperwork made me take a selfie with me holding my drivers license up with my right hand. Also, they are sending packages with other peoples names on it with my address, which I have never heard of a process of sending packages through a third party shipping company. Looked up there company on the BBB website and they are not registered on there."
+    },
+    {
       "date": "2026-08-31",
       "type": "Employment",
       "city": "Peoria, IL",
@@ -53,76 +85,44 @@
       "desc": "Data entry website that poses as a work from home company. asks for address, drivers license, utility bill, phone number, bank account information, email, birthday, ssn and business id number"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Tinley Park, IL",
-      "amt": 139,
-      "biz": "buyskyline",
-      "desc": "Ordered Akemi in May(3 months supply). They sent another 3 months worth in June and July, almost another 3 in August.  I only ordered in May. Called to cancel and get a refund. Took almost an hour to convince to stop the orders and they told me no refund, would give discount on further order. Tried EMAIL as well, they wont return EMAILS."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Retail Business",
-      "city": "Champaign, IL",
-      "amt": 0,
-      "biz": "Premier Protein",
-      "desc": "The site presented itself as the central website for a popular brand of protein shakes and is visually almost identical to the actual website of this company. When I attempted to pay, luckily, the verification code didn't send to my phone number and after a couple of tries, I got suspicious of the site and realized it was a a fake. However, I have since had multiple attemtps to access my banking information, though the two-factor authentification has not been breached."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Online Purchase",
-      "city": "Vandalia, IL",
-      "amt": 31.8,
-      "biz": "Atlas Library",
-      "desc": "I placed my order via email and the seller sent me a link to access the books on line and that they would send the hard copies soon. I have not every received the actual books themselves."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Online Purchase",
-      "city": "Elgin, IL",
-      "amt": 53.19,
-      "biz": "America250localsupply",
-      "desc": "$25"
+      "city": "Cowden, IL",
+      "amt": 25,
+      "biz": "Nebulaforgeio",
+      "desc": "Ordered online. Package says delivered, but was not. Company will not provide POD. Company said they reshipped, still not delivered. Tracking numbers do not work. Company will not provide carrier."
     },
     {
       "date": "2026-08-28",
-      "type": "Employment",
-      "city": "Alton, IL",
+      "type": "Credit Cards",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Stevens Blair & company",
-      "desc": "Fake w2 form"
+      "biz": "unknown. claimed to be a legal department",
+      "desc": "inbound call from 8335223307 demanding my social security information regarding a bank card/debt that i've never owned. threatened a lawsuit against me without providing more information. claimed to be related to JP Morgan Chase bank."
     },
     {
       "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Wilmington, IL",
-      "amt": 49.72,
-      "biz": "COZY GIFTFUL",
-      "desc": "I HAVE SEVERAL EMAILS SAYING THEY DELIVERED, ON SEVERAL DIFFERENT DATES AND NOTHING IS EVER DELIVERED"
+      "city": "Lake Forest, IL",
+      "amt": 200,
+      "biz": "Harold Shaw",
+      "desc": "This company sent generic products and the incorrect products. When I attempted to return product, there was no mailing address, mailing label or attempt to help with the return. I&rsquo;ll emails were AI generated."
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Downers Grove, IL",
-      "amt": 39.95,
-      "biz": "Nordica lab",
-      "desc": "I paid for and supposedly took an IQ test. I was charged $1.95 through PayPal. Today, August 27, 2027 I received a PayPal notice authorizing $39.95 For Nordica lab. I did not authorize any additional payments to Nordicsl lab. In fact test was incorrect. I do not want to pay Nordica lab any further amount. I paid the initial amount as requested for the supposed results.\nI have contacted PayPal to deny amount but now have opened a case. What else do I need to do?"
+      "city": "Crystal Lake, IL",
+      "amt": 135.99,
+      "biz": "Nafori",
+      "desc": "$12"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 49,
-      "biz": "Old Ways Remedies",
-      "desc": "An ad pops up on social media advertising a book of old remedies. When you purchase the book, you are unwittingly signed up for a subscription. I purchased the book on August 20, and I was charged $49 on August 27. I had no idea why I was being charged. After doing some research, including looking on the Better Business Bureau's website, I saw that other people had also reported that they had no idea they had subscribed to anything. I also found out that although their website shows a Tennessee address, but they are actually a Lithuanian company. Beware of Old Ways Remedies which is owned by Herbal Solutions UAB out of Lithuania."
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Employment",
-      "city": "Elmhurst, IL",
-      "amt": 2400,
-      "biz": "My Clear Voice",
-      "desc": "$24"
+      "city": "McHenry, IL",
+      "amt": 600,
+      "biz": "Rentrel",
+      "desc": "I saw an ad for Rentrel on Facebook so I filled out the form in the hopes of getting help with paying my rent.  I was contacted two days later via email saying that I was approved for $2,375 in rent assistance as long as I made an upfront payment of $475.  Later in the email thread, I was told that their payment processing tool on their website wasn't working and that I would have to pay them via Cash App.  Over the course of 3 days, nearly 30 emails were exchanged with this fraudulent company and then once I made the payment, which ended up costing me $600 because of Cash App's fees, Rentrel ceased all communications with me, didn't pay my rent through my property's rent portal like they advertised and insinuated they would, and now their scam is going to cause my family to be evicted."
     }
   ]
 }
