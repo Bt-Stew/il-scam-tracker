@@ -6,6 +6,22 @@
   "reports": [
     {
       "date": "2026-09-01",
+      "type": "Phishing",
+      "city": "IL",
+      "amt": 0,
+      "biz": "Tax Service",
+      "desc": "They call repeatedly from 1-540-385-0941, leaving a voicemail to call them back at 775-438-1723. I called them and told them to stop calling my number and remove it from the database, that I owe zero taxes then she proceeded to ask me if I had received a letter saying that I owed taxes , with a heavy accent. I told her I owed zero money to remove my number again -and she hung up on me. I couldn&rsquo;t get anyone to answer on the 530 number. Total scammers trying to act like they are a tax service, to help people that owe money to the American IRS. I hope they all get arrested. I&rsquo;d report it to the FBI if I knew how but I&rsquo;m sure they&rsquo;ve got bigger fish to fry. Block them or hide your number and spam call them back, if you know how to do that. Tired of daily voicemails from scammers . They generally don&rsquo;t answer when you try to call them back."
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Counterfeit Product",
+      "city": "Edwardsville, IL",
+      "amt": 0,
+      "biz": "Joe's Place Farms /impostor",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-01",
       "type": "Online Purchase",
       "city": "Mundelein, IL",
       "amt": 52.17,
@@ -30,11 +46,27 @@
     },
     {
       "date": "2026-08-31",
+      "type": "Employment",
+      "city": "Peoria, IL",
+      "amt": 0,
+      "biz": "Mayzob",
+      "desc": "Data entry website that poses as a work from home company. asks for address, drivers license, utility bill, phone number, bank account information, email, birthday, ssn and business id number"
+    },
+    {
+      "date": "2026-08-31",
       "type": "Online Purchase",
       "city": "Tinley Park, IL",
       "amt": 139,
       "biz": "buyskyline",
       "desc": "Ordered Akemi in May(3 months supply). They sent another 3 months worth in June and July, almost another 3 in August.  I only ordered in May. Called to cancel and get a refund. Took almost an hour to convince to stop the orders and they told me no refund, would give discount on further order. Tried EMAIL as well, they wont return EMAILS."
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Retail Business",
+      "city": "Champaign, IL",
+      "amt": 0,
+      "biz": "Premier Protein",
+      "desc": "The site presented itself as the central website for a popular brand of protein shakes and is visually almost identical to the actual website of this company. When I attempted to pay, luckily, the verification code didn't send to my phone number and after a couple of tries, I got suspicious of the site and realized it was a a fake. However, I have since had multiple attemtps to access my banking information, though the two-factor authentification has not been breached."
     },
     {
       "date": "2026-08-31",
@@ -50,79 +82,47 @@
       "city": "Elgin, IL",
       "amt": 53.19,
       "biz": "America250localsupply",
-      "desc": "$12"
+      "desc": "$25"
     },
     {
-      "date": "2026-08-31",
-      "type": "Credit Cards",
-      "city": "Marion, IL",
+      "date": "2026-08-28",
+      "type": "Employment",
+      "city": "Alton, IL",
       "amt": 0,
-      "biz": "Lender Bank of Marion",
-      "desc": "I received a check said it&rsquo;s not a check. It is an allocated lender. It was an attempt to look like a check. It said it&rsquo;s not a check. It is a allocated lender. And it read. It was a letter to inform me about an important manner regarding the property at my address and it said I had seven days of receiving the notice and it was secured by our current lender, which is the Bank Of Marion and they had the right to revoke allocated waiver they said to call this one800 number and gave us a property code number and it did look like a check. I just said allocated waiver for $199.00 and then it said not all consumers have previous coverage not affiliated with the Bank Of Marion, but I had the Bank Of Marion all over it. I will send you a picture of it.  (We have had our property paid off for years. We have no mortgage) but it was through Bank of Marion. So somehow they knew that."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Monmouth, IL",
-      "amt": 0,
-      "biz": "Enterprise recovery department",
-      "desc": "I rented a vehicle from enterprise while my car was being repaired.  I rented the vehicle from June 8th- 12th. When I returned the rental the car was signed off from any damage.  Then about 6 weeks later I received a letter demanding money for damage to the vehicle. I went over to enterprise in Galesburg, Il where I  rented the vehicle from. I was told that if the claim was under 1000 then they wouldn't presume it. I was given a claim number and phone number to contact the claims department.  When I called I was told there wasn't anything under my name or claim number. I thought that would be the end of it. This past Friday I received a text and phone number about the same claim number. I was told I did damage the car and now they say I damaged the carpet as well. I google this phone number 866-3004407. It states this is a scam claiming damage was done to a vehicle rented from enterprise."
+      "biz": "Stevens Blair & company",
+      "desc": "Fake w2 form"
     },
     {
       "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Palmyra, IL",
-      "amt": 235,
-      "biz": "noteapex.com",
-      "desc": "I placed two orders with this website a week apart. First order #129375 was placed on 7/1/26 and I received an order conformation and transaction number 202607012244072534. The second order was placed on 7/7/26 order #129379. The amount for both purchases were charged on my visa gift card (reloadable card). I have never received the merchandise or any replies to my numerous emails and letters sent. This website has NO Phone number...? They have a service email but it does not work. Messages get timed out and not delivered? No way to contact them I even called the building they are located in and they could not connect me either...  I do believe I have been scammed out of $235..."
-    },
-    {
-      "date": "2026-08-28",
-      "type": "Phishing",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "GMD management",
-      "desc": "I received a text claiming to be GMD management about my house going to auction soon."
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "harcourt llp",
-      "desc": "wanted to help me claim 13 million insurance policy"
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Counterfeit Product",
-      "city": "Morrison, IL",
-      "amt": 0,
-      "biz": "Goopearls",
-      "desc": "The item that I received was not the same item as pictured in the commercial on YouTube. It is cheaply made and not worth the money I paid for it. The cost of the item was $34.85 including shipping. The item was made in China and shipped from China to the USA to me. The item was said to have been made by Jason Maynard a wounded veteran in the commercial."
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Counterfeit Product",
-      "city": "Morrison, IL",
-      "amt": 0,
-      "biz": "Goopearls",
-      "desc": "The item that I received was not the same item as pictured in the commercial on YouTube. It is cheaply made and not worth the money I paid for it. The cost of the item was $34.85 including shipping. The item was made in China and shipped from China to the USA to me. The item was said to have been made by Jason Maynard a wounded veteran in the commercial."
+      "city": "Wilmington, IL",
+      "amt": 49.72,
+      "biz": "COZY GIFTFUL",
+      "desc": "I HAVE SEVERAL EMAILS SAYING THEY DELIVERED, ON SEVERAL DIFFERENT DATES AND NOTHING IS EVER DELIVERED"
     },
     {
       "date": "2026-08-27",
       "type": "Online Purchase",
-      "city": "Mattoon, IL",
-      "amt": 21,
-      "biz": "getdailyden.com",
-      "desc": "I ordered an item and I received an email stating that it had shipped the next day. After waiting for a month and a half, and not receiving my item, I emailed customer service. They provided me with a link to track the shipping of my order. I had been checking the shipping periodically, but one day, the link had been disabled. I knew something was wrong when the shipper kept having nothing but problems with delivery. I contacted customer service again when the link was disabled and asked for a refund. They told me they couldn&rsquo;t give me a refund immediately since the package was still out for delivery, but they had elevated my request to the highest priority level."
+      "city": "Downers Grove, IL",
+      "amt": 39.95,
+      "biz": "Nordica lab",
+      "desc": "I paid for and supposedly took an IQ test. I was charged $1.95 through PayPal. Today, August 27, 2027 I received a PayPal notice authorizing $39.95 For Nordica lab. I did not authorize any additional payments to Nordicsl lab. In fact test was incorrect. I do not want to pay Nordica lab any further amount. I paid the initial amount as requested for the supposed results.\nI have contacted PayPal to deny amount but now have opened a case. What else do I need to do?"
     },
     {
       "date": "2026-08-27",
       "type": "Online Purchase",
-      "city": "Troy, IL",
-      "amt": 119,
-      "biz": "Neckline",
-      "desc": "Came across an ad for a neckline massager to do four different functions. Stating it would relieve dizziness intention in the neck. Receive device all it does is vibrate. This device is cheap and deceptive. When contacted by email they responded by saying they would give 50% refund. 10 emails later in correspondence nothing has transpired in the form of a refund. I don't know why they keep carrying on a conversation when they're not going to intentionally refund the money. Very deceptive company very .. dishonest company! Trying to protect others from making the same mistake by purchasing one of these from this dishonest company."
+      "city": "Yorkville, IL",
+      "amt": 49,
+      "biz": "Old Ways Remedies",
+      "desc": "An ad pops up on social media advertising a book of old remedies. When you purchase the book, you are unwittingly signed up for a subscription. I purchased the book on August 20, and I was charged $49 on August 27. I had no idea why I was being charged. After doing some research, including looking on the Better Business Bureau's website, I saw that other people had also reported that they had no idea they had subscribed to anything. I also found out that although their website shows a Tennessee address, but they are actually a Lithuanian company. Beware of Old Ways Remedies which is owned by Herbal Solutions UAB out of Lithuania."
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Employment",
+      "city": "Elmhurst, IL",
+      "amt": 2400,
+      "biz": "My Clear Voice",
+      "desc": "$24"
     }
   ]
 }
