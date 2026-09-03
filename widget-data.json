@@ -7,6 +7,22 @@
     {
       "date": "2026-09-02",
       "type": "Employment",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "PakNext Inc",
+      "desc": "I received an anonymous call about 6-7 times in less than a minute by 816 area code. I did not know who this person was. She called and her English was not very great and it was about a potential job opportunity and attempted to ask me basic questions to see if I qualify for the job then, after the questions I immediately was given an employee contract form asking about my personal information, my ID and mailing address in my account banking information."
+    },
+    {
+      "date": "2026-09-02",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 172.81,
+      "biz": "Curve  Bloom",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-02",
+      "type": "Employment",
       "city": "Wilmington, IL",
       "amt": 0,
       "biz": "LMM IRVING LLC DBA VALLEY RANCH SHELL",
@@ -69,20 +85,36 @@
       "desc": "They call repeatedly from 1-540-385-0941, leaving a voicemail to call them back at 775-438-1723. I called them and told them to stop calling my number and remove it from the database, that I owe zero taxes then she proceeded to ask me if I had received a letter saying that I owed taxes , with a heavy accent. I told her I owed zero money to remove my number again -and she hung up on me. I couldn&rsquo;t get anyone to answer on the 530 number. Total scammers trying to act like they are a tax service, to help people that owe money to the American IRS. I hope they all get arrested. I&rsquo;d report it to the FBI if I knew how but I&rsquo;m sure they&rsquo;ve got bigger fish to fry. Block them or hide your number and spam call them back, if you know how to do that. Tired of daily voicemails from scammers . They generally don&rsquo;t answer when you try to call them back."
     },
     {
-      "date": "2026-09-01",
-      "type": "Employment",
-      "city": "Madison, IL",
-      "amt": 0,
-      "biz": "Vktrx Logistics LLC",
-      "desc": "Vktrx Logistics LLC is a known fraudulent entity operating a package reshipping scam designed to steal personal information and trick individuals into handling illegally obtained goods."
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Vandalia, IL",
+      "amt": 31.8,
+      "biz": "Atlas Library",
+      "desc": "I placed my order via email and the seller sent me a link to access the books on line and that they would send the hard copies soon. I have not every received the actual books themselves."
     },
     {
-      "date": "2026-09-01",
-      "type": "Other",
-      "city": "Morton, IL",
+      "date": "2026-08-31",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Skokie, IL",
       "amt": 0,
-      "biz": "Geico Insurance",
-      "desc": "I received a text that I owed a policy for GEICO and I never set up a policy for GEICO. And calling Geico they had a card they were sending charges to that was not a card I had. They had all the correct information for myself minus the email and the credit card information. I contacted my auto insurance company and was informed this was a scam and to report it as soon as possible."
+      "biz": "none",
+      "desc": "from multiple different incoming numbers, all say \"I\" have a past due health policy balance and should call 218-607-1649\nThis message is never seen as fraud or spam by spam filtering"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Elgin, IL",
+      "amt": 53.19,
+      "biz": "America250localsupply",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Credit Cards",
+      "city": "Marion, IL",
+      "amt": 0,
+      "biz": "Lender Bank of Marion",
+      "desc": "I received a check said it&rsquo;s not a check. It is an allocated lender. It was an attempt to look like a check. It said it&rsquo;s not a check. It is a allocated lender. And it read. It was a letter to inform me about an important manner regarding the property at my address and it said I had seven days of receiving the notice and it was secured by our current lender, which is the Bank Of Marion and they had the right to revoke allocated waiver they said to call this one800 number and gave us a property code number and it did look like a check. I just said allocated waiver for $199.00 and then it said not all consumers have previous coverage not affiliated with the Bank Of Marion, but I had the Bank Of Marion all over it. I will send you a picture of it.  (We have had our property paid off for years. We have no mortgage) but it was through Bank of Marion. So somehow they knew that."
     },
     {
       "date": "2026-08-31",
@@ -90,39 +122,7 @@
       "city": "Chicago, IL",
       "amt": 119.95,
       "biz": "Grace and Anna",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Phishing",
-      "city": "Western Springs, IL",
-      "amt": 0,
-      "biz": "Unnamed business (roofing)",
-      "desc": "Companies offering to inspect your roof after a \"storm\" have insistently calling throughout the year offering to inspect, and presumably charge insurance claims through for roof damage. It is particularly alarming as they know clear details about the homeowners, the addresses, and the residents and state they will be in the areas on particular dates."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Monmouth, IL",
-      "amt": 0,
-      "biz": "Enterprise recovery department",
-      "desc": "I rented a vehicle from enterprise while my car was being repaired.  I rented the vehicle from June 8th- 12th. When I returned the rental the car was signed off from any damage.  Then about 6 weeks later I received a letter demanding money for damage to the vehicle. I went over to enterprise in Galesburg, Il where I  rented the vehicle from. I was told that if the claim was under 1000 then they wouldn't presume it. I was given a claim number and phone number to contact the claims department.  When I called I was told there wasn't anything under my name or claim number. I thought that would be the end of it. This past Friday I received a text and phone number about the same claim number. I was told I did damage the car and now they say I damaged the carpet as well. I google this phone number 866-3004407. It states this is a scam claiming damage was done to a vehicle rented from enterprise."
-    },
-    {
-      "date": "2026-08-28",
-      "type": "Counterfeit Product",
-      "city": "Oswego, IL",
-      "amt": 64.9,
-      "biz": "Curve & Bloom LLC",
-      "desc": "I ordered clothing from Curve &amp; Bloom expecting items to be denim and relatively high quality. The photos and description of the product were highly misleading as the product is purely polyester and counterfeit goods. I am very disappointed and from reading here on BBB I will not be seeing my money."
-    },
-    {
-      "date": "2026-08-28",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 64.98,
-      "biz": "Dabbztravelsmart",
-      "desc": "Didn&rsquo;t received merchant"
+      "desc": "$25"
     }
   ]
 }
