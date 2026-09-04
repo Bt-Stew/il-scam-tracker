@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-03",
+      "type": "Counterfeit Product",
+      "city": "Peoria, IL",
+      "amt": 65,
+      "biz": "Laura  Scott Charleston",
+      "desc": "The dress purchased is a counterfeit of an image of another dress on another site. The dress I ordered had a raised brocade gold pattern. The dress received is a screen printed athletic pattern. When asked for a refund, told it was the same dress and they would offer a 15% discount as a gesture of good will however their site says full refunds with the exception the buyer pays shipping to China. Buyer beware!"
+    },
+    {
+      "date": "2026-09-03",
+      "type": "Phishing",
+      "city": "Fairview Heights, IL",
+      "amt": 75,
+      "biz": "Ivy Cosign and Loan Service",
+      "desc": "I contacted the company to help me cosign a loan. They then had me sign a contract and pay the fee of $75 to get started. Once I signed the contract and paid the fee, I was blocked on their WhatsApp and Facebook group. I figured this out because I tried contacting them with no success."
+    },
+    {
+      "date": "2026-09-02",
+      "type": "Counterfeit Product",
+      "city": "Troy, IL",
+      "amt": 147.6,
+      "biz": "Pokecollects",
+      "desc": "Do not trust. Sends Korean booster packs worth much less. Claims 50% off and free gifts. But just bulk."
+    },
+    {
+      "date": "2026-09-02",
+      "type": "Counterfeit Product",
+      "city": "Paris, IL",
+      "amt": 135.88,
+      "biz": "Sharon and Ellen Savannah",
+      "desc": "It was portrayed as being in Savannah, GA but product came from China via California address. I received merchandise but it wasn't as shown, took a month to receive, was very poor quality and didn't fit. Per the advertised money back guarantee, this was not the case. It was not returnable unless I paid additional money for each item and then no promise that it would be refunded to my account. I was told that I would be credited a 25% refund within 3-10 business days. That did not occur and my emails requesting credit have been ignored. This was ordered mid-July, didn't get order till mid-August and still no refund to my Credit Card.  I have attached the communication. They have only used stall tactics and now are not even replying to my request about the refund to my C Card so I am unsure of how to resolve this. Shocking that this could occur when it appeared so reputable."
+    },
     {
       "date": "2026-09-02",
       "type": "Employment",
@@ -14,11 +46,19 @@
     },
     {
       "date": "2026-09-02",
+      "type": "Debt Collections",
+      "city": "Breese, IL",
+      "amt": 0,
+      "biz": "Fleet Billing Services",
+      "desc": "$12"
+    },
+    {
+      "date": "2026-09-02",
       "type": "Online Purchase",
       "city": "Chicago, IL",
       "amt": 172.81,
       "biz": "Curve  Bloom",
-      "desc": "$24"
+      "desc": "$13"
     },
     {
       "date": "2026-09-02",
@@ -38,91 +78,51 @@
     },
     {
       "date": "2026-09-02",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 24.97,
-      "biz": "Cozya Home",
-      "desc": "Product was advertised on t** *** and ********"
-    },
-    {
-      "date": "2026-09-02",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Mount Prospect, IL",
-      "amt": 688.5,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received an invoice by mail, paid thinking it was something we have, after asking our IT I found this is a scam, I paid 2 invoices totalling 688.50, I continue to receive invoices now by fax."
-    },
-    {
-      "date": "2026-09-02",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 89.97,
-      "biz": "Olive & Evy",
-      "desc": "I saw the ad on Facebook which took me to the site. I ordered a pair of mules for 39.99 with free shipping. After i placed the order it posted to my bank account for 89.97. I was charged another 39.99 for \"rewards\" which i did not sign up.for any subscription. I never received the shoes. I emailed multiple times with no response."
-    },
-    {
-      "date": "2026-09-01",
-      "type": "Online Purchase",
-      "city": "Stonefort, IL",
-      "amt": 50,
-      "biz": "Hooma",
-      "desc": "Ordered chairs s from TikTok thru a hooma website over a month ago"
-    },
-    {
-      "date": "2026-09-01",
       "type": "Phishing",
-      "city": "Wood River, IL",
+      "city": "Granite City, IL",
       "amt": 0,
-      "biz": "Lending Side",
-      "desc": "This is the WORST. They call literally 6 times a day from different numbers all claiming to be from Lending Side about a 50k loan that I've been pre-approved for. It's NONSTOP."
+      "biz": "Regional One Dispatch",
+      "desc": "The scammer contacted multiple family members and myself claiming to need my signature on a document today but did not clarify what said document was for."
     },
     {
       "date": "2026-09-01",
-      "type": "Phishing",
-      "city": "IL",
-      "amt": 0,
-      "biz": "Tax Service",
-      "desc": "They call repeatedly from 1-540-385-0941, leaving a voicemail to call them back at 775-438-1723. I called them and told them to stop calling my number and remove it from the database, that I owe zero taxes then she proceeded to ask me if I had received a letter saying that I owed taxes , with a heavy accent. I told her I owed zero money to remove my number again -and she hung up on me. I couldn&rsquo;t get anyone to answer on the 530 number. Total scammers trying to act like they are a tax service, to help people that owe money to the American IRS. I hope they all get arrested. I&rsquo;d report it to the FBI if I knew how but I&rsquo;m sure they&rsquo;ve got bigger fish to fry. Block them or hide your number and spam call them back, if you know how to do that. Tired of daily voicemails from scammers . They generally don&rsquo;t answer when you try to call them back."
-    },
-    {
-      "date": "2026-08-31",
       "type": "Online Purchase",
-      "city": "Vandalia, IL",
-      "amt": 31.8,
-      "biz": "Atlas Library",
-      "desc": "I placed my order via email and the seller sent me a link to access the books on line and that they would send the hard copies soon. I have not every received the actual books themselves."
+      "city": "Girard, IL",
+      "amt": 39,
+      "biz": "Molision inc.",
+      "desc": "I ordered shirts from them never received tracking number says it was delivered and I never received it."
     },
     {
-      "date": "2026-08-31",
-      "type": "Healthcare/Medicaid/Medicare",
-      "city": "Skokie, IL",
-      "amt": 0,
-      "biz": "none",
-      "desc": "from multiple different incoming numbers, all say \"I\" have a past due health policy balance and should call 218-607-1649\nThis message is never seen as fraud or spam by spam filtering"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Online Purchase",
-      "city": "Elgin, IL",
-      "amt": 53.19,
-      "biz": "America250localsupply",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Credit Cards",
-      "city": "Marion, IL",
-      "amt": 0,
-      "biz": "Lender Bank of Marion",
-      "desc": "I received a check said it&rsquo;s not a check. It is an allocated lender. It was an attempt to look like a check. It said it&rsquo;s not a check. It is a allocated lender. And it read. It was a letter to inform me about an important manner regarding the property at my address and it said I had seven days of receiving the notice and it was secured by our current lender, which is the Bank Of Marion and they had the right to revoke allocated waiver they said to call this one800 number and gave us a property code number and it did look like a check. I just said allocated waiver for $199.00 and then it said not all consumers have previous coverage not affiliated with the Bank Of Marion, but I had the Bank Of Marion all over it. I will send you a picture of it.  (We have had our property paid off for years. We have no mortgage) but it was through Bank of Marion. So somehow they knew that."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Online Purchase",
+      "date": "2026-09-01",
+      "type": "Employment",
       "city": "Chicago, IL",
-      "amt": 119.95,
-      "biz": "Grace and Anna",
-      "desc": "$25"
+      "amt": 0,
+      "biz": "Freight Tank Inc",
+      "desc": "This fake company when I did my onboarding paperwork made me take a selfie with me holding my drivers license up with my right hand. Also, they are sending packages with other peoples names on it with my address, which I have never heard of a process of sending packages through a third party shipping company. Looked up there company on the BBB website and they are not registered on there."
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Employment",
+      "city": "Peoria, IL",
+      "amt": 0,
+      "biz": "Mayzob",
+      "desc": "Data entry website that poses as a work from home company. asks for address, drivers license, utility bill, phone number, bank account information, email, birthday, ssn and business id number"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Glendale Heights, IL",
+      "amt": 22.98,
+      "biz": "Hooma",
+      "desc": "I ordered a product (wagon) never received the item, when watching the tracking information the product was coming from another country as the tracking information stated it needed to clear customs"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Tinley Park, IL",
+      "amt": 139,
+      "biz": "buyskyline",
+      "desc": "Ordered Akemi in May(3 months supply). They sent another 3 months worth in June and July, almost another 3 in August.  I only ordered in May. Called to cancel and get a refund. Took almost an hour to convince to stop the orders and they told me no refund, would give discount on further order. Tried EMAIL as well, they wont return EMAILS."
     }
   ]
 }
