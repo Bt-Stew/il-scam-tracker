@@ -6,6 +6,22 @@
   "reports": [
     {
       "date": "2026-09-03",
+      "type": "Advance Fee Loan",
+      "city": "Evanston, IL",
+      "amt": 0,
+      "biz": "Advance America",
+      "desc": "The photo has the details."
+    },
+    {
+      "date": "2026-09-03",
+      "type": "Online Purchase",
+      "city": "Clinton, IL",
+      "amt": 30,
+      "biz": "BlueEase Optics",
+      "desc": "As others reported \"reading glasses\" do not work let alone self adjust as advertised.\nLikewise support email does not work.  Phone call answers but they do not honor the 100% refund and charge excessive amount for return and restocking,, offer to settle for partial refund.  Packaging makes no reference to magnification, only blu-light blocking (likely remarketing product fraudulently.).\n****** was the payment method , their website reached via YouTube Ad"
+    },
+    {
+      "date": "2026-09-03",
       "type": "Counterfeit Product",
       "city": "Peoria, IL",
       "amt": 65,
@@ -50,7 +66,7 @@
       "city": "Breese, IL",
       "amt": 0,
       "biz": "Fleet Billing Services",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-09-02",
@@ -58,7 +74,7 @@
       "city": "Chicago, IL",
       "amt": 172.81,
       "biz": "Curve  Bloom",
-      "desc": "$13"
+      "desc": "$25"
     },
     {
       "date": "2026-09-02",
@@ -69,20 +85,28 @@
       "desc": "Check a letter explaining wat to do. Deposit check, keep certain amount for ur pay an to pay a detail person to apply an AD onto car. Check appears real a from Bank of America. this I found to b a scam! Do not deposit"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-01",
       "type": "Online Purchase",
-      "city": "Sterling, IL",
-      "amt": 3250,
-      "biz": "Trailer Barn LLC",
-      "desc": "Paid for the trailer never seen the trailer."
+      "city": "Mundelein, IL",
+      "amt": 52.17,
+      "biz": "CRACKLIVELY",
+      "desc": "My experience duplicates that of another claim shown on your BBB site TO A TEE.\nPlaced an order. Original receipt did not match claims of order.. challenged said fee, which was removed.\nPlaced order July 13, 2026.\nMerchant provided tracking information only after I made third reach out\nTracking number into the states was Accurate\nTracking number provided within states was incorrect.\nProvided a secondary tracking number which was also incorrect\nClaims the tracking numbers belong to USPS\nUSPS local never was in possession of merchandise\nMerchant continued daily argument items were received\nFiled claim with PayPal. They received same argument from merchant and closed case without.\nI paid shipping insurance for this transaction\nMerchant says my claim is with shipper, but provides no assistance in filing claim\nMerchant list, BBB accredited, now I find this is an accurate."
     },
     {
-      "date": "2026-09-02",
-      "type": "Phishing",
-      "city": "Granite City, IL",
-      "amt": 0,
-      "biz": "Regional One Dispatch",
-      "desc": "The scammer contacted multiple family members and myself claiming to need my signature on a document today but did not clarify what said document was for."
+      "date": "2026-09-01",
+      "type": "Online Purchase",
+      "city": "Naperville, IL",
+      "amt": 92,
+      "biz": "Push Button",
+      "desc": "Push Button popped up claiming great wealth and once I decided against the purchase, the transaction had already gone through. I tried contacting customer support and am now getting the run around. Redirected back and forth from website to website to no avail."
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Online Purchase",
+      "city": "Girard, IL",
+      "amt": 100,
+      "biz": "Molision inc.",
+      "desc": "I ordered a bunch of shirts and never received them and tried to email them and it is a fake email"
     },
     {
       "date": "2026-09-01",
@@ -97,32 +121,8 @@
       "type": "Employment",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Freight Tank Inc",
+      "biz": "—",
       "desc": "This fake company when I did my onboarding paperwork made me take a selfie with me holding my drivers license up with my right hand. Also, they are sending packages with other peoples names on it with my address, which I have never heard of a process of sending packages through a third party shipping company. Looked up there company on the BBB website and they are not registered on there."
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Employment",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "Mayzob",
-      "desc": "Data entry website that poses as a work from home company. asks for address, drivers license, utility bill, phone number, bank account information, email, birthday, ssn and business id number"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Online Purchase",
-      "city": "Glendale Heights, IL",
-      "amt": 22.98,
-      "biz": "Hooma",
-      "desc": "I ordered a product (wagon) never received the item, when watching the tracking information the product was coming from another country as the tracking information stated it needed to clear customs"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "Online Purchase",
-      "city": "Tinley Park, IL",
-      "amt": 139,
-      "biz": "buyskyline",
-      "desc": "Ordered Akemi in May(3 months supply). They sent another 3 months worth in June and July, almost another 3 in August.  I only ordered in May. Called to cancel and get a refund. Took almost an hour to convince to stop the orders and they told me no refund, would give discount on further order. Tried EMAIL as well, they wont return EMAILS."
     }
   ]
 }
