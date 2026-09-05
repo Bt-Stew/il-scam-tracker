@@ -18,6 +18,14 @@
     },
     {
       "date": "2026-09-03",
+      "type": "Online Purchase",
+      "city": "Chatham, IL",
+      "amt": 200,
+      "biz": "OMNI Creatine",
+      "desc": "I have tried for months to initiate a refund but keep getting bot responses. they wont provide a phone number. I have emailed the same refund email provided 20 times and continue to get generic responses. I have asked that they call me. I have asked for any type  of contact and just get a bot response. I have all of the emails.  I want the two shipments of their products to be refunded like I started to request a month ago. the number I provided on the claim form a few pages was mine, I just needed to enter something. They have NO phone number anywhere"
+    },
+    {
+      "date": "2026-09-03",
       "type": "Counterfeit Product",
       "city": "Peoria, IL",
       "amt": 65,
@@ -73,12 +81,12 @@
       "desc": "$25"
     },
     {
-      "date": "2026-09-02",
-      "type": "Employment",
-      "city": "Wilmington, IL",
+      "date": "2026-09-01",
+      "type": "Counterfeit Product",
+      "city": "Edwardsville, IL",
       "amt": 0,
-      "biz": "LMM IRVING LLC DBA VALLEY RANCH SHELL",
-      "desc": "Check a letter explaining wat to do. Deposit check, keep certain amount for ur pay an to pay a detail person to apply an AD onto car. Check appears real a from Bank of America. this I found to b a scam! Do not deposit"
+      "biz": "Joe's Place Farms /impostor",
+      "desc": "$24"
     },
     {
       "date": "2026-09-01",
@@ -154,11 +162,11 @@
     },
     {
       "date": "2026-08-31",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Monmouth, IL",
       "amt": 0,
-      "biz": "United Covenant Financial Services",
-      "desc": "I have been continuously been called from telephone numbers from around the world. The latest call was from +1 (581) 505-4071, Sept-Iles, Quebec, Canada at 11:45AM, September 25th. I received an earlier call at 11:38 AM from +1 (830) 288-6381, Texas and 9:37 AM from, Wisconsin. This is just today. I had four calls Yesterday with the same pattern of different calling areas. United Covenant said they use software calling to find people to offer loans. I am unable to find any financial company in Virginia or anywhere else for that matter. This robocall loan calls are a daily occurrence for me for over a year, despite being on the federal do not call list. I was maybe hoping you might investigate them as a fraudulent solicitation through robocalling."
+      "biz": "Enterprise recovery department",
+      "desc": "I rented a vehicle from enterprise while my car was being repaired.  I rented the vehicle from June 8th- 12th. When I returned the rental the car was signed off from any damage.  Then about 6 weeks later I received a letter demanding money for damage to the vehicle. I went over to enterprise in Galesburg, Il where I  rented the vehicle from. I was told that if the claim was under 1000 then they wouldn't presume it. I was given a claim number and phone number to contact the claims department.  When I called I was told there wasn't anything under my name or claim number. I thought that would be the end of it. This past Friday I received a text and phone number about the same claim number. I was told I did damage the car and now they say I damaged the carpet as well. I google this phone number 866-3004407. It states this is a scam claiming damage was done to a vehicle rented from enterprise."
     },
     {
       "date": "2026-08-28",
@@ -233,12 +241,12 @@
       "desc": "Ordered online. Package says delivered, but was not. Company will not provide POD. Company said they reshipped, still not delivered. Tracking numbers do not work. Company will not provide carrier."
     },
     {
-      "date": "2026-08-28",
-      "type": "Credit Cards",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "unknown. claimed to be a legal department",
-      "desc": "inbound call from 8335223307 demanding my social security information regarding a bank card/debt that i've never owned. threatened a lawsuit against me without providing more information. claimed to be related to JP Morgan Chase bank."
+      "date": "2026-08-27",
+      "type": "Online Purchase",
+      "city": "Addison, IL",
+      "amt": 19.98,
+      "biz": "Cozyahome",
+      "desc": "I ordered two boneless couches off tiktok and first they kept sending messages come out it was held up by customs then they said it was filled up through the high demand then they said it was on his way today but when I checked the tracker it said no one was available to pick up this was at the same time they announced that they was bringing it so I don't know how it would have got here as soon as they posted it and nobody was here except I was here all day this is a scam I hope they enjoy the 20 bucks they stole"
     },
     {
       "date": "2026-08-27",
@@ -246,7 +254,7 @@
       "city": "Naperville, IL",
       "amt": 0,
       "biz": "Richard Mckay ESQ",
-      "desc": "$24"
+      "desc": "$12"
     },
     {
       "date": "2026-08-27",
@@ -294,7 +302,7 @@
       "city": "Dover, IL",
       "amt": 32.23,
       "biz": "Vivly",
-      "desc": "$25"
+      "desc": "$13"
     },
     {
       "date": "2026-08-27",
@@ -313,12 +321,12 @@
       "desc": "I ordered a 3 count Mediterranean Food List and was on 8/12/2026. The company is fairly new. It says item would be shipped in 1 to 2 business days. When I track order on the website it says order not found I contacted Shopify which is who they do business through, they say they are waiting on tracking info. That has been almost two weeks and still no tracking number"
     },
     {
-      "date": "2026-08-27",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "None given",
-      "desc": "Scammer left phone message on my cellphone claiming I owed money for item I didn&rsquo;t purchase. No names were given either of the company calling or the person I should contact."
+      "date": "2026-08-26",
+      "type": "Online Purchase",
+      "city": "Alton, IL",
+      "amt": 34,
+      "biz": "Sanvort",
+      "desc": "Ordered cargo shorts that have not been delivered.  Now asking for $15.00 to try and complete shipment."
     },
     {
       "date": "2026-08-26",
@@ -394,11 +402,11 @@
     },
     {
       "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Oak Park, IL",
-      "amt": 1478.45,
-      "biz": "ALBINA DYLA",
-      "desc": "Seller confirmed receipt date before my order and did not even prepare my dress and was non responsive in emails, text, and repeated phone calls. Deceptive seller."
+      "type": "Identity Theft",
+      "city": "Frankfort, IL",
+      "amt": 45,
+      "biz": "Mobileho",
+      "desc": "This company, Mobileho which exclaimed to be affiliated with PayPal took 15.00 dollars in three separate transactions using my debit card. In my checking transactions info for each the give a telephone number 402-935-7733. This number leads the what sounds like a PayPal customer service #.\nPayPal has no record of this transaction, no 402 area code reference, and has never heard of Mobileho. Mobileho is said to be a charitable organization. I found this out from the dispute with my bank. I'm the only user on this account."
     },
     {
       "date": "2026-08-26",
@@ -473,12 +481,12 @@
       "desc": "Online business claiming to offer services never rendered."
     },
     {
-      "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 73.54,
-      "biz": "Paw Print Pad",
-      "desc": "Purchased a Ruffwear dog life jacket to be delivered to Michigan. The tracking information showed it shipping from China despite it not being clear the company was Chinese originally, and then showed that the product was delivered in Marion Ohio, which is an entirely different state. I have contacted them numerous times with no response."
+      "date": "2026-08-25",
+      "type": "Phishing",
+      "city": "Lewistown, IL",
+      "amt": 0,
+      "biz": "XM Technologies LLC",
+      "desc": "I was contacting SirusXM and this lady answered and was selling me a lifetime membership to SirusXM for 499.99. She had my call information my name, Email, old phone number and the last 4 numbers of my credit card. She wanted the rest of it , I told her to call me back at 1:30 for the rest of CC number. In the mean time I did talk with SirusXM and it wasn't them. They are not offering lifetime membes."
     },
     {
       "date": "2026-08-25",
@@ -553,12 +561,12 @@
       "desc": "Ordered an item that was not made right and wrong size. Wanted a refund, they only wanted to exchange for another item and wanted more money for shipping but I never received the new item."
     },
     {
-      "date": "2026-08-25",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 188,
-      "biz": "Hims/Hers",
-      "desc": "At 9:50 pm, I was told that I would only be charged $39 the first month for the subscription. 2 hours later, i was then charged $149 for the medication. When inquiring about the fee and what amount would I be charged the following month, I informed the company that I wanted to cancel my whole order. The company then stated that they could not refund me my $39 for the subscription because the order was already assessed. I then inquired about the rest of my funds and was then informed that they could not refund me the rest because the system would not allow them to do so once my order has been processed. This was then at 12:45ish am."
+      "date": "2026-08-24",
+      "type": "Debt Collections",
+      "city": "Algonquin, IL",
+      "amt": 0,
+      "biz": "Advanced Financial Servicing Team",
+      "desc": "I gotten calls from 217-288-8030 and a 308# and it says, Please call the number shown on your caller ID to connect with the advanced finical servicing team member handling your account. Our records show we have ben unable to reach you about this account. Once of our specialists is ready to assist you today. Again please call the number shown on your caller ID to be connected."
     },
     {
       "date": "2026-08-24",
@@ -633,12 +641,12 @@
       "desc": "Transcript:\nHi, this is Susan from National Advisory Center. I hope all is well with you. Um, go ahead and give me a call back at 833-333-7508. Um, I'm just calling to let you know that we do have your preapproval for up to $50,000 for the alternative debt hardship programs that went into effect July 1st, 2026. So go ahead and give me a call back at your earliest convenience, and um, it's fine. You can speak to me or to one of my associates. Again, the number is 833-333-7508. Thanks."
     },
     {
-      "date": "2026-08-24",
-      "type": "Employment",
-      "city": "Wheaton, IL",
-      "amt": 0,
-      "biz": "ConnectWise Inc.",
-      "desc": "Offered $200-$600 per day for 90 minutes of work from home checking apps and websites."
+      "date": "2026-08-23",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 63.9,
+      "biz": "Grant and Morgan",
+      "desc": "$24"
     },
     {
       "date": "2026-08-23",
@@ -710,15 +718,15 @@
       "city": "Vernon Hills, IL",
       "amt": 0,
       "biz": "IMPOSTER Ecom Partnerz",
-      "desc": "$24"
+      "desc": "$25"
     },
     {
-      "date": "2026-08-22",
-      "type": "Counterfeit Product",
-      "city": "Hanover Park, IL",
-      "amt": 813,
-      "biz": "Digistore 24 INC",
-      "desc": "$25"
+      "date": "2026-08-21",
+      "type": "Online Purchase",
+      "city": "Naperville, IL",
+      "amt": 100,
+      "biz": "Muscle Booster",
+      "desc": "This is a classic scam.   My own fault for signing up for something that is \"too good to be true\".     BUT, the 'cancel anytime\" is where the fraud occurs.   The charges just keep on coming month after month and I can not find any way to stop them.  There is no contact page, there is no way to reach a human, there is nothing but the recurrent charges.  And my bank is no help ...  requiring me to indicate when I signed up?  when I tried to cancel.  I have no earthly clue.   What a complete scam.   And by the way the charges have exceeded $100 i jsut am too frustrated to go back and figure out how many months this has been going on.  Charges comes through as VSA_MUSCLE_BOOSTER.IO  LIMASOSOL 5435"
     },
     {
       "date": "2026-08-21",
@@ -790,16 +798,8 @@
       "city": "Chicago, IL",
       "amt": 8000,
       "biz": "City of Chicago for Chanell Slade",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-08-21",
-      "type": "Phishing",
-      "city": "Des Plaines, IL",
-      "amt": 0,
-      "biz": "none",
-      "desc": "called and stated i had an outstanding balance in my healthcare.  I called back on a different phone and they told me to ignore and hung up on me."
+      "desc": "$24"
     }
   ],
-  "total_on_file": 23985
+  "total_on_file": 23986
 }

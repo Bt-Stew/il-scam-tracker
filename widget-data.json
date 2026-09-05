@@ -22,6 +22,14 @@
     },
     {
       "date": "2026-09-03",
+      "type": "Online Purchase",
+      "city": "Chatham, IL",
+      "amt": 200,
+      "biz": "OMNI Creatine",
+      "desc": "I have tried for months to initiate a refund but keep getting bot responses. they wont provide a phone number. I have emailed the same refund email provided 20 times and continue to get generic responses. I have asked that they call me. I have asked for any type  of contact and just get a bot response. I have all of the emails.  I want the two shipments of their products to be refunded like I started to request a month ago. the number I provided on the claim form a few pages was mine, I just needed to enter something. They have NO phone number anywhere"
+    },
+    {
+      "date": "2026-09-03",
       "type": "Counterfeit Product",
       "city": "Peoria, IL",
       "amt": 65,
@@ -77,12 +85,12 @@
       "desc": "$25"
     },
     {
-      "date": "2026-09-02",
-      "type": "Employment",
-      "city": "Wilmington, IL",
+      "date": "2026-09-01",
+      "type": "Counterfeit Product",
+      "city": "Edwardsville, IL",
       "amt": 0,
-      "biz": "LMM IRVING LLC DBA VALLEY RANCH SHELL",
-      "desc": "Check a letter explaining wat to do. Deposit check, keep certain amount for ur pay an to pay a detail person to apply an AD onto car. Check appears real a from Bank of America. this I found to b a scam! Do not deposit"
+      "biz": "Joe's Place Farms /impostor",
+      "desc": "$24"
     },
     {
       "date": "2026-09-01",
@@ -115,14 +123,6 @@
       "amt": 39,
       "biz": "Molision inc.",
       "desc": "I ordered shirts from them never received tracking number says it was delivered and I never received it."
-    },
-    {
-      "date": "2026-09-01",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "This fake company when I did my onboarding paperwork made me take a selfie with me holding my drivers license up with my right hand. Also, they are sending packages with other peoples names on it with my address, which I have never heard of a process of sending packages through a third party shipping company. Looked up there company on the BBB website and they are not registered on there."
     }
   ]
 }
