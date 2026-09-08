@@ -1,6 +1,14 @@
 {
   "reports": [
     {
+      "date": "2026-09-07",
+      "type": "Foreign Money Exchange",
+      "city": "Deerfield, IL",
+      "amt": 0,
+      "biz": "Eric Levitt Law Office LLP",
+      "desc": "The scam letter offered me to share proceeds from the \"permanent life insurance\" of a supposedly dead relative whom I never heard of. The letter further stipulated that proceeds were to be split and that the process was 100% risk free.  The problems are as follows:  The letter is from a Canadian law firm soliciting business in the US (not legal), the letter came postmarked from a post office in Georgia (US) and the scammer provides a GMail address for \"private\" contact."
+    },
+    {
       "date": "2026-09-03",
       "type": "Advance Fee Loan",
       "city": "Evanston, IL",
@@ -70,15 +78,15 @@
       "city": "Breese, IL",
       "amt": 0,
       "biz": "Fleet Billing Services",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
-      "date": "2026-09-02",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 172.81,
-      "biz": "Curve  Bloom",
-      "desc": "$13"
+      "date": "2026-09-01",
+      "type": "Other",
+      "city": "Urbana, IL",
+      "amt": 39.99,
+      "biz": "—",
+      "desc": "Paid $1.95 for online test - was enrolled in monthly subscription without authorization."
     },
     {
       "date": "2026-09-01",
@@ -86,7 +94,7 @@
       "city": "Edwardsville, IL",
       "amt": 0,
       "biz": "Joe's Place Farms /impostor",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-09-01",
@@ -155,10 +163,10 @@
     {
       "date": "2026-08-31",
       "type": "Phishing",
-      "city": "Hanover Park, IL",
+      "city": "Western Springs, IL",
       "amt": 0,
-      "biz": "Brian Fin'L Svcs Inc",
-      "desc": "Important matter about mortgage lender"
+      "biz": "Unnamed business (roofing)",
+      "desc": "Companies offering to inspect your roof after a \"storm\" have insistently calling throughout the year offering to inspect, and presumably charge insurance claims through for roof damage. It is particularly alarming as they know clear details about the homeowners, the addresses, and the residents and state they will be in the areas on particular dates."
     },
     {
       "date": "2026-08-31",
@@ -233,12 +241,12 @@
       "desc": "I get voicemail every day - sometimes more than once a day - telling me the business Loan I applied for is ready. They specify a large amount of money. I have not applied for a business loan from anyone, yet these calls have been going on for months. I know this is not legit and I&rsquo;ve never answered the calls or responded. I block the number after the call but it does not matter because each call comes from a different number.\nToday I received an email for the first time from a person called Noah Cohen, giving me details of a &ldquo;proposal&rdquo; which, when read carefully are loan terms.\nI did not reply."
     },
     {
-      "date": "2026-08-28",
-      "type": "Online Purchase",
-      "city": "Cowden, IL",
-      "amt": 25,
-      "biz": "Nebulaforgeio",
-      "desc": "Ordered online. Package says delivered, but was not. Company will not provide POD. Company said they reshipped, still not delivered. Tracking numbers do not work. Company will not provide carrier."
+      "date": "2026-08-27",
+      "type": "Home Improvement",
+      "city": "Chicago, IL",
+      "amt": 2700,
+      "biz": "Ruiz Restoration and Garage Doirs",
+      "desc": "The scammer kept stringing me along about work he was going to do. His name is Eric Ruiz but the work is not done after 2 months of excuses and unanswered phone calls and text."
     },
     {
       "date": "2026-08-27",
@@ -315,10 +323,10 @@
     {
       "date": "2026-08-27",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 29.9,
-      "biz": "—",
-      "desc": "I ordered a 3 count Mediterranean Food List and was on 8/12/2026. The company is fairly new. It says item would be shipped in 1 to 2 business days. When I track order on the website it says order not found I contacted Shopify which is who they do business through, they say they are waiting on tracking info. That has been almost two weeks and still no tracking number"
+      "city": "Troy, IL",
+      "amt": 119,
+      "biz": "Neckline",
+      "desc": "Came across an ad for a neckline massager to do four different functions. Stating it would relieve dizziness intention in the neck. Receive device all it does is vibrate. This device is cheap and deceptive. When contacted by email they responded by saying they would give 50% refund. 10 emails later in correspondence nothing has transpired in the form of a refund. I don't know why they keep carrying on a conversation when they're not going to intentionally refund the money. Very deceptive company very .. dishonest company! Trying to protect others from making the same mistake by purchasing one of these from this dishonest company."
     },
     {
       "date": "2026-08-26",
@@ -395,10 +403,10 @@
     {
       "date": "2026-08-26",
       "type": "Phishing",
-      "city": "Westville, IL",
-      "amt": 259,
-      "biz": "—",
-      "desc": "Called about a home warranty"
+      "city": "Marissa, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "Keeps calling and goes to VM and telling me that I have a vacation package to use."
     },
     {
       "date": "2026-08-26",
@@ -473,12 +481,12 @@
       "desc": "This company, peak footwear out of Delaware,  sells shoes from China and even though you order the same size that you did before, they all come different sizes and do not fit. When you try to return them, they claim its not their fault and demand you pay return shipping!!"
     },
     {
-      "date": "2026-08-26",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 450,
-      "biz": "Mrbankzzzz Ai plug",
-      "desc": "Online business claiming to offer services never rendered."
+      "date": "2026-08-25",
+      "type": "Phishing",
+      "city": "Highland, IL",
+      "amt": 0,
+      "biz": "Processor’s office",
+      "desc": "A legal notification and an attempt to make contact with Mary Beth Monroe.\nHello, my name is Angela, calling from the processor's office regarding file number 2026 dash 42362. You are being contacted regarding a matter that has been formally escalated to this office for review and potential legal action.\nWhich may include the filing of a lawsuit and complaint with the appropriate court. To address these pending actions associated with your file, you must take immediate contact with the office handling your case. Press one now to be connected to the next available representative or contact the office directly at 866-616-2530. Again, that telephone number is 866-616-2530.\nThis is a time sensitive legal matter, requiring your prompt attention. Failure to respond may result in further proceedings being initiated with or without your participation. Please be advised that all contact attempts are being documented and retained as evidence of notification."
     },
     {
       "date": "2026-08-25",
@@ -553,12 +561,12 @@
       "desc": "$26"
     },
     {
-      "date": "2026-08-25",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 55,
-      "biz": "SwanSway",
-      "desc": "Ordered an item that was not made right and wrong size. Wanted a refund, they only wanted to exchange for another item and wanted more money for shipping but I never received the new item."
+      "date": "2026-08-24",
+      "type": "Family/Friend Emergency",
+      "city": "Vernon Hills, IL",
+      "amt": 0,
+      "biz": "Not Used/Jacob Alderwood",
+      "desc": "The scammer said the following in regards of a family member whose name I will redact:\nThis important message is intended for (name of family member) and regards to file (reference number). My name is Ashley cell and I am contacting you in a reference to a complaint that has been for to my office. If you have any questions or concerns regarding the pending actions being filed against you that you need to contact the firm that is handling your file directly. Should you wish to discuss the file further or if you have any questions or concerns. Do you need to contact the department and control of your file immediately at 866-804-6243. Unfortunately to respond within 24 hours may result in Department proceeding without your consent. Please advise being logged and submitted as proof that the title party has been notified of the possible pending actions being filed against them."
     },
     {
       "date": "2026-08-24",
@@ -633,12 +641,12 @@
       "desc": "It has come to our attention that your company is actively using the intellectual property, registered logos, and graphics of Mississippi Mud Coffee, INC. without authorization. Specifically, you are advertising and selling unauthorized \"5 lb bags\" under our proprietary brand names, including \"Mississippi Mud Coffee\" and \"Dancing Dogs Coffee.\"Our customers have notified us that your website is charging inflated prices for these items, printing counterfeit labels, and either failing to fulfill the orders or filling our branded bags with cheap, inferior substitute coffee. This unauthorized use of our corporate name, trademarks, and trade dress constitutes clear trademark infringement, unfair competition, and consumer fraud under federal and state laws. Your actions are causing severe, irreparable harm to our brand reputation and defrauding the public. We demand that you immediately take the following actions:\nChristopher Ruess, President, Founder, Mississippi Mud Coffee"
     },
     {
-      "date": "2026-08-24",
-      "type": "Charity",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "National Advisory Center",
-      "desc": "Transcript:\nHi, this is Susan from National Advisory Center. I hope all is well with you. Um, go ahead and give me a call back at 833-333-7508. Um, I'm just calling to let you know that we do have your preapproval for up to $50,000 for the alternative debt hardship programs that went into effect July 1st, 2026. So go ahead and give me a call back at your earliest convenience, and um, it's fine. You can speak to me or to one of my associates. Again, the number is 833-333-7508. Thanks."
+      "date": "2026-08-23",
+      "type": "Online Purchase",
+      "city": "Mount Vernon, IL",
+      "amt": 250,
+      "biz": "—",
+      "desc": "I ordered from John and Ave in July.  Never received my product.  Gave me a so called tracking number that can it be tracked and when I go to contact them...the contact goes nowhere."
     },
     {
       "date": "2026-08-23",
@@ -713,12 +721,12 @@
       "desc": "He said i won with Publishers Clearing House and that I needed to give them $2,000 via cash app in order to receive my prize. Then got angry and mad when I wouldn't send him money. He had someone in the background telling him to ask me for any amount that I can send right now. When I said no this is a scam, he started insulting me and saying sexual    profanities. He contacted me via google meet with a PCH logo from johnpetersonmegamilion@gmail.com."
     },
     {
-      "date": "2026-08-22",
-      "type": "Retail Business",
-      "city": "Vernon Hills, IL",
-      "amt": 0,
-      "biz": "IMPOSTER Ecom Partnerz",
-      "desc": "$25"
+      "date": "2026-08-21",
+      "type": "Online Purchase",
+      "city": "Quincy, IL",
+      "amt": 114.46,
+      "biz": "Tienda Tennis",
+      "desc": "I purchased shoes online from this website and then became suspicious and called the number listed. The person that answered stated that Tienda Tennis is a scam company that has taken over their information and advised that I contact my credit card company."
     },
     {
       "date": "2026-08-21",
@@ -791,15 +799,7 @@
       "amt": 45,
       "biz": "Stamps.com",
       "desc": "The stamps website allows you to place an order for &ldquo;stamps&rdquo; they never send anything and start charging your card monthly. They will communicate that everything is cancelled but continue to charge. They change their billing name to work around stop payments and never send anything."
-    },
-    {
-      "date": "2026-08-21",
-      "type": "Charity",
-      "city": "Chicago, IL",
-      "amt": 8000,
-      "biz": "City of Chicago for Chanell Slade",
-      "desc": "$24"
     }
   ],
-  "total_on_file": 23986
+  "total_on_file": 23987
 }

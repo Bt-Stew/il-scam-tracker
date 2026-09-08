@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-03",
+  "generated_at": "2026-09-07",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-07",
+      "type": "Foreign Money Exchange",
+      "city": "Deerfield, IL",
+      "amt": 0,
+      "biz": "Eric Levitt Law Office LLP",
+      "desc": "The scam letter offered me to share proceeds from the \"permanent life insurance\" of a supposedly dead relative whom I never heard of. The letter further stipulated that proceeds were to be split and that the process was 100% risk free.  The problems are as follows:  The letter is from a Canadian law firm soliciting business in the US (not legal), the letter came postmarked from a post office in Georgia (US) and the scammer provides a GMail address for \"private\" contact."
+    },
     {
       "date": "2026-09-03",
       "type": "Advance Fee Loan",
@@ -74,15 +82,15 @@
       "city": "Breese, IL",
       "amt": 0,
       "biz": "Fleet Billing Services",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
-      "date": "2026-09-02",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 172.81,
-      "biz": "Curve  Bloom",
-      "desc": "$13"
+      "date": "2026-09-01",
+      "type": "Other",
+      "city": "Urbana, IL",
+      "amt": 39.99,
+      "biz": "—",
+      "desc": "Paid $1.95 for online test - was enrolled in monthly subscription without authorization."
     },
     {
       "date": "2026-09-01",
@@ -90,7 +98,7 @@
       "city": "Edwardsville, IL",
       "amt": 0,
       "biz": "Joe's Place Farms /impostor",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-09-01",
@@ -115,14 +123,6 @@
       "amt": 100,
       "biz": "Molision inc.",
       "desc": "I ordered a bunch of shirts and never received them and tried to email them and it is a fake email"
-    },
-    {
-      "date": "2026-09-01",
-      "type": "Online Purchase",
-      "city": "Girard, IL",
-      "amt": 39,
-      "biz": "Molision inc.",
-      "desc": "I ordered shirts from them never received tracking number says it was delivered and I never received it."
     }
   ]
 }
