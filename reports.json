@@ -106,6 +106,22 @@
     },
     {
       "date": "2026-09-03",
+      "type": "Debt Collections",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Collections agency",
+      "desc": "Dave said I owed money to his collection agency for medical diagnostics lab bill from June 2025"
+    },
+    {
+      "date": "2026-09-03",
+      "type": "Phishing",
+      "city": "Fairview Heights, IL",
+      "amt": 0,
+      "biz": "Exclusive Catered Event",
+      "desc": "Knowing better I did not take the bait.  I simply tried to validate the company via their phone and QR web site target.  That identification was impossible.  The use of qrto.org in QR code (personally) validated my \"suspicion\" that this \"event\" is most probably a scam for time share owners."
+    },
+    {
+      "date": "2026-09-03",
       "type": "Counterfeit Product",
       "city": "Peoria, IL",
       "amt": 65,
@@ -145,20 +161,20 @@
       "desc": "I received an anonymous call about 6-7 times in less than a minute by 816 area code. I did not know who this person was. She called and her English was not very great and it was about a potential job opportunity and attempted to ask me basic questions to see if I qualify for the job then, after the questions I immediately was given an employee contract form asking about my personal information, my ID and mailing address in my account banking information."
     },
     {
-      "date": "2026-09-02",
-      "type": "Debt Collections",
-      "city": "Breese, IL",
+      "date": "2026-09-01",
+      "type": "Advance Fee Loan",
+      "city": "Wilmette, IL",
       "amt": 0,
-      "biz": "Fleet Billing Services",
-      "desc": "$24"
+      "biz": "United covenant financial services",
+      "desc": "Trying to &ldquo;give me a loan&rdquo; and getting my personal information"
     },
     {
-      "date": "2026-09-02",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 172.81,
-      "biz": "Curve  Bloom",
-      "desc": "$25"
+      "date": "2026-09-01",
+      "type": "Foreign Money Exchange",
+      "city": "Glenview, IL",
+      "amt": 0,
+      "biz": "Tomaz  Heffelfinger. LLP",
+      "desc": "Looking for beneficiaries of life insurance policy of $11,550,300\nfor Marcus ***** (same last name). &ldquo;10% of the money for charity organizations and 90% to be shared between us&rdquo; &ldquo;If you permit me to add your name to the policy, all proceeds will be processed on your behalf&rdquo;"
     },
     {
       "date": "2026-09-01",
@@ -226,19 +242,19 @@
     },
     {
       "date": "2026-09-01",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Sullivan  Schwartz and Associates",
-      "desc": "They left a message stating that they have tried to send letters to my home and now I am getting served papers"
+      "type": "Online Purchase",
+      "city": "Girard, IL",
+      "amt": 100,
+      "biz": "Molision inc.",
+      "desc": "I ordered a bunch of shirts and never received them and tried to email them and it is a fake email"
     },
     {
       "date": "2026-09-01",
-      "type": "Phishing",
-      "city": "Hanover Park, IL",
-      "amt": 0,
-      "biz": "AE home warranty",
-      "desc": "Trying to make me pay for a home warranty"
+      "type": "Online Purchase",
+      "city": "Girard, IL",
+      "amt": 39,
+      "biz": "Molision inc.",
+      "desc": "I ordered shirts from them never received tracking number says it was delivered and I never received it."
     },
     {
       "date": "2026-09-01",
@@ -305,20 +321,20 @@
       "desc": "Over the applicable terms. Press 2 or call me at 855-994-2145. We work with lenders that consider a broad range of credit profiles, and qualifying applicants may have access to competitive rates and different repayment periods. For example, a $32,000 loan at approximately 5.8% could have an estimated payment around $485 per month, depending on the final rate and term. Some loan programs may also allow early payoff without a prepayment penalty, depending on the lender. Press 2 now or call me at 855-994-2145. This is Vivian Walls. I can review the available loan amount, rate estimated payment, and repayment terms with you so you know exactly what may be available. For example, a $32,000 loan at approximately 5.8% could have an estimated payment around $485 per month. Depending on the final rate and term. Some loan programs may also allow early payoff without a prepayment penalty, depending on the lender. Call 855-994-2145 again, 855-994-2145.\nI am being harassed multiple times per day from this callback line."
     },
     {
-      "date": "2026-08-31",
-      "type": "Phishing",
-      "city": "Grayville, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Your pay slip has been approved and your deposits are now active. https://a2e.us/?u=d&amp;l=fJ4ld  Reply STOP 2end"
+      "date": "2026-08-28",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 64.98,
+      "biz": "Dabbztravelsmart",
+      "desc": "Didn&rsquo;t received merchant"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Oak Forest, IL",
-      "amt": 46.89,
-      "biz": "Bundleclear.com",
-      "desc": "Complete scam, fake tracking number. Do not purchase from them"
+      "city": "Schaumburg, IL",
+      "amt": 150,
+      "biz": "OliverandBlake",
+      "desc": "I ordered 2 jackets from OliverandBlake from a Facebook advertisement., which then rerouted me to the OliverBlakeCompany website. I was contacted via email after 3 days by the company saying  the product was delayed and they gave me a discount code (DELAY25) to make additional purchases as a compensation for the delay. The tracking was from China and NOT the USA or London (where it is based supposedly). Tracking showed the order going to Chicago (ORD). Then a few days later all the tracking from the tracking number disappeared. 3 weeks later, no product was delivered and all tracking disappeared. This seems to be a ghost website scam generated through Facebook to lure people to make a purchase, then gives a fake tracking site and then doesn't deliver. I performed a chargeback dispute and cancelled my credit card."
     },
     {
       "date": "2026-08-28",
@@ -385,20 +401,20 @@
       "desc": "This company sent generic products and the incorrect products. When I attempted to return product, there was no mailing address, mailing label or attempt to help with the return. I&rsquo;ll emails were AI generated."
     },
     {
-      "date": "2026-08-28",
-      "type": "Online Purchase",
-      "city": "Crystal Lake, IL",
-      "amt": 135.99,
-      "biz": "Nafori",
-      "desc": "$12"
+      "date": "2026-08-27",
+      "type": "Phishing",
+      "city": "O Fallon, IL",
+      "amt": 0,
+      "biz": "Jon Ossof's Political Campaign",
+      "desc": "I received a text from a Michigan phone number that stated, \"Payment Confirmation #. Your donation to Jon Ossoff has been verified. Click here for details: https://e.givact.com/KCpWgNtl0Mk\"."
     },
     {
-      "date": "2026-08-28",
-      "type": "Online Purchase",
-      "city": "McHenry, IL",
-      "amt": 600,
-      "biz": "Rentrel",
-      "desc": "I saw an ad for Rentrel on Facebook so I filled out the form in the hopes of getting help with paying my rent.  I was contacted two days later via email saying that I was approved for $2,375 in rent assistance as long as I made an upfront payment of $475.  Later in the email thread, I was told that their payment processing tool on their website wasn't working and that I would have to pay them via Cash App.  Over the course of 3 days, nearly 30 emails were exchanged with this fraudulent company and then once I made the payment, which ended up costing me $600 because of Cash App's fees, Rentrel ceased all communications with me, didn't pay my rent through my property's rent portal like they advertised and insinuated they would, and now their scam is going to cause my family to be evicted."
+      "date": "2026-08-27",
+      "type": "Phishing",
+      "city": "Des Plaines, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "I received a small mailer delivered to my current address but using my maiden name. When I opened the mailer, the only thing inside was a clipping of another USPS mailer pouch."
     },
     {
       "date": "2026-08-27",
@@ -465,20 +481,20 @@
       "desc": "I've been called daily for about 4 months by a company hell bent on giving me a loan. I do not want a loan - I've neither researched or applied for a loan. I've asked to be taken off their call list 6 times, and the calls continue"
     },
     {
-      "date": "2026-08-27",
-      "type": "Online Purchase",
-      "city": "Palos Park, IL",
-      "amt": 0,
-      "biz": "Clara & Hayes",
-      "desc": "The dress I received was a low quality replica of a higher quality dress which was portrayed in the advertised photo. The description is also not accurate, stating fabric or other features that are different. The sizing was not to US specs so I could not even try on the dress. They claim to offer returns, but when you reach out for a refund and return info, they start negotiating with you for a lesser amount. If you insist on a return they give you an address outside the USA to ship to. I had to file a claim through my credit card."
+      "date": "2026-08-26",
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Pekin, IL",
+      "amt": 2200,
+      "biz": "Captivating Travels by Connie",
+      "desc": "I booked a cruise through this person.  I was told it was paid in full and we were \"all set\".  I checked on the cruise website and yes,  the cruise was booked!!  I was emailed by connie this week that all reservation are being canceled and that her company is no more.   Where's my money?  I contacted the cruise line and yes,  she canceled it,  but she had only placed a non refundable deposit of $500.  I was told it was paid in full.... where's the rest?   Also, in order for me to use the $500, I need the TRAVEL ADVISOR to sign off on it,..... which she can't because her attorney won't allow her to speak to clients.  After reading other peoples struggles with the agent,  I consider myself lucky it wasn't a larger amount."
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-26",
       "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "FedEx",
-      "desc": "My name is Kia, this is regarding a FedEx package. Hello, we're calling on behalf of FedEx.  We attempted to deliver a package today for [Company Name].  With tracking number ending in 719.  Our driver was unable to complete the delivery using the address on the package.  Please call us by 10 PM local time so we can reattempt delivery on the next business day.  Call us at 888-535-7661 and provide reference number 368-8685. Again, 888-535-7661 reference number 368-8685 for package ending in 719.  No payment or FedEx account information is required.  Thank you."
+      "biz": "Calvin Bell",
+      "desc": "I received an email from the sender l who is an old college friend. It was a paperless post e-invite which of course I trusted. But, something seemed off because when I clicked the link to sign in, to view the invitation, it took me to my email. That spoofed me so I quickly changed my password and signed out all of my devices. I&rsquo;m not positive his email was hacked and they are trying to get people in his contacts."
     },
     {
       "date": "2026-08-26",
@@ -546,19 +562,19 @@
     },
     {
       "date": "2026-08-26",
-      "type": "Investment",
+      "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "D3vtech",
-      "desc": "Hand off email scam to aquire trade secrets."
+      "biz": "JBL processing",
+      "desc": "Second time in 30 minutes they called this time a different number. Please call the number on your caller ID now to connect with the JLB processing representative who is handling your account it is imperative that we hear from you as soon as possible. Please call the number shown in the caller ID now, thank you. Block them every time they call numerous times a day different numbers."
     },
     {
       "date": "2026-08-26",
-      "type": "Home Improvement",
-      "city": "Belleville, IL",
-      "amt": 2500,
-      "biz": "Tri State Tree and Landscaping Solutions",
-      "desc": "$24"
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Relentless calls and voicemail.&nbsp;"
     },
     {
       "date": "2026-08-26",
@@ -626,19 +642,19 @@
     },
     {
       "date": "2026-08-25",
-      "type": "Government Grant",
+      "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "n/a dropped the call",
-      "desc": "They called, tried to initiate me talk and dropped"
+      "biz": "Kirkland Myers",
+      "desc": "Please call the number shown on your caller ID to connect with Kirkland Myers about your account. I have nothing in account. I have nothing in collection Irons."
     },
     {
       "date": "2026-08-25",
-      "type": "Other",
-      "city": "Bryant, IL",
-      "amt": 30,
-      "biz": "USA-XPRES",
-      "desc": "Used Officialrecordsonline.com to order a certified copy of birth certificate. Told I was being charged a one-time processing fee. USA-XPRES charged the initial fee, then another $9.99 fee on 30Jul, and another $9.99 on 24Aug."
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Bartlett, IL",
+      "amt": 0,
+      "biz": "GPaak Equipments LLC Fake Medical Equipment Invoice Medicare Health Insurance Billing Phishing and Identity Theft Scam",
+      "desc": "GPAAK Equipment billed Medicare for durable medical products that were not prescribed for me, I do not need and never received.  I did report this to Medicare as fraud several times.  The billing to my medicare account was in 2025."
     },
     {
       "date": "2026-08-25",
@@ -646,7 +662,7 @@
       "city": "Chicago, IL",
       "amt": 89.91,
       "biz": "Bleecker New York - Greatgoodie, LLC",
-      "desc": "$24"
+      "desc": "$12"
     },
     {
       "date": "2026-08-25",
@@ -678,7 +694,7 @@
       "city": "Naperville, IL",
       "amt": 5025,
       "biz": "Joes Moving and Storage",
-      "desc": "$25"
+      "desc": "$13"
     },
     {
       "date": "2026-08-25",
@@ -705,20 +721,20 @@
       "desc": "There was an ad on Facebook for Boston Scally Caps on clearance. I ordered two caps. I got an email saying my caps have been shipped, but it wasn&rsquo;t from Boston Scally Caps. It was from Melvessina, not from Boston Scally as advertised. The ad used the same spokesman as BSC, which looking back it was probably AI. It was supposed shipped by the same company (DHL) as BSC uses, so I didn&rsquo;t think much of it. The tracking supposedly went through Los Angeles customs, which I found odd since it was supposed to ship from Boston. The tracking afterwards made no sense at all. A month later, Melvessina claimed it was delivered; however, there was no documentation of the delivery, just their claim it was delivered. I emailed and questioned Melvessina about the delivery. They said they would investigate it, but I never heard back after their initial reply. I tried to follow up a week later but never heard back from them."
     },
     {
-      "date": "2026-08-25",
-      "type": "Debt Collections",
-      "city": "Waukegan, IL",
-      "amt": 0,
-      "biz": "Blitt and Gaines, PC",
-      "desc": "They claim to be a debt collector, they never return their emails. They need to be investigated and shut down"
+      "date": "2026-08-24",
+      "type": "Other",
+      "city": "Pekin, IL",
+      "amt": 96,
+      "biz": "Neurobella",
+      "desc": "I signed up to try Neurobella for my eyes, 6 bottles.  I did not sign up for a monthly order.  ! month later they charged my card for a 2nd order.  I had a new card issued.  They continue to try and charge my card and I have sent multiple emails telling them to stop, and they will not.  Fortunately, my bank has a block on them now but they should honor my request to stop."
     },
     {
-      "date": "2026-08-25",
-      "type": "Phishing",
-      "city": "Addison, IL",
-      "amt": 1300,
-      "biz": "Juan Carlos",
-      "desc": "$26"
+      "date": "2026-08-24",
+      "type": "Online Purchase",
+      "city": "Gurnee, IL",
+      "amt": 48,
+      "biz": "Noble vision glasses",
+      "desc": "These clear blue glasses doesn't work at all. It does nothing it clames"
     },
     {
       "date": "2026-08-24",
@@ -734,7 +750,7 @@
       "city": "Rockford, IL",
       "amt": 0,
       "biz": "A Health Insurance Company",
-      "desc": "$24"
+      "desc": "$12"
     },
     {
       "date": "2026-08-24",
@@ -783,23 +799,7 @@
       "amt": 0,
       "biz": "PM3 Solutions, LLC",
       "desc": "Email sent with the following requested information:\nDear REIA,\nSBA SMALL BUSINESS PROFILE REVIEW\nBusiness: PM3 SOLUTIONS, LLC\nYour SBA Small Business Search (SBS) information may require review to ensure it remains consistent with your current SAM.gov entity record and business information.\nREVIEW REQUESTED\nContact Registration Support to verify:\nBusiness and CAGE/UEI information\nSBA/SAM.gov profile information\nOwnership and registration details\nCurrent federal contractor information\nCALL: 866-654-8497\nMonday&ndash;Friday | 8:00 AM&ndash;8:00 PM EST\nPlease have your business and CAGE information available when calling.\nSincerely,\nSBA Connect Registration\n866-654-8497\nThis is an automated compliance notification. Replies to this message are not monitored. To discontinue notifications, please click here or reply with \"unlist\" in the subject line."
-    },
-    {
-      "date": "2026-08-24",
-      "type": "Phishing",
-      "city": "Bloomingdale, IL",
-      "amt": 0,
-      "biz": "Smith Law Group Impostor",
-      "desc": "Received a letter similar to another BBB complaintant offering possibility of a POD policy of $10 million"
-    },
-    {
-      "date": "2026-08-24",
-      "type": "Home Improvement",
-      "city": "Chicago, IL",
-      "amt": 600,
-      "biz": "Storybook Electrical LLC",
-      "desc": "I hired an electrician based on his brother&rsquo;s recommendations. The electrician name is Anthony Ramirez. I signed the contract online and sent money via Zelle to a phone number that the electrician provided me. The electrician (Anthony) failed to show up for work on several occasions, claiming he had injured his leg. It has been over a moths, and I asked him for a refund. The electrician says he will send the money, but he has not returned it.  When I told him to return my money back, he replied with a bible verses. I went to the police station and file and report Anthony. I have the case number with a criminal charges against the electrician because the police discovered a irregularity on the contract and licenses. Anthony was called by the police station and he does not returned my money. He still texting me bible verses."
     }
   ],
-  "total_on_file": 24032
+  "total_on_file": 24034
 }

@@ -110,19 +110,19 @@
     },
     {
       "date": "2026-09-03",
-      "type": "Counterfeit Product",
-      "city": "Peoria, IL",
-      "amt": 65,
-      "biz": "Laura  Scott Charleston",
-      "desc": "The dress purchased is a counterfeit of an image of another dress on another site. The dress I ordered had a raised brocade gold pattern. The dress received is a screen printed athletic pattern. When asked for a refund, told it was the same dress and they would offer a 15% discount as a gesture of good will however their site says full refunds with the exception the buyer pays shipping to China. Buyer beware!"
+      "type": "Debt Collections",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Collections agency",
+      "desc": "Dave said I owed money to his collection agency for medical diagnostics lab bill from June 2025"
     },
     {
       "date": "2026-09-03",
       "type": "Phishing",
       "city": "Fairview Heights, IL",
-      "amt": 75,
-      "biz": "Ivy Cosign and Loan Service",
-      "desc": "I contacted the company to help me cosign a loan. They then had me sign a contract and pay the fee of $75 to get started. Once I signed the contract and paid the fee, I was blocked on their WhatsApp and Facebook group. I figured this out because I tried contacting them with no success."
+      "amt": 0,
+      "biz": "Exclusive Catered Event",
+      "desc": "Knowing better I did not take the bait.  I simply tried to validate the company via their phone and QR web site target.  That identification was impossible.  The use of qrto.org in QR code (personally) validated my \"suspicion\" that this \"event\" is most probably a scam for time share owners."
     }
   ]
 }
