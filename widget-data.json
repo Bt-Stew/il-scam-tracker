@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-09-08",
+  "generated_at": "2026-09-09",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-09-08",
-      "type": "Online Purchase",
-      "city": "Mackinaw, IL",
-      "amt": 43,
-      "biz": "Revae Wallet",
-      "desc": "I ordered a wallet in June and was in contact with Customer Service several times asking about delivery. They responded that the item was in transit but did not provide any tracking information, even after requested. I finally sent an email the end of August asking for a refund and they replied since it was in transit, they could not refund. After again following up for tracking information, they have ghosted me and do not respond to emails."
-    },
-    {
-      "date": "2026-09-08",
-      "type": "Credit Repair/Debt Relief",
-      "city": "Danville, IL",
-      "amt": 89,
-      "biz": "Bryanpate",
-      "desc": "He posed as a credit repair guy took my money then ghosted me im want my money back n  sue him for suffering"
-    },
-    {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "type": "Phishing",
-      "city": "Dorsey, IL",
-      "amt": 50,
-      "biz": "Unclaimed Reward",
-      "desc": "I received notification in the mail I am to receive unclaimed rewards; $250 shoppy gift card"
-    },
-    {
-      "date": "2026-09-08",
-      "type": "Phishing",
-      "city": "O Fallon, IL",
+      "city": "Chillicothe, IL",
       "amt": 0,
-      "biz": "Document Delivery Service",
-      "desc": "It was an A.I recording of a lady claiming to be with Document Delivery Service and is scheduled to deliver some documents to my home or work address between 8am to 4pm. If they are unable to deliver the documents it would be considered an failed action to serve. Which would result in a pending matter to proceed further without my consent. They also said if I need to change my scheduled date or if I have any questions to call 1-855-612-3343."
+      "biz": "CBC",
+      "desc": "Hi, this is Ryan from CBC. A recent investigation uncovered credit card companies and major banks have violated consumer protection laws such as the Fair Credit Billing Act and Fair Credit Reporting Act. Because of this, these businesses are not allowed to collect on their accounts, meaning you are no longer legally required to pay back certain debt. And those balances will also be removed from your credit report. To hear which banks and credit card companies were found guilty and what will be removed from your credit, call 888-356-1808. Again, that's 888-356-1808."
     },
     {
-      "date": "2026-09-08",
-      "type": "Online Purchase",
-      "city": "Moline, IL",
-      "amt": 49.78,
-      "biz": "Modlilly",
-      "desc": "Advertisement for modlilly swimming suits. Advertised they were on sale.  Clicked on advertisement to purchase all items. Afterwards, no C.C. confirmation, no confirmation of purchase. Nothing in email or by text.  Not received any product."
+      "date": "2026-09-09",
+      "type": "Debt Collections",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Fletcher and Associates Mediation Group",
+      "desc": "Someone from Fletcher &amp; Associates Mediation Group called me and tried to collect a debt that was not owed.  I did not incur this debt.  It was a scam. The person stated that they had my personal information, and would take legal action, including wage garnishment and file a lawsuit."
     },
     {
-      "date": "2026-09-07",
-      "type": "Online Purchase",
-      "city": "Michael, IL",
-      "amt": 30000,
-      "biz": "Military & Government Access",
+      "date": "2026-09-09",
+      "type": "Home Improvement",
+      "city": "Bloomington, IL",
+      "amt": 291.6,
+      "biz": "Apollo Home Protection",
+      "desc": "I got a letter saying my home warranty was expiring. It used urgent language."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Phishing",
+      "city": "Bloomington, IL",
+      "amt": 0,
+      "biz": "United Covenant Financial",
+      "desc": "United Covenant Financial repeatedly calls your number using an auto-dialer, leaving voice-mail messages that are cut off mid-sentence (indicating the auto-dialer). Their representatives are argumentative and although they claim to put you on the 'Do Not Call' list, fail to explain that any interaction with any of their fraudulent phone numbers immediately removes you from the 'Do Not Call' list and registers you as interested in a loan. Their practices are scummy, at best."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Employment",
+      "city": "Willowbrook, IL",
+      "amt": 23.22,
+      "biz": "Litegic (LTG)",
+      "desc": "Litegic- sent me Job information I applied got the job. Was informed there was a 30 day probation period starting July 3th - Aug 3rd (Aug 3rd Payday). Company shipped products to my home upon receipt of products I inspected and repacked then shipped to the customer provide via the Label Litegic provided. Once end of probation was hear. I was informed that I would receive $3,300 + $100.00 transports, and reimbursement for materials I paid for out of pocket. Received a email that check was mailed on Aug 3rd at it would take 10 to 14 business days to receive. I has now been over 45days and I have received nothing. I have email all parties involved as well as called the two numbers provided to receive no answer from anyone. I have left 2 voice message as well as multiple emails with no reply from anyone.\nThis job really put me in a bind due to looking for more work to help with my financial situation."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Phishing",
+      "city": "Northbrook, IL",
+      "amt": 0,
+      "biz": "Howard Gilb Law",
+      "desc": "Letter from law firm (using a name similar to a legitimate law firm) that said we were possible claimants to proceeds from unclaimed &ldquo;permanent life insurance policy&rdquo;. 10% of funds would go to various charities and remaining 90% would be split 50/50 between law firm and us. For additional info letter said to contact howard@howardgliblaw.com with a copy to howard.glib.law@gmail.com.\nLetter was postmarked Houston, Texas Aug 28, 2026 RPDC 773 with a regular postage stamp."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Other",
+      "city": "Riverdale, IL",
+      "amt": 945,
+      "biz": "SP GARAGE DOOR SERVICE",
       "desc": "$24"
     },
     {
-      "date": "2026-09-07",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 100,
-      "biz": "Martviva",
-      "desc": "I ordered a product online and was charged twice plus charged me another amount twice  for something i didn't ask for"
-    },
-    {
-      "date": "2026-09-07",
-      "type": "Phishing",
-      "city": "Nokomis, IL",
-      "amt": 0,
-      "biz": "Publishers Clearing House",
-      "desc": "Attempted to get information, claiming I won $200,000"
-    },
-    {
-      "date": "2026-09-07",
-      "type": "Foreign Money Exchange",
-      "city": "Deerfield, IL",
-      "amt": 0,
-      "biz": "Eric Levitt Law Office LLP",
-      "desc": "The scam letter offered me to share proceeds from the \"permanent life insurance\" of a supposedly dead relative whom I never heard of. The letter further stipulated that proceeds were to be split and that the process was 100% risk free.  The problems are as follows:  The letter is from a Canadian law firm soliciting business in the US (not legal), the letter came postmarked from a post office in Georgia (US) and the scammer provides a GMail address for \"private\" contact."
-    },
-    {
-      "date": "2026-09-07",
+      "date": "2026-09-09",
       "type": "Other",
-      "city": "Taylor Ridge, IL",
-      "amt": 0,
-      "biz": "Grid iron pride",
-      "desc": "Orders shirt that was totally not the description online after investigating the company it is a common problem with no resolution. They do not let you return item for refund. After countless emails they got to a 50% refund but who is to say I will even receive that"
+      "city": "Joliet, IL",
+      "amt": 1000,
+      "biz": "Soda Peak/ GEX CORP",
+      "desc": "I ordered product by mistake on order # 159376. Tried reach out to vender half an hour later to get a refund woth no response."
     },
     {
-      "date": "2026-09-03",
-      "type": "Identity Theft",
-      "city": "Breese, IL",
-      "amt": 31,
-      "biz": "Medical Score / Effecto",
-      "desc": "I kept getting a bill on my PayPal to &ldquo;MS&rdquo; or Medical Score and it was then billed to &ldquo;Effecto&rdquo;. One bill for 31 $ went through in May of 26. That I did not notice.  Then they attempted to bill me 158$ in August and 89$ in September. I have no emails, no app, no correspondence from this &ldquo;company&rdquo; and do not recall any of it. I finally went through cancelling 2 credit cards and calling PayPal who agreed to stop billing me automatically for payment for this fraudulent company.  The website help center says they are from Lithuania. I have emailed the Help center of this &ldquo;company&rdquo; and asked them to &ldquo;cancel my supposed &ldquo;subscription&rdquo; and have not heard back. Be Aware!"
+      "date": "2026-09-09",
+      "type": "Retail Business",
+      "city": "Chicago, IL",
+      "amt": 1081,
+      "biz": "Captivating Travels by Connie",
+      "desc": "$25"
     },
     {
-      "date": "2026-09-03",
-      "type": "Phishing",
-      "city": "Fairview Heights, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Got a text saying i had a delivery coming at 9 am tomorrow.  Left a number to reschedule. I called said number and was told that they were an organization trying to serve court papers on me for a lawsuit.  The details do not seem right. They recited back to me my ssn after hearing the last 2\ndigits of my ssn."
+      "date": "2026-09-09",
+      "type": "Credit Cards",
+      "city": "Sterling, IL",
+      "amt": 95,
+      "biz": "Reserve",
+      "desc": "I applied for a credit card through reserve and was denied but paid the full fee and was told I would get my money back but it&rsquo;s been a month and I haven&rsquo;t received my money"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-06",
       "type": "Online Purchase",
-      "city": "Carterville, IL",
-      "amt": 25,
-      "biz": "Alveressia",
-      "desc": "I placed an order and it never arrived. I emailed the company and they said they would reship it but again it never arrived and the tracking number was no good"
-    },
-    {
-      "date": "2026-09-03",
-      "type": "Debt Collections",
-      "city": "Belleville, IL",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Collections agency",
-      "desc": "Dave said I owed money to his collection agency for medical diagnostics lab bill from June 2025"
+      "biz": "Luvodeals",
+      "desc": "Fraudulent charge on credit card, i never purchased from this site or business. Am disputing this charge with my CC company."
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-06",
+      "type": "Online Purchase",
+      "city": "Argenta, IL",
+      "amt": 31,
+      "biz": "titanboxers",
+      "desc": "I bought incontinence underwear from titanboxers.com . when they arrived they were too tight and didn't feel as if they had the extra padding. i called them  and  told them was sent the wrong product, and was told it would be 24 hours before i would hear back. i never heard back. This started a chain of e mails, with them telling me because of them importing their product from china, full refunds are not possible, at current date the largest return i have been offered is 40% . the web site said a 100% refund, no questions asked"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "Online Purchase",
+      "city": "Dover, IL",
+      "amt": 32.23,
+      "biz": "Vivly ShopVivly",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-05",
+      "type": "Home Improvement",
+      "city": "Berwick, IL",
+      "amt": 800,
+      "biz": "Central Garage Door Services",
+      "desc": "Pressure tactics used to scam an elderly couple for a garage door service that was never repaired. He had them sign documents saying that they could not dispute the claim with the credit card company."
+    },
+    {
+      "date": "2026-09-05",
       "type": "Phishing",
-      "city": "Fairview Heights, IL",
+      "city": "O Fallon, IL",
       "amt": 0,
-      "biz": "Exclusive Catered Event",
-      "desc": "Knowing better I did not take the bait.  I simply tried to validate the company via their phone and QR web site target.  That identification was impossible.  The use of qrto.org in QR code (personally) validated my \"suspicion\" that this \"event\" is most probably a scam for time share owners."
+      "biz": "Unknown",
+      "desc": "The scammer claimed that the mark for my business was currently marked as abandoned. The scammer then claimed that a third party is interested in registering it."
     }
   ]
 }
