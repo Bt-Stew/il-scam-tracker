@@ -2,6 +2,22 @@
   "reports": [
     {
       "date": "2026-09-10",
+      "type": "Phishing",
+      "city": "Fairview Heights, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "They told me I&rsquo;d taken a payday loan out in 2017 I told him I did not, they asked if I had a Bank Of America account I said yes. I asked them to send me more information she would not give it to me since we&rsquo;ll see you in court. I hung up the phone"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Phishing",
+      "city": "Benton, IL",
+      "amt": 0,
+      "biz": "Crypto support",
+      "desc": "This is the text message that i received. I called the first number asked a couple questions and they hung up on me twice.\nYour Crypto assets have been restricted because you are required to transfer your assets from your old Wallet to your new secured Wallet Address below to keep your Assets safe due to the recent changes with our Terms and Agreement we created a more secure wallet address for you to keep your funds safe.\nCopy Your BTC Wallet Address Below and transfer your BTC Balance to your New Secured Wallet Address below to keep your Assets safe and after that your new Wallet will be automatically added to your Homepage Screen.\nbc1qmstr7zh69r7qe68573rzfsu00r4dneyqmty983\nIf you have any questions send us message through text message to  448-219-1003 or call us now on 448-219-1003"
+    },
+    {
+      "date": "2026-09-10",
       "type": "Online Purchase",
       "city": "Carbondale, IL",
       "amt": 35,
@@ -66,19 +82,27 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Identity Theft",
-      "city": "Fieldon, IL",
-      "amt": 39.99,
-      "biz": "MG Lab Lmt",
-      "desc": "Took the money out of PayPal account."
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 260,
+      "biz": "Koda",
+      "desc": "Ordered a set of shorts in July and realized a few weeks after that I hadn&rsquo;t received the shorts. Then saw a charge on my account and looked closer to see they had taken out money 5 times."
     },
     {
       "date": "2026-09-09",
-      "type": "Other",
-      "city": "Rossville, IL",
-      "amt": 0,
-      "biz": "Graeg Barown",
-      "desc": "I am not sure if I lost any money. I will have to check my account again. He sent Power Gel Toilet Claner. Also Sent Angry Moma microwave cleaner under the name of Latnn Gayne using the same address.  What do I do?"
+      "type": "Retail Business",
+      "city": "Chicago, IL",
+      "amt": 1081,
+      "biz": "Captivating Travels by Connie",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Online Purchase",
+      "city": "Mundelein, IL",
+      "amt": 45.87,
+      "biz": "California Warehouse",
+      "desc": "Pop-up add during gameplay\nClicked on ad my first mistake\nPlaced order received confirmation\nTracked package\nPackage stated delivered to my local USPS on 8/29/26\nTelephone local USPS 847&ndash;566&ndash;3907 spoke with Robert\nHe also traced 17TRACK #ZS20194035999\nFound the tracking information, incorrect as package has never been delivered to Mundelein\nCommunication back to nlineclickes@outlook.com  Has gone unanswered.\nWhy are these scammers not prosecuted if I can track down information on them so can government agencies to protected citizens.  All the concern about TikTok and I have never had a problem with their deliveries. Something has to happen who at a federal level should be notified. Please advise."
     },
     {
       "date": "2026-09-09",
@@ -90,7 +114,7 @@
     },
     {
       "date": "2026-09-08",
-      "type": "Other",
+      "type": "Phishing",
       "city": "Trenton, IL",
       "amt": 0,
       "biz": "Graeg Barown",
@@ -106,7 +130,7 @@
     },
     {
       "date": "2026-09-08",
-      "type": "Other",
+      "type": "Phishing",
       "city": "Odell, IL",
       "amt": 0,
       "biz": "Latnn pgayne",
@@ -114,7 +138,7 @@
     },
     {
       "date": "2026-09-08",
-      "type": "Other",
+      "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
       "biz": "Daaisy Jaacobs",
@@ -137,28 +161,28 @@
       "desc": "I ordered a wallet in June and was in contact with Customer Service several times asking about delivery. They responded that the item was in transit but did not provide any tracking information, even after requested. I finally sent an email the end of August asking for a refund and they replied since it was in transit, they could not refund. After again following up for tracking information, they have ghosted me and do not respond to emails."
     },
     {
-      "date": "2026-09-08",
-      "type": "Credit Repair/Debt Relief",
-      "city": "Danville, IL",
-      "amt": 89,
-      "biz": "Bryanpate",
-      "desc": "He posed as a credit repair guy took my money then ghosted me im want my money back n  sue him for suffering"
+      "date": "2026-09-07",
+      "type": "Online Purchase",
+      "city": "Downers Grove, IL",
+      "amt": 134,
+      "biz": "Bennett and Lowe",
+      "desc": "I ordered two dresses. Listed as a boutique in New York. What arrived was to very, very poorly made dresses from China. With nonworking zippers or no zippers at all. When I asked about a return, got four different offers about keeping the dresses at a discounted percentage. One finally given a return address. It was in China. It was going to cost me over $50 to ship back."
     },
     {
-      "date": "2026-09-08",
-      "type": "Phishing",
-      "city": "Dorsey, IL",
+      "date": "2026-09-07",
+      "type": "Counterfeit Product",
+      "city": "Chicago, IL",
       "amt": 50,
-      "biz": "Unclaimed Reward",
-      "desc": "I received notification in the mail I am to receive unclaimed rewards; $250 shoppy gift card"
+      "biz": "Lulu Petal",
+      "desc": "I ordered my daughter a homecoming dress online and it looks absolutely nothing like the picture. In addition on the website says they are in Florida when in fact they are in china as I found out from tracking the shipment. The package arrived with a California address I have more pics but it&rsquo;s not allowing me to upload"
     },
     {
-      "date": "2026-09-08",
-      "type": "Phishing",
-      "city": "O Fallon, IL",
+      "date": "2026-09-07",
+      "type": "Advance Fee Loan",
+      "city": "Arlington Heights, IL",
       "amt": 0,
-      "biz": "Document Delivery Service",
-      "desc": "It was an A.I recording of a lady claiming to be with Document Delivery Service and is scheduled to deliver some documents to my home or work address between 8am to 4pm. If they are unable to deliver the documents it would be considered an failed action to serve. Which would result in a pending matter to proceed further without my consent. They also said if I need to change my scheduled date or if I have any questions to call 1-855-612-3343."
+      "biz": "unknown",
+      "desc": "voice mall and text message about pre-approved loan up 55000 , same message they use different phone numbers several times a day and several days of the week, the caller uses different names for each call"
     },
     {
       "date": "2026-09-07",
@@ -217,28 +241,28 @@
       "desc": "This is elderly fraud targeting an 80 year-old to try and set up some random business an FBI number email accounts and take out personal loans all to fund whatever they&rsquo;re doing for some online get Rich quick scheme"
     },
     {
-      "date": "2026-09-06",
-      "type": "Counterfeit Product",
-      "city": "Mundelein, IL",
-      "amt": 39,
+      "date": "2026-09-05",
+      "type": "Online Purchase",
+      "city": "Deerfield, IL",
+      "amt": 184.32,
+      "biz": "Mayberry",
+      "desc": "Mayberry uses a fake US address. Merchandise goes through customs. Return policy not as advertised. Only offer 10% refund.\nMerchandise poor quality."
+    },
+    {
+      "date": "2026-09-05",
+      "type": "Online Purchase",
+      "city": "Hampshire, IL",
+      "amt": 500,
+      "biz": "Atlas Express Gateway",
+      "desc": "Scammer took $500 for an exchange of goods (Shoes) and then use the affirmed shipping system. The shipper then contacted me requesting an additional $190 to ship the product. Both parties refused pictures of the package that was supposedly sent via the shipping."
+    },
+    {
+      "date": "2026-09-05",
+      "type": "Online Purchase",
+      "city": "East Alton, IL",
+      "amt": 39.99,
       "biz": "—",
-      "desc": "Ordered a denture set for people with missing or damaged teeth to fit over existing teeth/gums."
-    },
-    {
-      "date": "2026-09-06",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Luvodeals",
-      "desc": "Fraudulent charge on credit card, i never purchased from this site or business. Am disputing this charge with my CC company."
-    },
-    {
-      "date": "2026-09-06",
-      "type": "Online Purchase",
-      "city": "Alsip, IL",
-      "amt": 30,
-      "biz": "Limuva",
-      "desc": "They are charging people for a product and subscription that they did not sign up for and don't want. This company has no real contact information. When try to reaching someone they give you the run around and it's hard to get any thing done"
+      "desc": "I just found another charge for 39.99 on my bank statement. I ordered one time paid and received book. I haven&rsquo;t ordered anything else from them, yet I have another charge."
     },
     {
       "date": "2026-09-05",
@@ -297,28 +321,28 @@
       "desc": "They claimed I received pkg.,but the tracking number appeared on another pkg bearing someone else's name. I have proof that it wasn't delivered, but paypal and cc bank sided with scammers!!"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-03",
       "type": "Online Purchase",
-      "city": "Chenoa, IL",
-      "amt": 399,
-      "biz": "Pateora",
-      "desc": "Bought an advertised riding lawnmower and the shop tracked the purchase order from NJ.  The item delivered was a box of Kleenex...  Very frustrating and disrespectful"
+      "city": "Bourbonnais, IL",
+      "amt": 22,
+      "biz": "Alverressia",
+      "desc": "Ordered merchandise on July 31st and got notice that it was delivered  on Sept. 1st.....not sure where but it didn't come here!  It's a scam and I'm pi**ed!!!  NEVER AGAIN!!!!!"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-03",
       "type": "Online Purchase",
-      "city": "Taylorville, IL",
-      "amt": 0,
-      "biz": "Tiktrove.com",
-      "desc": "Purchased two American Eagle lighted statues.  Looked three dimensional on website, when they came they were a flat piece of plexiglass with cheap solar panel and switch.  I asked for a refund.  They finally offered to pay me $20 or I could ship to an address in South Korea for a full refund."
+      "city": "Chatham, IL",
+      "amt": 200,
+      "biz": "OMNI Creatine",
+      "desc": "I have tried for months to initiate a refund but keep getting bot responses. they wont provide a phone number. I have emailed the same refund email provided 20 times and continue to get generic responses. I have asked that they call me. I have asked for any type  of contact and just get a bot response. I have all of the emails.  I want the two shipments of their products to be refunded like I started to request a month ago. the number I provided on the claim form a few pages was mine, I just needed to enter something. They have NO phone number anywhere"
     },
     {
-      "date": "2026-09-04",
-      "type": "Advance Fee Loan",
-      "city": "Plano, IL",
-      "amt": 0,
-      "biz": "None",
-      "desc": "Repeated phone calls several times daily, claiming to be a loan company. Will not stop calling. Asking for personal information. Harassment."
+      "date": "2026-09-03",
+      "type": "Online Purchase",
+      "city": "Evanston, IL",
+      "amt": 100,
+      "biz": "Avientrix",
+      "desc": "I attempted to buy a product from this website through an ad on Instagram. I received an email saying that the package would be delivered in the specified window, but it never came. The email address and website are no longer active."
     },
     {
       "date": "2026-09-03",
@@ -378,27 +402,27 @@
     },
     {
       "date": "2026-09-03",
-      "type": "Phishing",
-      "city": "Fairview Heights, IL",
-      "amt": 0,
-      "biz": "Exclusive Catered Event",
-      "desc": "Knowing better I did not take the bait.  I simply tried to validate the company via their phone and QR web site target.  That identification was impossible.  The use of qrto.org in QR code (personally) validated my \"suspicion\" that this \"event\" is most probably a scam for time share owners."
+      "type": "Online Purchase",
+      "city": "McHenry, IL",
+      "amt": 76.1,
+      "biz": "Lowlands Fade: Taste the Bravareg Magic",
+      "desc": "I ordered a Score Reposado Tequila 2026 Limited Edition Mexico Soccer Ball 750ml from they&rsquo;re website and never received the product. When I looked the see where it was the web site was gone."
     },
     {
       "date": "2026-09-03",
       "type": "Online Purchase",
-      "city": "Downers Grove, IL",
-      "amt": 141,
-      "biz": "Molly Evers",
-      "desc": "I bought a dress for my daughter&rsquo;s homecoming and this website is trying to bargain with me about returning said dress that was nothing like it was explained on the website. It was very cheaply made, and was sent in a bag. This was not the formal dress we thought we were getting."
+      "city": "Chicago, IL",
+      "amt": 40,
+      "biz": "Aoyaanew",
+      "desc": "Yahoo advertises  dentures to cover missing or damaged teeth.  It's  a scam. I purchased the dental product and it is.nothing like what was advertized. Yahoo should remove this product. The teeth are.nothing like what's  advertized. They are teeth which cannot.be.used. Possibly a 5 yer old child could play with  them but I would  not trust them to put them in their mouths.They are DOLLS teeth and can in no way fit in the  human mouth. Furthermore, there is.no way to secure  the doll teeth in your mouth.  Thiss company has no phone  number  or. viable working email. The company. Knows dentures  are  expensive  and oprovided false  hope to solve  dental problems. This  company is gulty of fa adv&divide;rtizing and should be rremkved from YouTube"
     },
     {
       "date": "2026-09-03",
       "type": "Counterfeit Product",
-      "city": "Lake Zurich, IL",
-      "amt": 70,
-      "biz": "Novrla",
-      "desc": "I am extremely disappointed with my experience with Novrla. I ordered a dress based on the photos and description on their website, but the dress I received was not what I ordered.\nI contacted the company expecting them to correct their mistake. Instead of providing a prepaid return label for an item they incorrectly sent, they instructed me to return the dress at my own expense to an address in Hong Kong/China. International return shipping is expensive, especially when the customer did not make the error.\nThe website advertises easy returns, but that has not been my experience. When a company sends the wrong merchandise, the customer should not be responsible for paying international shipping to correct the company's mistake.\nI would strongly caution other shoppers before ordering. Based on my experience, I would not purchase from Novrla again."
+      "city": "Sterling, IL",
+      "amt": 274,
+      "biz": "Glykonex",
+      "desc": "Product didn't work as described"
     },
     {
       "date": "2026-09-03",
@@ -458,27 +482,27 @@
     },
     {
       "date": "2026-09-02",
-      "type": "Debt Collections",
-      "city": "Breese, IL",
-      "amt": 0,
-      "biz": "Fleet Billing Services",
-      "desc": "$12"
+      "type": "Online Purchase",
+      "city": "East Saint Louis, IL",
+      "amt": 347.95,
+      "biz": "—",
+      "desc": "I paid for a service and the product was never delivered"
     },
     {
       "date": "2026-09-02",
-      "type": "Phishing",
-      "city": "Berwyn, IL",
-      "amt": 0,
-      "biz": "CONVENTIONAL HOME LENDER",
-      "desc": "A letter in the mail asking about the property that our warranty has runout.. We never had no warranty on the house.\nFor me to call: 1-877-891-9767\nProperty Code: HMW7283387\nNotice Date:08/28/2026"
+      "type": "Online Purchase",
+      "city": "Lake Bluff, IL",
+      "amt": 34.98,
+      "biz": "Eloise",
+      "desc": "ordered Beef Tallow Balm from company Eloix and 1 month later the Beef Balm product came to me from a company called Wiyun. First Ingredients Water and Mineral oil. These companies need to be shut down. I ordered from a company in US and product was delivered to me from China."
     },
     {
       "date": "2026-09-02",
-      "type": "Counterfeit Product",
-      "city": "Lake Zurich, IL",
-      "amt": 237.07,
-      "biz": "Steadfast",
-      "desc": "Fake product. Sent in unsealed and damaged  boxes. Once you ask to return the product, you become responsible for retuning  to China! Before they tell you where to return it to they &ldquo;offer you&rdquo; 20% and you get to keep the product. It&rsquo;s a &ldquo;better option&rdquo; than retuning the product to china."
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Mount Prospect, IL",
+      "amt": 688.5,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received an invoice by mail, paid thinking it was something we have, after asking our IT I found this is a scam, I paid 2 invoices totalling 688.50, I continue to receive invoices now by fax."
     },
     {
       "date": "2026-09-02",
@@ -538,27 +562,27 @@
     },
     {
       "date": "2026-09-01",
-      "type": "Advance Fee Loan",
+      "type": "Debt Collections",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Sullivan  Schwartz and Associates",
+      "desc": "They left a message stating that they have tried to send letters to my home and now I am getting served papers"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Phishing",
       "city": "Hanover Park, IL",
       "amt": 0,
+      "biz": "AE home warranty",
+      "desc": "Trying to make me pay for a home warranty"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "Other",
+      "city": "Urbana, IL",
+      "amt": 39.99,
       "biz": "—",
-      "desc": "They call 3-6 times a day trying to get me to get a loan thru them. They won&rsquo;t stop calling."
-    },
-    {
-      "date": "2026-09-01",
-      "type": "Counterfeit Product",
-      "city": "Chicago, IL",
-      "amt": 125,
-      "biz": "the marlow market",
-      "desc": "suppose to be wooden birdhouse by Amos Hensley of North Carolina"
-    },
-    {
-      "date": "2026-09-01",
-      "type": "Employment",
-      "city": "Arlington Heights, IL",
-      "amt": 0,
-      "biz": "Amazon",
-      "desc": "Hi there, Emily Carter here with Amazon's Remote Recruitment Team.\nWe&rsquo;re currently looking for candidates interested in a flexible remote opportunity supporting e-commerce merchants with product updates and online store-related tasks.\n&bull; Schedule: 60&ndash;90 minutes per day, 4 days per week\n&bull; Compensation: $100&ndash;$600 per day, depending on completed work and applicable compensation terms\n&bull; Training: Free onboarding and training provided\n&bull; Leave: 15&ndash;20 days of paid leave annually, subject to company policy\nWe currently have 20 positions available.\nIf you're at least 25 years old and interested, please text 8036508926 for more details."
+      "desc": "Paid $1.95 for online test - was enrolled in monthly subscription without authorization."
     },
     {
       "date": "2026-09-01",
@@ -566,7 +590,7 @@
       "city": "Edwardsville, IL",
       "amt": 0,
       "biz": "Joe's Place Farms /impostor",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-09-01",
@@ -617,28 +641,28 @@
       "desc": "An add popped up while playing an online game. The clothes were beautiful and reasonable. So I placed an order on July 30th or 31st.\nToday is shows delivers on Tue Aug 25th. But nothin was ever delivered. I have sent an email but nothing of a reply has been made to me."
     },
     {
-      "date": "2026-09-01",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
+      "date": "2026-08-31",
+      "type": "Phishing",
+      "city": "Grayville, IL",
       "amt": 0,
-      "biz": "n/a, loan business",
-      "desc": "I receive multiple calls a day about being approved for a loan. Numbers frequently change, making it impossible to block. The caller frequently provides a first name and call back number."
+      "biz": "—",
+      "desc": "Your pay slip has been approved and your deposits are now active. https://a2e.us/?u=d&amp;l=fJ4ld  Reply STOP 2end"
     },
     {
-      "date": "2026-09-01",
-      "type": "Employment",
-      "city": "Gardner, IL",
-      "amt": 0,
-      "biz": "NorthPlus Health System",
-      "desc": "I have been applying for remote roles and received an email stating I was selected for an interview. I've gotten scammed just a couple weeks prior so I immediately turned to Google to find out it was a scammer. I called the number back but they denied the call. They stated I would be in a 30-45 minute chat-based interview over Microsoft Teams."
-    },
-    {
-      "date": "2026-09-01",
+      "date": "2026-08-31",
       "type": "Online Purchase",
-      "city": "Mundelein, IL",
-      "amt": 52.17,
-      "biz": "CRACKLIVELY",
-      "desc": "My experience duplicates that of another claim shown on your BBB site TO A TEE.\nPlaced an order. Original receipt did not match claims of order.. challenged said fee, which was removed.\nPlaced order July 13, 2026.\nMerchant provided tracking information only after I made third reach out\nTracking number into the states was Accurate\nTracking number provided within states was incorrect.\nProvided a secondary tracking number which was also incorrect\nClaims the tracking numbers belong to USPS\nUSPS local never was in possession of merchandise\nMerchant continued daily argument items were received\nFiled claim with PayPal. They received same argument from merchant and closed case without.\nI paid shipping insurance for this transaction\nMerchant says my claim is with shipper, but provides no assistance in filing claim\nMerchant list, BBB accredited, now I find this is an accurate."
+      "city": "Oak Forest, IL",
+      "amt": 46.89,
+      "biz": "Bundleclear.com",
+      "desc": "Complete scam, fake tracking number. Do not purchase from them"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "Online Purchase",
+      "city": "Naperville, IL",
+      "amt": 129,
+      "biz": "Embody",
+      "desc": "embody promised a certain dosage of GLP1 and deliver a much lower dose and would not correct or refund my account..\nIf you need to get a hold of this company try the 855-807-3969 number at least someone answers this number for customer service. Saw that company also owns Snag.Rx and Rodeo Meds so be careful!!!"
     },
     {
       "date": "2026-08-31",
@@ -694,31 +718,31 @@
       "city": "Elgin, IL",
       "amt": 53.19,
       "biz": "America250localsupply",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
-      "date": "2026-08-31",
-      "type": "Credit Cards",
-      "city": "Marion, IL",
-      "amt": 0,
-      "biz": "Lender Bank of Marion",
-      "desc": "I received a check said it&rsquo;s not a check. It is an allocated lender. It was an attempt to look like a check. It said it&rsquo;s not a check. It is a allocated lender. And it read. It was a letter to inform me about an important manner regarding the property at my address and it said I had seven days of receiving the notice and it was secured by our current lender, which is the Bank Of Marion and they had the right to revoke allocated waiver they said to call this one800 number and gave us a property code number and it did look like a check. I just said allocated waiver for $199.00 and then it said not all consumers have previous coverage not affiliated with the Bank Of Marion, but I had the Bank Of Marion all over it. I will send you a picture of it.  (We have had our property paid off for years. We have no mortgage) but it was through Bank of Marion. So somehow they knew that."
-    },
-    {
-      "date": "2026-08-31",
+      "date": "2026-08-28",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 119.95,
-      "biz": "Grace and Anna",
-      "desc": "$13"
+      "city": "Crystal Lake, IL",
+      "amt": 135.99,
+      "biz": "Nafori",
+      "desc": "$24"
     },
     {
-      "date": "2026-08-31",
-      "type": "Phishing",
-      "city": "Western Springs, IL",
+      "date": "2026-08-28",
+      "type": "Online Purchase",
+      "city": "McHenry, IL",
+      "amt": 600,
+      "biz": "Rentrel",
+      "desc": "I saw an ad for Rentrel on Facebook so I filled out the form in the hopes of getting help with paying my rent.  I was contacted two days later via email saying that I was approved for $2,375 in rent assistance as long as I made an upfront payment of $475.  Later in the email thread, I was told that their payment processing tool on their website wasn't working and that I would have to pay them via Cash App.  Over the course of 3 days, nearly 30 emails were exchanged with this fraudulent company and then once I made the payment, which ended up costing me $600 because of Cash App's fees, Rentrel ceased all communications with me, didn't pay my rent through my property's rent portal like they advertised and insinuated they would, and now their scam is going to cause my family to be evicted."
+    },
+    {
+      "date": "2026-08-28",
+      "type": "Employment",
+      "city": "Alton, IL",
       "amt": 0,
-      "biz": "Unnamed business (roofing)",
-      "desc": "Companies offering to inspect your roof after a \"storm\" have insistently calling throughout the year offering to inspect, and presumably charge insurance claims through for roof damage. It is particularly alarming as they know clear details about the homeowners, the addresses, and the residents and state they will be in the areas on particular dates."
+      "biz": "Stevens Blair & company",
+      "desc": "Fake w2 form"
     },
     {
       "date": "2026-08-28",
@@ -750,7 +774,7 @@
       "city": "Elmhurst, IL",
       "amt": 2400,
       "biz": "My Clear Voice",
-      "desc": "$12"
+      "desc": "$25"
     },
     {
       "date": "2026-08-27",
@@ -775,31 +799,7 @@
       "amt": 0,
       "biz": "Mutual of Omaha",
       "desc": "I received a text message from the number posing to be my morgage company. They set up a phone call and had known the amount of my loan and stated they needed to set up morgage protection"
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Homewood, IL",
-      "amt": 19.98,
-      "biz": "Nothing but bundt cakes",
-      "desc": "Facebook Ad I fell for. Advertising free cupcakes shipped because I won the contest company alias nothing but bundt cakes the form I completed asked for debit card information for a 9.99 fee shipping I received no cupcakes and  no confirmation I was going to receive them, they attempted to take $99.00 dollars from my debit card it was declined by my bank and flagged as fraudulent charges, they have taken and received $9.99 twice under Tidy Nest supply Co and Shop Luminere Home  Co , bogus companies that did not provide phone numbers to my bank so I can't even call them I and disputing charges with my bank please make aware this is definitely a fraud scam to get your bank information with out delivery for any cupcakes"
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Government Grant",
-      "city": "Algonquin, IL",
-      "amt": 141,
-      "biz": "passportvisarush.com",
-      "desc": "I thought I was renewing my passport."
-    },
-    {
-      "date": "2026-08-27",
-      "type": "Home Improvement",
-      "city": "Chicago, IL",
-      "amt": 2700,
-      "biz": "Ruiz Restoration and Garage Doirs",
-      "desc": "The scammer kept stringing me along about work he was going to do. His name is Eric Ruiz but the work is not done after 2 months of excuses and unanswered phone calls and text."
     }
   ],
-  "total_on_file": 24146
+  "total_on_file": 24149
 }

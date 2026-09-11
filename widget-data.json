@@ -6,6 +6,22 @@
   "reports": [
     {
       "date": "2026-09-10",
+      "type": "Phishing",
+      "city": "Fairview Heights, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "They told me I&rsquo;d taken a payday loan out in 2017 I told him I did not, they asked if I had a Bank Of America account I said yes. I asked them to send me more information she would not give it to me since we&rsquo;ll see you in court. I hung up the phone"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Phishing",
+      "city": "Benton, IL",
+      "amt": 0,
+      "biz": "Crypto support",
+      "desc": "This is the text message that i received. I called the first number asked a couple questions and they hung up on me twice.\nYour Crypto assets have been restricted because you are required to transfer your assets from your old Wallet to your new secured Wallet Address below to keep your Assets safe due to the recent changes with our Terms and Agreement we created a more secure wallet address for you to keep your funds safe.\nCopy Your BTC Wallet Address Below and transfer your BTC Balance to your New Secured Wallet Address below to keep your Assets safe and after that your new Wallet will be automatically added to your Homepage Screen.\nbc1qmstr7zh69r7qe68573rzfsu00r4dneyqmty983\nIf you have any questions send us message through text message to  448-219-1003 or call us now on 448-219-1003"
+    },
+    {
+      "date": "2026-09-10",
       "type": "Online Purchase",
       "city": "Carbondale, IL",
       "amt": 35,
@@ -70,19 +86,27 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Identity Theft",
-      "city": "Fieldon, IL",
-      "amt": 39.99,
-      "biz": "MG Lab Lmt",
-      "desc": "Took the money out of PayPal account."
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 260,
+      "biz": "Koda",
+      "desc": "Ordered a set of shorts in July and realized a few weeks after that I hadn&rsquo;t received the shorts. Then saw a charge on my account and looked closer to see they had taken out money 5 times."
     },
     {
       "date": "2026-09-09",
-      "type": "Other",
-      "city": "Rossville, IL",
-      "amt": 0,
-      "biz": "Graeg Barown",
-      "desc": "I am not sure if I lost any money. I will have to check my account again. He sent Power Gel Toilet Claner. Also Sent Angry Moma microwave cleaner under the name of Latnn Gayne using the same address.  What do I do?"
+      "type": "Retail Business",
+      "city": "Chicago, IL",
+      "amt": 1081,
+      "biz": "Captivating Travels by Connie",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Online Purchase",
+      "city": "Mundelein, IL",
+      "amt": 45.87,
+      "biz": "California Warehouse",
+      "desc": "Pop-up add during gameplay\nClicked on ad my first mistake\nPlaced order received confirmation\nTracked package\nPackage stated delivered to my local USPS on 8/29/26\nTelephone local USPS 847&ndash;566&ndash;3907 spoke with Robert\nHe also traced 17TRACK #ZS20194035999\nFound the tracking information, incorrect as package has never been delivered to Mundelein\nCommunication back to nlineclickes@outlook.com  Has gone unanswered.\nWhy are these scammers not prosecuted if I can track down information on them so can government agencies to protected citizens.  All the concern about TikTok and I have never had a problem with their deliveries. Something has to happen who at a federal level should be notified. Please advise."
     },
     {
       "date": "2026-09-09",
@@ -94,35 +118,11 @@
     },
     {
       "date": "2026-09-08",
-      "type": "Other",
+      "type": "Phishing",
       "city": "Trenton, IL",
       "amt": 0,
       "biz": "Graeg Barown",
       "desc": "I have received numerous packages in the mail that I have not ordered or wanted."
-    },
-    {
-      "date": "2026-09-08",
-      "type": "Online Purchase",
-      "city": "Urbana, IL",
-      "amt": 55,
-      "biz": "sereve deals",
-      "desc": "serevedeals.com\nMade 2 unauthorized debit charges. Caught immediately. Bank fraud dealing with it now."
-    },
-    {
-      "date": "2026-09-08",
-      "type": "Other",
-      "city": "Odell, IL",
-      "amt": 0,
-      "biz": "Latnn pgayne",
-      "desc": "I have now received two packages from the same address - different names1. Latnn pgayne and 2. Graeg Barown - one was bath bombs and one is a microwave cleaner- how do I get this to stop . As far as I can tell I have not paid for anything"
-    },
-    {
-      "date": "2026-09-08",
-      "type": "Other",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Daaisy Jaacobs",
-      "desc": "I received two packages from this address with items I didn&rsquo;t order. I received a package of sunflower seeds and a cooling mat for a curling iron"
     }
   ]
 }
