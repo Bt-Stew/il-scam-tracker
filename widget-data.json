@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-09",
+  "generated_at": "2026-09-10",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-10",
+      "type": "Online Purchase",
+      "city": "Carbondale, IL",
+      "amt": 35,
+      "biz": "Zovelyshop.com",
+      "desc": "Ordered fairy garden decoration. Item was not three dimensional, smaller than advertised and pieces did not fit together. Very poor quality."
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Identity Theft",
+      "city": "Park Forest, IL",
+      "amt": 582.94,
+      "biz": "Imposter Instacart",
+      "desc": "While on Instacart website my EBT card numbers was stolen and used at a location in Chicago,IL.  15 S. Cicero Chicago, IL\nI reported it to instacart and they refuse to investigate and keep saying that I received the order which I did not.  I live in Park Forest, IL and have never giving my card information out.  I told instacart that I can prove that I didn't make the purchase but they refuse to acknowledge that their system has been hacked.  I will never use Instacart services again."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Other",
+      "city": "Newman, IL",
+      "amt": 0,
+      "biz": "Satan Barown",
+      "desc": "I received a package of Tanning Gummies not packaged in an envelope or box from this &ldquo;company or person&rdquo; I did not order anything like this. I don&rsquo;t know how they got my address."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Phishing",
+      "city": "Alton, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Scammer contacted me stating they needed to speak with me about a loan request that I never applied for."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Other",
+      "city": "Franklin Grove, IL",
+      "amt": 0,
+      "biz": "Graeg Barown   12510 W  Airport Blvd. Sugar Land, Tx 77478",
+      "desc": "I received a package USPS Ground that I did not order.  I don't know how to describe the contents.  I think they are foam handles for something.  Again I never ordered anything like this,"
+    },
     {
       "date": "2026-09-09",
       "type": "Phishing",
@@ -22,59 +62,27 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Home Improvement",
-      "city": "Bloomington, IL",
-      "amt": 291.6,
-      "biz": "Apollo Home Protection",
-      "desc": "I got a letter saying my home warranty was expiring. It used urgent language."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Phishing",
-      "city": "Bloomington, IL",
+      "type": "Other",
+      "city": "Palos Heights, IL",
       "amt": 0,
-      "biz": "United Covenant Financial",
-      "desc": "United Covenant Financial repeatedly calls your number using an auto-dialer, leaving voice-mail messages that are cut off mid-sentence (indicating the auto-dialer). Their representatives are argumentative and although they claim to put you on the 'Do Not Call' list, fail to explain that any interaction with any of their fraudulent phone numbers immediately removes you from the 'Do Not Call' list and registers you as interested in a loan. Their practices are scummy, at best."
+      "biz": "Daaisy Jaacobs",
+      "desc": "Started receiving small items (seeds, decorative pin) in the mail that i did not order.\nIt has been 3 so far. The first from Laynn Pgayne, the next two were from Daaisy Jaacobs. All from the same address"
     },
     {
       "date": "2026-09-09",
-      "type": "Employment",
-      "city": "Willowbrook, IL",
-      "amt": 23.22,
-      "biz": "Litegic (LTG)",
-      "desc": "Litegic- sent me Job information I applied got the job. Was informed there was a 30 day probation period starting July 3th - Aug 3rd (Aug 3rd Payday). Company shipped products to my home upon receipt of products I inspected and repacked then shipped to the customer provide via the Label Litegic provided. Once end of probation was hear. I was informed that I would receive $3,300 + $100.00 transports, and reimbursement for materials I paid for out of pocket. Received a email that check was mailed on Aug 3rd at it would take 10 to 14 business days to receive. I has now been over 45days and I have received nothing. I have email all parties involved as well as called the two numbers provided to receive no answer from anyone. I have left 2 voice message as well as multiple emails with no reply from anyone.\nThis job really put me in a bind due to looking for more work to help with my financial situation."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Phishing",
-      "city": "Northbrook, IL",
-      "amt": 0,
-      "biz": "Howard Gilb Law",
-      "desc": "Letter from law firm (using a name similar to a legitimate law firm) that said we were possible claimants to proceeds from unclaimed &ldquo;permanent life insurance policy&rdquo;. 10% of funds would go to various charities and remaining 90% would be split 50/50 between law firm and us. For additional info letter said to contact howard@howardgliblaw.com with a copy to howard.glib.law@gmail.com.\nLetter was postmarked Houston, Texas Aug 28, 2026 RPDC 773 with a regular postage stamp."
+      "type": "Identity Theft",
+      "city": "Fieldon, IL",
+      "amt": 39.99,
+      "biz": "MG Lab Lmt",
+      "desc": "Took the money out of PayPal account."
     },
     {
       "date": "2026-09-09",
       "type": "Other",
-      "city": "Riverdale, IL",
-      "amt": 945,
-      "biz": "SP GARAGE DOOR SERVICE",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Other",
-      "city": "Joliet, IL",
-      "amt": 1000,
-      "biz": "Soda Peak/ GEX CORP",
-      "desc": "I ordered product by mistake on order # 159376. Tried reach out to vender half an hour later to get a refund woth no response."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Retail Business",
-      "city": "Chicago, IL",
-      "amt": 1081,
-      "biz": "Captivating Travels by Connie",
-      "desc": "$25"
+      "city": "Rossville, IL",
+      "amt": 0,
+      "biz": "Graeg Barown",
+      "desc": "I am not sure if I lost any money. I will have to check my account again. He sent Power Gel Toilet Claner. Also Sent Angry Moma microwave cleaner under the name of Latnn Gayne using the same address.  What do I do?"
     },
     {
       "date": "2026-09-09",
@@ -85,44 +93,36 @@
       "desc": "I applied for a credit card through reserve and was denied but paid the full fee and was told I would get my money back but it&rsquo;s been a month and I haven&rsquo;t received my money"
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-08",
+      "type": "Other",
+      "city": "Trenton, IL",
+      "amt": 0,
+      "biz": "Graeg Barown",
+      "desc": "I have received numerous packages in the mail that I have not ordered or wanted."
+    },
+    {
+      "date": "2026-09-08",
       "type": "Online Purchase",
+      "city": "Urbana, IL",
+      "amt": 55,
+      "biz": "sereve deals",
+      "desc": "serevedeals.com\nMade 2 unauthorized debit charges. Caught immediately. Bank fraud dealing with it now."
+    },
+    {
+      "date": "2026-09-08",
+      "type": "Other",
+      "city": "Odell, IL",
+      "amt": 0,
+      "biz": "Latnn pgayne",
+      "desc": "I have now received two packages from the same address - different names1. Latnn pgayne and 2. Graeg Barown - one was bath bombs and one is a microwave cleaner- how do I get this to stop . As far as I can tell I have not paid for anything"
+    },
+    {
+      "date": "2026-09-08",
+      "type": "Other",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Luvodeals",
-      "desc": "Fraudulent charge on credit card, i never purchased from this site or business. Am disputing this charge with my CC company."
-    },
-    {
-      "date": "2026-09-06",
-      "type": "Online Purchase",
-      "city": "Argenta, IL",
-      "amt": 31,
-      "biz": "titanboxers",
-      "desc": "I bought incontinence underwear from titanboxers.com . when they arrived they were too tight and didn't feel as if they had the extra padding. i called them  and  told them was sent the wrong product, and was told it would be 24 hours before i would hear back. i never heard back. This started a chain of e mails, with them telling me because of them importing their product from china, full refunds are not possible, at current date the largest return i have been offered is 40% . the web site said a 100% refund, no questions asked"
-    },
-    {
-      "date": "2026-09-06",
-      "type": "Online Purchase",
-      "city": "Dover, IL",
-      "amt": 32.23,
-      "biz": "Vivly ShopVivly",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-09-05",
-      "type": "Home Improvement",
-      "city": "Berwick, IL",
-      "amt": 800,
-      "biz": "Central Garage Door Services",
-      "desc": "Pressure tactics used to scam an elderly couple for a garage door service that was never repaired. He had them sign documents saying that they could not dispute the claim with the credit card company."
-    },
-    {
-      "date": "2026-09-05",
-      "type": "Phishing",
-      "city": "O Fallon, IL",
-      "amt": 0,
-      "biz": "Unknown",
-      "desc": "The scammer claimed that the mark for my business was currently marked as abandoned. The scammer then claimed that a third party is interested in registering it."
+      "biz": "Daaisy Jaacobs",
+      "desc": "I received two packages from this address with items I didn&rsquo;t order. I received a package of sunflower seeds and a cooling mat for a curling iron"
     }
   ]
 }
