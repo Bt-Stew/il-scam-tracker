@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-11",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-11",
+      "type": "Employment",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "NaviForge Freight",
+      "desc": "They ask for my email address my phone number and front and back pictures of my drivers license and a picture of me holding my drivers license."
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Advance Fee Loan",
+      "city": "Urbana, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Phishing",
+      "city": "Danville, IL",
+      "amt": 0,
+      "biz": "Auto service dept",
+      "desc": "******, final notice before your 2013 **** ********&nbsp;coverage file is closed. Auto Service Dept: 1-844-494-1720.\nReply STOP to opt out."
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Other",
+      "city": "Huntley, IL",
+      "amt": 5000,
+      "biz": "Advance America Imposter",
+      "desc": "Daniel Wilson was going to give me a personal loan even though my credit score was low. He put mobile checks into my account and then had me withdraw the money the next day. BMO Harris didn&rsquo;t stop the payment and when they did they froze my account and sent it the fraud department. I haven&rsquo;t heard from them and they will not talk to me in person or on the phone. They have frozen all incoming check. Leaving me no ability to get my money. I think it is about 5000$ that they have. I would appreciate any help. Thanks Maxine Fript."
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Debt Collections",
+      "city": "Springfield, IL",
+      "amt": 0,
+      "biz": "Forgiveness student loan",
+      "desc": "Told me it was a student loan forgiveness program and that I needed to pay 8 payments of 200.00 and the rest of my student loan will be forgiven and had a lot of my information was sending codes from the student loan website"
+    },
     {
       "date": "2026-09-10",
       "type": "Phishing",
@@ -11,6 +51,14 @@
       "amt": 0,
       "biz": "None",
       "desc": "They told me I&rsquo;d taken a payday loan out in 2017 I told him I did not, they asked if I had a Bank Of America account I said yes. I asked them to send me more information she would not give it to me since we&rsquo;ll see you in court. I hung up the phone"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Online Purchase",
+      "city": "Mt Zion, IL",
+      "amt": 0,
+      "biz": "www.meadowgroven.com",
+      "desc": "Scam website stealing user details and credit card details."
     },
     {
       "date": "2026-09-10",
@@ -23,50 +71,18 @@
     {
       "date": "2026-09-10",
       "type": "Online Purchase",
-      "city": "Carbondale, IL",
-      "amt": 35,
-      "biz": "Zovelyshop.com",
-      "desc": "Ordered fairy garden decoration. Item was not three dimensional, smaller than advertised and pieces did not fit together. Very poor quality."
+      "city": "Marshall, IL",
+      "amt": 123.47,
+      "biz": "Handmade Metal Birdhouse Garden Stakes by Jordan Maynard",
+      "desc": "There was a web site on ******** about a disabled veteran who was trying to earn money by making the metal birdhouses with garden stakes.  The birdhouses looked nice in the picture so i thought i could help him out by buying 5 for Christmas presents..  This was in July of 2026.  Used a credit card to pay $123.47.   Received an email thanking me for my order with an order number.   Looked good .   But as of this date 9-10-26 no birdhouses have been received.  Today I started checking to see what happened to my   order.   Found out this is a scam.  The name he used was Jordan Maynard.  If was hurt is the war I am sorry for that.  But this is not the way a Christian man/veratrin should be acting."
     },
     {
       "date": "2026-09-10",
-      "type": "Identity Theft",
-      "city": "Park Forest, IL",
-      "amt": 582.94,
-      "biz": "Imposter Instacart",
-      "desc": "While on Instacart website my EBT card numbers was stolen and used at a location in Chicago,IL.  15 S. Cicero Chicago, IL\nI reported it to instacart and they refuse to investigate and keep saying that I received the order which I did not.  I live in Park Forest, IL and have never giving my card information out.  I told instacart that I can prove that I didn't make the purchase but they refuse to acknowledge that their system has been hacked.  I will never use Instacart services again."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Other",
-      "city": "Newman, IL",
-      "amt": 0,
-      "biz": "Satan Barown",
-      "desc": "I received a package of Tanning Gummies not packaged in an envelope or box from this &ldquo;company or person&rdquo; I did not order anything like this. I don&rsquo;t know how they got my address."
-    },
-    {
-      "date": "2026-09-09",
       "type": "Phishing",
-      "city": "Alton, IL",
+      "city": "Urbana, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "Scammer contacted me stating they needed to speak with me about a loan request that I never applied for."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Other",
-      "city": "Franklin Grove, IL",
-      "amt": 0,
-      "biz": "Graeg Barown   12510 W  Airport Blvd. Sugar Land, Tx 77478",
-      "desc": "I received a package USPS Ground that I did not order.  I don't know how to describe the contents.  I think they are foam handles for something.  Again I never ordered anything like this,"
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Phishing",
-      "city": "Chillicothe, IL",
-      "amt": 0,
-      "biz": "CBC",
-      "desc": "Hi, this is Ryan from CBC. A recent investigation uncovered credit card companies and major banks have violated consumer protection laws such as the Fair Credit Billing Act and Fair Credit Reporting Act. Because of this, these businesses are not allowed to collect on their accounts, meaning you are no longer legally required to pay back certain debt. And those balances will also be removed from your credit report. To hear which banks and credit card companies were found guilty and what will be removed from your credit, call 888-356-1808. Again, that's 888-356-1808."
+      "biz": "Olivia Davis",
+      "desc": "I have received multiple calls with recorded messages and voicemails offering a loan 'looking at my file' -- what file?!  I neither requested nor desired a loan.  With some calls I spoke to an agent and asked to be taken off their list -- this has had no impact. I have been on the National No Call List since 2006!  These calls started about six weeks ago, and I'm now getting 3-4 calls PER DAY from Olivia Davis, Brianna Beck, and others."
     },
     {
       "date": "2026-09-09",
@@ -78,7 +94,7 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Other",
+      "type": "Phishing",
       "city": "Palos Heights, IL",
       "amt": 0,
       "biz": "Daaisy Jaacobs",
@@ -86,43 +102,27 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 260,
-      "biz": "Koda",
-      "desc": "Ordered a set of shorts in July and realized a few weeks after that I hadn&rsquo;t received the shorts. Then saw a charge on my account and looked closer to see they had taken out money 5 times."
+      "type": "Identity Theft",
+      "city": "Fieldon, IL",
+      "amt": 39.99,
+      "biz": "MG Lab Lmt",
+      "desc": "Took the money out of PayPal account."
     },
     {
       "date": "2026-09-09",
-      "type": "Retail Business",
-      "city": "Chicago, IL",
-      "amt": 1081,
-      "biz": "Captivating Travels by Connie",
-      "desc": "$24"
+      "type": "Employment",
+      "city": "Waukegan, IL",
+      "amt": 0,
+      "biz": "HST Pathways",
+      "desc": "The Company Recruitment Team recently reviewed your application Via https://INDEED.com and we believe that you are an excellent match for the position of a Remote Data Collection &amp; Data Entry Specialist $35/hr. It would be our pleasure to invite you to interview with  Mr. Blake Ward via Microsoft Teams. This interview is an opportunity for us to understand your aspirations better and for you to learn more about our company culture and the role.\nAfter a text interview they wanted me to deposit a check for equipment. I refused because there was no vetting process during the interview"
     },
     {
       "date": "2026-09-09",
-      "type": "Online Purchase",
-      "city": "Mundelein, IL",
-      "amt": 45.87,
-      "biz": "California Warehouse",
-      "desc": "Pop-up add during gameplay\nClicked on ad my first mistake\nPlaced order received confirmation\nTracked package\nPackage stated delivered to my local USPS on 8/29/26\nTelephone local USPS 847&ndash;566&ndash;3907 spoke with Robert\nHe also traced 17TRACK #ZS20194035999\nFound the tracking information, incorrect as package has never been delivered to Mundelein\nCommunication back to nlineclickes@outlook.com  Has gone unanswered.\nWhy are these scammers not prosecuted if I can track down information on them so can government agencies to protected citizens.  All the concern about TikTok and I have never had a problem with their deliveries. Something has to happen who at a federal level should be notified. Please advise."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Credit Cards",
-      "city": "Sterling, IL",
-      "amt": 95,
-      "biz": "Reserve",
-      "desc": "I applied for a credit card through reserve and was denied but paid the full fee and was told I would get my money back but it&rsquo;s been a month and I haven&rsquo;t received my money"
-    },
-    {
-      "date": "2026-09-08",
       "type": "Phishing",
-      "city": "Trenton, IL",
+      "city": "Rossville, IL",
       "amt": 0,
       "biz": "Graeg Barown",
-      "desc": "I have received numerous packages in the mail that I have not ordered or wanted."
+      "desc": "I am not sure if I lost any money. I will have to check my account again. He sent Power Gel Toilet Claner. Also Sent Angry Moma microwave cleaner under the name of Latnn Gayne using the same address.  What do I do?"
     }
   ]
 }
