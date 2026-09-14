@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-11",
+  "generated_at": "2026-09-12",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-12",
+      "type": "Online Purchase",
+      "city": "Greenville, IL",
+      "amt": 500,
+      "biz": "Romi",
+      "desc": "Had bought coins then a membership but never got any member benefits and still had to keep buying coins &hellip;. A couple on site improved to them they were fake"
+    },
+    {
+      "date": "2026-09-12",
+      "type": "Phishing",
+      "city": "Allendale, IL",
+      "amt": 0,
+      "biz": "Apple Secure Helpdesk",
+      "desc": "Scammer sent message to my 80 year old mother via text on her phone saying she was hacked and needed to contact them. They offered her a phone number to call and she called +1 (877) 489-2671 and talked to someone there but felt overwhelmed and ended the call. She is somewhat senile so she says she didn't give them anything important but there is a good chance she did. They called back later 3x via FaceTime audio from applesecurehelpdesk1@gmail.com but she never answered."
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Phishing",
+      "city": "Highland, IL",
+      "amt": 10000,
+      "biz": "Cordila",
+      "desc": "I was told that if i gave money I could make more money i feel for it. I feel like a idiot.  Cause i have given them 10000 and the want 10000 more.  Also told me that my credit would be bad if i dont.  He is the guy that has been talking to me. +17042872456"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Tech Support",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Geek Squad",
+      "desc": "Told me I had a charge I didn&rsquo;t so at all in Orlando Florida I don&rsquo;t live there tried to get me to open my apple application did not"
+    },
     {
       "date": "2026-09-11",
       "type": "Employment",
@@ -14,11 +46,27 @@
     },
     {
       "date": "2026-09-11",
+      "type": "Phishing",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "United Delivery Services",
+      "desc": "Lea Perez with United Delivery Services called, but we let all calls go to voice mail on our home number. She was trying to verify if a Glenda lived at the address which was given as the daytime location, that it was in reference to legal case number 2026-54815, using a 504 record. If we did not call back, there would be possible legal repercussions. The phone number given was 866-600-0858. For the record, there is no Glenda at our location."
+    },
+    {
+      "date": "2026-09-11",
       "type": "Advance Fee Loan",
       "city": "Urbana, IL",
       "amt": 0,
       "biz": "—",
       "desc": "$24"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Online Purchase",
+      "city": "Caseyville, IL",
+      "amt": 0,
+      "biz": "Pinnacle Ghostwriting",
+      "desc": "$25"
     },
     {
       "date": "2026-09-11",
@@ -37,92 +85,44 @@
       "desc": "Daniel Wilson was going to give me a personal loan even though my credit score was low. He put mobile checks into my account and then had me withdraw the money the next day. BMO Harris didn&rsquo;t stop the payment and when they did they froze my account and sent it the fraud department. I haven&rsquo;t heard from them and they will not talk to me in person or on the phone. They have frozen all incoming check. Leaving me no ability to get my money. I think it is about 5000$ that they have. I would appreciate any help. Thanks Maxine Fript."
     },
     {
-      "date": "2026-09-10",
-      "type": "Debt Collections",
-      "city": "Springfield, IL",
-      "amt": 0,
-      "biz": "Forgiveness student loan",
-      "desc": "Told me it was a student loan forgiveness program and that I needed to pay 8 payments of 200.00 and the rest of my student loan will be forgiven and had a lot of my information was sending codes from the student loan website"
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Phishing",
-      "city": "Fairview Heights, IL",
-      "amt": 0,
-      "biz": "None",
-      "desc": "They told me I&rsquo;d taken a payday loan out in 2017 I told him I did not, they asked if I had a Bank Of America account I said yes. I asked them to send me more information she would not give it to me since we&rsquo;ll see you in court. I hung up the phone"
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Online Purchase",
-      "city": "Mt Zion, IL",
-      "amt": 0,
-      "biz": "www.meadowgroven.com",
-      "desc": "Scam website stealing user details and credit card details."
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Phishing",
-      "city": "Benton, IL",
-      "amt": 0,
-      "biz": "Crypto support",
-      "desc": "This is the text message that i received. I called the first number asked a couple questions and they hung up on me twice.\nYour Crypto assets have been restricted because you are required to transfer your assets from your old Wallet to your new secured Wallet Address below to keep your Assets safe due to the recent changes with our Terms and Agreement we created a more secure wallet address for you to keep your funds safe.\nCopy Your BTC Wallet Address Below and transfer your BTC Balance to your New Secured Wallet Address below to keep your Assets safe and after that your new Wallet will be automatically added to your Homepage Screen.\nbc1qmstr7zh69r7qe68573rzfsu00r4dneyqmty983\nIf you have any questions send us message through text message to  448-219-1003 or call us now on 448-219-1003"
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Online Purchase",
-      "city": "Marshall, IL",
-      "amt": 123.47,
-      "biz": "Handmade Metal Birdhouse Garden Stakes by Jordan Maynard",
-      "desc": "There was a web site on ******** about a disabled veteran who was trying to earn money by making the metal birdhouses with garden stakes.  The birdhouses looked nice in the picture so i thought i could help him out by buying 5 for Christmas presents..  This was in July of 2026.  Used a credit card to pay $123.47.   Received an email thanking me for my order with an order number.   Looked good .   But as of this date 9-10-26 no birdhouses have been received.  Today I started checking to see what happened to my   order.   Found out this is a scam.  The name he used was Jordan Maynard.  If was hurt is the war I am sorry for that.  But this is not the way a Christian man/veratrin should be acting."
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Phishing",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "Olivia Davis",
-      "desc": "I have received multiple calls with recorded messages and voicemails offering a loan 'looking at my file' -- what file?!  I neither requested nor desired a loan.  With some calls I spoke to an agent and asked to be taken off their list -- this has had no impact. I have been on the National No Call List since 2006!  These calls started about six weeks ago, and I'm now getting 3-4 calls PER DAY from Olivia Davis, Brianna Beck, and others."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Fletcher and Associates Mediation Group",
-      "desc": "Someone from Fletcher &amp; Associates Mediation Group called me and tried to collect a debt that was not owed.  I did not incur this debt.  It was a scam. The person stated that they had my personal information, and would take legal action, including wage garnishment and file a lawsuit."
-    },
-    {
       "date": "2026-09-09",
       "type": "Phishing",
-      "city": "Palos Heights, IL",
+      "city": "Alton, IL",
       "amt": 0,
-      "biz": "Daaisy Jaacobs",
-      "desc": "Started receiving small items (seeds, decorative pin) in the mail that i did not order.\nIt has been 3 so far. The first from Laynn Pgayne, the next two were from Daaisy Jaacobs. All from the same address"
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Identity Theft",
-      "city": "Fieldon, IL",
-      "amt": 39.99,
-      "biz": "MG Lab Lmt",
-      "desc": "Took the money out of PayPal account."
+      "biz": "—",
+      "desc": "Scammer contacted me stating they needed to speak with me about a loan request that I never applied for."
     },
     {
       "date": "2026-09-09",
       "type": "Employment",
-      "city": "Waukegan, IL",
+      "city": "Dixon, IL",
       "amt": 0,
-      "biz": "HST Pathways",
-      "desc": "The Company Recruitment Team recently reviewed your application Via https://INDEED.com and we believe that you are an excellent match for the position of a Remote Data Collection &amp; Data Entry Specialist $35/hr. It would be our pleasure to invite you to interview with  Mr. Blake Ward via Microsoft Teams. This interview is an opportunity for us to understand your aspirations better and for you to learn more about our company culture and the role.\nAfter a text interview they wanted me to deposit a check for equipment. I refused because there was no vetting process during the interview"
+      "biz": "Medico",
+      "desc": "Applied for job on Indeed and was advised to click link in my email to continue application process. When checking my email it advised I needed to pay for my own credit report and to send them via text the screenshot."
     },
     {
       "date": "2026-09-09",
       "type": "Phishing",
-      "city": "Rossville, IL",
+      "city": "Franklin Grove, IL",
       "amt": 0,
-      "biz": "Graeg Barown",
-      "desc": "I am not sure if I lost any money. I will have to check my account again. He sent Power Gel Toilet Claner. Also Sent Angry Moma microwave cleaner under the name of Latnn Gayne using the same address.  What do I do?"
+      "biz": "Graeg Barown   12510 W  Airport Blvd. Sugar Land, Tx 77478",
+      "desc": "I received a package USPS Ground that I did not order.  I don't know how to describe the contents.  I think they are foam handles for something.  Again I never ordered anything like this,"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Phishing",
+      "city": "Chillicothe, IL",
+      "amt": 0,
+      "biz": "CBC",
+      "desc": "Hi, this is Ryan from CBC. A recent investigation uncovered credit card companies and major banks have violated consumer protection laws such as the Fair Credit Billing Act and Fair Credit Reporting Act. Because of this, these businesses are not allowed to collect on their accounts, meaning you are no longer legally required to pay back certain debt. And those balances will also be removed from your credit report. To hear which banks and credit card companies were found guilty and what will be removed from your credit, call 888-356-1808. Again, that's 888-356-1808."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Online Purchase",
+      "city": "Huntley, IL",
+      "amt": 119.97,
+      "biz": "Pawzone",
+      "desc": "I purchased a dog brush or nail trimmer and the item came but then I've received three unauthorized withdrawls for 39.99. The phone number given has a recording with no agents. I've also emailed and they have not responded. The website is pawzone.com"
     }
   ]
 }
