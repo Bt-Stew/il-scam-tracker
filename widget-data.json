@@ -6,11 +6,51 @@
   "reports": [
     {
       "date": "2026-09-14",
+      "type": "Retail Business",
+      "city": "Brookport, IL",
+      "amt": 6000,
+      "biz": "Mikes pool repairs",
+      "desc": "Mike peariso owns an illegal business  he operated with ,2 other me .  He does not have a license .  Does not pay taxes on this income, and is supposed to be on ssd and not working.  He's drawing food stamps.  He's a thief.  And needs to be shut down."
+    },
+    {
+      "date": "2026-09-14",
+      "type": "Phishing",
+      "city": "Litchfield, IL",
+      "amt": 0,
+      "biz": "Rosemary Cessariti",
+      "desc": "Added her to my Yahoo friend list and she checked out my profile.   Next thing I&rsquo;m told I qualified for money to help us with our bathroom and other things, with a payment of 150,000.  I looked into her background and found she won the second highest power ball drawing.  Now, she needs $500 for processing and delivery of my money.  My question is this:  Is she a scam or the real deal?"
+    },
+    {
+      "date": "2026-09-14",
       "type": "Online Purchase",
       "city": "Dixon, IL",
       "amt": 79,
       "biz": "Everly",
       "desc": "I was put on an automatic renewal subscription I did not want."
+    },
+    {
+      "date": "2026-09-14",
+      "type": "Retail Business",
+      "city": "Eddyville, IL",
+      "amt": 0,
+      "biz": "Rudolph Trailer Fulton",
+      "desc": "$12"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "Online Purchase",
+      "city": "Wood River, IL",
+      "amt": 59.98,
+      "biz": "Teamjoy woven llc",
+      "desc": "Ordered 2 tablets and never received them.tracking number was sent.kept saying it was held in customs."
+    },
+    {
+      "date": "2026-09-14",
+      "type": "Phishing",
+      "city": "Glen Ellyn, IL",
+      "amt": 300,
+      "biz": "Public record",
+      "desc": "I have also requested my chat history and they will not send it to me"
     },
     {
       "date": "2026-09-14",
@@ -45,84 +85,44 @@
       "desc": "Had bought coins then a membership but never got any member benefits and still had to keep buying coins &hellip;. A couple on site improved to them they were fake"
     },
     {
-      "date": "2026-09-12",
+      "date": "2026-09-10",
       "type": "Phishing",
-      "city": "Allendale, IL",
+      "city": "Benton, IL",
       "amt": 0,
-      "biz": "Apple Secure Helpdesk",
-      "desc": "Scammer sent message to my 80 year old mother via text on her phone saying she was hacked and needed to contact them. They offered her a phone number to call and she called +1 (877) 489-2671 and talked to someone there but felt overwhelmed and ended the call. She is somewhat senile so she says she didn't give them anything important but there is a good chance she did. They called back later 3x via FaceTime audio from applesecurehelpdesk1@gmail.com but she never answered."
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Summitcov",
-      "desc": "I received an unprompted text from the phone number 74079 that said\n\"Your motor vehicle info was reviewed. Check your updated rates: https://r.summitcov.com/dURAhN Stop/Remove2End\"\nI did not click the link but did look up the company. Didn't find much information except for from scam-detector com which said it was based out of arizona"
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Phishing",
-      "city": "Highland, IL",
-      "amt": 10000,
-      "biz": "Cordila",
-      "desc": "I was told that if i gave money I could make more money i feel for it. I feel like a idiot.  Cause i have given them 10000 and the want 10000 more.  Also told me that my credit would be bad if i dont.  He is the guy that has been talking to me. +17042872456"
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Tech Support",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Geek Squad",
-      "desc": "Told me I had a charge I didn&rsquo;t so at all in Orlando Florida I don&rsquo;t live there tried to get me to open my apple application did not"
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "NaviForge Freight",
-      "desc": "They ask for my email address my phone number and front and back pictures of my drivers license and a picture of me holding my drivers license."
+      "biz": "Crypto support",
+      "desc": "This is the text message that i received. I called the first number asked a couple questions and they hung up on me twice.\nYour Crypto assets have been restricted because you are required to transfer your assets from your old Wallet to your new secured Wallet Address below to keep your Assets safe due to the recent changes with our Terms and Agreement we created a more secure wallet address for you to keep your funds safe.\nCopy Your BTC Wallet Address Below and transfer your BTC Balance to your New Secured Wallet Address below to keep your Assets safe and after that your new Wallet will be automatically added to your Homepage Screen.\nbc1qmstr7zh69r7qe68573rzfsu00r4dneyqmty983\nIf you have any questions send us message through text message to  448-219-1003 or call us now on 448-219-1003"
     },
     {
       "date": "2026-09-10",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 52.99,
-      "biz": "Hooma",
-      "desc": "Legit looking website. Charged me. Typical responses and updates until the delivery attempts started getting suspicious. Given none of them matched a single residential house on my block."
+      "city": "Marshall, IL",
+      "amt": 123.47,
+      "biz": "Handmade Metal Birdhouse Garden Stakes by Jordan Maynard",
+      "desc": "There was a web site on ******** about a disabled veteran who was trying to earn money by making the metal birdhouses with garden stakes.  The birdhouses looked nice in the picture so i thought i could help him out by buying 5 for Christmas presents..  This was in July of 2026.  Used a credit card to pay $123.47.   Received an email thanking me for my order with an order number.   Looked good .   But as of this date 9-10-26 no birdhouses have been received.  Today I started checking to see what happened to my   order.   Found out this is a scam.  The name he used was Jordan Maynard.  If was hurt is the war I am sorry for that.  But this is not the way a Christian man/veratrin should be acting."
     },
     {
       "date": "2026-09-10",
       "type": "Phishing",
-      "city": "Fairview Heights, IL",
-      "amt": 300,
-      "biz": "Kroll settlement administration",
-      "desc": "Kroll settlement hid their notice in my spam email which was found after the deadline, then they did not notify me of a second settlement I qualified for and only just saw two days after the deadline.\nThey also owe me $315 from. CPAP settlement they they are making no effort to pay. They sent me a check and then cancelled it when I deposited it in my bank. Then they sent me codes for two virtual credit cards- one for $260 and one for $55. Neither worked. When i contacted them they said they sent out bad cards and that the virtual credit card company had to contact them to get new cards issued. WHY?!?! If they knew they sent out bad cards for money they owed me, and other people then why are they sitting on it?!?!\nThey also owe me now for two settlements agains Lemonaid pharmacy for not disclosing that I qualified for payouts until AFTER the deadline to submit. They are stealing money that has rightly been won in the courts."
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Employment",
-      "city": "East Dubuque, IL",
+      "city": "Urbana, IL",
       "amt": 0,
-      "biz": "Charlotte Sinclair",
-      "desc": "$24"
+      "biz": "Olivia Davis",
+      "desc": "I have received multiple calls with recorded messages and voicemails offering a loan 'looking at my file' -- what file?!  I neither requested nor desired a loan.  With some calls I spoke to an agent and asked to be taken off their list -- this has had no impact. I have been on the National No Call List since 2006!  These calls started about six weeks ago, and I'm now getting 3-4 calls PER DAY from Olivia Davis, Brianna Beck, and others."
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Phishing",
+      "city": "Urbana, IL",
+      "amt": 0,
+      "biz": "Brianna Beck",
+      "desc": "I have received numerous calls from Brianna Beck using the EXACT recorded message you have previously received from others."
     },
     {
       "date": "2026-09-10",
       "type": "Online Purchase",
-      "city": "Wilmette, IL",
-      "amt": 158,
-      "biz": "Garden Liquor",
-      "desc": "I ordered bourbon from an online liquor store called Garden Liquors. It appeared to be an actual liquor store that could ship out of state. Everything seemed OK. The item never was delivered even though they sent tracking notices through USPS that seemed very legitimate. The website is now down, the email is now down,"
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Online Purchase",
-      "city": "La Grange, IL",
-      "amt": 719,
-      "biz": "Luxxuri.co",
-      "desc": "Saw an ad for a discount site selling watches, went to the site, and ordered a watch. It took over two weeks to arrive, and was packaged weirdly- incorrect watch box, wrapped in cellophane. I requested a return via email, in accordance with their website&rsquo;s instructions. They only respond once daily at 2am, with what appears to be an AI chatbot. It&rsquo;s been a month of back &amp; forth and now they&rsquo;re not responding, after saying returns aren&rsquo;t permitted for a &ldquo;change of mind,&rdquo; although that&rsquo;s part of their policy on their website.\nThis business is shady, difficult to communicate with, and outright lies about returning items on their website."
+      "city": "Orland Park, IL",
+      "amt": 116,
+      "biz": "Crown Collectibles",
+      "desc": "$12"
     }
   ]
 }
