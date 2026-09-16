@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-15",
+  "generated_at": "2026-09-16",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-16",
+      "type": "Online Purchase",
+      "city": "Yorkville, IL",
+      "amt": 78.9,
+      "biz": "BioSupp",
+      "desc": "I purchased supplements from the business by accident and attempted to return them. I sent them to the return address given, but they say they cannot give me a refund without the tracking number, which I do not have, but the supplements were sent to the return location unopened. I called the number back and they confirmed it had been delivered, but I was not given my refund.\nReturn Number: 7821CD1EC144."
+    },
+    {
+      "date": "2026-09-15",
+      "type": "Phishing",
+      "city": "Washington, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Letter states our records indicate that you have not contacted us to have your vehicle service  contract activated. We are informing you that if your factory warranty has expired, you will be responsible for paying any repairs however with expired you can still activate a service contract on your vehicle before it&rsquo;s too late please call 188-488-3280 today then it reads a summary of terms with different dates and monetary information TBD it gives important vehicle information like what kind of engine it is 4 x 4 GPS, etc.."
+    },
+    {
+      "date": "2026-09-15",
+      "type": "Phishing",
+      "city": "Belleville, IL",
+      "amt": 195,
+      "biz": "Aptive Pest Control",
+      "desc": "$24"
+    },
     {
       "date": "2026-09-15",
       "type": "Online Purchase",
@@ -61,68 +85,44 @@
       "desc": "I've been in the game for probably about 2 hours and once I made it to what it said I can make it to to cash out it then gave me 10 more things to do and never gave me my money and has me in a constant ad loop"
     },
     {
-      "date": "2026-09-14",
-      "type": "Romance",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "jasmine",
-      "desc": "they ai generted nudes of me and are now threatening to release them if i dont pay"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Online Purchase",
-      "city": "Dixon, IL",
-      "amt": 79,
-      "biz": "Everly",
-      "desc": "I was put on an automatic renewal subscription I did not want."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Retail Business",
-      "city": "Eddyville, IL",
-      "amt": 0,
-      "biz": "Rudolph Trailer Fulton",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Advance Fee Loan",
-      "city": "Midlothian, IL",
-      "amt": 0,
-      "biz": "Credible Lending",
-      "desc": "This company calls about 10 times a day to try and get you to take a loan from their company and they use very negative tactics by saying this is your last time that you&rsquo;re ever gonna be able to try and get money&hellip; Stuff like that I have blocked all their phone numbers, but they always find another new phone number and I have reported them to the no call list"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Online Purchase",
-      "city": "Elmhurst, IL",
-      "amt": 79.92,
-      "biz": "Johstelmarket",
-      "desc": "The advertised product was full-size mums (flowers). This is what was delivered (please see picture). They are giving me the runaround for returns. I reached out 3 times, and they finally replied, asking for the plastic label on the shipping bag. I threw away the bag once I opened the package and took pictures of the box and contents."
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Travel/Vacation/Timeshare",
-      "city": "Arlington Heights, IL",
-      "amt": 0,
-      "biz": "Ease My Trip and Nuitee Travel",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Summitcov",
-      "desc": "I received an unprompted text from the phone number 74079 that said\n\"Your motor vehicle info was reviewed. Check your updated rates: https://r.summitcov.com/dURAhN Stop/Remove2End\"\nI did not click the link but did look up the company. Didn't find much information except for from scam-detector com which said it was based out of arizona"
+      "amt": 699,
+      "biz": "Kanoyard",
+      "desc": "address, credit card"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "Online Purchase",
+      "city": "Freeport, IL",
+      "amt": 75,
+      "biz": "Flair Boutique",
+      "desc": "I ordered 2 dresses, I got 1 low quality, it' didn't fit, when I tried to get refund, they started sending email asking for a lot of information even signed a paper to return it. Then when it was done, they said it will be a lot of problems for the customer to return it it's better for the customer to keep the dress and they will give me the 50% back and then they don't want to give the 50% back in my CC ,they want to put this money as a credit store<br class=\"t-last-br\" />"
     },
     {
       "date": "2026-09-12",
       "type": "Online Purchase",
-      "city": "Riverdale, IL",
-      "amt": 39.99,
-      "biz": "HoomaGoods",
-      "desc": "The company advertised goods for very low prices they will charge your payment for goods more than once . You&rsquo;ll never receive a tracking number for the order and the so called tracker shows fake tracking details you&rsquo;ll never receive the package"
+      "city": "Greenville, IL",
+      "amt": 500,
+      "biz": "Romi",
+      "desc": "Had bought coins then a membership but never got any member benefits and still had to keep buying coins &hellip;. A couple on site improved to them they were fake"
+    },
+    {
+      "date": "2026-09-12",
+      "type": "Other",
+      "city": "Dawson, IL",
+      "amt": 0,
+      "biz": "Satan Barown",
+      "desc": "Sent an empty package via USPS."
+    },
+    {
+      "date": "2026-09-12",
+      "type": "Home Improvement",
+      "city": "Woodridge, IL",
+      "amt": 750,
+      "biz": "Blackhawk Tree Care",
+      "desc": "The individual asked for payment up front to take down a tree and trim another tree. They never came back to finish the job, he left the dead branches and never ground the stump. He has ignored all forms of contact."
     }
   ]
 }
