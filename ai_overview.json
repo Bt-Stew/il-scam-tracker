@@ -4,104 +4,140 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "\"Central\" means being in the middle of a place or acting as the most important part of a system.",
+      "snippet": "Federal prosecutors warn of U.S. Attorney's Office for the Central District of Illinois phone-spoofing scams where callers impersonate federal staff and demand money.",
       "snippet_highlighted_words": [
-        "being in the middle of a place or acting as the most important part of a system"
+        "phone-spoofing scams where callers impersonate federal staff and demand money"
       ]
     },
     {
       "type": "heading",
-      "snippet": "Meanings of Central"
+      "snippet": "Active Scams in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Adjective: Located in or near the center of an area."
+          "snippet": "Phone Spoofing: Scammers fake numbers and use real names of staff from the U.S. Attorney's Office for the Central District of Illinois to threaten victims and demand immediate payment ."
         },
         {
-          "snippet": "Adjective: Main, key, or most important to a plan, goal, or group."
+          "snippet": "City Official Impersonation: Scammers send fake invoices or notices on phony city letterhead (such as in Pekin, Illinois) targeting people who recently appeared before local zoning boards."
         },
         {
-          "snippet": "Noun: A main hub, office, or control center for an activity."
+          "snippet": "Fake Toll and Traffic Text Messages: Phishing texts claim recipients owe money for unpaid tolls, traffic tickets, or face license suspension, mimicking the Illinois Department of Transportation or Secretary of State.",
+          "snippet_links": [
+            {
+              "text": "Illinois Department of Transportation",
+              "link": "https://idot.illinois.gov/about-idot/contact-us/report-a-problem/text-scam-alert.html"
+            }
+          ]
+        },
+        {
+          "snippet": "Utility and Home Warranty Scams: Fraudsters call or mail urgent notices pretending to be utility providers or home warranty companies to trick residents into switching providers or paying fees."
         }
       ]
     },
     {
       "type": "heading",
-      "snippet": "Common Uses"
+      "snippet": "How to Protect Yourself"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Geography: Describing a middle region, such as the Central Plains or Central Asia."
+          "snippet": "Hang up: Do not share personal details, bank numbers, or credit card info over the phone."
         },
         {
-          "snippet": "Operations: A central station or main office that manages other locations."
+          "snippet": "Verify independently: Look up official numbers rather than using numbers provided by callers or texts."
+        },
+        {
+          "snippet": "Practice the pause: Take time to verify urgent threats instead of reacting immediately under pressure."
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "Are you looking for the definition of \"central\" in a specific context, or did you mean a particular place, school, or business named Central?"
+      "snippet": "If you want, tell me what type of suspicious contact you received (a text, a phone call, or a letter) so I can give you the exact reporting agency to contact."
     }
   ],
   "references": [
     {
-      "link": "https://www.youtube.com/watch?v=FF7koR2yUs4",
-      "source": "youtube.com",
+      "title": "US Attorney's Office For The Central District of Illinois",
+      "link": "https://www.justice.gov/usao-cdil/pr/us-attorneys-office-central-district-illinois-warns-public-about-phone-spoofing-scam",
+      "snippet": "U.S. Attorney's Office for the Central District of Illinois Warns Public About Phone Spoofing Scam * Document the name and details the caller provides. * Hang up i...",
+      "source": "Department of Justice (.gov)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66CZODjETXxbYQgnoOXXm1VWF_JZtePBHJX7Ew846-JNLPBf9_-UEAI-_TC8-I0LoOepuNy-2bMS1XbEzp-56mK3QxVQMiFEeyH6x",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.justice.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 0
     },
     {
-      "link": "https://www.merriam-webster.com/dictionary/central",
-      "source": "merriam-webster.com",
+      "title": "Federal prosecutors warn of scam calls in Central Illinois",
+      "link": "https://www.wcia.com/news/federal-prosecutors-warn-of-scam-calls-in-central-illinois/",
+      "snippet": "Unknown phone call (Adobe Stock) Federal prosecutors warn of scam calls in Central Illinois by: Bradley Zimmerman Posted: Sep 7, 2026 / 03:53 PM CDT Updated: Sep 7...",
+      "source": "WCIA.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1OG0eNVeHIJzX4ygeJqN__SZziuwPQFkRDFHvoevyPaA4RRlRN9Wq27hB9cDSqxZY72yXZ7F2WiRcNQarbdI-r6no5uSQA1dUIAt",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 1
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout",
-      "source": "aljazeera.com",
+      "title": "Pekin police warn of scammers attempting to impersonate city officials",
+      "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/",
+      "snippet": "PEKIN, Ill. (WMBD) \u2014 The Pekin Police Department is warning residents that scammers are attempting to impersonate city departments. The scammers are allegedly pret...",
+      "source": "CIProud.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfaMvsxuLabGJOOy_b0kPnEh2NwVbRWZb6kg6J7Axk7W5KwETyGcNwZGB_RkSkdTKmw_dKTDRoEQ6b_YhMAmOFR-u",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 2
     },
     {
-      "link": "https://weather.com/2026/09/15/forecast/regional/flood-threat-chicago-midwest-minneapolis",
-      "source": "weather.com",
+      "title": "Text Scam Alert - Illinois Department of Transportation",
+      "link": "https://idot.illinois.gov/about-idot/contact-us/report-a-problem/text-scam-alert.html",
+      "snippet": "SCAM ALERT: A current text message smishing scam claims recipients owe money associated with traffic tickets, tolls and other fines. These are not legitimate messa...",
+      "source": "IDOT (.gov)",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://idot.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 3
     },
     {
-      "title": "CENTRAL - Meaning and Pronunciation",
-      "link": "https://www.youtube.com/watch?v=FF7koR2yUs4",
-      "snippet": "central central central central can be an adjective or a name as an adjective central can mean one being in the center. two having or containing the center of some",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdo-FmTXZNofIBxTTxrcBG0maYKGJHDXGBfHPKkWBvzaiI3vCHyYpzO8gXpFmOWJB34HuyOQzh_6h9qtWDwmwTUviI0Et0VUdaudagrw",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Illinois state officials issued a warning on text message ...",
+      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
+      "snippet": "Illinois state officials issued a warning on text message scams targeting drivers with false claims of unpaid fines and license suspensions. The messages are desig",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3kjRCLUV8vNYr_1scVS8uxg4BdvVivCK84yaBzDz2OC-_Hl8t5hK_iMmJAMZ950-uje7Ly3bt_KQQzahwiAPiMJrI_mTjizXBZN27VQ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "CENTRAL Definition & Meaning - Merriam-Webster",
-      "link": "https://www.merriam-webster.com/dictionary/central",
-      "snippet": "noun. 1. : a telephone exchange or operator. 2. : a central office or bureau usually controlling others. weather central. 3. : a center or hub for a specified acti...",
-      "source": "Merriam-Webster",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.merriam-webster.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "The ABC7 Chicago I-Team has a warning about tollway ...",
+      "link": "https://www.facebook.com/abc7chicago/videos/the-abc7-chicago-i-team-has-a-warning-about-tollway-scams-inundating-phones-rece/821755651008254/",
+      "snippet": "The ABC7 Chicago I-Team has a warning about tollway scams inundating phones recently. | ABC 7 Chicago | Facebook another day another scam. text there's a new warni",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDr4nKJ-jk6x0pr2cF5zZyGb3SWlaXDCTycmq6wLvxGbw2mUzrmnGKFqWkqq2U4XmSPRq5X-1n0WPb4U6yC5d6xrZLs7Os6gzFYIq0rw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 5
     },
     {
-      "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
-      "link": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout",
-      "snippet": "Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc. ... South Korea is set to welcome the heads of...",
-      "source": "Al Jazeera",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRygeFRIn3i0dc8JdxBuZGska9FPDqqFLYdm1-RqCE6HfhovztN3H8HCvpKGiP_H_epZtYAa73jqjogS4BCasVCu_RzijywdXLzczV",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "3 Scams You Need To Know#centralillinois - #fyp - #dontfallforit",
+      "link": "https://www.facebook.com/HOIBBB/videos/3-scams-you-need-to-knowcentralillinois-fyp-dontfallforit-scam/1594849335670005/",
+      "snippet": "Karen Farris-regan and 6 others    7       OCR: E A Con Trustwort Alright, three scams you need to know before the weekend . Long story short, if somebody says tha...",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 6
     },
     {
-      "title": "The Midwest and Central Plains are seeing days of flooding",
-      "link": "https://weather.com/2026/09/15/forecast/regional/flood-threat-chicago-midwest-minneapolis",
-      "snippet": "Why the flooding? The rainfall this week is due to a slow-moving cold front that will at first be trekking across the Midwest and Central Plains. This front will b...",
-      "source": "The Weather Channel",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93eGTB7ehkCSGZp_jZzrqqTHn_zcWbhs6DVNr_YdcGDQCJ1k1ZlF13rsu0WXMKZ4YJcCdQJxzTdl1Yfc3JoFAv2JIwv43QQqyr_2r",
-      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://weather.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "3 Scams You Need To Know#centralillinois #fyp #dontfallforit ...",
+      "link": "https://www.facebook.com/HOIBBB/posts/3-scams-you-need-to-knowcentralillinois-fyp-dontfallforit-scam/1550368093800306/",
+      "snippet": "-Scam Alert- There have been numerous reports of scams in the area. They include: -Prize offers -Travel packages -Vitamins and other health products -Investments -",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTp_VoklKR7lcN8n9iVz07HI9KzQaz6A4ihBmtDE204vAsLmLszTFtJQIrIcJ2E_wknNOryPuEjLi4EtkvZwYZUbMgmn03oq6Jf5ohkw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 7
+    },
+    {
+      "title": "Better Business Bureau of Central IL hosts scam seminar",
+      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
+      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA2Mfxtppt6nkd1AfInaX0wMKYMUZz9EFj4oxaVq_Mh2WkLVTSSSJJK7raf7F9oQT5BOfX9Dhb6uT9DJWpY4B70kj",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 8
     }
   ]
 }
