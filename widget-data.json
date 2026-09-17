@@ -14,6 +14,14 @@
     },
     {
       "date": "2026-09-16",
+      "type": "Retail Business",
+      "city": "Justice, IL",
+      "amt": 0,
+      "biz": "APOLLO AUTO AUCTION",
+      "desc": "apollo auto auction is showing VIN # 3AKJHLDR7LSMD2331 as 2020 Freightliner Cascadia 126 sleeper\nbut that vin number belongs to 2020 Freightliner Cascadia 126 day cab at pampered coach truck center"
+    },
+    {
+      "date": "2026-09-16",
       "type": "Sweepstakes/Lottery/Prizes",
       "city": "Hamilton, IL",
       "amt": 0,
@@ -77,12 +85,12 @@
       "desc": "the person reached out about taking a book i wrote and wanting to know if i was interested in turning it into a film.   i sent a questioning email back and didnt hear back"
     },
     {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Sandwich, IL",
+      "date": "2026-09-14",
+      "type": "Employment",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "the scammer has called myself, and my entire family with the same message for me.\n\"This message is for ------. My name is Kimberly. I'm calling on behalf of the county process servers office. This is regarding a court summons filed under case ------. This is a legal notification from the county process server's office. We are contacting you to inform that an attempt was made to serve you with legal documents, requesting your appearance in court. However, the documents were returned from the address we have on file. To avoid a failure to appear, we recommend that you contact the attorney in charge of your case. her name is Nicole Miller at 888-489-0072. Her office will be able to provide additional details regarding your case, including the filing."
+      "biz": "LOAD VOYAGE",
+      "desc": "Scammer emailed and called my personal number asking if I would like a part-time work from home job.  they advised I would receive a call from someone else asking me to interview for the position.  After the call they said they would be doing a background check but without DOB, SS#.  But did have my home address. Then received a 2nd email with a contract attached to initial and sign to take the position.  Attached is the 1st page of the contract emailed."
     },
     {
       "date": "2026-09-14",
@@ -115,14 +123,6 @@
       "amt": 0,
       "biz": "Care Made Gifts",
       "desc": "Delivered a product that was not even remotely close to what was advertised.  I have attempted to get a refund 2 times and am getting no response."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Advanced Financial Servicing",
-      "desc": "Repeatedly calling re: a web loan over $1,000 that I&rsquo;m alleged to take out that I never did. Very rude and threatening to report me."
     }
   ]
 }
