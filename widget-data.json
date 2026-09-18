@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-09-16",
+  "generated_at": "2026-09-17",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
+      "date": "2026-09-17",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Barrington, IL",
+      "amt": 0,
+      "biz": "Memphis DME Supply LLC",
+      "desc": "The scammer billed the amount of $13,725 to Medicare using my Medicare number. My Medicare Summary Notice indicated that none of the fraudulent claims were approved and therefore nothing paid out by Medicare. Claims were for 1500 intermittent urinary catheters ordered by a Daniel J Kruse (scammer)."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Phishing",
+      "city": "East Alton, IL",
+      "amt": 0,
+      "biz": "Home health solutions",
+      "desc": "Joy hardester  social security  bank information"
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Counterfeit Product",
+      "city": "Morton, IL",
+      "amt": 45,
+      "biz": "Sorelle",
+      "desc": "They claim to provide real pearls, but after having a jeweller check it, it turned out to be some kind of plastic. I would never pay that kind of money for plastic. The product description is misleading and fake."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Counterfeit Product",
+      "city": "Bloomington, IL",
+      "amt": 69,
+      "biz": "The Fleece Company",
+      "desc": "I ordered 2 Full size blankets. It was taking a long time with nothing heard from the company   I finally got 2 blankets that were so small, I thought they might be Crib Blankets.  I had two back and forth emails with some named marie who told me to lay the blankets on a bed, measure them and send her a picture. I said no. It was too OBVIOUS that these blankets were too SMALL for a Double/Full size bed. I sent her a copy of her own Fleece Company Ad with measurements of their supposed blankets, AND a statement of &ldquo;Easy Returns and/or Exchanges&rdquo; on the ad.  I was asking for an address and instructions on how to return. She would NOT supply that info. As a matter of fact, after sending her a copy of her ad, she stopped communicating with me."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Online Purchase",
+      "city": "Plainfield, IL",
+      "amt": 400,
+      "biz": "Imposter- Nothing bundt cakes",
+      "desc": "Nothing bundt cake sampler box offer for $9.99.  My bank account was soon hit with 4 debit card transactions for $99+."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Online Purchase",
+      "city": "Park Forest, IL",
+      "amt": 73,
+      "biz": "SoFyre",
+      "desc": "Sofyre sent email that order confirmation and shipment out for delivery. Over due 4 days called to check up told product was on the way. When  I asked what the delay was she put me on hold and disconnected.\nI called back immediately sounded like the same woman answering, asked same questions and she said Product hasn't shipped yet. When I asked to speak to a manager she hung up."
+    },
+    {
       "date": "2026-09-16",
       "type": "Online Purchase",
-      "city": "Champaign, IL",
-      "amt": 159.92,
-      "biz": "Glycoguard Blood Balance",
-      "desc": "I bought 6 bottles (6 months supply) which did nothing for my neuropathy. I called the Co. and cancelled the pills but have since received another 3 bottles.  They were mailed from  Florida."
+      "city": "Chester, IL",
+      "amt": 200,
+      "biz": "Dope thca",
+      "desc": "I order some thca from here and it didn't ever come said delivered but it's not and also paid for express shipping and didn't even get it in two days like they said"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Online Purchase",
+      "city": "Hoffman Estates, IL",
+      "amt": 36.97,
+      "biz": "Cur8trend",
+      "desc": "I ordered a fireworks squirt gun for my granddaughter. Ordered it in June and never received anything! Contacted the seller multiple times through email and they kept telling me it was in transit. Then when I asked for proof, they said that I received it. Ref refused to give me any money back."
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 65.8,
+      "biz": "EasyLifexo",
+      "desc": "I placed an order with the company by credit card and received notification to track the delivery.  I was advised that delivery was made on 9/7/26.  I was home all day as that was Labor Day and no package arrived.  I have received no response from the company."
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Retail Business",
+      "city": "Belvidere, IL",
+      "amt": 0,
+      "biz": "Eddie Bauer",
+      "desc": "Pretended to be an Eddie Bauer website, claiming a big sale. When in checkout, during the payment section, it asked for card info. It claimed the first card entered didn&rsquo;t work, then on the second card entered the victim realized the website URL was incorrect.  The website clearly was made to steal credit card information."
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Credit Cards",
+      "city": "Melrose Park, IL",
+      "amt": 0,
+      "biz": "Chase",
+      "desc": "This person called speaking speak telling me that there were some suspicious Zelle transactions in my account. Then he attempted to read the names like if I knew them. Then he told me that the transaction came from a iPhone 8 and then tried to confirm my information. I didn't give him any information then I told him that I would go in person to bank and he quickly thanked me and hung up"
     },
     {
       "date": "2026-09-16",
@@ -22,6 +102,14 @@
     },
     {
       "date": "2026-09-16",
+      "type": "Online Purchase",
+      "city": "Orland Park, IL",
+      "amt": 59,
+      "biz": "Bellroses",
+      "desc": "I ordered 2 pair of shoes on 8-16-26 from BelRoses.Com. the shoes have not arrived. The order no. Is 1595"
+    },
+    {
+      "date": "2026-09-16",
       "type": "Sweepstakes/Lottery/Prizes",
       "city": "Hamilton, IL",
       "amt": 0,
@@ -30,99 +118,11 @@
     },
     {
       "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 78.9,
-      "biz": "BioSupp",
-      "desc": "I purchased supplements from the business by accident and attempted to return them. I sent them to the return address given, but they say they cannot give me a refund without the tracking number, which I do not have, but the supplements were sent to the return location unopened. I called the number back and they confirmed it had been delivered, but I was not given my refund.\nReturn Number: 7821CD1EC144."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Washington, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Letter states our records indicate that you have not contacted us to have your vehicle service  contract activated. We are informing you that if your factory warranty has expired, you will be responsible for paying any repairs however with expired you can still activate a service contract on your vehicle before it&rsquo;s too late please call 188-488-3280 today then it reads a summary of terms with different dates and monetary information TBD it gives important vehicle information like what kind of engine it is 4 x 4 GPS, etc.."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 195,
-      "biz": "Aptive Pest Control",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Other",
-      "city": "Elmwood, IL",
-      "amt": 375,
-      "biz": "Stevenson Homes",
-      "desc": "The business had a property for rent and we paid the application fee, and the deposit and half of the cleaning fee to see the property for our son to move into to attend Palmer Chiropractic College.  They never showed up to show us the property.  And after our meeting time was over an hour past the scheduled time frame they told us we needed to pay half of the rent which we didn't pay.  We also drove an hour and a half from Illinois to Davenport Iowa.  And the time they asked for additional money once we were in Iowa we realized that we were scammed.  The money that we did pay them was done through the Cash App."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Online Purchase",
-      "city": "Prospect Heights, IL",
-      "amt": 0,
-      "biz": "Sihan Wang",
-      "desc": "Packages sent daily.  None were ordered. No evidence of charges made.  The sender nor the post office can stop it.  We are waiting for a negative consequence.  Concerned."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Tremont, IL",
-      "amt": 0,
-      "biz": "RBI Debt Collector",
-      "desc": "Call RBI - Debt Collector at 8889779729 or visit payxray.com for a payment plan that fits your needs. We can help you get back on track. To optout txt STOP"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Quincy, IL",
-      "amt": 0,
-      "biz": "BROWN STONE",
-      "desc": "the person reached out about taking a book i wrote and wanting to know if i was interested in turning it into a film.   i sent a questioning email back and didnt hear back"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "LOAD VOYAGE",
-      "desc": "Scammer emailed and called my personal number asking if I would like a part-time work from home job.  they advised I would receive a call from someone else asking me to interview for the position.  After the call they said they would be doing a background check but without DOB, SS#.  But did have my home address. Then received a 2nd email with a contract attached to initial and sign to take the position.  Attached is the 1st page of the contract emailed."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Phishing",
-      "city": "Litchfield, IL",
-      "amt": 0,
-      "biz": "Rosemary Cessariti",
-      "desc": "Added her to my Yahoo friend list and she checked out my profile.   Next thing I&rsquo;m told I qualified for money to help us with our bathroom and other things, with a payment of 150,000.  I looked into her background and found she won the second highest power ball drawing.  Now, she needs $500 for processing and delivery of my money.  My question is this:  Is she a scam or the real deal?"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Phishing",
-      "city": "Harvard, IL",
-      "amt": 0,
-      "biz": "Healthcare billing collector",
-      "desc": "They claimed they were making an attempt to file a claim on a recorded line for a hospital visit back in June, and that I had an outstanding balance of more than 11,000.00"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Phishing",
-      "city": "Lombard, IL",
-      "amt": 6815.99,
-      "biz": "Navy Federal Credit Union",
-      "desc": "I was called by a person impersonating Navy Federal, using their caller id and their phone number. They said that someone tried to make a transfer under my card number in Florida and I said that was wrong, it wasn&rsquo;t me. I was still under the assumption that I was still talking to navy federal not a scammer. They somehow were able to transfer $4,000 from my account to theirs using step.com when I never clicked the link or said yes. They proceeded to then FaceTime me saying it was a new way of helping users and they told me to move my money to another account to ensure that someone doesn&rsquo;t try to hack my account again. The remaining $2,700 was then wire transferred to an account via Cash App. I still have the card number of the person and their zip code that they used when I transferred the money. Once I transferred the remaining amount they ended the call and didn&rsquo;t pick up the phone after that."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Counterfeit Product",
-      "city": "Joliet, IL",
-      "amt": 0,
-      "biz": "Care Made Gifts",
-      "desc": "Delivered a product that was not even remotely close to what was advertised.  I have attempted to get a refund 2 times and am getting no response."
+      "type": "Identity Theft",
+      "city": "Country Club Hills, IL",
+      "amt": 0.68,
+      "biz": "BBLYZ",
+      "desc": "I looked at my bank account and notice a charge it was posted Sept 8 for $34,90, the company is called BBLYZ, and again posted  Sept 10 for the same amount.  And once again on 14 Sept for the same amount it was pending,  I called my bank and request a new debit card. The last two it stated on my transactions, the city London, and a number 447-454-74460, possible a phone #.  I have no idea who these people are!   But I do know that my personal info was stolen.  I put down my  email, and phone so i can continue.  The last transaction I was credit. will you please look into the matter.  And perhaps inform of the results.\nThank You\nMr. steve perez"
     }
   ]
 }
