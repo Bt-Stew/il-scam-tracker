@@ -4,35 +4,35 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Recent active scams in Central Illinois include fake government calls, utility slamming, and fraudulent municipal notices.",
+      "snippet": "Federal prosecutors and state officials have issued urgent warnings regarding active scams across Central Illinois, including Phone Spoofing Scams where con artists impersonate federal staff and law enforcement demanding immediate payment.",
+      "snippet_links": [
+        {
+          "text": "Phone Spoofing Scams",
+          "link": "https://www.justice.gov/usao-cdil/pr/us-attorneys-office-central-district-illinois-warns-public-about-phone-spoofing-scam"
+        }
+      ],
       "snippet_highlighted_words": [
-        "fake government calls, utility slamming, and fraudulent municipal notices"
+        "Phone Spoofing Scams where con artists impersonate federal staff and law enforcement demanding immediate payment"
       ]
     },
     {
       "type": "heading",
-      "snippet": "Current Scams to Watch Out For"
+      "snippet": "Active Regional Scams"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Federal Imposter Phone Calls: Scammers spoof phone numbers and pretend to be staff or prosecutors from the U.S. Attorney's Office for the Central District of Illinois. They use threats and demands for immediate payment . The office never asks for money or financial data over the phone."
+          "snippet": "Phone & Government Imposter Spoofing: Scammers spoof the phone numbers of local federal offices, court staff, or the DMV, threatening immediate arrest, fines, or license suspension unless you pay over the phone."
         },
         {
-          "snippet": "City Official Impersonation: In cities like Pekin, con artists are sending fake invoices and fraudulent notices using copied official city letterhead. They often target people who recently appeared before local zoning boards."
+          "snippet": "Fake DMV & Toll Text Messages: Fraudulent texts claiming to be from the Illinois Secretary of State or Department of Transportation state that you have unpaid traffic fines or suspended driving privileges, urging you to click a malicious link."
         },
         {
-          "snippet": "Utility Slamming: Local schools and businesses are receiving deceptive phone calls from fake entities like \"Energy Choice\" or \"Amarin Choice\" demanding to discuss utility rates."
+          "snippet": "Utility & Energy Slamming: Callers pose as energy choice providers or utility workers targeting local residents and businesses with false claims about rate changes to trick them into switching providers."
         },
         {
-          "snippet": "State Agency Text Scams: Scammers send fraudulent text messages pretending to be from the Illinois Secretary of State, DMV, or Illinois Department of Transportation . These messages claim you have unpaid traffic fines or pending license suspensions to trick you into clicking a payment link.",
-          "snippet_links": [
-            {
-              "text": "Illinois Department of Transportation",
-              "link": "https://idot.illinois.gov/about-idot/contact-us/report-a-problem/text-scam-alert.html"
-            }
-          ]
+          "snippet": "Storm & Home Repair Fraud: Following severe weather, itinerant contractors and fake public adjusters canvas neighborhoods offering \"free\" inspections while demanding upfront cash for shoddy or non-existent repairs."
         }
       ]
     },
@@ -44,34 +44,19 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Hang up and verify: Never give credit card numbers or personal details over unsolicited calls. Call official numbers directly."
+          "snippet": "Never pay over the phone: Government agencies, courts, and law enforcement never demand immediate gift card, wire, or credit card payments over the phone."
         },
         {
-          "snippet": "Do not click links: State agencies and utilities do not text payment demands or threats of immediate suspension."
+          "snippet": "Do not click links: Avoid clicking links in unsolicited text messages regarding tolls, traffic tickets, or held delivery packages."
         },
         {
-          "snippet": "Report suspicious activity: Contact the Better Business Bureau of Central Illinois, or report state text scams directly to the Illinois Secretary of State or via Illinois IDOT."
+          "snippet": "Hang up and verify: If a caller claims to be an official, hang up and dial the organization's publicly listed official number directly."
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you would like, let me know:"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "What type of contact you received (a phone call, text, or letter)"
-        },
-        {
-          "snippet": "What the sender claimed or demanded"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "snippet": "I can help you check if it matches a known regional scam pattern."
+      "snippet": "To help you further, would you like information on how to report a specific scam you encountered, guidance on recovering compromised financial accounts, or details on local identity theft protection?"
     }
   ],
   "references": [
@@ -94,21 +79,13 @@
       "index": 1
     },
     {
-      "title": "Pekin police warn of scammers attempting to impersonate city officials",
-      "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/",
-      "snippet": "PEKIN, Ill. (WMBD) \u2014 The Pekin Police Department is warning residents that scammers are attempting to impersonate city departments. The scammers are allegedly pret...",
-      "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ_VpfqKmDbYPqgI9fUlHryHv-aoy_pmK6A8X1wI8YEdIoehA2jPGt3eR2h_7-0PKdoAH46DoRlXAEpXyJvLR4WES3HonrmKftdmrz",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 2
-    },
-    {
-      "title": "3 Scams You Need To Know#centralillinois - #fyp - #dontfallforit",
-      "link": "https://www.facebook.com/HOIBBB/videos/3-scams-you-need-to-knowcentralillinois-fyp-dontfallforit-scam/1594849335670005/",
-      "snippet": "Alright, three scams you need to know before the weekend. Number one, sweepstakes scams. We just did another video on that. Long story short, if somebody says that...",
+      "title": "Illinois state officials issued a warning on text message ...",
+      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
+      "snippet": "this is one of those scams designed to make you panic and act quickly state officials are saying texts are showing up on people's phones posing to be someone from ",
       "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3kjRCLUV8vNYr_1scVS8uxg4BdvVivCK84yaBzDz2OC-_Hl8t5hK_iMmJAMZ950-uje7Ly3bt_KQQzahwiAPiMJrI_mTjizXBZN27VQ",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 3
+      "index": 2
     },
     {
       "title": "Text Scam Alert - Illinois Department of Transportation",
@@ -116,33 +93,39 @@
       "snippet": "SCAM ALERT: A current text message smishing scam claims recipients owe money associated with traffic tickets, tolls and other fines. These are not legitimate messa...",
       "source": "IDOT (.gov)",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://idot.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 3
+    },
+    {
+      "title": "3 Scams You Need To Know#centralillinois - #fyp - #dontfallforit",
+      "link": "https://www.facebook.com/HOIBBB/videos/3-scams-you-need-to-knowcentralillinois-fyp-dontfallforit-scam/1594849335670005/",
+      "snippet": "Alright, three scams you need to know before the weekend. Number one, sweepstakes scams. We just did another video on that. Long story short, if somebody says that...",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "Illinois state officials issued a warning on text message ...",
-      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
-      "snippet": "this is one of those scams designed to make you panic and act quickly state officials are saying texts are showing up on people's phones posing to be someone from ",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3kjRCLUV8vNYr_1scVS8uxg4BdvVivCK84yaBzDz2OC-_Hl8t5hK_iMmJAMZ950-uje7Ly3bt_KQQzahwiAPiMJrI_mTjizXBZN27VQ",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alertattorney-general-raoul-warns-residents-to-be-on-alert-for-storm-related-repair-scams",
+      "snippet": "Raoul also warned residents that scam artists may be operating as public adjusters who offer so-called \u201cfree\u201d inspections to help property owners submit claims to ...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 5
     },
     {
-      "title": "3 Scams You Need To Know#centralillinois #fyp #dontfallforit ...",
-      "link": "https://www.facebook.com/HOIBBB/posts/3-scams-you-need-to-knowcentralillinois-fyp-dontfallforit-scam/1550368093800306/",
-      "snippet": "-Scam Alert- There have been numerous reports of scams in the area. They include: -Prize offers -Travel packages -Vitamins and other health products -Investments -",
-      "source": "Facebook",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTp_VoklKR7lcN8n9iVz07HI9KzQaz6A4ihBmtDE204vAsLmLszTFtJQIrIcJ2E_wknNOryPuEjLi4EtkvZwYZUbMgmn03oq6Jf5ohkw",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Beware of these scam texts targeting Central IL package customers ...",
+      "link": "https://www.wcia.com/news/local-news/beware-of-these-scam-texts-targeting-central-il-package-customers-ahead-of-the-holidays/",
+      "snippet": "Beware of these scam texts targeting Central IL package customers ahead of the holidays. ... CENTRAL ILLINOIS (WCIA) \u2014 The holidays are here and as people begin pl...",
+      "source": "WCIA.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP4HacxQWHtHSMLozj7fYOcbev2aHb2BXE9RCjqKdYst9zQYdh5ZDB7E8dr7H1iVQ4RGDqSFe3vwrzbStYq3XilKRzxYWT0p2PdCN7",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 6
     },
     {
-      "title": "Better Business Bureau of Central IL hosts scam seminar",
-      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
-      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get them to build that trust. and they",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA2Mfxtppt6nkd1AfInaX0wMKYMUZz9EFj4oxaVq_Mh2WkLVTSSSJJK7raf7F9oQT5BOfX9Dhb6uT9DJWpY4B70kj",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "US Attorney's Office for the Central District of Illinois Warns Public ...",
+      "link": "https://www.publicnow.com/view/6BE5D3C4FD12436F1D1D0C4BD436E511750E2B69",
+      "snippet": "U.S. Attorney's Office for the Central District of Illinois Warns Public About Phone Spoofing Scam * Document the name and details the caller provides. * Hang up i...",
+      "source": "Public Technologies (PUBT)",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.publicnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 7
     }
   ]
