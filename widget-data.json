@@ -6,11 +6,27 @@
   "reports": [
     {
       "date": "2026-09-17",
+      "type": "Other",
+      "city": "Colona, IL",
+      "amt": 60,
+      "biz": "Sofyre",
+      "desc": "We are confident in our natural formulas, which is why every purchase is backed by our 30-Day Money-Back Guarantee. If you are not completely satisfied with your results, simply contact our support team within 30 days for a full refund.\nHas this on the website but they will not honor it. I contacted them 3 times n was blown off"
+    },
+    {
+      "date": "2026-09-17",
       "type": "Healthcare/Medicaid/Medicare",
       "city": "Barrington, IL",
       "amt": 0,
       "biz": "Memphis DME Supply LLC",
       "desc": "The scammer billed the amount of $13,725 to Medicare using my Medicare number. My Medicare Summary Notice indicated that none of the fraudulent claims were approved and therefore nothing paid out by Medicare. Claims were for 1500 intermittent urinary catheters ordered by a Daniel J Kruse (scammer)."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Other",
+      "city": "Moline, IL",
+      "amt": 0,
+      "biz": "The Company Store",
+      "desc": "I recieved an error message when attempting to enter my credit card information.\nI have had conversations with customer service over the past few days attempting to resolve this issue.\nThe representatives always want to take the order over the phone. This method of ordering is extremely time consuming and costly. It seems like a scam.\nThe representative wants me to believe that if I enter my credit card number on my phone keypad, that the information is somehow protected.\nHaving worked in Information Systems I understand CRC (cyclical redundancy checking) and a whole lot more. Your assurances that everything is kosher falls on deaf ears.\nThe whole thing seems like a scam to me."
     },
     {
       "date": "2026-09-17",
@@ -70,19 +86,19 @@
     },
     {
       "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 65.8,
-      "biz": "EasyLifexo",
-      "desc": "I placed an order with the company by credit card and received notification to track the delivery.  I was advised that delivery was made on 9/7/26.  I was home all day as that was Labor Day and no package arrived.  I have received no response from the company."
+      "type": "Debt Collections",
+      "city": "Chicago Ridge, IL",
+      "amt": 0,
+      "biz": "Kirkland Meyers",
+      "desc": "Calling pretending I owe debt and other family members too, leaves an automatic robotic message"
     },
     {
       "date": "2026-09-16",
-      "type": "Retail Business",
-      "city": "Belvidere, IL",
+      "type": "Phishing",
+      "city": "Highland, IL",
       "amt": 0,
-      "biz": "Eddie Bauer",
-      "desc": "Pretended to be an Eddie Bauer website, claiming a big sale. When in checkout, during the payment section, it asked for card info. It claimed the first card entered didn&rsquo;t work, then on the second card entered the victim realized the website URL was incorrect.  The website clearly was made to steal credit card information."
+      "biz": "rosenberg and associates",
+      "desc": "receiving mutliple calls a dayf rom multiple numbers 636-402-6143 407-479-85797   302-216-7568  270-368-4346  406-313-4581  505-444-2036  872-762-0176 has been gong on for months.  no idea who these people are.  all hours of the day and night.  i block number and they clone antoher number to call from."
     },
     {
       "date": "2026-09-16",
@@ -94,7 +110,7 @@
     },
     {
       "date": "2026-09-16",
-      "type": "Retail Business",
+      "type": "Online Purchase",
       "city": "Justice, IL",
       "amt": 0,
       "biz": "APOLLO AUTO AUCTION",
@@ -107,22 +123,6 @@
       "amt": 59,
       "biz": "Bellroses",
       "desc": "I ordered 2 pair of shoes on 8-16-26 from BelRoses.Com. the shoes have not arrived. The order no. Is 1595"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Hamilton, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "The return address on the envelope was ARB INTERACTIVE, PO BOX 2900 NEW YORK, NY 10002. The postmark on the envelope was Santa ana, CA. The return address on the check inside the envelope was Axxis Title Agency LTD, 4605 Morse Rd, Suite 102A, Gahanna, OH 43230, it was drawn on ENCORE BANK, LITTLE ROCK, AR, check # ******, in the amount of $9700.25"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Identity Theft",
-      "city": "Country Club Hills, IL",
-      "amt": 0.68,
-      "biz": "BBLYZ",
-      "desc": "I looked at my bank account and notice a charge it was posted Sept 8 for $34,90, the company is called BBLYZ, and again posted  Sept 10 for the same amount.  And once again on 14 Sept for the same amount it was pending,  I called my bank and request a new debit card. The last two it stated on my transactions, the city London, and a number 447-454-74460, possible a phone #.  I have no idea who these people are!   But I do know that my personal info was stolen.  I put down my  email, and phone so i can continue.  The last transaction I was credit. will you please look into the matter.  And perhaps inform of the results.\nThank You\nMr. steve perez"
     }
   ]
 }
