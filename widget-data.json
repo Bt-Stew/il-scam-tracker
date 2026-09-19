@@ -110,19 +110,19 @@
     },
     {
       "date": "2026-09-16",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Rockton, IL",
+      "amt": 0,
+      "biz": "Corporate Filings",
+      "desc": "The form received was CF1003 requesting a corporate filing fee of $136.22."
+    },
+    {
+      "date": "2026-09-16",
       "type": "Online Purchase",
       "city": "Simpson, IL",
       "amt": 50,
       "biz": "support@mail.mizuthread.com",
       "desc": "Fake plastic teeth that were supposed to be silicone dentures no way to get a refund. Can't find anything but email. No response from it"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Xenia, IL",
-      "amt": 38,
-      "biz": "Micro Mist",
-      "desc": "I ordered a Micro Mist portable Nebulizer and I used it twice and it quit. I contacted the company, they told me to send a video of it not working and I did. I haven't heard back since I sent the video. I'm mad and want my money back."
     }
   ]
 }

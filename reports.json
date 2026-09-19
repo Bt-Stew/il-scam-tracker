@@ -106,6 +106,14 @@
     },
     {
       "date": "2026-09-16",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Rockton, IL",
+      "amt": 0,
+      "biz": "Corporate Filings",
+      "desc": "The form received was CF1003 requesting a corporate filing fee of $136.22."
+    },
+    {
+      "date": "2026-09-16",
       "type": "Online Purchase",
       "city": "Simpson, IL",
       "amt": 50,
@@ -153,12 +161,12 @@
       "desc": "This person called speaking speak telling me that there were some suspicious Zelle transactions in my account. Then he attempted to read the names like if I knew them. Then he told me that the transaction came from a iPhone 8 and then tried to confirm my information. I didn't give him any information then I told him that I would go in person to bank and he quickly thanked me and hung up"
     },
     {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Justice, IL",
+      "date": "2026-09-15",
+      "type": "Phishing",
+      "city": "Washington, IL",
       "amt": 0,
-      "biz": "APOLLO AUTO AUCTION",
-      "desc": "apollo auto auction is showing VIN # 3AKJHLDR7LSMD2331 as 2020 Freightliner Cascadia 126 sleeper\nbut that vin number belongs to 2020 Freightliner Cascadia 126 day cab at pampered coach truck center"
+      "biz": "—",
+      "desc": "Letter states our records indicate that you have not contacted us to have your vehicle service  contract activated. We are informing you that if your factory warranty has expired, you will be responsible for paying any repairs however with expired you can still activate a service contract on your vehicle before it&rsquo;s too late please call 188-488-3280 today then it reads a summary of terms with different dates and monetary information TBD it gives important vehicle information like what kind of engine it is 4 x 4 GPS, etc.."
     },
     {
       "date": "2026-09-15",
@@ -233,12 +241,12 @@
       "desc": "It was a woman pretending to be from a law firm. On the voicemail, she directs me to immediately call the number, in order to avoid legal actions against me. She uses my old last name, which was changed back in 2017."
     },
     {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Quincy, IL",
+      "date": "2026-09-14",
+      "type": "Online Purchase",
+      "city": "Villa Park, IL",
       "amt": 0,
-      "biz": "BROWN STONE",
-      "desc": "the person reached out about taking a book i wrote and wanting to know if i was interested in turning it into a film.   i sent a questioning email back and didnt hear back"
+      "biz": "Kunes Country C of Woodstock, Inc. Show more lines",
+      "desc": "$24"
     },
     {
       "date": "2026-09-14",
@@ -314,11 +322,11 @@
     },
     {
       "date": "2026-09-14",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Washington, IL",
+      "type": "Online Purchase",
+      "city": "Centralia, IL",
       "amt": 0,
-      "biz": "Pool party capybara merge",
-      "desc": "I've been in the game for probably about 2 hours and once I made it to what it said I can make it to to cash out it then gave me 10 more things to do and never gave me my money and has me in a constant ad loop"
+      "biz": "Seamnest",
+      "desc": "I ordered a table topper and I received a placemat instead that looked nothing like what I ordered"
     },
     {
       "date": "2026-09-14",
@@ -393,12 +401,12 @@
       "desc": "Purchased shoes online as they were advertised as orthotic shoes. They were not and in fact were of very poor quality.  It looked like a US based store.  When I received the shoes I reached out via email and they said it was my fault that I chose the wrong size. I mentioned the orthotic aspect and they kept ignoring that. After back and forth via email, they stated they would replace the shoes for a different size. This was on June 15th. I never received a different size."
     },
     {
-      "date": "2026-09-13",
-      "type": "Online Purchase",
-      "city": "Dixon, IL",
-      "amt": 292,
-      "biz": "Cargotrailer.us",
-      "desc": "Looking for a new weber gas grill. Found a 325 series for $292.00 Had to use Afterpay to pay in 4 payments. I couldn't pay in full. I have received no help from afterpay."
+      "date": "2026-09-12",
+      "type": "Credit Cards",
+      "city": "Cicero, IL",
+      "amt": 0,
+      "biz": "No name",
+      "desc": "Person said they were from JPMC and asked if I was Jorge Rodriguez.  When I said yes they disconnected.  This was in Spanish"
     },
     {
       "date": "2026-09-12",
@@ -474,11 +482,11 @@
     },
     {
       "date": "2026-09-11",
-      "type": "Employment",
-      "city": "Chicago, IL",
+      "type": "Other",
+      "city": "Oswego, IL",
       "amt": 0,
-      "biz": "NaviForge Freight",
-      "desc": "They ask for my email address my phone number and front and back pictures of my drivers license and a picture of me holding my drivers license."
+      "biz": "SavvyHome",
+      "desc": "$24"
     },
     {
       "date": "2026-09-11",
@@ -555,10 +563,10 @@
     {
       "date": "2026-09-10",
       "type": "Online Purchase",
-      "city": "Marshall, IL",
-      "amt": 123.47,
-      "biz": "Handmade Metal Birdhouse Garden Stakes by Jordan Maynard",
-      "desc": "There was a web site on ******** about a disabled veteran who was trying to earn money by making the metal birdhouses with garden stakes.  The birdhouses looked nice in the picture so i thought i could help him out by buying 5 for Christmas presents..  This was in July of 2026.  Used a credit card to pay $123.47.   Received an email thanking me for my order with an order number.   Looked good .   But as of this date 9-10-26 no birdhouses have been received.  Today I started checking to see what happened to my   order.   Found out this is a scam.  The name he used was Jordan Maynard.  If was hurt is the war I am sorry for that.  But this is not the way a Christian man/veratrin should be acting."
+      "city": "Carbondale, IL",
+      "amt": 35,
+      "biz": "Zovelyshop.com",
+      "desc": "Ordered fairy garden decoration. Item was not three dimensional, smaller than advertised and pieces did not fit together. Very poor quality."
     },
     {
       "date": "2026-09-10",
@@ -634,11 +642,11 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Employment",
-      "city": "Dixon, IL",
+      "type": "Debt Collections",
+      "city": "Rockford, IL",
       "amt": 0,
-      "biz": "Medico",
-      "desc": "Applied for job on Indeed and was advised to click link in my email to continue application process. When checking my email it advised I needed to pay for my own credit report and to send them via text the screenshot."
+      "biz": "Goldberg, Polentski and Associates",
+      "desc": "Tried to collect on debt from 2015 and then forwarded my acct to \"head of legal\" after stating I didn't recall the debt and asking for a debt validation letter"
     },
     {
       "date": "2026-09-09",
@@ -714,11 +722,11 @@
     },
     {
       "date": "2026-09-09",
-      "type": "Debt Collections",
-      "city": "Davis Junction, IL",
-      "amt": 0,
-      "biz": "Andrew Prescott",
-      "desc": "email saying owe online loan and pay immediately in 4 hours or will go after search and seizure"
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Chicago, IL",
+      "amt": 47,
+      "biz": "Easegov.com",
+      "desc": "I first thought I was on the govt site and filled out all the info. It said it would cost $94.97. They made it sound like the cost for the application was included. The first email then said, after payment was made, that the $94.97 was charged for their services and does not cover the cost of the pre check application. This info is only told after the payment is made. After two weeks I went to an enrollment location and they had no information on me whatsoever. When I called them about it, an Antonio told me they would give me a full refund. They instead gave me half of what I paid. They gave me an excuse that I was supposed to go to an \"Idena\" enrollment center, which I had never heard of. I had checked off that I would go do a walk in at an airport enrollment center. Looks like when someone calls to complain saying that TSA does not have the info that the customer gave to Easegov, Easegov will only return half the amount and keep the other half pretending that they actually did something."
     },
     {
       "date": "2026-09-09",
@@ -791,15 +799,7 @@
       "amt": 55,
       "biz": "sereve deals",
       "desc": "serevedeals.com\nMade 2 unauthorized debit charges. Caught immediately. Bank fraud dealing with it now."
-    },
-    {
-      "date": "2026-09-08",
-      "type": "Online Purchase",
-      "city": "Dwight, IL",
-      "amt": 44,
-      "biz": "Dryft Society",
-      "desc": "I read online reviews.  Seemed legit.  Purchased backpack online.   Received confirmation and shipping number.    Never updated after that.   After 3.5 week emailed them.  Said it was on its way.    Now. website is no longer working and the link for my order is no longer working"
     }
   ],
-  "total_on_file": 24367
+  "total_on_file": 24368
 }
