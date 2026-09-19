@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-17",
+  "generated_at": "2026-09-18",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-18",
+      "type": "Employment",
+      "city": "Newton, IL",
+      "amt": 4300,
+      "biz": "Freight Tank Inc",
+      "desc": "Found the job posting on Indeed. It seemed legitimate at first and had contact with the company in phone calls and emails and through there online portal. Inspecting packages and re-shipping them. Until the police showed up and confiscated a package saying it was bought with a stolen credit card. I contacted the company immediately to inform them and surrendered the package to the police department. After that i tried to reach back out to the company regarding the other packages i had to ship out and how to proceed but cannot get in contact with them or log into my portal through them. They had me do an interview and fill out tax documents as well."
+    },
+    {
+      "date": "2026-09-18",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 83.19,
+      "biz": "Metabolae GCUS return G17680",
+      "desc": "I filled out return of goods form and send within 90 days.  I sent packages back on 9/3/2026 by USPS with signature required. And tracker stated packages were received on 9/8/2026. I contacted Harold Customer Support by email with tracking number. 9/10/2026 Harold said he received tracking number and was going to search f I r thw packages. No response as of 9/18/2026.No updates and no refund for Package #******"
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Other",
+      "city": "Rantoul, IL",
+      "amt": 375,
+      "biz": "Zenfy",
+      "desc": "I signed up for a low cost trial for $10 and then paid for additional services for $29 to help with my resume. However, I canceled the subscription service and never thought anything of it. I recently noticed a $75 charge on my account on Sept. 15, 2026 and contacted them because this should have been canceled months ago.\nI reviewed my account and they had been charging me $75/month since March.\nI requested a refund for $300 of the $375 but they kept saying they would only provide a 50% refund for the Sept charge which is ridiculous. I even offered $300 in case I canceled after the trial period, but I definitely canceled months ago because the service was no good!\nAs another person stated, it is just an automated AI response which is attached, regardless of my request for a proper refund. Nothing but a scam."
+    },
     {
       "date": "2026-09-17",
       "type": "Other",
@@ -30,6 +54,30 @@
     },
     {
       "date": "2026-09-17",
+      "type": "Debt Collections",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Trustmark Solutions Group",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Phishing",
+      "city": "Bloomington, IL",
+      "amt": 0,
+      "biz": "Prosper Funding Group",
+      "desc": "Multiple calls from multiple phone numbers that have my name on file (which is PPI). I've asked multiple times to be removed from their calling list. They seem to be a new extension of United Covenant Financial, another scam group that calls people with phony loan offers. Every time I ask a representative to remove me from the list, they get dismissive, talk over me, and eventually hang up on me. I've blocked every number they've called me from and I don't know what to do anymore."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Online Purchase",
+      "city": "Quincy, IL",
+      "amt": 1.7,
+      "biz": "Terrastrike, dba quite protection",
+      "desc": "I bought a safety tool to break car windows or cut a seatbelt in an emergency. I ordered them for myself and my family for peace of mind. The product is bogus and I fear someone could die for believing the claims made. Thank you! The photos show the advertisement and the actual product, which claims to have a tungsten tip to break glass, it does not! Also is a list of materials used, tungsten is not on it! Thank you."
+    },
+    {
+      "date": "2026-09-17",
       "type": "Phishing",
       "city": "East Alton, IL",
       "amt": 0,
@@ -37,92 +85,44 @@
       "desc": "Joy hardester  social security  bank information"
     },
     {
-      "date": "2026-09-17",
-      "type": "Counterfeit Product",
-      "city": "Morton, IL",
-      "amt": 45,
-      "biz": "Sorelle",
-      "desc": "They claim to provide real pearls, but after having a jeweller check it, it turned out to be some kind of plastic. I would never pay that kind of money for plastic. The product description is misleading and fake."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Counterfeit Product",
-      "city": "Bloomington, IL",
-      "amt": 69,
-      "biz": "The Fleece Company",
-      "desc": "I ordered 2 Full size blankets. It was taking a long time with nothing heard from the company   I finally got 2 blankets that were so small, I thought they might be Crib Blankets.  I had two back and forth emails with some named marie who told me to lay the blankets on a bed, measure them and send her a picture. I said no. It was too OBVIOUS that these blankets were too SMALL for a Double/Full size bed. I sent her a copy of her own Fleece Company Ad with measurements of their supposed blankets, AND a statement of &ldquo;Easy Returns and/or Exchanges&rdquo; on the ad.  I was asking for an address and instructions on how to return. She would NOT supply that info. As a matter of fact, after sending her a copy of her ad, she stopped communicating with me."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 400,
-      "biz": "Imposter- Nothing bundt cakes",
-      "desc": "Nothing bundt cake sampler box offer for $9.99.  My bank account was soon hit with 4 debit card transactions for $99+."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Online Purchase",
-      "city": "Park Forest, IL",
-      "amt": 73,
-      "biz": "SoFyre",
-      "desc": "Sofyre sent email that order confirmation and shipment out for delivery. Over due 4 days called to check up told product was on the way. When  I asked what the delay was she put me on hold and disconnected.\nI called back immediately sounded like the same woman answering, asked same questions and she said Product hasn't shipped yet. When I asked to speak to a manager she hung up."
-    },
-    {
       "date": "2026-09-16",
       "type": "Online Purchase",
-      "city": "Chester, IL",
-      "amt": 200,
-      "biz": "Dope thca",
-      "desc": "I order some thca from here and it didn't ever come said delivered but it's not and also paid for express shipping and didn't even get it in two days like they said"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Hoffman Estates, IL",
-      "amt": 36.97,
-      "biz": "Cur8trend",
-      "desc": "I ordered a fireworks squirt gun for my granddaughter. Ordered it in June and never received anything! Contacted the seller multiple times through email and they kept telling me it was in transit. Then when I asked for proof, they said that I received it. Ref refused to give me any money back."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Debt Collections",
-      "city": "Chicago Ridge, IL",
-      "amt": 0,
-      "biz": "Kirkland Meyers",
-      "desc": "Calling pretending I owe debt and other family members too, leaves an automatic robotic message"
+      "city": "Chicago, IL",
+      "amt": 42,
+      "biz": "Solbrace",
+      "desc": "Solbrace advertises returns but I&rsquo;ve emailed them 4 times to initiate a return and never received a response.  Their website says they&rsquo;ll respond to return requests in 2 business days.  My first email was sent 3 weeks ago and still no response."
     },
     {
       "date": "2026-09-16",
       "type": "Phishing",
-      "city": "Highland, IL",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "rosenberg and associates",
-      "desc": "receiving mutliple calls a dayf rom multiple numbers 636-402-6143 407-479-85797   302-216-7568  270-368-4346  406-313-4581  505-444-2036  872-762-0176 has been gong on for months.  no idea who these people are.  all hours of the day and night.  i block number and they clone antoher number to call from."
+      "biz": "Processing Department",
+      "desc": "Voicemail said \"This is (garbled) with processing department. Our office has received preliminary paperwork and this phone number was listed as a possible contact number for the individual we're attempting to obtain updated location information for. Please return our call at your earliest convenience so we can stop any further skip tracing efforts and work toward an amicable resolution over the next few days. We appreciate your cooperation and look forward to speaking with you."
     },
     {
       "date": "2026-09-16",
-      "type": "Credit Cards",
-      "city": "Melrose Park, IL",
+      "type": "Phishing",
+      "city": "Nauvoo, IL",
       "amt": 0,
-      "biz": "Chase",
-      "desc": "This person called speaking speak telling me that there were some suspicious Zelle transactions in my account. Then he attempted to read the names like if I knew them. Then he told me that the transaction came from a iPhone 8 and then tried to confirm my information. I didn't give him any information then I told him that I would go in person to bank and he quickly thanked me and hung up"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Justice, IL",
-      "amt": 0,
-      "biz": "APOLLO AUTO AUCTION",
-      "desc": "apollo auto auction is showing VIN # 3AKJHLDR7LSMD2331 as 2020 Freightliner Cascadia 126 sleeper\nbut that vin number belongs to 2020 Freightliner Cascadia 126 day cab at pampered coach truck center"
+      "biz": "Vividseats.com",
+      "desc": "This company is advertising tickets for The Legacy Theater in Carthage, Illinois at a 50% increased price than what we sell them for.  They are offering parking packages, which we do not offer.  They are doing this without our authorization to do so.  We want to have them cease and desist offering tickets to our theater."
     },
     {
       "date": "2026-09-16",
       "type": "Online Purchase",
-      "city": "Orland Park, IL",
-      "amt": 59,
-      "biz": "Bellroses",
-      "desc": "I ordered 2 pair of shoes on 8-16-26 from BelRoses.Com. the shoes have not arrived. The order no. Is 1595"
+      "city": "Simpson, IL",
+      "amt": 50,
+      "biz": "support@mail.mizuthread.com",
+      "desc": "Fake plastic teeth that were supposed to be silicone dentures no way to get a refund. Can't find anything but email. No response from it"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Online Purchase",
+      "city": "Xenia, IL",
+      "amt": 38,
+      "biz": "Micro Mist",
+      "desc": "I ordered a Micro Mist portable Nebulizer and I used it twice and it quit. I contacted the company, they told me to send a video of it not working and I did. I haven't heard back since I sent the video. I'm mad and want my money back."
     }
   ]
 }
