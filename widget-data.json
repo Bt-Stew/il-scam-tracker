@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-18",
+  "generated_at": "2026-09-20",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-20",
+      "type": "Employment",
+      "city": "Herrin, IL",
+      "amt": 98,
+      "biz": "Handmade",
+      "desc": "Offered a home job assembling product but ended up doing tasks till my shipment arrived. At first it seemed legit. But then tgey would add on another task to do and if you didnt complete it you lost your money. Never was told ahead of time about a second task. Just out of the blue popped that on you to press you for more money involved. Never got my money back. Never got my bonuses ether."
+    },
+    {
+      "date": "2026-09-20",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 82,
+      "biz": "Peste",
+      "desc": "PayPal is covering for this furdulent company."
+    },
+    {
+      "date": "2026-09-19",
+      "type": "Other",
+      "city": "Belleville, IL",
+      "amt": 120,
+      "biz": "—",
+      "desc": "I added money to this website and then made a Redemption on 9/12/26 for $100. It States on their website that they usually pay out within 48 hours but up to 72 hours. That was a week ago and I still have never received any payment. I have contacted customer service several different times with zero to little communication or response and no resolution"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "Counterfeit Product",
+      "city": "Virden, IL",
+      "amt": 58,
+      "biz": "Depop Limited",
+      "desc": "Depop sells items through vendors. The vendor for this sale took my money then sent a different item. Imagine ordering and paying $60 for a pizza and someone delivers a jar of peanuts. Depop has no customer support or direct contact information which is indicative of it being a scam."
+    },
+    {
+      "date": "2026-09-18",
+      "type": "Phishing",
+      "city": "East Saint Louis, IL",
+      "amt": 0,
+      "biz": "Walmart",
+      "desc": "I was on Facebook but I went to Walmart app from there. The possible scam was answer 4 questions correctly to win an Ecoflow electrical generator &amp; pay $9 s/h. I thought it suspicious but I have Walmarts app, so I gave it a try. Entered my card info but the bank thought it was suspicious, denied the transaction &amp; suggested I cancel the card of which I did &amp; to report it to Walmart of which I did."
+    },
+    {
+      "date": "2026-09-18",
+      "type": "Phishing",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Publishing Clearing House",
+      "desc": "Said I won from Publishing Clearing House"
+    },
     {
       "date": "2026-09-18",
       "type": "Employment",
@@ -37,92 +85,44 @@
       "desc": "We are confident in our natural formulas, which is why every purchase is backed by our 30-Day Money-Back Guarantee. If you are not completely satisfied with your results, simply contact our support team within 30 days for a full refund.\nHas this on the website but they will not honor it. I contacted them 3 times n was blown off"
     },
     {
-      "date": "2026-09-17",
-      "type": "Healthcare/Medicaid/Medicare",
+      "date": "2026-09-16",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Prosper Business Group",
+      "desc": "I have been getting spam calls from them. I am handling that with the FTC. This loan business is claiming they are listed on BBB, though they are not. Figured you should know: https://prosperfundinggroup.com/"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Online Purchase",
+      "city": "Calumet City, IL",
+      "amt": 126,
+      "biz": "Offdaysla@yahoo.com",
+      "desc": "Purchased a denim bag and was scammed never received it... person uses afterpay due to afterpay not pursuing scam sellers on their platform ..you are left arguing with your bank!"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "Advance Fee Loan",
       "city": "Barrington, IL",
       "amt": 0,
-      "biz": "Memphis DME Supply LLC",
-      "desc": "The scammer billed the amount of $13,725 to Medicare using my Medicare number. My Medicare Summary Notice indicated that none of the fraudulent claims were approved and therefore nothing paid out by Medicare. Claims were for 1500 intermittent urinary catheters ordered by a Daniel J Kruse (scammer)."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Other",
-      "city": "Moline, IL",
-      "amt": 0,
-      "biz": "The Company Store",
-      "desc": "I recieved an error message when attempting to enter my credit card information.\nI have had conversations with customer service over the past few days attempting to resolve this issue.\nThe representatives always want to take the order over the phone. This method of ordering is extremely time consuming and costly. It seems like a scam.\nThe representative wants me to believe that if I enter my credit card number on my phone keypad, that the information is somehow protected.\nHaving worked in Information Systems I understand CRC (cyclical redundancy checking) and a whole lot more. Your assurances that everything is kosher falls on deaf ears.\nThe whole thing seems like a scam to me."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Trustmark Solutions Group",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Phishing",
-      "city": "Bloomington, IL",
-      "amt": 0,
-      "biz": "Prosper Funding Group",
-      "desc": "Multiple calls from multiple phone numbers that have my name on file (which is PPI). I've asked multiple times to be removed from their calling list. They seem to be a new extension of United Covenant Financial, another scam group that calls people with phony loan offers. Every time I ask a representative to remove me from the list, they get dismissive, talk over me, and eventually hang up on me. I've blocked every number they've called me from and I don't know what to do anymore."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Online Purchase",
-      "city": "Quincy, IL",
-      "amt": 1.7,
-      "biz": "Terrastrike, dba quite protection",
-      "desc": "I bought a safety tool to break car windows or cut a seatbelt in an emergency. I ordered them for myself and my family for peace of mind. The product is bogus and I fear someone could die for believing the claims made. Thank you! The photos show the advertisement and the actual product, which claims to have a tungsten tip to break glass, it does not! Also is a list of materials used, tungsten is not on it! Thank you."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Phishing",
-      "city": "East Alton, IL",
-      "amt": 0,
-      "biz": "Home health solutions",
-      "desc": "Joy hardester  social security  bank information"
+      "biz": "Alvin Douglas",
+      "desc": "They call me from different numbers about ten times a day, with the same name, Alvin Douglas. They avoid my spam blocker and every time I manually block, or call and opt out, about 15 more calls come from different numbers regarding a pre-approved loan with low interest rates."
     },
     {
       "date": "2026-09-16",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 42,
-      "biz": "Solbrace",
-      "desc": "Solbrace advertises returns but I&rsquo;ve emailed them 4 times to initiate a return and never received a response.  Their website says they&rsquo;ll respond to return requests in 2 business days.  My first email was sent 3 weeks ago and still no response."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Processing Department",
-      "desc": "Voicemail said \"This is (garbled) with processing department. Our office has received preliminary paperwork and this phone number was listed as a possible contact number for the individual we're attempting to obtain updated location information for. Please return our call at your earliest convenience so we can stop any further skip tracing efforts and work toward an amicable resolution over the next few days. We appreciate your cooperation and look forward to speaking with you."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Nauvoo, IL",
-      "amt": 0,
-      "biz": "Vividseats.com",
-      "desc": "This company is advertising tickets for The Legacy Theater in Carthage, Illinois at a 50% increased price than what we sell them for.  They are offering parking packages, which we do not offer.  They are doing this without our authorization to do so.  We want to have them cease and desist offering tickets to our theater."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Rockton, IL",
-      "amt": 0,
-      "biz": "Corporate Filings",
-      "desc": "The form received was CF1003 requesting a corporate filing fee of $136.22."
+      "amt": 37.98,
+      "biz": "Tidewises Empowerhubup",
+      "desc": "On June 5, 2026 I purchased a set of Round Neck built in Bra Ribbed tank tops, an 8 piece pack from Tidewises.\nEmpowerhubup  store+96876790127@t.shopifyemail.com. Order number 1185 Tracking numberZ C0559551040.  I paid online via my PayPal account.   I was informed that the package was on its way.   A tracking package was provided, which overtime stated it was on its way.    Fast forward September 16, and I have yet to receive this order.  I made contacts along the way to check, and I was told that it is on the way, and should be delivered by August 16th.  I never received this.  I sent an email letting them know that I will be reporting this to BBB.  I requested a refund several times, and kept getting \"it is on its way, please be patient\".  three months is too long for one delivery.  Thank you."
     },
     {
       "date": "2026-09-16",
       "type": "Online Purchase",
-      "city": "Simpson, IL",
-      "amt": 50,
-      "biz": "support@mail.mizuthread.com",
-      "desc": "Fake plastic teeth that were supposed to be silicone dentures no way to get a refund. Can't find anything but email. No response from it"
+      "city": "Monee, IL",
+      "amt": 1049,
+      "biz": "wood trail equipment",
+      "desc": "I attempted to contact them after the purchase since I expected a receipt, no call no response to email, could not locate business address nor warehouses indicated, reported to Credit card and filed a fraud report. next day web site was removed by lovable.dev/abuse.  I did a further search on the telephone # and a similar scam by a company selling high end lawn service equipment, called same # no answer"
     }
   ]
 }
