@@ -22,6 +22,14 @@
     },
     {
       "date": "2026-09-19",
+      "type": "Phishing",
+      "city": "Waynesville, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "They call relentlessly at least 5 times a day from different number every time same prerecorded message saying I am pre approved for a loan that I applied for which I have not recording states it is Blake Armstrong and to call another number or press 2 as soon as you ask them to remove from there call list they hang up it&rsquo;s getting so bad I Amy have to change my phone number as again they call at least 5 times a day while I am working and when I am not"
+    },
+    {
+      "date": "2026-09-19",
       "type": "Other",
       "city": "Belleville, IL",
       "amt": 120,
@@ -35,6 +43,14 @@
       "amt": 58,
       "biz": "Depop Limited",
       "desc": "Depop sells items through vendors. The vendor for this sale took my money then sent a different item. Imagine ordering and paying $60 for a pizza and someone delivers a jar of peanuts. Depop has no customer support or direct contact information which is indicative of it being a scam."
+    },
+    {
+      "date": "2026-09-19",
+      "type": "Phishing",
+      "city": "Bartlett, IL",
+      "amt": 0,
+      "biz": "JERRY YASFBARA",
+      "desc": "Just  received a drop ship package on porch.\nI have no order with this\nScammer."
     },
     {
       "date": "2026-09-18",
@@ -69,20 +85,20 @@
       "desc": "I filled out return of goods form and send within 90 days.  I sent packages back on 9/3/2026 by USPS with signature required. And tracker stated packages were received on 9/8/2026. I contacted Harold Customer Support by email with tracking number. 9/10/2026 Harold said he received tracking number and was going to search f I r thw packages. No response as of 9/18/2026.No updates and no refund for Package #******"
     },
     {
-      "date": "2026-09-17",
-      "type": "Other",
-      "city": "Rantoul, IL",
-      "amt": 375,
-      "biz": "Zenfy",
-      "desc": "I signed up for a low cost trial for $10 and then paid for additional services for $29 to help with my resume. However, I canceled the subscription service and never thought anything of it. I recently noticed a $75 charge on my account on Sept. 15, 2026 and contacted them because this should have been canceled months ago.\nI reviewed my account and they had been charging me $75/month since March.\nI requested a refund for $300 of the $375 but they kept saying they would only provide a 50% refund for the Sept charge which is ridiculous. I even offered $300 in case I canceled after the trial period, but I definitely canceled months ago because the service was no good!\nAs another person stated, it is just an automated AI response which is attached, regardless of my request for a proper refund. Nothing but a scam."
+      "date": "2026-09-16",
+      "type": "Retail Business",
+      "city": "Belvidere, IL",
+      "amt": 0,
+      "biz": "Eddie Bauer",
+      "desc": "Pretended to be an Eddie Bauer website, claiming a big sale. When in checkout, during the payment section, it asked for card info. It claimed the first card entered didn&rsquo;t work, then on the second card entered the victim realized the website URL was incorrect.  The website clearly was made to steal credit card information."
     },
     {
-      "date": "2026-09-17",
-      "type": "Other",
-      "city": "Colona, IL",
-      "amt": 60,
-      "biz": "Sofyre",
-      "desc": "We are confident in our natural formulas, which is why every purchase is backed by our 30-Day Money-Back Guarantee. If you are not completely satisfied with your results, simply contact our support team within 30 days for a full refund.\nHas this on the website but they will not honor it. I contacted them 3 times n was blown off"
+      "date": "2026-09-16",
+      "type": "Debt Collections",
+      "city": "Bloomingdale, IL",
+      "amt": 0,
+      "biz": "Processors office",
+      "desc": "From the processors office\nRegarding a lawsuit to call 866-679-8849 contacted my home and personal cell phone"
     },
     {
       "date": "2026-09-16",
@@ -107,22 +123,6 @@
       "amt": 0,
       "biz": "Alvin Douglas",
       "desc": "They call me from different numbers about ten times a day, with the same name, Alvin Douglas. They avoid my spam blocker and every time I manually block, or call and opt out, about 15 more calls come from different numbers regarding a pre-approved loan with low interest rates."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 37.98,
-      "biz": "Tidewises Empowerhubup",
-      "desc": "On June 5, 2026 I purchased a set of Round Neck built in Bra Ribbed tank tops, an 8 piece pack from Tidewises.\nEmpowerhubup  store+96876790127@t.shopifyemail.com. Order number 1185 Tracking numberZ C0559551040.  I paid online via my PayPal account.   I was informed that the package was on its way.   A tracking package was provided, which overtime stated it was on its way.    Fast forward September 16, and I have yet to receive this order.  I made contacts along the way to check, and I was told that it is on the way, and should be delivered by August 16th.  I never received this.  I sent an email letting them know that I will be reporting this to BBB.  I requested a refund several times, and kept getting \"it is on its way, please be patient\".  three months is too long for one delivery.  Thank you."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Monee, IL",
-      "amt": 1049,
-      "biz": "wood trail equipment",
-      "desc": "I attempted to contact them after the purchase since I expected a receipt, no call no response to email, could not locate business address nor warehouses indicated, reported to Credit card and filed a fraud report. next day web site was removed by lovable.dev/abuse.  I did a further search on the telephone # and a similar scam by a company selling high end lawn service equipment, called same # no answer"
     }
   ]
 }
