@@ -26,7 +26,7 @@
       "city": "Peoria, IL",
       "amt": 600,
       "biz": "https://www.tiktok.com/@tobywelcomehomes1",
-      "desc": "$24"
+      "desc": "$12"
     },
     {
       "date": "2026-09-22",
@@ -46,11 +46,19 @@
     },
     {
       "date": "2026-09-21",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 60,
+      "biz": "N/A",
+      "desc": "I am getting a deduction for the past two months in the amount of $19.99  I do not know what this charge is for.  I researched online and cannot validate the address or phone number"
+    },
+    {
+      "date": "2026-09-21",
       "type": "Retail Business",
       "city": "Chicago, IL",
       "amt": 0,
       "biz": "Company: Don’s Tractor House * Location: Little Rock, Iowa 51243",
-      "desc": "$25"
+      "desc": "$13"
     },
     {
       "date": "2026-09-21",
@@ -77,12 +85,12 @@
       "desc": "July 13, 2026, I needed a garage door replacement immediately. I was given a name by a friend. I cannot remember exactly how this person came about contacting me . This individual came to my home the evening of 7/13/26. I assumed he was legitimate. First mistake!!!!  I showed him my garage door and be proceeded to take measurements from inside and out of the garage. We gave me a total cost of $1800.00. He said he would take half to get the materials ordered. I gave him my credit information of 7/13 and never heard from him since that time. I asked to give me his phone number so I could get an idea of when the job would take place. He said he would give me that information LATER. That is when a bell went off in my head. I KNEW THEN I HAD BEEN SCAMED FOR $945!!!!"
     },
     {
-      "date": "2026-09-21",
-      "type": "Phishing",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "Harassment- two to four calls per day from different numbers claiming to offer a loan. They become verbally aggressive when asked questions. I have requested over a dozen times to be removed from their call list."
+      "date": "2026-09-17",
+      "type": "Other",
+      "city": "Rantoul, IL",
+      "amt": 375,
+      "biz": "Zenfy",
+      "desc": "I signed up for a low cost trial for $10 and then paid for additional services for $29 to help with my resume. However, I canceled the subscription service and never thought anything of it. I recently noticed a $75 charge on my account on Sept. 15, 2026 and contacted them because this should have been canceled months ago.\nI reviewed my account and they had been charging me $75/month since March.\nI requested a refund for $300 of the $375 but they kept saying they would only provide a 50% refund for the Sept charge which is ridiculous. I even offered $300 in case I canceled after the trial period, but I definitely canceled months ago because the service was no good!\nAs another person stated, it is just an automated AI response which is attached, regardless of my request for a proper refund. Nothing but a scam."
     },
     {
       "date": "2026-09-17",
@@ -115,14 +123,6 @@
       "amt": 0,
       "biz": "Trustmark Solutions Group",
       "desc": "$24"
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Phishing",
-      "city": "Bloomington, IL",
-      "amt": 0,
-      "biz": "Prosper Funding Group",
-      "desc": "Multiple calls from multiple phone numbers that have my name on file (which is PPI). I've asked multiple times to be removed from their calling list. They seem to be a new extension of United Covenant Financial, another scam group that calls people with phony loan offers. Every time I ask a representative to remove me from the list, they get dismissive, talk over me, and eventually hang up on me. I've blocked every number they've called me from and I don't know what to do anymore."
     }
   ]
 }
