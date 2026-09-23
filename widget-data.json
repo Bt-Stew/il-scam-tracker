@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-21",
+  "generated_at": "2026-09-22",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-22",
+      "type": "Phishing",
+      "city": "Washington, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Immediate response to this notice is requested final notice called to verify the above information on notice date vehicle owner ID this letters to inform you about an important matter regarding the warranty of your car your record into KG have not contacted us to keep the warranty up-to-date by neglecting your warranty vehicles warranty you may be financially liable for any and all repairs. We reserved the right to revoke all allocated waiver after seven days of receiving this notice please call immediately as this will be our final attempt to notify you. They provide two phone numbers. 1-888-369-5561 and 884-202-4318 for Spanish."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Other",
+      "city": "Ingleside, IL",
+      "amt": 85.78,
+      "biz": "GetRenu",
+      "desc": "I ordered a specialized brush for my dog. Two weeks later, I was automatically signed up for a VIP Membership on September 13th (that I didn't order) in the amount of 42.89. I called GETRENU's help line and disputed the charges via email. They told me they cancelled the membership. On September 20th, I was charged an additional $42.89. I have again been assured that my membership was cancelled. It has not been. I must now go to my bank to dispute the charges and/or open a new card. I am out a total of $85.78. I have attached the email trail from my initial contact."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Rental",
+      "city": "Peoria, IL",
+      "amt": 600,
+      "biz": "https://www.tiktok.com/@tobywelcomehomes1",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 210,
+      "biz": "Renu",
+      "desc": "I started to order a pet grooming brush from ReNu Freshfur. I never completed the transaction, but they charged and i did receive the product,but they have continuously charged my card 4 additional times. I reached out to the company after the initial order was placed that I had not completed. The response is AI and takes you round and round with no resolution."
+    },
     {
       "date": "2026-09-21",
       "type": "Foreign Money Exchange",
@@ -18,7 +50,7 @@
       "city": "Chicago, IL",
       "amt": 0,
       "biz": "Company: Don’s Tractor House * Location: Little Rock, Iowa 51243",
-      "desc": "$12"
+      "desc": "$25"
     },
     {
       "date": "2026-09-21",
@@ -47,82 +79,50 @@
     {
       "date": "2026-09-21",
       "type": "Phishing",
-      "city": "Columbia, IL",
+      "city": "Peoria, IL",
       "amt": 0,
-      "biz": "Not listed",
-      "desc": "Recieved 2nd text from this number: \"Susan, I still haven't heard back regarding your loan request. I need to know if you'd like to continue. Call me or reply with the best time.- Amy\" I never requested or applied for a loan anywhere."
-    },
-    {
-      "date": "2026-09-21",
-      "type": "Phishing",
-      "city": "Christopher, IL",
-      "amt": 0,
-      "biz": "Towing",
-      "desc": "Google said number for a towing service this number came up. They at first set up the towing and stated it would be $399.00. I paid over the phone with my debit card. about an houir went by and they called me back saying they needed to send another driver from a \"sister\" company and it would require a second payment of $156.00.  The service was provided, however, my bank flagged the charge of the second payment. (I had to use a back up credit card for the $156). Along with flagging that charge they tried to charge another $197.47 from my debit card.  Then the credit card I had to use was locked after my bank notified me and they tried charging another, $23.99, $30.24, $24.48, $26.48, $197.47 and another $197.47,\nAfter all this took place on a friday 9/18/2026 the second charges were tried this morning9/21/2026 throughout the early morning. Then I recieved a text stating I needed to resolve all those further charges asap.  I blocked and deleted the number which was 1(901)402-0495"
-    },
-    {
-      "date": "2026-09-21",
-      "type": "Phishing",
-      "city": "Quincy, IL",
-      "amt": 0,
-      "biz": "Home Warranty",
-      "desc": "Scammer sent me a letter stating that my home warranty was about to expire and I had one last chance to renew it. They listed the bank I had my mortgage with and my home address. I have never had home warranty coverage"
-    },
-    {
-      "date": "2026-09-20",
-      "type": "Employment",
-      "city": "Herrin, IL",
-      "amt": 98,
-      "biz": "Handmade",
-      "desc": "Offered a home job assembling product but ended up doing tasks till my shipment arrived. At first it seemed legit. But then tgey would add on another task to do and if you didnt complete it you lost your money. Never was told ahead of time about a second task. Just out of the blue popped that on you to press you for more money involved. Never got my money back. Never got my bonuses ether."
-    },
-    {
-      "date": "2026-09-20",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 82,
-      "biz": "Peste",
-      "desc": "PayPal is covering for this furdulent company."
+      "biz": "Not given",
+      "desc": "Harassment- two to four calls per day from different numbers claiming to offer a loan. They become verbally aggressive when asked questions. I have requested over a dozen times to be removed from their call list."
     },
     {
       "date": "2026-09-17",
-      "type": "Online Purchase",
-      "city": "Quincy, IL",
-      "amt": 1.7,
-      "biz": "Terrastrike, dba quite protection",
-      "desc": "I bought a safety tool to break car windows or cut a seatbelt in an emergency. I ordered them for myself and my family for peace of mind. The product is bogus and I fear someone could die for believing the claims made. Thank you! The photos show the advertisement and the actual product, which claims to have a tungsten tip to break glass, it does not! Also is a list of materials used, tungsten is not on it! Thank you."
+      "type": "Other",
+      "city": "Colona, IL",
+      "amt": 60,
+      "biz": "Sofyre",
+      "desc": "We are confident in our natural formulas, which is why every purchase is backed by our 30-Day Money-Back Guarantee. If you are not completely satisfied with your results, simply contact our support team within 30 days for a full refund.\nHas this on the website but they will not honor it. I contacted them 3 times n was blown off"
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Barrington, IL",
+      "amt": 0,
+      "biz": "Memphis DME Supply LLC",
+      "desc": "The scammer billed the amount of $13,725 to Medicare using my Medicare number. My Medicare Summary Notice indicated that none of the fraudulent claims were approved and therefore nothing paid out by Medicare. Claims were for 1500 intermittent urinary catheters ordered by a Daniel J Kruse (scammer)."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Other",
+      "city": "Moline, IL",
+      "amt": 0,
+      "biz": "The Company Store",
+      "desc": "I recieved an error message when attempting to enter my credit card information.\nI have had conversations with customer service over the past few days attempting to resolve this issue.\nThe representatives always want to take the order over the phone. This method of ordering is extremely time consuming and costly. It seems like a scam.\nThe representative wants me to believe that if I enter my credit card number on my phone keypad, that the information is somehow protected.\nHaving worked in Information Systems I understand CRC (cyclical redundancy checking) and a whole lot more. Your assurances that everything is kosher falls on deaf ears.\nThe whole thing seems like a scam to me."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "Debt Collections",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Trustmark Solutions Group",
+      "desc": "$24"
     },
     {
       "date": "2026-09-17",
       "type": "Phishing",
-      "city": "East Alton, IL",
-      "amt": 0,
-      "biz": "Home health solutions",
-      "desc": "Joy hardester  social security  bank information"
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Counterfeit Product",
-      "city": "Morton, IL",
-      "amt": 45,
-      "biz": "Sorelle",
-      "desc": "They claim to provide real pearls, but after having a jeweller check it, it turned out to be some kind of plastic. I would never pay that kind of money for plastic. The product description is misleading and fake."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Counterfeit Product",
       "city": "Bloomington, IL",
-      "amt": 69,
-      "biz": "The Fleece Company",
-      "desc": "I ordered 2 Full size blankets. It was taking a long time with nothing heard from the company   I finally got 2 blankets that were so small, I thought they might be Crib Blankets.  I had two back and forth emails with some named marie who told me to lay the blankets on a bed, measure them and send her a picture. I said no. It was too OBVIOUS that these blankets were too SMALL for a Double/Full size bed. I sent her a copy of her own Fleece Company Ad with measurements of their supposed blankets, AND a statement of &ldquo;Easy Returns and/or Exchanges&rdquo; on the ad.  I was asking for an address and instructions on how to return. She would NOT supply that info. As a matter of fact, after sending her a copy of her ad, she stopped communicating with me."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 400,
-      "biz": "Imposter- Nothing bundt cakes",
-      "desc": "Nothing bundt cake sampler box offer for $9.99.  My bank account was soon hit with 4 debit card transactions for $99+."
+      "amt": 0,
+      "biz": "Prosper Funding Group",
+      "desc": "Multiple calls from multiple phone numbers that have my name on file (which is PPI). I've asked multiple times to be removed from their calling list. They seem to be a new extension of United Covenant Financial, another scam group that calls people with phony loan offers. Every time I ask a representative to remove me from the list, they get dismissive, talk over me, and eventually hang up on me. I've blocked every number they've called me from and I don't know what to do anymore."
     }
   ]
 }
