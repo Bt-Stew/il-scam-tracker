@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-09-22",
+  "generated_at": "2026-09-23",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
+      "type": "Online Purchase",
+      "city": "Lincoln, IL",
+      "amt": 41.95,
+      "biz": "Damour lanjoonar",
+      "desc": "Ordered a 24 pair pack of ice silk pants size 2xl was taken amount of 41.95 was taken out of my bank account by this company and i have never received the product"
+    },
+    {
+      "date": "2026-09-23",
       "type": "Phishing",
-      "city": "Washington, IL",
+      "city": "Highland, IL",
       "amt": 0,
       "biz": "—",
-      "desc": "Immediate response to this notice is requested final notice called to verify the above information on notice date vehicle owner ID this letters to inform you about an important matter regarding the warranty of your car your record into KG have not contacted us to keep the warranty up-to-date by neglecting your warranty vehicles warranty you may be financially liable for any and all repairs. We reserved the right to revoke all allocated waiver after seven days of receiving this notice please call immediately as this will be our final attempt to notify you. They provide two phone numbers. 1-888-369-5561 and 884-202-4318 for Spanish."
+      "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Other",
+      "city": "Homewood, IL",
+      "amt": 440.98,
+      "biz": "Sofi",
+      "desc": "My debit card was entered in a google acct that doesn't belong to me or my home address. The charged my card back to back within 2 minutes. I reached out my bank as well as the vendor to provide documentation for me giving this authorization and each company was unable to but told.me the charges are legit which is a lie. This is not my acct nor dis i approve for any roblox charges to be made on my acct."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
+      "city": "Park Ridge, IL",
+      "amt": 150,
+      "biz": "Zulily",
+      "desc": "Submitted an online order for two items: Crossbody, black bag, and Birkenstock sandals. The Crossbody received was a different color and the Birkenstock sandals were damaged and not able to be used. Tried to submit a return request via the chat function on the Zulily website as well as contacting customer service via email. The saved responses from Zulily directed me to submit a refund request online through their refund function on their website. That function has not, and is still not, available. I have gone without a refund for more than four months."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Phishing",
+      "city": "Pinckneyville, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Saying I was approved for GLP-1 when I never requested it nor need it and I don&rsquo;t know a care coordinator name Owen"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Online Purchase",
+      "city": "Paris, IL",
+      "amt": 39.95,
+      "biz": "Quitritual/puffiair",
+      "desc": "Company promised delivery/shipment of said product (herbal diffuser inhaler) to help quit smoking..never delivered product,kept giving excuses why wasn't delivered,won't give refund when asked for, keeps saying is going to be delivered .have had contact on ******** with many upon many other people who have been decived and had lost money from same companies..."
     },
     {
       "date": "2026-09-22",
       "type": "Other",
-      "city": "Ingleside, IL",
-      "amt": 85.78,
-      "biz": "GetRenu",
-      "desc": "I ordered a specialized brush for my dog. Two weeks later, I was automatically signed up for a VIP Membership on September 13th (that I didn't order) in the amount of 42.89. I called GETRENU's help line and disputed the charges via email. They told me they cancelled the membership. On September 20th, I was charged an additional $42.89. I have again been assured that my membership was cancelled. It has not been. I must now go to my bank to dispute the charges and/or open a new card. I am out a total of $85.78. I have attached the email trail from my initial contact."
+      "city": "Alton, IL",
+      "amt": 0,
+      "biz": "No e given",
+      "desc": "See attachment"
     },
     {
       "date": "2026-09-22",
-      "type": "Rental",
-      "city": "Peoria, IL",
-      "amt": 600,
-      "biz": "https://www.tiktok.com/@tobywelcomehomes1",
+      "type": "Employment",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Fairlife",
+      "desc": "Company sent me a \"check\" for $4983.67 with instructions to deposit it and keep $750 for my part and pay the decal installer $4050.   The check was drawn on \"Bank of America\" for the company FM COnstructors LLC. at 100 DR MLK JR BLVD, East Orange, NJ 07018.   The routing number was NOT a Bank of America routing number.   I burned it in the backyard."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Counterfeit Product",
+      "city": "Olney, IL",
+      "amt": 130,
+      "biz": "Rosella Rush",
+      "desc": "Ordered a dress from the website. Site states the boutique is in CA and that the item would ship from CA. The item shipped from China. I waited. Never gave a delivery time or anything. When the dress arrived it was not the dress we ordered. Not the same material, color, style, brand or anything. Their website states I could do a full refund. The company is offering 20% back then 50% and then said I could ship it back to China at my own expense. I said no because it&rsquo;s not my fault the company in CA had someone from China choose the wrong product. The owner has now stepped in and offered 70% back and that I could keep the dress. I don&rsquo;t want the dress. It&rsquo;s not an appropriate dress for my daughter and I feel I should receive a full refund and they can have the dress back. If the shop was really located in CA the issue of them not being able to ship to China wouldn&rsquo;t be an issue like they are saying."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Online Purchase",
+      "city": "Plainfield, IL",
+      "amt": 2000,
+      "biz": "Caviani Furniture",
       "desc": "$12"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-20",
       "type": "Online Purchase",
       "city": "Belleville, IL",
-      "amt": 210,
-      "biz": "Renu",
-      "desc": "I started to order a pet grooming brush from ReNu Freshfur. I never completed the transaction, but they charged and i did receive the product,but they have continuously charged my card 4 additional times. I reached out to the company after the initial order was placed that I had not completed. The response is AI and takes you round and round with no resolution."
+      "amt": 82,
+      "biz": "Peste",
+      "desc": "PayPal is covering for this furdulent company."
     },
     {
-      "date": "2026-09-21",
-      "type": "Foreign Money Exchange",
-      "city": "Woodridge, IL",
-      "amt": 0,
-      "biz": "Donald Blanco Law LLP",
-      "desc": "I was offered to spit $11.5 million in life insurance with an attorney because next of kin of someone with my same last name could not be found."
-    },
-    {
-      "date": "2026-09-21",
+      "date": "2026-09-20",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 60,
-      "biz": "N/A",
-      "desc": "I am getting a deduction for the past two months in the amount of $19.99  I do not know what this charge is for.  I researched online and cannot validate the address or phone number"
+      "amt": 39.99,
+      "biz": "jomhome",
+      "desc": "As I was checking my bank account transactions, I noticed that an unauthorized debit was conducted on September 16, 2026, at 3:19 p.m."
     },
     {
-      "date": "2026-09-21",
-      "type": "Retail Business",
-      "city": "Chicago, IL",
+      "date": "2026-09-19",
+      "type": "Phishing",
+      "city": "Waynesville, IL",
       "amt": 0,
-      "biz": "Company: Don’s Tractor House * Location: Little Rock, Iowa 51243",
-      "desc": "$13"
-    },
-    {
-      "date": "2026-09-21",
-      "type": "Foreign Money Exchange",
-      "city": "Wauconda, IL",
-      "amt": 0,
-      "biz": "Lorne Gershuny Law Office",
-      "desc": "The scam is from an attorney claiming they have a client (in the name of a relative of yours) that says they have an estate that has not  been paid out yet due to their COVID-19 death in 2021. The scam hopes that 10% of the estate will go to a charitable organization while splitting the remaining 90% between the heir and the attorney."
-    },
-    {
-      "date": "2026-09-21",
-      "type": "Counterfeit Product",
-      "city": "Nauvoo, IL",
-      "amt": 46.88,
       "biz": "—",
-      "desc": "Order was delayed several times and not authentic merchandise as described in advertising."
+      "desc": "They call relentlessly at least 5 times a day from different number every time same prerecorded message saying I am pre approved for a loan that I applied for which I have not recording states it is Blake Armstrong and to call another number or press 2 as soon as you ask them to remove from there call list they hang up it&rsquo;s getting so bad I Amy have to change my phone number as again they call at least 5 times a day while I am working and when I am not"
     },
     {
-      "date": "2026-09-21",
-      "type": "Online Purchase",
-      "city": "Riverdale, IL",
-      "amt": 945,
-      "biz": "SP GARAGE DOOR SERVICE",
-      "desc": "July 13, 2026, I needed a garage door replacement immediately. I was given a name by a friend. I cannot remember exactly how this person came about contacting me . This individual came to my home the evening of 7/13/26. I assumed he was legitimate. First mistake!!!!  I showed him my garage door and be proceeded to take measurements from inside and out of the garage. We gave me a total cost of $1800.00. He said he would take half to get the materials ordered. I gave him my credit information of 7/13 and never heard from him since that time. I asked to give me his phone number so I could get an idea of when the job would take place. He said he would give me that information LATER. That is when a bell went off in my head. I KNEW THEN I HAD BEEN SCAMED FOR $945!!!!"
-    },
-    {
-      "date": "2026-09-17",
+      "date": "2026-09-19",
       "type": "Other",
-      "city": "Rantoul, IL",
-      "amt": 375,
-      "biz": "Zenfy",
-      "desc": "I signed up for a low cost trial for $10 and then paid for additional services for $29 to help with my resume. However, I canceled the subscription service and never thought anything of it. I recently noticed a $75 charge on my account on Sept. 15, 2026 and contacted them because this should have been canceled months ago.\nI reviewed my account and they had been charging me $75/month since March.\nI requested a refund for $300 of the $375 but they kept saying they would only provide a 50% refund for the Sept charge which is ridiculous. I even offered $300 in case I canceled after the trial period, but I definitely canceled months ago because the service was no good!\nAs another person stated, it is just an automated AI response which is attached, regardless of my request for a proper refund. Nothing but a scam."
+      "city": "Belleville, IL",
+      "amt": 120,
+      "biz": "—",
+      "desc": "I added money to this website and then made a Redemption on 9/12/26 for $100. It States on their website that they usually pay out within 48 hours but up to 72 hours. That was a week ago and I still have never received any payment. I have contacted customer service several different times with zero to little communication or response and no resolution"
     },
     {
-      "date": "2026-09-17",
-      "type": "Other",
-      "city": "Colona, IL",
-      "amt": 60,
-      "biz": "Sofyre",
-      "desc": "We are confident in our natural formulas, which is why every purchase is backed by our 30-Day Money-Back Guarantee. If you are not completely satisfied with your results, simply contact our support team within 30 days for a full refund.\nHas this on the website but they will not honor it. I contacted them 3 times n was blown off"
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Healthcare/Medicaid/Medicare",
-      "city": "Barrington, IL",
-      "amt": 0,
-      "biz": "Memphis DME Supply LLC",
-      "desc": "The scammer billed the amount of $13,725 to Medicare using my Medicare number. My Medicare Summary Notice indicated that none of the fraudulent claims were approved and therefore nothing paid out by Medicare. Claims were for 1500 intermittent urinary catheters ordered by a Daniel J Kruse (scammer)."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Other",
-      "city": "Moline, IL",
-      "amt": 0,
-      "biz": "The Company Store",
-      "desc": "I recieved an error message when attempting to enter my credit card information.\nI have had conversations with customer service over the past few days attempting to resolve this issue.\nThe representatives always want to take the order over the phone. This method of ordering is extremely time consuming and costly. It seems like a scam.\nThe representative wants me to believe that if I enter my credit card number on my phone keypad, that the information is somehow protected.\nHaving worked in Information Systems I understand CRC (cyclical redundancy checking) and a whole lot more. Your assurances that everything is kosher falls on deaf ears.\nThe whole thing seems like a scam to me."
-    },
-    {
-      "date": "2026-09-17",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Trustmark Solutions Group",
-      "desc": "$24"
+      "date": "2026-09-19",
+      "type": "Counterfeit Product",
+      "city": "Virden, IL",
+      "amt": 58,
+      "biz": "Depop Limited",
+      "desc": "Depop sells items through vendors. The vendor for this sale took my money then sent a different item. Imagine ordering and paying $60 for a pizza and someone delivers a jar of peanuts. Depop has no customer support or direct contact information which is indicative of it being a scam."
     }
   ]
 }
