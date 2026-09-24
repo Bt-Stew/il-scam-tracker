@@ -7,6 +7,14 @@
     {
       "date": "2026-09-23",
       "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 0,
+      "biz": "Cracker Barrel",
+      "desc": "<p>Hi, this website is pretending to be cracker barrel and it is in fact not cracker barrel. They probably stole my card info, so trying to get them shut down or warn others. The site had no warning, was promoted on google shopping, and is a complete scam. Hope this helps other gullible people stay away from them</p>\n<p><a href=\"https://crackerbarreell.online/\" target=\"_blank\" rel=\"noopener\" style=\"box-sizing: border-box; padding: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; color: #4c93cc; text-decoration: none; touch-action: manipulation; transition: 0.2s ease-in-out; cursor: pointer; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://crackerbarreell.online</a></p>\n<p>&nbsp;</p>"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
       "city": "Lincoln, IL",
       "amt": 41.95,
       "biz": "Damour lanjoonar",
@@ -19,6 +27,14 @@
       "amt": 0,
       "biz": "—",
       "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Other",
+      "city": "Geneseo, IL",
+      "amt": 75,
+      "biz": "Elisacharm.com",
+      "desc": "I ordered 4 bras when i got them they were way to big.  When i asked to reopen them i was told i could not but for an additional $40 they would send another size"
     },
     {
       "date": "2026-09-23",
@@ -69,20 +85,20 @@
       "desc": "Company sent me a \"check\" for $4983.67 with instructions to deposit it and keep $750 for my part and pay the decal installer $4050.   The check was drawn on \"Bank of America\" for the company FM COnstructors LLC. at 100 DR MLK JR BLVD, East Orange, NJ 07018.   The routing number was NOT a Bank of America routing number.   I burned it in the backyard."
     },
     {
-      "date": "2026-09-22",
-      "type": "Counterfeit Product",
-      "city": "Olney, IL",
-      "amt": 130,
-      "biz": "Rosella Rush",
-      "desc": "Ordered a dress from the website. Site states the boutique is in CA and that the item would ship from CA. The item shipped from China. I waited. Never gave a delivery time or anything. When the dress arrived it was not the dress we ordered. Not the same material, color, style, brand or anything. Their website states I could do a full refund. The company is offering 20% back then 50% and then said I could ship it back to China at my own expense. I said no because it&rsquo;s not my fault the company in CA had someone from China choose the wrong product. The owner has now stepped in and offered 70% back and that I could keep the dress. I don&rsquo;t want the dress. It&rsquo;s not an appropriate dress for my daughter and I feel I should receive a full refund and they can have the dress back. If the shop was really located in CA the issue of them not being able to ship to China wouldn&rsquo;t be an issue like they are saying."
+      "date": "2026-09-21",
+      "type": "Phishing",
+      "city": "Quincy, IL",
+      "amt": 0,
+      "biz": "Home Warranty",
+      "desc": "Scammer sent me a letter stating that my home warranty was about to expire and I had one last chance to renew it. They listed the bank I had my mortgage with and my home address. I have never had home warranty coverage"
     },
     {
-      "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 2000,
-      "biz": "Caviani Furniture",
-      "desc": "$12"
+      "date": "2026-09-20",
+      "type": "Employment",
+      "city": "Herrin, IL",
+      "amt": 98,
+      "biz": "Handmade",
+      "desc": "Offered a home job assembling product but ended up doing tasks till my shipment arrived. At first it seemed legit. But then tgey would add on another task to do and if you didnt complete it you lost your money. Never was told ahead of time about a second task. Just out of the blue popped that on you to press you for more money involved. Never got my money back. Never got my bonuses ether."
     },
     {
       "date": "2026-09-20",
@@ -107,22 +123,6 @@
       "amt": 0,
       "biz": "—",
       "desc": "They call relentlessly at least 5 times a day from different number every time same prerecorded message saying I am pre approved for a loan that I applied for which I have not recording states it is Blake Armstrong and to call another number or press 2 as soon as you ask them to remove from there call list they hang up it&rsquo;s getting so bad I Amy have to change my phone number as again they call at least 5 times a day while I am working and when I am not"
-    },
-    {
-      "date": "2026-09-19",
-      "type": "Other",
-      "city": "Belleville, IL",
-      "amt": 120,
-      "biz": "—",
-      "desc": "I added money to this website and then made a Redemption on 9/12/26 for $100. It States on their website that they usually pay out within 48 hours but up to 72 hours. That was a week ago and I still have never received any payment. I have contacted customer service several different times with zero to little communication or response and no resolution"
-    },
-    {
-      "date": "2026-09-19",
-      "type": "Counterfeit Product",
-      "city": "Virden, IL",
-      "amt": 58,
-      "biz": "Depop Limited",
-      "desc": "Depop sells items through vendors. The vendor for this sale took my money then sent a different item. Imagine ordering and paying $60 for a pizza and someone delivers a jar of peanuts. Depop has no customer support or direct contact information which is indicative of it being a scam."
     }
   ]
 }

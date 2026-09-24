@@ -3,6 +3,14 @@
     {
       "date": "2026-09-23",
       "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 0,
+      "biz": "Cracker Barrel",
+      "desc": "<p>Hi, this website is pretending to be cracker barrel and it is in fact not cracker barrel. They probably stole my card info, so trying to get them shut down or warn others. The site had no warning, was promoted on google shopping, and is a complete scam. Hope this helps other gullible people stay away from them</p>\n<p><a href=\"https://crackerbarreell.online/\" target=\"_blank\" rel=\"noopener\" style=\"box-sizing: border-box; padding: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; color: #4c93cc; text-decoration: none; touch-action: manipulation; transition: 0.2s ease-in-out; cursor: pointer; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://crackerbarreell.online</a></p>\n<p>&nbsp;</p>"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
       "city": "Lincoln, IL",
       "amt": 41.95,
       "biz": "Damour lanjoonar",
@@ -15,6 +23,14 @@
       "amt": 0,
       "biz": "—",
       "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Other",
+      "city": "Geneseo, IL",
+      "amt": 75,
+      "biz": "Elisacharm.com",
+      "desc": "I ordered 4 bras when i got them they were way to big.  When i asked to reopen them i was told i could not but for an additional $40 they would send another size"
     },
     {
       "date": "2026-09-23",
@@ -65,20 +81,20 @@
       "desc": "Company sent me a \"check\" for $4983.67 with instructions to deposit it and keep $750 for my part and pay the decal installer $4050.   The check was drawn on \"Bank of America\" for the company FM COnstructors LLC. at 100 DR MLK JR BLVD, East Orange, NJ 07018.   The routing number was NOT a Bank of America routing number.   I burned it in the backyard."
     },
     {
-      "date": "2026-09-22",
-      "type": "Counterfeit Product",
-      "city": "Olney, IL",
-      "amt": 130,
-      "biz": "Rosella Rush",
-      "desc": "Ordered a dress from the website. Site states the boutique is in CA and that the item would ship from CA. The item shipped from China. I waited. Never gave a delivery time or anything. When the dress arrived it was not the dress we ordered. Not the same material, color, style, brand or anything. Their website states I could do a full refund. The company is offering 20% back then 50% and then said I could ship it back to China at my own expense. I said no because it&rsquo;s not my fault the company in CA had someone from China choose the wrong product. The owner has now stepped in and offered 70% back and that I could keep the dress. I don&rsquo;t want the dress. It&rsquo;s not an appropriate dress for my daughter and I feel I should receive a full refund and they can have the dress back. If the shop was really located in CA the issue of them not being able to ship to China wouldn&rsquo;t be an issue like they are saying."
+      "date": "2026-09-21",
+      "type": "Phishing",
+      "city": "Quincy, IL",
+      "amt": 0,
+      "biz": "Home Warranty",
+      "desc": "Scammer sent me a letter stating that my home warranty was about to expire and I had one last chance to renew it. They listed the bank I had my mortgage with and my home address. I have never had home warranty coverage"
     },
     {
-      "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 2000,
-      "biz": "Caviani Furniture",
-      "desc": "$12"
+      "date": "2026-09-20",
+      "type": "Employment",
+      "city": "Herrin, IL",
+      "amt": 98,
+      "biz": "Handmade",
+      "desc": "Offered a home job assembling product but ended up doing tasks till my shipment arrived. At first it seemed legit. But then tgey would add on another task to do and if you didnt complete it you lost your money. Never was told ahead of time about a second task. Just out of the blue popped that on you to press you for more money involved. Never got my money back. Never got my bonuses ether."
     },
     {
       "date": "2026-09-20",
@@ -138,27 +154,35 @@
     },
     {
       "date": "2026-09-18",
+      "type": "Online Purchase",
+      "city": "Bloomington, IL",
+      "amt": 60,
+      "biz": "Earthline Naturals",
+      "desc": "I placed a one-time order which was never received, although payment was taken promptly. I could not find any contact information so sent an email through their website. There was no response to 3 different messages sent. 30-days later they charge my card again. I have this in dispute and hope that's the end of the scam."
+    },
+    {
+      "date": "2026-09-17",
       "type": "Phishing",
-      "city": "Belleville, IL",
+      "city": "Newark, IL",
       "amt": 0,
-      "biz": "Publishing Clearing House",
-      "desc": "Said I won from Publishing Clearing House"
+      "biz": "FedEx",
+      "desc": "Person called 5 times claiming to be FedEx with the last four of my tracking and a reference number. Verifying my information"
     },
     {
-      "date": "2026-09-18",
-      "type": "Employment",
-      "city": "Newton, IL",
-      "amt": 4300,
-      "biz": "Freight Tank Inc",
-      "desc": "Found the job posting on Indeed. It seemed legitimate at first and had contact with the company in phone calls and emails and through there online portal. Inspecting packages and re-shipping them. Until the police showed up and confiscated a package saying it was bought with a stolen credit card. I contacted the company immediately to inform them and surrendered the package to the police department. After that i tried to reach back out to the company regarding the other packages i had to ship out and how to proceed but cannot get in contact with them or log into my portal through them. They had me do an interview and fill out tax documents as well."
+      "date": "2026-09-17",
+      "type": "Online Purchase",
+      "city": "Elgin, IL",
+      "amt": 160,
+      "biz": "Public Records.us",
+      "desc": "I don't know how they started charging me, but I see a credit card charge of $20 every 2 weeks starting from 1/1/2026."
     },
     {
-      "date": "2026-09-18",
-      "type": "Counterfeit Product",
-      "city": "Wilmette, IL",
-      "amt": 300,
-      "biz": "https://donarie.co/",
-      "desc": "They advertised for Nike shoes but sent fake shoes. And when I asked for return, it was to Brazil, so the shipping money would be high."
+      "date": "2026-09-17",
+      "type": "Online Purchase",
+      "city": "Quincy, IL",
+      "amt": 1.7,
+      "biz": "Terrastrike, dba quite protection",
+      "desc": "I bought a safety tool to break car windows or cut a seatbelt in an emergency. I ordered them for myself and my family for peace of mind. The product is bogus and I fear someone could die for believing the claims made. Thank you! The photos show the advertisement and the actual product, which claims to have a tungsten tip to break glass, it does not! Also is a list of materials used, tungsten is not on it! Thank you."
     },
     {
       "date": "2026-09-17",
@@ -219,26 +243,26 @@
     {
       "date": "2026-09-16",
       "type": "Online Purchase",
-      "city": "Chester, IL",
-      "amt": 200,
-      "biz": "Dope thca",
-      "desc": "I order some thca from here and it didn't ever come said delivered but it's not and also paid for express shipping and didn't even get it in two days like they said"
+      "city": "Simpson, IL",
+      "amt": 50,
+      "biz": "support@mail.mizuthread.com",
+      "desc": "Fake plastic teeth that were supposed to be silicone dentures no way to get a refund. Can't find anything but email. No response from it"
     },
     {
       "date": "2026-09-16",
       "type": "Online Purchase",
-      "city": "Hoffman Estates, IL",
-      "amt": 36.97,
-      "biz": "Cur8trend",
-      "desc": "I ordered a fireworks squirt gun for my granddaughter. Ordered it in June and never received anything! Contacted the seller multiple times through email and they kept telling me it was in transit. Then when I asked for proof, they said that I received it. Ref refused to give me any money back."
+      "city": "Xenia, IL",
+      "amt": 38,
+      "biz": "Micro Mist",
+      "desc": "I ordered a Micro Mist portable Nebulizer and I used it twice and it quit. I contacted the company, they told me to send a video of it not working and I did. I haven't heard back since I sent the video. I'm mad and want my money back."
     },
     {
       "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 65.8,
-      "biz": "EasyLifexo",
-      "desc": "I placed an order with the company by credit card and received notification to track the delivery.  I was advised that delivery was made on 9/7/26.  I was home all day as that was Labor Day and no package arrived.  I have received no response from the company."
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Clear Path Financial",
+      "desc": "Consistent harassment from this phone number about an \"Ashley\" claiming I filed for a 10k loan."
     },
     {
       "date": "2026-09-16",
@@ -297,28 +321,28 @@
       "desc": "I looked at my bank account and notice a charge it was posted Sept 8 for $34,90, the company is called BBLYZ, and again posted  Sept 10 for the same amount.  And once again on 14 Sept for the same amount it was pending,  I called my bank and request a new debit card. The last two it stated on my transactions, the city London, and a number 447-454-74460, possible a phone #.  I have no idea who these people are!   But I do know that my personal info was stolen.  I put down my  email, and phone so i can continue.  The last transaction I was credit. will you please look into the matter.  And perhaps inform of the results.\nThank You\nMr. steve perez"
     },
     {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Chicago, IL",
+      "date": "2026-09-15",
+      "type": "Advance Fee Loan",
+      "city": "Niles, IL",
       "amt": 0,
-      "biz": "Issuing firm",
-      "desc": "Left voicemail threatening litigation and court papers served"
+      "biz": "Fig Lending",
+      "desc": "phone call goes direct to message.  contact to complete a loan that i did not request. includes legit lender name but phone number that has already been reported to BBB.  I did not respond and marked the message as spam."
     },
     {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Glen Carbon, IL",
+      "date": "2026-09-15",
+      "type": "Advance Fee Loan",
+      "city": "Downers Grove, IL",
       "amt": 0,
-      "biz": "Hoist Depot USA",
-      "desc": "Web search for garage car lift and this site had prices way lower than all others for same item. Google search of address shows condo and that this is a scam. There is a legitimate business in New Jersey with similar name. None in Denver."
+      "biz": "United Covenant Financial",
+      "desc": "Offerred personal loan regardles of credit score at 5% interest"
     },
     {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 78.9,
-      "biz": "BioSupp",
-      "desc": "I purchased supplements from the business by accident and attempted to return them. I sent them to the return address given, but they say they cannot give me a refund without the tracking number, which I do not have, but the supplements were sent to the return location unopened. I called the number back and they confirmed it had been delivered, but I was not given my refund.\nReturn Number: 7821CD1EC144."
+      "date": "2026-09-15",
+      "type": "Other",
+      "city": "Elmwood, IL",
+      "amt": 375,
+      "biz": "Stevenson Homes",
+      "desc": "The business had a property for rent and we paid the application fee, and the deposit and half of the cleaning fee to see the property for our son to move into to attend Palmer Chiropractic College.  They never showed up to show us the property.  And after our meeting time was over an hour past the scheduled time frame they told us we needed to pay half of the rent which we didn't pay.  We also drove an hour and a half from Illinois to Davenport Iowa.  And the time they asked for additional money once we were in Iowa we realized that we were scammed.  The money that we did pay them was done through the Cash App."
     },
     {
       "date": "2026-09-15",
@@ -377,28 +401,28 @@
       "desc": "your business was approved with $280 000.00 working capital loan, press 2 to talk to an agent or call us back at ...."
     },
     {
-      "date": "2026-09-15",
-      "type": "Counterfeit Product",
-      "city": "Evergreen Park, IL",
-      "amt": 156.97,
-      "biz": "Grace Parker Jewelry",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Counterfeit Product",
-      "city": "Willowbrook, IL",
-      "amt": 32,
-      "biz": "Madame Muse",
-      "desc": "Ordered a product online from Modern Muse with the option they said of a full refund.  Came 3 months later, totally different product and very poorly made.  Contacted them and they said they would not refund but resend a different size.  I replied no and they have ghosted me.  No messages back.  I am out the $32.00 I spent.  I know this is small but I am on Social Security.  Also, I have been getting tremendous amounts of spam since then and feel they sold my identification"
-    },
-    {
-      "date": "2026-09-15",
+      "date": "2026-09-14",
       "type": "Phishing",
-      "city": "Northbrook, IL",
+      "city": "Litchfield, IL",
       "amt": 0,
-      "biz": "Reinhardt Legal Group",
-      "desc": "This message is solely intended for.  This is a final message from Reinhardt Legal Group.  Our firm has been retained regarding legal action that is currently being filed against you.  You or your attorney must contact our office today.  Once you receive your summons by law, we can no longer speak with you regarding this case.  After a court date has been provided, you must appear or further action will be taken, that can include additional charges.  Please call our office today at 866-574-7312.  Once again this is a final notification."
+      "biz": "Rosemary Cessariti",
+      "desc": "Added her to my Yahoo friend list and she checked out my profile.   Next thing I&rsquo;m told I qualified for money to help us with our bathroom and other things, with a payment of 150,000.  I looked into her background and found she won the second highest power ball drawing.  Now, she needs $500 for processing and delivery of my money.  My question is this:  Is she a scam or the real deal?"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "Phishing",
+      "city": "Harvard, IL",
+      "amt": 0,
+      "biz": "Healthcare billing collector",
+      "desc": "They claimed they were making an attempt to file a claim on a recorded line for a hospital visit back in June, and that I had an outstanding balance of more than 11,000.00"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "Phishing",
+      "city": "Lombard, IL",
+      "amt": 6815.99,
+      "biz": "Navy Federal Credit Union",
+      "desc": "I was called by a person impersonating Navy Federal, using their caller id and their phone number. They said that someone tried to make a transfer under my card number in Florida and I said that was wrong, it wasn&rsquo;t me. I was still under the assumption that I was still talking to navy federal not a scammer. They somehow were able to transfer $4,000 from my account to theirs using step.com when I never clicked the link or said yes. They proceeded to then FaceTime me saying it was a new way of helping users and they told me to move my money to another account to ensure that someone doesn&rsquo;t try to hack my account again. The remaining $2,700 was then wire transferred to an account via Cash App. I still have the card number of the person and their zip code that they used when I transferred the money. Once I transferred the remaining amount they ended the call and didn&rsquo;t pick up the phone after that."
     },
     {
       "date": "2026-09-14",
@@ -458,27 +482,27 @@
     },
     {
       "date": "2026-09-14",
-      "type": "Romance",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "jasmine",
-      "desc": "they ai generted nudes of me and are now threatening to release them if i dont pay"
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Mount Prospect, IL",
+      "amt": 100,
+      "biz": "Fast Exit Specialists",
+      "desc": "Fast Exit specialists offered $100 for us to attend a presentation on exiting from timeshares.  We attended and they gave us some lame excuse that we attended another timeshare presentation owned by one of their other companies they owned.  They did not tell us in advance that we consequently did not qualify because of that.  We sat through the presentation and felt that we were scammed or frauded because they did not fulfill their obligation. We know this industry is filled with fraud and scamming, but we felt abused and used.  We feel others should know about this business' scandalous ways."
     },
     {
-      "date": "2026-09-14",
-      "type": "Employment",
+      "date": "2026-09-13",
+      "type": "Utility",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "NaviForge Freight",
-      "desc": "I was offered what I was told was a &ldquo;job&rdquo; involving package reshipment. During the &ldquo;job training,&rdquo; I was instructed to open packages, inspect the items inside, take photographs of the model numbers, send those photos to the people who hired me, and then repackage the items.\nAt first, I did not think anything unusual was happening. However, I eventually began receiving packages at my home with my name listed as either the shipper or the recipient. I was then instructed to print shipping labels that they would send to me by email. These labels showed a different destination address from the address the packages were originally being shipped to, while my home address was also attached to the shipment information.\nIt was at this point that I became concerned that something was not right with the arrangement and that my personal information and home address were being used in connection with these shipments."
+      "biz": "pretending to be progressive",
+      "desc": "I rang the number on progressive insurance 's website\n\"Call us 24/7\nTypical wait time 8+ minutes\n1-877-280-8418\n1-800-SEGUROS\"\nbut I mistakenly rang 1-800-280-8418\nthe phone was answered and when i said i wanted to check my insurance coverage, they advised that they would look into it, but in the meantime I won a $100 gift card. They asked for my name and address and then we got cut off.\nThey are being deliberately dishonest by purporting to be progressive insurance and clearly phishing for information"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-13",
       "type": "Online Purchase",
-      "city": "Dixon, IL",
-      "amt": 79,
-      "biz": "Everly",
-      "desc": "I was put on an automatic renewal subscription I did not want."
+      "city": "Arlington Heights, IL",
+      "amt": 64.93,
+      "biz": "Calmie",
+      "desc": "I ordered 2 \"talking stuffed elephants on July 29th and never received my order. I sent multiple emails requesting an update on my order and asking when I could expect my order to be delivered.  I never received a response."
     },
     {
       "date": "2026-09-13",
@@ -486,7 +510,7 @@
       "city": "Peoria, IL",
       "amt": 140.13,
       "biz": "The Clarke family",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-09-13",
@@ -537,28 +561,28 @@
       "desc": "I received empty package in my mailbox."
     },
     {
-      "date": "2026-09-13",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 699,
-      "biz": "Kanoyard",
-      "desc": "address, credit card"
-    },
-    {
-      "date": "2026-09-13",
-      "type": "Online Purchase",
-      "city": "Freeport, IL",
-      "amt": 75,
-      "biz": "Flair Boutique",
-      "desc": "I ordered 2 dresses, I got 1 low quality, it' didn't fit, when I tried to get refund, they started sending email asking for a lot of information even signed a paper to return it. Then when it was done, they said it will be a lot of problems for the customer to return it it's better for the customer to keep the dress and they will give me the 50% back and then they don't want to give the 50% back in my CC ,they want to put this money as a credit store<br class=\"t-last-br\" />"
-    },
-    {
       "date": "2026-09-12",
       "type": "Online Purchase",
-      "city": "Greenville, IL",
-      "amt": 500,
-      "biz": "Romi",
-      "desc": "Had bought coins then a membership but never got any member benefits and still had to keep buying coins &hellip;. A couple on site improved to them they were fake"
+      "city": "Crystal Lake, IL",
+      "amt": 334.97,
+      "biz": "Gracins",
+      "desc": "Items purchased did not fit.  Return policy online makes it sound simple-send it back and get a refund. However they are in Hong Kong-do not provide a shipping label to use and the cost to send the item from the USA to Hong Kong is more than the products purchased.  Then they offer a 41% refund.  They target Americans to purchase their clothing but then don't accommodate returns with ease."
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Phishing",
+      "city": "Highland, IL",
+      "amt": 10000,
+      "biz": "Cordila",
+      "desc": "I was told that if i gave money I could make more money i feel for it. I feel like a idiot.  Cause i have given them 10000 and the want 10000 more.  Also told me that my credit would be bad if i dont.  He is the guy that has been talking to me. +17042872456"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "Phishing",
+      "city": "Springfield, IL",
+      "amt": 0,
+      "biz": "Kirkland Meyers",
+      "desc": "The person called from Kirkland Meyers Resolution Group claiming I owe a debt which I don't. And my credit report proves as much."
     },
     {
       "date": "2026-09-11",
@@ -617,28 +641,28 @@
       "desc": "Lea Perez with United Delivery Services called, but we let all calls go to voice mail on our home number. She was trying to verify if a Glenda lived at the address which was given as the daytime location, that it was in reference to legal case number 2026-54815, using a 504 record. If we did not call back, there would be possible legal repercussions. The phone number given was 866-600-0858. For the record, there is no Glenda at our location."
     },
     {
-      "date": "2026-09-11",
-      "type": "Retail Business",
-      "city": "Harrisburg, IL",
+      "date": "2026-09-10",
+      "type": "Debt Collections",
+      "city": "Springfield, IL",
       "amt": 0,
-      "biz": "Satan Barown",
-      "desc": "Got 2 packages empty and 3 more from same address with different names"
+      "biz": "Forgiveness student loan",
+      "desc": "Told me it was a student loan forgiveness program and that I needed to pay 8 payments of 200.00 and the rest of my student loan will be forgiven and had a lot of my information was sending codes from the student loan website"
     },
     {
-      "date": "2026-09-11",
-      "type": "Advance Fee Loan",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-09-11",
+      "date": "2026-09-10",
       "type": "Online Purchase",
-      "city": "Caseyville, IL",
+      "city": "Palos Hills, IL",
+      "amt": 69.9,
+      "biz": "FITGNX",
+      "desc": "I had to click another link to \"complete\" the transaction. They claimed to be able to send you a Samsonite package of 2 suitcases for $9.95. The next  transaction was for $59.95 for mutiple entries for something. I emailed mutiple times to request a refund! I have not received a response."
+    },
+    {
+      "date": "2026-09-10",
+      "type": "Phishing",
+      "city": "Fairview Heights, IL",
       "amt": 0,
-      "biz": "Pinnacle Ghostwriting",
-      "desc": "$13"
+      "biz": "None",
+      "desc": "They told me I&rsquo;d taken a payday loan out in 2017 I told him I did not, they asked if I had a Bank Of America account I said yes. I asked them to send me more information she would not give it to me since we&rsquo;ll see you in court. I hung up the phone"
     },
     {
       "date": "2026-09-10",
@@ -698,27 +722,27 @@
     },
     {
       "date": "2026-09-10",
-      "type": "Investment",
-      "city": "Des Plaines, IL",
-      "amt": 350,
-      "biz": "Premiumtrading.sbs",
-      "desc": "I invested in a day trading account for weeks to only be scammed"
-    },
-    {
-      "date": "2026-09-10",
-      "type": "Phishing",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "Olivia Davis",
-      "desc": "I have received multiple calls with recorded messages and voicemails offering a loan 'looking at my file' -- what file?!  I neither requested nor desired a loan.  With some calls I spoke to an agent and asked to be taken off their list -- this has had no impact. I have been on the National No Call List since 2006!  These calls started about six weeks ago, and I'm now getting 3-4 calls PER DAY from Olivia Davis, Brianna Beck, and others."
+      "type": "Identity Theft",
+      "city": "Park Forest, IL",
+      "amt": 582.94,
+      "biz": "Imposter Instacart",
+      "desc": "While on Instacart website my EBT card numbers was stolen and used at a location in Chicago,IL.  15 S. Cicero Chicago, IL\nI reported it to instacart and they refuse to investigate and keep saying that I received the order which I did not.  I live in Park Forest, IL and have never giving my card information out.  I told instacart that I can prove that I didn't make the purchase but they refuse to acknowledge that their system has been hacked.  I will never use Instacart services again."
     },
     {
       "date": "2026-09-10",
       "type": "Online Purchase",
-      "city": "Woodridge, IL",
+      "city": "Chicago, IL",
+      "amt": 650,
+      "biz": "Curated by Raphael",
+      "desc": "$12"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "Phishing",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Simple Modern",
-      "desc": "They copied simple moderns website to a T. The had the newest collection of cups dropped that day and most sold out on regular website I was able to find on this website first. I put in my CC details and was checking out but my bank sent a code for me to protect against fraud so I didn't complete purchase but the text came through that my total was 20x the amount I was buying."
+      "biz": "Service Activation Center",
+      "desc": "My husband and I recently purchased a car and bought warranty. About a month later I began receiving many phone calls from different numbers telling me I had to activate a warranty. I also began receiving mail. Confused, my husband and I have our bank information to have recurring payments taking out. Then I googled after many red flags (unprofessional callers who were flustered when I questioned why they were calling me).\nIt seemed believable because upon contact, they had all of our personal information already.\nWe have since closed our account. We were told to cancel by phone would be 75.00 fee or to send written letter to cancel contract."
     },
     {
       "date": "2026-09-09",
@@ -742,7 +766,7 @@
       "city": "Chicago, IL",
       "amt": 0,
       "biz": "Refuse to give",
-      "desc": "$24"
+      "desc": "$13"
     },
     {
       "date": "2026-09-09",
@@ -775,31 +799,7 @@
       "amt": 0,
       "biz": "CBC",
       "desc": "Hi, this is Ryan from CBC. A recent investigation uncovered credit card companies and major banks have violated consumer protection laws such as the Fair Credit Billing Act and Fair Credit Reporting Act. Because of this, these businesses are not allowed to collect on their accounts, meaning you are no longer legally required to pay back certain debt. And those balances will also be removed from your credit report. To hear which banks and credit card companies were found guilty and what will be removed from your credit, call 888-356-1808. Again, that's 888-356-1808."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Online Purchase",
-      "city": "Huntley, IL",
-      "amt": 119.97,
-      "biz": "Pawzone",
-      "desc": "I purchased a dog brush or nail trimmer and the item came but then I've received three unauthorized withdrawls for 39.99. The phone number given has a recording with no agents. I've also emailed and they have not responded. The website is pawzone.com"
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 35,
-      "biz": "Don't remember, online purchase based on advertisement of Halloween object.",
-      "desc": "Item came damaged (broken); poor quality. No way to return and get money back."
-    },
-    {
-      "date": "2026-09-09",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Fletcher and Associates Mediation Group",
-      "desc": "Someone from Fletcher &amp; Associates Mediation Group called me and tried to collect a debt that was not owed.  I did not incur this debt.  It was a scam. The person stated that they had my personal information, and would take legal action, including wage garnishment and file a lawsuit."
     }
   ],
-  "total_on_file": 24412
+  "total_on_file": 24415
 }
