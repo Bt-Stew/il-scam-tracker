@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-24",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-24",
+      "type": "Online Purchase",
+      "city": "Lawrenceville, IL",
+      "amt": 0,
+      "biz": "XEVIOLA",
+      "desc": "THEY HAVE TAKEN 2MONTHS OF 29.99 OUT OF MY ACCT  ITRIED TO CALL THEM BUT THEY WOULD NOT TALK. I HAVE LEFT A MESSAGE ON THER SIGHT. NO RESPONSE.. JUST WANT MY MONEY BACK AND THEY NEVER TAKE MONEY OUT OF MY ACCT AGAIN.. CATCH THESE PEOPLE.  THANKS FOR YOUR HELP."
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Online Purchase",
+      "city": "Carbondale, IL",
+      "amt": 50,
+      "biz": "Kovacare.shop",
+      "desc": "I placed an order on this website on August 29th for a body butter. After 2 weeks of not receiving the item , I reached out to customer service. They said they were unable to provide tracking info with the usps carrier service but provided tracking through their website. I have been tracking the item and it&rsquo;s been all over the country and still has not reached me. I live in Illinois , and the package went into Illinois and back out within 2 days. Now it has been &ldquo;sitting&rdquo; in Wyoming for the last 4 days. I reached out to their customer service again yesterday , at which time I told them I would be reporting them if they did not provide me with tracking info for the usps carrier or an update on the item , or info on how to make a return and they have not responded to me. Please help."
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Online Purchase",
+      "city": "Libertyville, IL",
+      "amt": 0,
+      "biz": "Curve and Bloom",
+      "desc": "I ordered from this website and the order sat at ready to ship for over a week. No details from the company and they refused to cancel order and issue refund. Avoid Curve and Bloom!"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 33,
+      "biz": "https://aldi.aspenpantry.shop/pages/contact-us",
+      "desc": "<p>ordered a 1.6 cubic ft dorm fridge and it was never delivered no email verification of tracking info</p>\n<p><span style=\"color: #1e395b; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://aldi.aspenpantry.shop/pages/contact-us</span></p>"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
+      "city": "Macomb, IL",
+      "amt": 30,
+      "biz": "Rackicon",
+      "desc": "On July 23 I watched an ad from where I play my game. I ordered a product from rackicon. They took my money and I have never received it. It&rsquo;s now sept 22. The tracking never worked and I got an email saying it had been lost but they would send out a new one. To get a refund, you jump thru hoops. They are scammers and do NOT order from rackicon"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Debt Collections",
+      "city": "Metropolis, IL",
+      "amt": 0,
+      "biz": "Griffin and Associates",
+      "desc": "Scammer attempted to get me to pay $3645 which was supposedly defaulted on and going to court for Capitol One"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Identity Theft",
+      "city": "Granite City, IL",
+      "amt": 105.9,
+      "biz": "Passsportvisarush.com",
+      "desc": "Appeared to be a website to renew your passport."
+    },
     {
       "date": "2026-09-23",
       "type": "Online Purchase",
@@ -23,106 +79,50 @@
     {
       "date": "2026-09-23",
       "type": "Phishing",
-      "city": "Highland, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Other",
-      "city": "Geneseo, IL",
-      "amt": 75,
-      "biz": "Elisacharm.com",
-      "desc": "I ordered 4 bras when i got them they were way to big.  When i asked to reopen them i was told i could not but for an additional $40 they would send another size"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Other",
-      "city": "Homewood, IL",
-      "amt": 440.98,
-      "biz": "Sofi",
-      "desc": "My debit card was entered in a google acct that doesn't belong to me or my home address. The charged my card back to back within 2 minutes. I reached out my bank as well as the vendor to provide documentation for me giving this authorization and each company was unable to but told.me the charges are legit which is a lie. This is not my acct nor dis i approve for any roblox charges to be made on my acct."
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Online Purchase",
-      "city": "Park Ridge, IL",
-      "amt": 150,
-      "biz": "Zulily",
-      "desc": "Submitted an online order for two items: Crossbody, black bag, and Birkenstock sandals. The Crossbody received was a different color and the Birkenstock sandals were damaged and not able to be used. Tried to submit a return request via the chat function on the Zulily website as well as contacting customer service via email. The saved responses from Zulily directed me to submit a refund request online through their refund function on their website. That function has not, and is still not, available. I have gone without a refund for more than four months."
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Phishing",
-      "city": "Pinckneyville, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Saying I was approved for GLP-1 when I never requested it nor need it and I don&rsquo;t know a care coordinator name Owen"
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Paris, IL",
-      "amt": 39.95,
-      "biz": "Quitritual/puffiair",
-      "desc": "Company promised delivery/shipment of said product (herbal diffuser inhaler) to help quit smoking..never delivered product,kept giving excuses why wasn't delivered,won't give refund when asked for, keeps saying is going to be delivered .have had contact on ******** with many upon many other people who have been decived and had lost money from same companies..."
+      "city": "Centralia, IL",
+      "amt": 62.43,
+      "biz": "Baobei Outlet",
+      "desc": "we were looking for a water heater for our camper and it was listed along with other companies to purchase one from"
     },
     {
       "date": "2026-09-22",
       "type": "Other",
-      "city": "Alton, IL",
-      "amt": 0,
-      "biz": "No e given",
-      "desc": "See attachment"
+      "city": "Ingleside, IL",
+      "amt": 85.78,
+      "biz": "GetRenu",
+      "desc": "I ordered a specialized brush for my dog. Two weeks later, I was automatically signed up for a VIP Membership on September 13th (that I didn't order) in the amount of 42.89. I called GETRENU's help line and disputed the charges via email. They told me they cancelled the membership. On September 20th, I was charged an additional $42.89. I have again been assured that my membership was cancelled. It has not been. I must now go to my bank to dispute the charges and/or open a new card. I am out a total of $85.78. I have attached the email trail from my initial contact."
     },
     {
       "date": "2026-09-22",
-      "type": "Employment",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Fairlife",
-      "desc": "Company sent me a \"check\" for $4983.67 with instructions to deposit it and keep $750 for my part and pay the decal installer $4050.   The check was drawn on \"Bank of America\" for the company FM COnstructors LLC. at 100 DR MLK JR BLVD, East Orange, NJ 07018.   The routing number was NOT a Bank of America routing number.   I burned it in the backyard."
-    },
-    {
-      "date": "2026-09-21",
-      "type": "Phishing",
-      "city": "Quincy, IL",
-      "amt": 0,
-      "biz": "Home Warranty",
-      "desc": "Scammer sent me a letter stating that my home warranty was about to expire and I had one last chance to renew it. They listed the bank I had my mortgage with and my home address. I have never had home warranty coverage"
-    },
-    {
-      "date": "2026-09-20",
-      "type": "Employment",
-      "city": "Herrin, IL",
-      "amt": 98,
-      "biz": "Handmade",
-      "desc": "Offered a home job assembling product but ended up doing tasks till my shipment arrived. At first it seemed legit. But then tgey would add on another task to do and if you didnt complete it you lost your money. Never was told ahead of time about a second task. Just out of the blue popped that on you to press you for more money involved. Never got my money back. Never got my bonuses ether."
-    },
-    {
-      "date": "2026-09-20",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 82,
-      "biz": "Peste",
-      "desc": "PayPal is covering for this furdulent company."
-    },
-    {
-      "date": "2026-09-20",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 39.99,
-      "biz": "jomhome",
-      "desc": "As I was checking my bank account transactions, I noticed that an unauthorized debit was conducted on September 16, 2026, at 3:19 p.m."
+      "amt": 44.66,
+      "biz": "The Art of Hippy Potter",
+      "desc": "Hello,\nThe owner of this website has not provided any shipping information, nor responded to any e-mail inquires regarding the shipping information. Initial receipt stated 5 top 7 business days for shipping. Left in the dark regarding order. He portraits himself as an artist yet no product information has been divulged. Their handle on X (twitter) is @ItsHippyPotter"
     },
     {
-      "date": "2026-09-19",
-      "type": "Phishing",
-      "city": "Waynesville, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "They call relentlessly at least 5 times a day from different number every time same prerecorded message saying I am pre approved for a loan that I applied for which I have not recording states it is Blake Armstrong and to call another number or press 2 as soon as you ask them to remove from there call list they hang up it&rsquo;s getting so bad I Amy have to change my phone number as again they call at least 5 times a day while I am working and when I am not"
+      "date": "2026-09-22",
+      "type": "Online Purchase",
+      "city": "Bartlett, IL",
+      "amt": 50,
+      "biz": "Cattasy.com",
+      "desc": "Product not what was advertised. Ad said it was around 4 feet tall. It is about the size of a ruler."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 79.9,
+      "biz": "Nordica labs",
+      "desc": "I used a personality test on August 18th. The test itself was only $2 but I&rsquo;ve now received two recurring payments for $39.95. When I reached out to the company that I did the test with, Personality Co, they said that they have no connection to Nordica labs, the company that was charging my account. I&rsquo;ve never used a company called Nordica labs, nor even heard the name prior to this experience. When I went to PayPal to dispute the claim, they said there was no unauthorized activity.\nI further researched the issue and all I am seeing is other customers having the same experience of being opted into a subscription even if you canceled the membership or never had one."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Rental",
+      "city": "Peoria, IL",
+      "amt": 600,
+      "biz": "https://www.tiktok.com/@tobywelcomehomes1",
+      "desc": "$24"
     }
   ]
 }
