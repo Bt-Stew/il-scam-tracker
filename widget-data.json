@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "O Fallon, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Gurnee, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a random fax on 9-25-2026 from Relay Wire for amount $498.85.  We have never had this service.  No phone number to call, looked up on google no contact information, only emails and wants check, your fax number and invoice number on check for payment.  I identified as a scam immediately.  I will not send them my email, check, etc."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Villa Park, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Invoice received via fax for \"Annual fax services\""
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Phishing",
+      "city": "Carlinville, IL",
+      "amt": 39.95,
+      "biz": "The Personality",
+      "desc": "The Personality.com offers a personality test for 1.95 then secretly subscribes you, then several days later debits your account for 39.95"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Investment",
+      "city": "East Saint Louis, IL",
+      "amt": 0,
+      "biz": "TGW Properties",
+      "desc": "$24"
+    },
     {
       "date": "2026-09-24",
       "type": "Online Purchase",
@@ -46,83 +86,43 @@
     },
     {
       "date": "2026-09-23",
-      "type": "Debt Collections",
-      "city": "Metropolis, IL",
-      "amt": 0,
-      "biz": "Griffin and Associates",
-      "desc": "Scammer attempted to get me to pay $3645 which was supposedly defaulted on and going to court for Capitol One"
-    },
-    {
-      "date": "2026-09-23",
       "type": "Identity Theft",
-      "city": "Granite City, IL",
-      "amt": 105.9,
-      "biz": "Passsportvisarush.com",
-      "desc": "Appeared to be a website to renew your passport."
+      "city": "Elgin, IL",
+      "amt": 15,
+      "biz": "Super+",
+      "desc": "I just opened my bank account and I see a charge of $15 from a company called Super+ I don&rsquo;t know who they are I don&rsquo;t know how they did what they did I didn&rsquo;t even know they existed until now."
     },
     {
       "date": "2026-09-23",
-      "type": "Online Purchase",
-      "city": "Peoria, IL",
+      "type": "Tax Collection",
+      "city": "Wonder Lake, IL",
       "amt": 0,
-      "biz": "Cracker Barrel",
-      "desc": "<p>Hi, this website is pretending to be cracker barrel and it is in fact not cracker barrel. They probably stole my card info, so trying to get them shut down or warn others. The site had no warning, was promoted on google shopping, and is a complete scam. Hope this helps other gullible people stay away from them</p>\n<p><a href=\"https://crackerbarreell.online/\" target=\"_blank\" rel=\"noopener\" style=\"box-sizing: border-box; padding: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; color: #4c93cc; text-decoration: none; touch-action: manipulation; transition: 0.2s ease-in-out; cursor: pointer; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://crackerbarreell.online</a></p>\n<p>&nbsp;</p>"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Online Purchase",
-      "city": "Lincoln, IL",
-      "amt": 41.95,
-      "biz": "Damour lanjoonar",
-      "desc": "Ordered a 24 pair pack of ice silk pants size 2xl was taken amount of 41.95 was taken out of my bank account by this company and i have never received the product"
+      "biz": "No name left",
+      "desc": "Called from number 866-392-4909.\nThis is the voicemail that they left on my phone. I don&rsquo;t owe back taxes. I have an accountant who handles my taxes every year. No identification on who they are as a company. Scam.\nYou can press nine. This is an important alert regarding your past due taxes. As you know, resolution options are time sensitive, and extensions come to an end October 15th. It's crucial we speak to you and get you into a resolution program. Give us a call as soon as you get this at 775-438-1723 regarding stopping further collection activity, that's 775-438-1723. We look forward to hearing from you and reaching a resolution."
     },
     {
       "date": "2026-09-23",
       "type": "Phishing",
-      "city": "Centralia, IL",
-      "amt": 62.43,
-      "biz": "Baobei Outlet",
-      "desc": "we were looking for a water heater for our camper and it was listed along with other companies to purchase one from"
+      "city": "Highland, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "type": "Other",
-      "city": "Ingleside, IL",
-      "amt": 85.78,
-      "biz": "GetRenu",
-      "desc": "I ordered a specialized brush for my dog. Two weeks later, I was automatically signed up for a VIP Membership on September 13th (that I didn't order) in the amount of 42.89. I called GETRENU's help line and disputed the charges via email. They told me they cancelled the membership. On September 20th, I was charged an additional $42.89. I have again been assured that my membership was cancelled. It has not been. I must now go to my bank to dispute the charges and/or open a new card. I am out a total of $85.78. I have attached the email trail from my initial contact."
+      "city": "Geneseo, IL",
+      "amt": 75,
+      "biz": "Elisacharm.com",
+      "desc": "I ordered 4 bras when i got them they were way to big.  When i asked to reopen them i was told i could not but for an additional $40 they would send another size"
     },
     {
-      "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 44.66,
-      "biz": "The Art of Hippy Potter",
-      "desc": "Hello,\nThe owner of this website has not provided any shipping information, nor responded to any e-mail inquires regarding the shipping information. Initial receipt stated 5 top 7 business days for shipping. Left in the dark regarding order. He portraits himself as an artist yet no product information has been divulged. Their handle on X (twitter) is @ItsHippyPotter"
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Bartlett, IL",
-      "amt": 50,
-      "biz": "Cattasy.com",
-      "desc": "Product not what was advertised. Ad said it was around 4 feet tall. It is about the size of a ruler."
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 79.9,
-      "biz": "Nordica labs",
-      "desc": "I used a personality test on August 18th. The test itself was only $2 but I&rsquo;ve now received two recurring payments for $39.95. When I reached out to the company that I did the test with, Personality Co, they said that they have no connection to Nordica labs, the company that was charging my account. I&rsquo;ve never used a company called Nordica labs, nor even heard the name prior to this experience. When I went to PayPal to dispute the claim, they said there was no unauthorized activity.\nI further researched the issue and all I am seeing is other customers having the same experience of being opted into a subscription even if you canceled the membership or never had one."
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Rental",
-      "city": "Peoria, IL",
-      "amt": 600,
-      "biz": "https://www.tiktok.com/@tobywelcomehomes1",
-      "desc": "$24"
+      "date": "2026-09-23",
+      "type": "Other",
+      "city": "Homewood, IL",
+      "amt": 440.98,
+      "biz": "Sofi",
+      "desc": "My debit card was entered in a google acct that doesn't belong to me or my home address. The charged my card back to back within 2 minutes. I reached out my bank as well as the vendor to provide documentation for me giving this authorization and each company was unable to but told.me the charges are legit which is a lie. This is not my acct nor dis i approve for any roblox charges to be made on my acct."
     }
   ]
 }

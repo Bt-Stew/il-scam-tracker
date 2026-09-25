@@ -1,6 +1,46 @@
 {
   "reports": [
     {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "O Fallon, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Gurnee, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a random fax on 9-25-2026 from Relay Wire for amount $498.85.  We have never had this service.  No phone number to call, looked up on google no contact information, only emails and wants check, your fax number and invoice number on check for payment.  I identified as a scam immediately.  I will not send them my email, check, etc."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Villa Park, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Invoice received via fax for \"Annual fax services\""
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Phishing",
+      "city": "Carlinville, IL",
+      "amt": 39.95,
+      "biz": "The Personality",
+      "desc": "The Personality.com offers a personality test for 1.95 then secretly subscribes you, then several days later debits your account for 39.95"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Investment",
+      "city": "East Saint Louis, IL",
+      "amt": 0,
+      "biz": "TGW Properties",
+      "desc": "$24"
+    },
+    {
       "date": "2026-09-24",
       "type": "Online Purchase",
       "city": "Lawrenceville, IL",
@@ -42,43 +82,83 @@
     },
     {
       "date": "2026-09-23",
-      "type": "Debt Collections",
-      "city": "Metropolis, IL",
-      "amt": 0,
-      "biz": "Griffin and Associates",
-      "desc": "Scammer attempted to get me to pay $3645 which was supposedly defaulted on and going to court for Capitol One"
-    },
-    {
-      "date": "2026-09-23",
       "type": "Identity Theft",
-      "city": "Granite City, IL",
-      "amt": 105.9,
-      "biz": "Passsportvisarush.com",
-      "desc": "Appeared to be a website to renew your passport."
+      "city": "Elgin, IL",
+      "amt": 15,
+      "biz": "Super+",
+      "desc": "I just opened my bank account and I see a charge of $15 from a company called Super+ I don&rsquo;t know who they are I don&rsquo;t know how they did what they did I didn&rsquo;t even know they existed until now."
     },
     {
       "date": "2026-09-23",
-      "type": "Online Purchase",
-      "city": "Peoria, IL",
+      "type": "Tax Collection",
+      "city": "Wonder Lake, IL",
       "amt": 0,
-      "biz": "Cracker Barrel",
-      "desc": "<p>Hi, this website is pretending to be cracker barrel and it is in fact not cracker barrel. They probably stole my card info, so trying to get them shut down or warn others. The site had no warning, was promoted on google shopping, and is a complete scam. Hope this helps other gullible people stay away from them</p>\n<p><a href=\"https://crackerbarreell.online/\" target=\"_blank\" rel=\"noopener\" style=\"box-sizing: border-box; padding: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; color: #4c93cc; text-decoration: none; touch-action: manipulation; transition: 0.2s ease-in-out; cursor: pointer; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://crackerbarreell.online</a></p>\n<p>&nbsp;</p>"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Online Purchase",
-      "city": "Lincoln, IL",
-      "amt": 41.95,
-      "biz": "Damour lanjoonar",
-      "desc": "Ordered a 24 pair pack of ice silk pants size 2xl was taken amount of 41.95 was taken out of my bank account by this company and i have never received the product"
+      "biz": "No name left",
+      "desc": "Called from number 866-392-4909.\nThis is the voicemail that they left on my phone. I don&rsquo;t owe back taxes. I have an accountant who handles my taxes every year. No identification on who they are as a company. Scam.\nYou can press nine. This is an important alert regarding your past due taxes. As you know, resolution options are time sensitive, and extensions come to an end October 15th. It's crucial we speak to you and get you into a resolution program. Give us a call as soon as you get this at 775-438-1723 regarding stopping further collection activity, that's 775-438-1723. We look forward to hearing from you and reaching a resolution."
     },
     {
       "date": "2026-09-23",
       "type": "Phishing",
-      "city": "Centralia, IL",
-      "amt": 62.43,
-      "biz": "Baobei Outlet",
-      "desc": "we were looking for a water heater for our camper and it was listed along with other companies to purchase one from"
+      "city": "Highland, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Other",
+      "city": "Geneseo, IL",
+      "amt": 75,
+      "biz": "Elisacharm.com",
+      "desc": "I ordered 4 bras when i got them they were way to big.  When i asked to reopen them i was told i could not but for an additional $40 they would send another size"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Other",
+      "city": "Homewood, IL",
+      "amt": 440.98,
+      "biz": "Sofi",
+      "desc": "My debit card was entered in a google acct that doesn't belong to me or my home address. The charged my card back to back within 2 minutes. I reached out my bank as well as the vendor to provide documentation for me giving this authorization and each company was unable to but told.me the charges are legit which is a lie. This is not my acct nor dis i approve for any roblox charges to be made on my acct."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
+      "city": "Park Ridge, IL",
+      "amt": 150,
+      "biz": "Zulily",
+      "desc": "Submitted an online order for two items: Crossbody, black bag, and Birkenstock sandals. The Crossbody received was a different color and the Birkenstock sandals were damaged and not able to be used. Tried to submit a return request via the chat function on the Zulily website as well as contacting customer service via email. The saved responses from Zulily directed me to submit a refund request online through their refund function on their website. That function has not, and is still not, available. I have gone without a refund for more than four months."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Berwyn, IL",
+      "amt": 0,
+      "biz": "Jobesh Solutions",
+      "desc": "Someone billed my deceased husband's previous health insurer for durable medical equipment  totaling $4266 supposedly sent on 7/31/2026. Jobesh Solutions is listed as the provider. My husband has been deceased for over 5 years."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Counterfeit Product",
+      "city": "Cortland, IL",
+      "amt": 89.9,
+      "biz": "Marlow Market Co.",
+      "desc": "I ordered two birdhouses that were advertised as being handcarved by an artisan named Amos Hensley in NC. They came with a &ldquo;no questions asked &ldquo;, money back guarantee.  They are made of plastic and resin and when I tried to start a return I was told I would have to ship them to Hong Kong at my own expense or accept a 25% refund.  When I informed them that it wasn&rsquo;t acceptable, they then said the most they would refund me was 35%.  The phone number is a PA non-working number, the product was shipped from Elk Grove Village, Illinois, it was advertised as being carved in NC, and the trade name (Marlow Market) is under Ecomcloud Trading LLP.  Their physical address is listed as 32 Kinburn St, SE16 6DW, London, SE16 6DW, UK.  I seriously doubt this address exists.  The company advertises many different artisan-type crafts; the birdhouse is just one."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Cheng Saephon charity",
+      "desc": "I know this may come as a big surprise to you, but it will interest you to know that your email was selected alongside with other lucky email addresses. Random selection was done by our legal advisers for this donation program through difference mailing list acquired from difference companies from which your email was selected and declaring you as one of the lucky individuals for a cash grant $3,600,000.00 dollars.\nTo facilitate the payment process of your donation, you are to fill in your details to enable us to proceed further.\nFull Name:\nAge:\nResidential Address:\nState:\nCountry:\nGender:\nOccupation:\nTelephone:\nOnce the above information is completed, other valuable information on how to receive your donation funds will be sent to you.\nFor security reasons, you are hereby advised as one of the beneficiaries of this donation to maintain absolute confidentiality. This is part of our security protocol to avoid impersonations."
+    },
+    {
+      "date": "2026-09-22",
+      "type": "Phishing",
+      "city": "Pinckneyville, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Saying I was approved for GLP-1 when I never requested it nor need it and I don&rsquo;t know a care coordinator name Owen"
     },
     {
       "date": "2026-09-22",
@@ -582,7 +662,7 @@
       "city": "Villa Park, IL",
       "amt": 0,
       "biz": "Kunes Country C of Woodstock, Inc. Show more lines",
-      "desc": "$12"
+      "desc": "$24"
     },
     {
       "date": "2026-09-14",
@@ -719,87 +799,7 @@
       "amt": 60,
       "biz": "Facebook",
       "desc": "A t-shirt ad united patriotic selling on facebook posing as military company. Credit card payment came back to lavishly wild. A scam still no shirts, its been months"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Online Purchase",
-      "city": "Riverdale, IL",
-      "amt": 39.99,
-      "biz": "HoomaGoods",
-      "desc": "The company advertised goods for very low prices they will charge your payment for goods more than once . You&rsquo;ll never receive a tracking number for the order and the so called tracker shows fake tracking details you&rsquo;ll never receive the package"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Identity Theft",
-      "city": "Plainfield, IL",
-      "amt": 18,
-      "biz": "—",
-      "desc": "They send empty envelope instead something else"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Credit Cards",
-      "city": "Cicero, IL",
-      "amt": 0,
-      "biz": "No name",
-      "desc": "Person said they were from JPMC and asked if I was Jorge Rodriguez.  When I said yes they disconnected.  This was in Spanish"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 100,
-      "biz": "GLITTER FRAGMENT",
-      "desc": "I ORDERED THEIT LOBSTER TAILS AND NOTHING NO PRODUCT NO REFUND AND I CANT FIND AN EMAIL OR WHERE THEY ARE FROM SKETCHY AT BEST"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 175,
-      "biz": "dice n dragons",
-      "desc": "I HAVE BEEN EMAILING THIS SO CALLED BUSINESS FOR A FEW MONTHS NO REFUND NO PRODUCT AND NOTHING DONE SO BEWARE DO NOT ORDER ANYTHING THIS IS A SCAM"
-    },
-    {
-      "date": "2026-09-12",
-      "type": "Online Purchase",
-      "city": "Crystal Lake, IL",
-      "amt": 334.97,
-      "biz": "Gracins",
-      "desc": "Items purchased did not fit.  Return policy online makes it sound simple-send it back and get a refund. However they are in Hong Kong-do not provide a shipping label to use and the cost to send the item from the USA to Hong Kong is more than the products purchased.  Then they offer a 41% refund.  They target Americans to purchase their clothing but then don't accommodate returns with ease."
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Phishing",
-      "city": "Highland, IL",
-      "amt": 10000,
-      "biz": "Cordila",
-      "desc": "I was told that if i gave money I could make more money i feel for it. I feel like a idiot.  Cause i have given them 10000 and the want 10000 more.  Also told me that my credit would be bad if i dont.  He is the guy that has been talking to me. +17042872456"
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Phishing",
-      "city": "Springfield, IL",
-      "amt": 0,
-      "biz": "Kirkland Meyers",
-      "desc": "The person called from Kirkland Meyers Resolution Group claiming I owe a debt which I don't. And my credit report proves as much."
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Online Purchase",
-      "city": "Crestwood, IL",
-      "amt": 56.97,
-      "biz": "Orfolia",
-      "desc": "They advertised a swirling ghost coming out of a carved pumpkin\nVery large.\nWhat I received is a complete joke"
-    },
-    {
-      "date": "2026-09-11",
-      "type": "Tech Support",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Geek Squad",
-      "desc": "Told me I had a charge I didn&rsquo;t so at all in Orlando Florida I don&rsquo;t live there tried to get me to open my apple application did not"
     }
   ],
-  "total_on_file": 24470
+  "total_on_file": 24495
 }
