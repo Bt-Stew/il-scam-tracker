@@ -3,50 +3,82 @@
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "O Fallon, IL",
+      "city": "Belleville, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
+      "desc": "This business in an Ear, Nose &amp; Throat physicians' office. 09/25/26 we received faxed copy of Invoice #600121NH from Relay Wire for $498.85. Charges were for \"Annual fax service for fax # 618 239-9492\" (which is our fax #). \"Annual Service Renewal 10/01/26 - 09/30/27. Due 10/25/26. Acct: RWHC309541\"\nAcct Executive: Stephanie Wray - swray@relaywire.app"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Gurnee, IL",
+      "city": "Addison, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a random fax on 9-25-2026 from Relay Wire for amount $498.85.  We have never had this service.  No phone number to call, looked up on google no contact information, only emails and wants check, your fax number and invoice number on check for payment.  I identified as a scam immediately.  I will not send them my email, check, etc."
+      "desc": "Received fax invoice for fax services never contracted"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Villa Park, IL",
+      "city": "Loves Park, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Invoice received via fax for \"Annual fax services\""
+      "desc": "We got a bill for annal fax service for $498.85.\nWe pay our phone company for the fax phone line."
     },
     {
-      "date": "2026-09-24",
-      "type": "Phishing",
-      "city": "Carlinville, IL",
-      "amt": 39.95,
-      "biz": "The Personality",
-      "desc": "The Personality.com offers a personality test for 1.95 then secretly subscribes you, then several days later debits your account for 39.95"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "Investment",
-      "city": "East Saint Louis, IL",
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "IL",
       "amt": 0,
-      "biz": "TGW Properties",
-      "desc": "$24"
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "I received a fax from Relay Wire. This is what it is for:\nIt is an annual renewal invoice for one annual term. Included services fax number routing, web portal access, searchable transmission records, encrypted transmission; service availability monitoring, standard support; and data export functionality."
     },
     {
-      "date": "2026-09-24",
-      "type": "Online Purchase",
-      "city": "Lawrenceville, IL",
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Arthur, IL",
       "amt": 0,
-      "biz": "XEVIOLA",
-      "desc": "THEY HAVE TAKEN 2MONTHS OF 29.99 OUT OF MY ACCT  ITRIED TO CALL THEM BUT THEY WOULD NOT TALK. I HAVE LEFT A MESSAGE ON THER SIGHT. NO RESPONSE.. JUST WANT MY MONEY BACK AND THEY NEVER TAKE MONEY OUT OF MY ACCT AGAIN.. CATCH THESE PEOPLE.  THANKS FOR YOUR HELP."
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received invoice for annual fax service via fax line. Item was listed as \"Annual Service Renewal - Year 3\". Had the targeted business' fax number listed. Invoice looked very legit."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Itasca, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Invoice for \"Fax number routing, web portal access, searchable transmission records, encrypted transmission, service availability monitoring, standard support, and data export functionality\" annual contract renewal.  Our business never had any such contract and the business location and fax number on the invoice changed more than ten years ago."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Homewood, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "RELAY WIRE SENT OVER AN INVOICE FOR ANNUAL SERVICE RENEWAL FOR FAX SERVICES THAT WE DON'T HAVE WITH THIS COMPANY."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a faxed invoice claiming it was for a renewal of our fax service. We do not have service with this company."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Peotone, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a fax with the details provided on this form asking for an annual service renewal for our fax number including route, web portal access, searchable transmission records, encrypted transmission, service monitoring, etc."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "An Invoice from Relay Wire was faxed to our office. Was not familiar with the company and invoice. Checked status and it's a scam!"
     },
     {
       "date": "2026-09-24",
@@ -58,11 +90,27 @@
     },
     {
       "date": "2026-09-24",
+      "type": "Phishing",
+      "city": "Bolingbrook, IL",
+      "amt": 0,
+      "biz": "Jerry(001)-Yasfbara",
+      "desc": "Received two different parcels with items personalized with my name and a bitmoji. I am in education and the items were education related but I did not purchase any of these items. Nor do I know how they got a hold of my home address."
+    },
+    {
+      "date": "2026-09-24",
       "type": "Online Purchase",
       "city": "Libertyville, IL",
       "amt": 0,
       "biz": "Curve and Bloom",
       "desc": "I ordered from this website and the order sat at ready to ship for over a week. No details from the company and they refused to cancel order and issue refund. Avoid Curve and Bloom!"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Credit Cards",
+      "city": "Marion, IL",
+      "amt": 0,
+      "biz": "JP Morgan Chase",
+      "desc": "Caller ******* ******* stated he was from JP Morgan Chase and they were checking to verify if I used Zelle to send 2 amounts ($1800, $900) to a Michelle, to which I said I had not.  Being sus, I asked for a call back number; he then hung up!"
     },
     {
       "date": "2026-09-23",
@@ -75,10 +123,42 @@
     {
       "date": "2026-09-23",
       "type": "Online Purchase",
+      "city": "Crystal Lake, IL",
+      "amt": 59.99,
+      "biz": "CompressionZ",
+      "desc": "Item was shipped to wrong address on my invoice 20775. Was never delivered and returned to CompressionZ.  They told me they cannot refund credit card or replace resend the item.  But, I could order another same item and they would give me 30% off."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Online Purchase",
       "city": "Macomb, IL",
       "amt": 30,
       "biz": "Rackicon",
       "desc": "On July 23 I watched an ad from where I play my game. I ordered a product from rackicon. They took my money and I have never received it. It&rsquo;s now sept 22. The tracking never worked and I got an email saying it had been lost but they would send out a new one. To get a refund, you jump thru hoops. They are scammers and do NOT order from rackicon"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Retail Business",
+      "city": "Evanston, IL",
+      "amt": 0,
+      "biz": "Walmart",
+      "desc": "Olivia from Walmart order verification. Someone ordered a PlayStation 5 and Headphones. If I didn&rsquo;t order this press 1 and call them back"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Home Improvement",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Home warranty robo call",
+      "desc": "Robocalls at least over 11 times a day.  When I ask for customer service, the AI states,&rdquo; it looks like you&rsquo;re asking for customer service so I&rsquo;m ending the call now&rdquo;.   This is so irritating every time you answer the phone even though you block the number this call comes through.  I don&rsquo;t know how it does it but he does.    Please stop them.   This is ridiculous.   I ought to get paid for harassment.   All day."
+    },
+    {
+      "date": "2026-09-23",
+      "type": "Debt Collections",
+      "city": "Metropolis, IL",
+      "amt": 0,
+      "biz": "Griffin and Associates",
+      "desc": "Scammer attempted to get me to pay $3645 which was supposedly defaulted on and going to court for Capitol One"
     },
     {
       "date": "2026-09-23",
@@ -719,87 +799,7 @@
       "amt": 0,
       "biz": "Advanced Financial Servicing",
       "desc": "Repeatedly calling re: a web loan over $1,000 that I&rsquo;m alleged to take out that I never did. Very rude and threatening to report me."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Employment",
-      "city": "Evergreen Park, IL",
-      "amt": 582,
-      "biz": "Apex Skill Bridge",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Phishing",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "Davis and Associates",
-      "desc": "They are saying I owe money from 4 years ago from a company called Home Source...I don't recall ever purchasing anything from this company....They keep leaving voice mails on my wifes' phone threatening to serve papers to me..."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Online Purchase",
-      "city": "Centralia, IL",
-      "amt": 0,
-      "biz": "Seamnest",
-      "desc": "I ordered a table topper and I received a placemat instead that looked nothing like what I ordered"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Online Purchase",
-      "city": "Wood River, IL",
-      "amt": 59.98,
-      "biz": "Teamjoy woven llc",
-      "desc": "Ordered 2 tablets and never received them.tracking number was sent.kept saying it was held in customs."
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Phishing",
-      "city": "Glen Ellyn, IL",
-      "amt": 300,
-      "biz": "Public record",
-      "desc": "I have also requested my chat history and they will not send it to me"
-    },
-    {
-      "date": "2026-09-14",
-      "type": "Travel/Vacation/Timeshare",
-      "city": "Mount Prospect, IL",
-      "amt": 100,
-      "biz": "Fast Exit Specialists",
-      "desc": "Fast Exit specialists offered $100 for us to attend a presentation on exiting from timeshares.  We attended and they gave us some lame excuse that we attended another timeshare presentation owned by one of their other companies they owned.  They did not tell us in advance that we consequently did not qualify because of that.  We sat through the presentation and felt that we were scammed or frauded because they did not fulfill their obligation. We know this industry is filled with fraud and scamming, but we felt abused and used.  We feel others should know about this business' scandalous ways."
-    },
-    {
-      "date": "2026-09-13",
-      "type": "Utility",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "pretending to be progressive",
-      "desc": "I rang the number on progressive insurance 's website\n\"Call us 24/7\nTypical wait time 8+ minutes\n1-877-280-8418\n1-800-SEGUROS\"\nbut I mistakenly rang 1-800-280-8418\nthe phone was answered and when i said i wanted to check my insurance coverage, they advised that they would look into it, but in the meantime I won a $100 gift card. They asked for my name and address and then we got cut off.\nThey are being deliberately dishonest by purporting to be progressive insurance and clearly phishing for information"
-    },
-    {
-      "date": "2026-09-13",
-      "type": "Online Purchase",
-      "city": "Arlington Heights, IL",
-      "amt": 64.93,
-      "biz": "Calmie",
-      "desc": "I ordered 2 \"talking stuffed elephants on July 29th and never received my order. I sent multiple emails requesting an update on my order and asking when I could expect my order to be delivered.  I never received a response."
-    },
-    {
-      "date": "2026-09-13",
-      "type": "Online Purchase",
-      "city": "Peoria, IL",
-      "amt": 140.13,
-      "biz": "The Clarke family",
-      "desc": "$13"
-    },
-    {
-      "date": "2026-09-13",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 60,
-      "biz": "Facebook",
-      "desc": "A t-shirt ad united patriotic selling on facebook posing as military company. Credit card payment came back to lavishly wild. A scam still no shirts, its been months"
     }
   ],
-  "total_on_file": 24495
+  "total_on_file": 24520
 }

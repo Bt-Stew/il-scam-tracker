@@ -7,50 +7,82 @@
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "O Fallon, IL",
+      "city": "Belleville, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
+      "desc": "This business in an Ear, Nose &amp; Throat physicians' office. 09/25/26 we received faxed copy of Invoice #600121NH from Relay Wire for $498.85. Charges were for \"Annual fax service for fax # 618 239-9492\" (which is our fax #). \"Annual Service Renewal 10/01/26 - 09/30/27. Due 10/25/26. Acct: RWHC309541\"\nAcct Executive: Stephanie Wray - swray@relaywire.app"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Gurnee, IL",
+      "city": "Addison, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a random fax on 9-25-2026 from Relay Wire for amount $498.85.  We have never had this service.  No phone number to call, looked up on google no contact information, only emails and wants check, your fax number and invoice number on check for payment.  I identified as a scam immediately.  I will not send them my email, check, etc."
+      "desc": "Received fax invoice for fax services never contracted"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Villa Park, IL",
+      "city": "Loves Park, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Invoice received via fax for \"Annual fax services\""
+      "desc": "We got a bill for annal fax service for $498.85.\nWe pay our phone company for the fax phone line."
     },
     {
-      "date": "2026-09-24",
-      "type": "Phishing",
-      "city": "Carlinville, IL",
-      "amt": 39.95,
-      "biz": "The Personality",
-      "desc": "The Personality.com offers a personality test for 1.95 then secretly subscribes you, then several days later debits your account for 39.95"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "Investment",
-      "city": "East Saint Louis, IL",
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "IL",
       "amt": 0,
-      "biz": "TGW Properties",
-      "desc": "$24"
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "I received a fax from Relay Wire. This is what it is for:\nIt is an annual renewal invoice for one annual term. Included services fax number routing, web portal access, searchable transmission records, encrypted transmission; service availability monitoring, standard support; and data export functionality."
     },
     {
-      "date": "2026-09-24",
-      "type": "Online Purchase",
-      "city": "Lawrenceville, IL",
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Arthur, IL",
       "amt": 0,
-      "biz": "XEVIOLA",
-      "desc": "THEY HAVE TAKEN 2MONTHS OF 29.99 OUT OF MY ACCT  ITRIED TO CALL THEM BUT THEY WOULD NOT TALK. I HAVE LEFT A MESSAGE ON THER SIGHT. NO RESPONSE.. JUST WANT MY MONEY BACK AND THEY NEVER TAKE MONEY OUT OF MY ACCT AGAIN.. CATCH THESE PEOPLE.  THANKS FOR YOUR HELP."
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received invoice for annual fax service via fax line. Item was listed as \"Annual Service Renewal - Year 3\". Had the targeted business' fax number listed. Invoice looked very legit."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Itasca, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Invoice for \"Fax number routing, web portal access, searchable transmission records, encrypted transmission, service availability monitoring, standard support, and data export functionality\" annual contract renewal.  Our business never had any such contract and the business location and fax number on the invoice changed more than ten years ago."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Homewood, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "RELAY WIRE SENT OVER AN INVOICE FOR ANNUAL SERVICE RENEWAL FOR FAX SERVICES THAT WE DON'T HAVE WITH THIS COMPANY."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a faxed invoice claiming it was for a renewal of our fax service. We do not have service with this company."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Peotone, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a fax with the details provided on this form asking for an annual service renewal for our fax number including route, web portal access, searchable transmission records, encrypted transmission, service monitoring, etc."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "An Invoice from Relay Wire was faxed to our office. Was not familiar with the company and invoice. Checked status and it's a scam!"
     },
     {
       "date": "2026-09-24",
@@ -62,11 +94,27 @@
     },
     {
       "date": "2026-09-24",
+      "type": "Phishing",
+      "city": "Bolingbrook, IL",
+      "amt": 0,
+      "biz": "Jerry(001)-Yasfbara",
+      "desc": "Received two different parcels with items personalized with my name and a bitmoji. I am in education and the items were education related but I did not purchase any of these items. Nor do I know how they got a hold of my home address."
+    },
+    {
+      "date": "2026-09-24",
       "type": "Online Purchase",
       "city": "Libertyville, IL",
       "amt": 0,
       "biz": "Curve and Bloom",
       "desc": "I ordered from this website and the order sat at ready to ship for over a week. No details from the company and they refused to cancel order and issue refund. Avoid Curve and Bloom!"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "Credit Cards",
+      "city": "Marion, IL",
+      "amt": 0,
+      "biz": "JP Morgan Chase",
+      "desc": "Caller ******* ******* stated he was from JP Morgan Chase and they were checking to verify if I used Zelle to send 2 amounts ($1800, $900) to a Michelle, to which I said I had not.  Being sus, I asked for a call back number; he then hung up!"
     },
     {
       "date": "2026-09-23",
@@ -75,54 +123,6 @@
       "amt": 33,
       "biz": "https://aldi.aspenpantry.shop/pages/contact-us",
       "desc": "<p>ordered a 1.6 cubic ft dorm fridge and it was never delivered no email verification of tracking info</p>\n<p><span style=\"color: #1e395b; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://aldi.aspenpantry.shop/pages/contact-us</span></p>"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Online Purchase",
-      "city": "Macomb, IL",
-      "amt": 30,
-      "biz": "Rackicon",
-      "desc": "On July 23 I watched an ad from where I play my game. I ordered a product from rackicon. They took my money and I have never received it. It&rsquo;s now sept 22. The tracking never worked and I got an email saying it had been lost but they would send out a new one. To get a refund, you jump thru hoops. They are scammers and do NOT order from rackicon"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Identity Theft",
-      "city": "Elgin, IL",
-      "amt": 15,
-      "biz": "Super+",
-      "desc": "I just opened my bank account and I see a charge of $15 from a company called Super+ I don&rsquo;t know who they are I don&rsquo;t know how they did what they did I didn&rsquo;t even know they existed until now."
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Tax Collection",
-      "city": "Wonder Lake, IL",
-      "amt": 0,
-      "biz": "No name left",
-      "desc": "Called from number 866-392-4909.\nThis is the voicemail that they left on my phone. I don&rsquo;t owe back taxes. I have an accountant who handles my taxes every year. No identification on who they are as a company. Scam.\nYou can press nine. This is an important alert regarding your past due taxes. As you know, resolution options are time sensitive, and extensions come to an end October 15th. It's crucial we speak to you and get you into a resolution program. Give us a call as soon as you get this at 775-438-1723 regarding stopping further collection activity, that's 775-438-1723. We look forward to hearing from you and reaching a resolution."
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Phishing",
-      "city": "Highland, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "I received the attached letter.  I did call them because I did have a warranty I needed to call and activate, and I thought this was related to that.  After speaking with the gentleman there, he seemed fishy.  When I said that I didn't want to share information, he asked why and I told him I was skeptical of people asking for information.  He began to laugh and said he didn't understand and rattled off a bunch of information about our vehicle and loan, our address, etc - and said if he wanted to do anything harmful he could simply come to our home and do it. After that he said fine, have a good day and I hung up."
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Other",
-      "city": "Geneseo, IL",
-      "amt": 75,
-      "biz": "Elisacharm.com",
-      "desc": "I ordered 4 bras when i got them they were way to big.  When i asked to reopen them i was told i could not but for an additional $40 they would send another size"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Other",
-      "city": "Homewood, IL",
-      "amt": 440.98,
-      "biz": "Sofi",
-      "desc": "My debit card was entered in a google acct that doesn't belong to me or my home address. The charged my card back to back within 2 minutes. I reached out my bank as well as the vendor to provide documentation for me giving this authorization and each company was unable to but told.me the charges are legit which is a lie. This is not my acct nor dis i approve for any roblox charges to be made on my acct."
     }
   ]
 }
