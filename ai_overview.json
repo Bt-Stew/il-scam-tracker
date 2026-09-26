@@ -4,108 +4,93 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Federal prosecutors and state authorities warn of a surge in active phone spoofing and text message scams targeting Central Illinois residents."
+      "snippet": "Federal prosecutors and state officials have issued urgent warnings regarding a wave of fraudulent phone calls, text messages, and imposter scams circulating throughout Central Illinois."
     },
     {
       "type": "heading",
-      "snippet": "\ud83d\udcde Federal Phone Spoofing"
+      "snippet": "Common Active Scams in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "The Scheme: Scammers spoof official phone numbers for the U.S. Attorney's Office for the Central District of Illinois and use staff names to demand money."
+          "snippet": "U.S. Attorney Office Imposter Calls: Scammers spoof phone numbers and use real staff names from the U.S. Attorney's Office for the Central District of Illinois to demand immediate payment or sensitive information under threat of arrest."
         },
         {
-          "snippet": "The Reality: Federal prosecutors never request payment or sensitive data over the phone."
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "\ud83d\udcf1 DMV & Tollway Smishing Texts"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "The Scheme: Fraudulent texts claim unpaid tolls or traffic tickets threaten immediate license suspension."
-        },
-        {
-          "snippet": "The Reality: The Illinois Secretary of State never texts demands for payment or fine warnings.",
+          "snippet": "DMV and State Police Text Scams: Fraudulent texts claiming to be from the Illinois Secretary of State or the Illinois State Police warn recipients of suspended licenses, unpaid tolls, or traffic violations, pushing users to click malicious payment links.",
           "snippet_links": [
             {
               "text": "Illinois Secretary of State",
               "link": "https://www.ilsos.gov/special/dmv-text-scams.html"
             }
           ]
+        },
+        {
+          "snippet": "Jail / Bail Imposter Calls: Scammers target family members of incarcerated individuals, claiming money or equipment (like ankle monitors) must be paid immediately via gift cards, exploiting confusion around state policies."
+        },
+        {
+          "snippet": "Storm Repair & \"Storm Chaser\" Cons: Scammers pressure homeowners into paying high upfront costs for unverified post-storm home or roof repairs following seasonal severe weather."
         }
       ]
     },
     {
       "type": "heading",
-      "snippet": "\ud83c\udfdb\ufe0f Jail Bond & Warrant Cons"
+      "snippet": "How to Protect Yourself"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "The Scheme: Callers falsely claim a family member is in custody and demand bond money via prepaid gift cards."
+          "snippet": "Practice the Pause: Take a step back and independently verify any urgent or threatening communication rather than reacting instantly."
         },
         {
-          "snippet": "The Reality: Illinois has eliminated cash bail, and legitimate bond fees are never paid via gift cards."
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "\ud83d\udee1\ufe0f Defensive Action Plan"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Don't Click: Never tap links or QR codes in unsolicited texts."
+          "snippet": "Never Pay via Gift Card: Law enforcement, courts, and government agencies will never demand payment via gift cards, wire transfers, or cryptocurrency."
         },
         {
-          "snippet": "Verify Independently: Hang up and call official agency numbers directly."
-        },
-        {
-          "snippet": "Report Fraud: Forward suspicious DMV texts to scamalert@ilsos.gov."
+          "snippet": "Do Not Click Links: Delete unsolicited texts regarding traffic fines or toll fees; state agencies do not send unprompted payment text messages."
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "Would you like information on how to report a specific scam incident to the Illinois Attorney General or check a local contractor's credentials?"
+      "snippet": "If you or someone you know has been targeted, would you like information on how to file an official complaint with the Illinois Attorney General or report a specific type of scam?"
     }
   ],
   "references": [
     {
       "title": "Office of the Illinois Attorney General Kwame Raoul",
       "link": "https://www.illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations",
-      "snippet": "***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL URGES ILLINOISANS TO BE ALERT FOR TEXT MESSAGE SCAMS INVOLVING FAKE TRAFFIC VIOLATIONS March 30, 2026 Chicago \u2013 Attorne...",
+      "snippet": "***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL URGES ILLINOISANS TO BE ALERT FOR TEXT MESSAGE SCAMS INVOLVING FAKE TRAFFIC VIOLATIONS. March 30, 2026. Chicago \u2013 Attor...",
       "source": "Office of the Illinois Attorney General (.gov)",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 0
     },
     {
       "title": "Federal prosecutors warn of scam calls in Central Illinois",
-      "link": "https://www.wcia.com/news/federal-prosecutors-warn-of-scam-calls-in-central-illinois/",
-      "snippet": "Federal prosecutors warn of scam calls in Central Illinois by: Bradley Zimmerman Posted: Sep 7, 2026 / 03:53 PM CDT Updated: Sep 7, 2026 / 03:54 PM CDT Unknown pho...",
-      "source": "WCIA.com",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1OG0eNVeHIJzX4ygeJqN__SZziuwPQFkRDFHvoevyPaA4RRlRN9Wq27hB9cDSqxZY72yXZ7F2WiRcNQarbdI-r6no5uSQA1dUIAt",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "link": "https://www.yahoo.com/news/us/articles/federal-prosecutors-warn-scam-calls-205356644.html",
+      "snippet": "Federal prosecutors warn of scam calls in Central Illinois Bradley Zimmerman Mon, September 7, 2026 at 1:53 PM PDT 1 min read Add Yahoo as a preferred source to se...",
+      "source": "Yahoo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SlTQsMv4lR_Fa5rVpE4cL2X2wQJJbkLnnER0Ksv9asfTter8zT6-NILj0mP_yM97rqN7abMVZbW2JZ7pJzzQ1kSTzNUsU4kEg2Gz",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 1
     },
     {
-      "title": "Look Out for Fraudulent DMV Text Scams - ILSOS.gov",
-      "link": "https://www.ilsos.gov/special/dmv-text-scams.html",
-      "snippet": "The Illinois Secretary of State's office sends text messages ONLY for appointment reminders. These allow you to confirm your appointment, reschedule, or cancel at ...",
-      "source": "Illinois Secretary of State (.gov)",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfhsW9HxzRIpVmzrXqplN9-mgOPrNSpW70cMZvYooSlWth6MdovhVNLCgddfcYnwqWdPz9EU0B1qWti2D2jgNnZBSJl5NMBssBcvsS",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ilsos.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Illinois residents hit by text scam posing as state police",
+      "link": "https://www.wjbc.com/2026/05/20/illinois-residents-hit-by-text-scam-posing-as-state-police/",
+      "snippet": "Illinois residents hit by text scam posing as state police May 20, 2026 | 12:14 PM By WMBD TV SPRINGFIELD, Ill. (WMBD) \u2014 The Illinois State Police warned the publi...",
+      "source": "WJBC AM 1230",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJvFq3-p-FmOwloWjK5RNiAuLcv516dug7o1SARP-7ZiApuvGi9-mrYxuY9RMcHMtjqPK_lVRdQwvF6BhX0eDY-fL57usT0yKihmSV",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wjbc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 2
+    },
+    {
+      "title": "Giannoulias warns of new round of scam texts purporting to come ...",
+      "link": "https://www.cbsnews.com/chicago/news/giannoulias-warns-scam-texts-purporting-come-from-his-office/",
+      "snippet": "Giannoulias warns of new round of scam texts purporting to come from his office By Adam Harrington Adam Harrington Web Producer, CBS Chicago Adam Harrington is a d...",
+      "source": "CBS News",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzRzGIfnKrjiggi8zwE4o0GiqrujalHUBV0GKtSZgUojQnWRoU2XcgSNtx8CNx6LDXGb2WSEd94oOKJ0vgz_nvoeP4KYjbCKnaiuzI",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 3
     },
     {
       "title": "Illinois Secretary of State warns drivers of scam texts, calls - WGN",
@@ -114,42 +99,52 @@
       "source": "WGN-TV",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BX23_2zM7akjjKHmeZo2RNUBpBERcqwL_9ioTRT2vBHOnkjx6VFBKI2DgXxEQsNK_RQPM9dDkSF9ylV1H1oIgXqmXtDRZxajE7sr",
       "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://wgntv.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 3
-    },
-    {
-      "title": "Jail bond scam circulating in Lee County - WREX",
-      "link": "https://www.rockfordnewsfirst.com/2026/09/22/scam-targets-families-with-loved-ones-custody-lee-county-authorities-warn/",
-      "snippet": "Scam targets families with loved ones in custody, Lee County authorities warn. The API failed to deliver the resource. The Lee County Sheriff's Office sounds the a...",
-      "source": "WIFR",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISGL8g6bJ8XSoMHqWnLwEQdi0SgaKvfhEgoqAJVVl63LDJoCKY6agiTrd3TzYEgSbVL_IvrwEHRXaYallZBOSNgCCAfebX5hEWsya",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rockfordnewsfirst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
     },
     {
-      "title": "Lee County Sheriff's Office warns of scam targeting families of ...",
-      "link": "https://www.mystateline.com/news/lee-county-sheriffs-office-warns-of-scam-targeting-families-of-those-in-custody/",
-      "snippet": "Lee County Sheriff's Office warns of scam targeting families of those in custody. ... LEE COUNTY, Ill. (WTVO) \u2014 The Lee County Sheriff's Office has issued a warnin...",
-      "source": "MyStateline",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQoRQM3_ylThNCR1wnb-r_OIkoOPFqMZ7KxTFjA7rLpBuBEC29R9zq4pJXlownNS7ixzY3uT1GnSGYOTtHQ6IPN8EGCf8mbrCqE1vi",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mystateline.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "this is a scam. The Illinois Office of Statewide Pretrial Services ...",
+      "link": "https://www.facebook.com/Illinoissheriffsassociation/posts/-scam-alert-if-you-receive-a-call-or-message-claiming-you-need-to-pay-money-to-g/1147060244119902/",
+      "snippet": "SCAM ALERT \u26a0\ufe0f Scammers are continuing to impersonate law enforcement and probation officers and contacting relatives of incarcerated or recently-incarcerated indiv...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ28DOepGenoVoc_aFGg3AXfvAE2LZpVNeHzXAuYIxUXBL_cZzbf10mDzMRHuKmCegr68Qe2x1eUpSpj1kv6xVagmwA66FTLTaMp006",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 5
     },
     {
-      "title": "Giannoulias Warns Illinoisans: New Week; New Scam",
-      "link": "https://www.ilsos.gov/news/2026/april-8-2026-giannoulias-warns-illinoisans-new-week-new-scam.html",
-      "snippet": "The Office Urges Consumers to Report Scam Attempts to scamalert@ilsos.gov To raise public awareness, Giannoulias launched a statewide consumer protection campaign ...",
-      "source": "Illinois Secretary of State (.gov)",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ilsos.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Scammers target family members of inmates requesting ...",
+      "link": "https://www.youtube.com/watch?v=drzBCxoMYdI",
+      "snippet": "Scammers target family members of inmates requesting payment via gift cards a new scam warning today from the Lee County Sheriff's...",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUgVhYw_iDw9uhI299EPGcb8fMAtUCpv2na9tRmjGVgBY738G-aWWu-L9qtlM_auuwmAxFBVQ7hNRg5kQ49nHlevsXICF96tGEF7Hq5A",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 6
     },
     {
-      "title": "Chicago residents warned about fake court notices targeting ...",
-      "link": "https://www.youtube.com/watch?v=VQRBzCVcTuk",
-      "snippet": "Cook County officials are warning residents about a text scam that impersonates the Circuit Court and demands payment for unpaid t...",
-      "source": "YouTube",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLND_G3WJhC0gtULe_hyuDNIjHc8jm8sRj98OuvIdGrEricCI4gWecI2rfAXDj0tQxPzVm6kwdh8x5eBzdL8y7LJL1XR-hRZIn7aIXpg",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Illinois AG warns of scammers targeting people making repairs after ...",
+      "link": "https://www.cbsnews.com/chicago/news/illinois-ag-warns-scammers-targeting-repairs-storms/",
+      "snippet": "Illinois AG warns of scammers targeting people making repairs after storms By Adam Harrington, Adam Harrington Web Producer, CBS Chicago Adam Harrington is a digit...",
+      "source": "CBS News",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYhnEMgp30iigVkQaO_XdIM2DQcMW5MqfKFhKHRK5GzUY3Tzn2xRuVFduXjkbZjQ6XrQnrhBYttaEhtoZ5S2SACZhmaZyPD8EV-Rjw",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 7
+    },
+    {
+      "title": "Better Business Bureau of Central IL hosts scam seminar",
+      "link": "https://www.youtube.com/watch?v=P7kjxNLwGrA",
+      "snippet": "to know that these scammers have already figured that out they know exactly what to say to somebody and how long it takes to get t...",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRje7bbXEGAjRNM844YadHIAVahdeAeEPoaZ2h2wj9tVQO2H7mhY9XCjUjuVp6oSkKxXCbu_NhnNl8DqRtpigT8Njl900VjjeODBEQ_w",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 8
+    },
+    {
+      "title": "Illinois state officials issued a warning on text message scams ...",
+      "link": "https://www.facebook.com/FOX2Now/videos/illinois-state-officials-issued-a-warning-on-text-message-scams-targeting-driver/2180364809456425/",
+      "snippet": "this is one of those scams designed to make you panic and act quickly state officials are saying texts are showing up on people's ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3kjRCLUV8vNYr_1scVS8uxg4BdvVivCK84yaBzDz2OC-_Hl8t5hK_iMmJAMZ950-uje7Ly3bt_KQQzahwiAPiMJrI_mTjizXBZN27VQ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 9
     }
   ]
 }
