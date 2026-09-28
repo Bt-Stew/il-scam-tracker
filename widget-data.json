@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Belleville, IL",
+      "city": "Lake In The Hills, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "This business in an Ear, Nose &amp; Throat physicians' office. 09/25/26 we received faxed copy of Invoice #600121NH from Relay Wire for $498.85. Charges were for \"Annual fax service for fax # 618 239-9492\" (which is our fax #). \"Annual Service Renewal 10/01/26 - 09/30/27. Due 10/25/26. Acct: RWHC309541\"\nAcct Executive: Stephanie Wray - swray@relaywire.app"
+      "desc": "An invoice in the amount of $498.85 was received via fax for \"annual fax service for fax number for one annual term\"."
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Addison, IL",
+      "city": "Farmersville, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax invoice for fax services never contracted"
+      "desc": "came over the fax machine relay wire 9/25/26  UTC  to 217 227 3607  our time and date not set sorry"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Loves Park, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "We got a bill for annal fax service for $498.85.\nWe pay our phone company for the fax phone line."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "I received a fax from Relay Wire. This is what it is for:\nIt is an annual renewal invoice for one annual term. Included services fax number routing, web portal access, searchable transmission records, encrypted transmission; service availability monitoring, standard support; and data export functionality."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Arthur, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received invoice for annual fax service via fax line. Item was listed as \"Annual Service Renewal - Year 3\". Had the targeted business' fax number listed. Invoice looked very legit."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Itasca, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Invoice for \"Fax number routing, web portal access, searchable transmission records, encrypted transmission, service availability monitoring, standard support, and data export functionality\" annual contract renewal.  Our business never had any such contract and the business location and fax number on the invoice changed more than ten years ago."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Homewood, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "RELAY WIRE SENT OVER AN INVOICE FOR ANNUAL SERVICE RENEWAL FOR FAX SERVICES THAT WE DON'T HAVE WITH THIS COMPANY."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a faxed invoice claiming it was for a renewal of our fax service. We do not have service with this company."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Peotone, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a fax with the details provided on this form asking for an annual service renewal for our fax number including route, web portal access, searchable transmission records, encrypted transmission, service monitoring, etc."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "An Invoice from Relay Wire was faxed to our office. Was not familiar with the company and invoice. Checked status and it's a scam!"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "Online Purchase",
-      "city": "Carbondale, IL",
-      "amt": 50,
-      "biz": "Kovacare.shop",
-      "desc": "I placed an order on this website on August 29th for a body butter. After 2 weeks of not receiving the item , I reached out to customer service. They said they were unable to provide tracking info with the usps carrier service but provided tracking through their website. I have been tracking the item and it&rsquo;s been all over the country and still has not reached me. I live in Illinois , and the package went into Illinois and back out within 2 days. Now it has been &ldquo;sitting&rdquo; in Wyoming for the last 4 days. I reached out to their customer service again yesterday , at which time I told them I would be reporting them if they did not provide me with tracking info for the usps carrier or an update on the item , or info on how to make a return and they have not responded to me. Please help."
-    },
-    {
-      "date": "2026-09-24",
-      "type": "Phishing",
-      "city": "Bolingbrook, IL",
-      "amt": 0,
-      "biz": "Jerry(001)-Yasfbara",
-      "desc": "Received two different parcels with items personalized with my name and a bitmoji. I am in education and the items were education related but I did not purchase any of these items. Nor do I know how they got a hold of my home address."
-    },
-    {
-      "date": "2026-09-24",
-      "type": "Online Purchase",
-      "city": "Libertyville, IL",
-      "amt": 0,
-      "biz": "Curve and Bloom",
-      "desc": "I ordered from this website and the order sat at ready to ship for over a week. No details from the company and they refused to cancel order and issue refund. Avoid Curve and Bloom!"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "Credit Cards",
-      "city": "Marion, IL",
-      "amt": 0,
-      "biz": "JP Morgan Chase",
-      "desc": "Caller ******* ******* stated he was from JP Morgan Chase and they were checking to verify if I used Zelle to send 2 amounts ($1800, $900) to a Michelle, to which I said I had not.  Being sus, I asked for a call back number; he then hung up!"
-    },
-    {
-      "date": "2026-09-23",
-      "type": "Online Purchase",
       "city": "Springfield, IL",
-      "amt": 33,
-      "biz": "https://aldi.aspenpantry.shop/pages/contact-us",
-      "desc": "<p>ordered a 1.6 cubic ft dorm fridge and it was never delivered no email verification of tracking info</p>\n<p><span style=\"color: #1e395b; font-family: 'Proxima Nova', sans-serif; font-size: 13px;\">https://aldi.aspenpantry.shop/pages/contact-us</span></p>"
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a fake invoice via fax from Relay Wire saying we owed for the \"Annual Service Renewal - year 3\" for our fax number."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Mokena, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Invoice was sent via fax that claimed we owed $498.85 for an Annual fax service for our fax number."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Creve Coeur, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "We received an invoice from Relay Wire via fax. It included our name, address, and a fake account number. The summary of charges stated a annual service renewal- year 3 for $498.85. The description of services was fax number routing, web portal access, searchable records, encrypted transmission, data export, support, and other services. Had a contact email, billing inquiries email, and tech support email. They asked me to remit payment to 9535 Forest Lane, Suite 114J, Dallas, TX 75243. They asked me to pay by check or ACH. The invoice looked very realistic, but thankfully I knew that we don't use any services like that."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Tinley Park, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a fax from Relay Wire. It is an invoice for Annual Renewal for service for our fax number. We actually have two fax numbers and neither are associated with Relay Wire and never have been. Invoice has the bill to address as our old address (as we moved about 4 months ago) and an account number. Payment and Remittance information given is:\nAccount Executive: Stephanie Wray, Email: swray@relaywire.app, Billing Inquiries: billing@relaywire.app, Tech Support: relaywire.apphelp-request/"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Identity Theft",
+      "city": "Oregon, IL",
+      "amt": 41.27,
+      "biz": "savers club llc id guard llc international readers llc",
+      "desc": "accessed bank account without consent and made withdrawals."
+    },
+    {
+      "date": "2026-09-27",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 39.99,
+      "biz": "Kiera Simone",
+      "desc": "A sweater was purchased in March.  Shipping information was sent via email as though it was a legitimate order.  I realized two months later the order never arrived and contacted customer service.  I was told the address supplied was incorrect (it wasn't) and I supplied it again.  Outreach continued to customer service over several months with the same explanation that the address supplied was either incomplete or the address rejected the shipment.  Neither were accurate and the address was supplied two additional times.  Customer service was advised the shipping address was an office building with a mail room and does not reject shipments.  Customer service refuses to refund in full and would like to hold 20%."
+    },
+    {
+      "date": "2026-09-27",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Kankakee, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a fake invoice for annual fax services for our fax line in the amount of 498.85."
+    },
+    {
+      "date": "2026-09-27",
+      "type": "Online Purchase",
+      "city": "New Baden, IL",
+      "amt": 239.7,
+      "biz": "cartographermarket",
+      "desc": "ACCUSSO, LLC == purchase through facebook or TickTok.  Initial purchase in June, 2026.  $35.95 charged unauthorized 6 times.  Issue reported to PayPal, not resolved.  Debit charged to Bank account, latest one to my savings account which is NEVER authorized.  PayPal is doing nothing to assist."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Scammer sent invoice for \"annual service for fax number [our number] for one annual term\" via fax."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Venice, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "A fax was sent from Relay Wire requesting payment for a Annual Service Renewal- 3 year for fax services."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Winnetka, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received fax saying we owe money for our annual fax service."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Recieved Fax Invoice to pay for maintenance on fax line"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "O Fallon, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
     }
   ]
 }
