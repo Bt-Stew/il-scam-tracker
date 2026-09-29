@@ -2,35 +2,83 @@
   "reports": [
     {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Lake In The Hills, IL",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Villa Park, IL",
       "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "An invoice in the amount of $498.85 was received via fax for \"annual fax service for fax number for one annual term\"."
+      "biz": "—",
+      "desc": "The scammer called and demanded to speak with the doctor. She stated her name is Nicole Norberto. Her number is 864-263-7750 ext 103. She stated that the doctor&rsquo;s application for \"Top Women Doctor of America\" was approved. When I told her that the doctor never applied for the application. I told her that the doctor was busy and that she will call back later. (The doctor has no intention to call back). I asked Nicole for her email and she refused to give it."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Riverside, IL",
+      "amt": 0,
+      "biz": "Cracker Barrel",
+      "desc": "Cracker Barrel has a fake website..\nI put my payment information in, and was told failed payment.\nI know realize it&rsquo;s Cracker Barrell with 2 L&rsquo;s on the end. I now know it&rsquo;s a fake website, just wanting my payment info,  it needs to be taken down.  I know need to cancel both the cards I used."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Rockford, IL",
+      "amt": 800,
+      "biz": "Genuine Essiac Tea",
+      "desc": "Genuine Essiac Tea advertises curing and treating various forms of cancer in people and animals. My dad was sold this product after having symptoms in early 2025 of bladder cancer. He took it as directed and spent hundreds of dollars on it. He refused all other treatment as he believe what they were selling. He died 9/10/26. This company needs to be held accountable."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Employment",
+      "city": "Yorkville, IL",
+      "amt": 0,
+      "biz": "VeloMatrix Group",
+      "desc": "This is the full body of the email that was sent to me. I also uploaded a screenshot that included the sender&rsquo;s email address.\nInterview From VeloMatrix Group (September 28, 2026)\nGood day!\nThis is Emma Jones calling about your job interview for the Shipping Quality Checker position at VeloMatrix Group. We are excited to check if you are fit for the role.\nWe need to know if you are interested or not, so we can conduct an interview or take you off the li\nPlease send me an SMS or please call me back at (515) 686 5314. Thank you and have a great da\nLINK ABOUT THE JOB: https://velomatrixgroup.com/guide\n???\nKind regards,\nEmma Jones | HR Department\nDirect number: (515) 686 5314\nVeloMatrix Group\n7175 W Jefferson Ave Unit 417, Lakewood, CO 80235\n(719) 992-7606\nMon-Fri 09:00AM-06:00PM EST\nSat-Sun Closed"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Tax Collection",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Tax Petition Office",
+      "desc": "The spam call states they are calling from a tax petition office in case I still have an IRS or State tax balance that needs to be addressed."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Broadview, IL",
+      "amt": 69.95,
+      "biz": "Emma &Olivia Boutique",
+      "desc": "Ordered a dress.  The dress is not the dress ordered and the size is 2 full size smaller.  Trying to return the dress.  Was given a country of China address and instructed to mail it to China.  Initially the website stated business was in United States.  That would be the cost of the incorrect item mailed to me.  This is a scam.  Nothing like what was purchased off of the website.  Ugh!!!!!!!!"
     },
     {
       "date": "2026-09-28",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Farmersville, IL",
+      "city": "Schaumburg, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "came over the fax machine relay wire 9/25/26  UTC  to 217 227 3607  our time and date not set sorry"
+      "desc": "Received an invoice for a fax service relay / fax number routing for $498.85.  We use fax service relay but not from Relay Wire"
     },
     {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Springfield, IL",
+      "type": "Identity Theft",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a fake invoice via fax from Relay Wire saying we owed for the \"Annual Service Renewal - year 3\" for our fax number."
+      "biz": "Moyra Webb",
+      "desc": "Website tried to debit $12.99 from my account. My bank declined the transaction due to suspicious activity. They cancelled my card and issued me a new one. The day after they issued to the new card, before I even received it, the same company tried to charge 12.99 again. I have no idea how they got this info. I called the bank and they placed a stop payment for the company on my account and all cards associated with it."
     },
     {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Mokena, IL",
+      "type": "Utility",
+      "city": "Wilmington, IL",
       "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Invoice was sent via fax that claimed we owed $498.85 for an Annual fax service for our fax number."
+      "biz": "Relay Wire",
+      "desc": "Received an email invoice for fax services in the amount $498.85.  We had recently switched fax providers so I thought maybe it was real.  Luckily my accounting department realized it was a scam."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Phishing",
+      "city": "Buffalo Grove, IL",
+      "amt": 0,
+      "biz": "Illinois Office for Business Development",
+      "desc": "This number has called repeatedly over the past several weeks, always from the same phone number, asking for information regarding our business. The phone number is a Maine area code, but they claim to be from the illinois office of business development."
     },
     {
       "date": "2026-09-28",
@@ -51,10 +99,34 @@
     {
       "date": "2026-09-28",
       "type": "Identity Theft",
+      "city": "Bolingbrook, IL",
+      "amt": 0,
+      "biz": "mylife.com",
+      "desc": "This is a internet company.  They published my obituary and I am a 82 senior and of course I am not dead.\nI contacted the company and they will not remove the obituary and they aid I have to pay to remove.\nI think this is some scam   Can you help me. Thank you.."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Hillside, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a faxed invoice for fax tracking services claiming it is a 'contract renewal', billing period is one year but for a three year renewal.  (??  Makes no sense).   No phone number given, but email addresses:  Stephanie Wray: swray@relaywire.app    Billing Inquires: billing@relaywire.app    Tech Support:  relaywire.app/help-request/       \"For wire transfers or ACH payments, please contact billing@relaywire.app for instructions\""
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Identity Theft",
       "city": "Oregon, IL",
       "amt": 41.27,
       "biz": "savers club llc id guard llc international readers llc",
       "desc": "accessed bank account without consent and made withdrawals."
+    },
+    {
+      "date": "2026-09-27",
+      "type": "Online Purchase",
+      "city": "Grayslake, IL",
+      "amt": 39.58,
+      "biz": "Flowarmth",
+      "desc": "I saw an ad on facebook for a women&rsquo;s &ldquo;oversized cotton gauze&rdquo; shirt. I ordered 2 of them for $39.58 USD total. I received several suspicious looking tracking emails before and after I received a package containing 2 shirts that were not at all as the ad described&mdash; way too small and of far inferior quality.\nI immediately contacted their support@flowarmth.com website to request return instructions and a full refund. After MANY emails back and forth, they have still failed to provide any return information and have offered me varying dollar amounts for &ldquo;compensation for my troubles&rdquo;, but less than half of what I paid them. I keep refusing those offers and requesting return information and a full refund, but with no response other than an apology and an offer of a few dollars, which they would probably never send even if I agreed to it."
     },
     {
       "date": "2026-09-27",
@@ -66,6 +138,22 @@
     },
     {
       "date": "2026-09-27",
+      "type": "Online Purchase",
+      "city": "Romeoville, IL",
+      "amt": 0,
+      "biz": "Pet finder",
+      "desc": "I received an email on a match for a pet through Petfinder. I responded with my interest. I then received an email asking if I wanted an adoption application and to know more about the dog which I said yes I then filled out the application they responded right away said they needed a deposit I asked health questions. They didn&rsquo;t answer the health questions. They just asked for a deposit. I asked to speak to someone they sent me this phone number phone number was someone that didn&rsquo;t say they were with a business but asked me for the deposit by chime and that was the only way they would take money they wanted $150. I told him I would look into it. They gave me an email to do Apple Pay. I told them I couldn&rsquo;t do Apple Pay. I asked if I could come give them the deposit in person. They told me no then told me I was being rude and unprofessional. I ended up looking up the phone number on Google and found that it was linked to a scam or a hack through Petfinders."
+    },
+    {
+      "date": "2026-09-27",
+      "type": "Moving",
+      "city": "Champaign, IL",
+      "amt": 652,
+      "biz": "Just Bring It LLC",
+      "desc": "Contacted Just Bring It (aka Joe Harris) to schedule moving about 2 weeks ahead of time. He stated it would be $652 for 3 movers for a few hours. We paid upfront via Paypal. The day before our move we reached out to confirm. Did not get any response via multiple texts, phone calls, or emails. The next morning he didn&rsquo;t show up. Have still not heard from him over a week later. Absolutely unprofessional &ldquo;business&rdquo;"
+    },
+    {
+      "date": "2026-09-27",
       "type": "Fake Invoice/Supplier Bill",
       "city": "Kankakee, IL",
       "amt": 0,
@@ -73,52 +161,84 @@
       "desc": "Received a fake invoice for annual fax services for our fax line in the amount of 498.85."
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-25",
       "type": "Online Purchase",
-      "city": "New Baden, IL",
-      "amt": 239.7,
-      "biz": "cartographermarket",
-      "desc": "ACCUSSO, LLC == purchase through facebook or TickTok.  Initial purchase in June, 2026.  $35.95 charged unauthorized 6 times.  Issue reported to PayPal, not resolved.  Debit charged to Bank account, latest one to my savings account which is NEVER authorized.  PayPal is doing nothing to assist."
+      "city": "Des Plaines, IL",
+      "amt": 51.02,
+      "biz": "Easyflexo",
+      "desc": "I purchased a clothing order in June and never received it, all thou I was told it was delivered.  This happened twice."
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
+      "city": "Sheldon, IL",
+      "amt": 0,
+      "biz": "Relay Wire",
+      "desc": "Our business received a fax claiming we owed $498.85 for annual routine invoice for existing fax infastructure"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Phishing",
+      "city": "Crystal Lake, IL",
+      "amt": 0,
+      "biz": "CITYBANK NA",
+      "desc": "We received a letter in the mail. Saying Final Notice.\nWith a citibank fake name on it.\nSeems like they try to get you to call anout a Home Warranty expiring and scam you then"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Warrenville, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received an invoice via fax for annual service renewal. Annual fax service for one annual term"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Scammer sent invoice for \"annual service for fax number [our number] for one annual term\" via fax."
+      "amt": 29.99,
+      "biz": "INTERNET CUSTOMER SERVICE",
+      "desc": "They are potraying to be JOMHOME.COM and when you go on there site to get the phone number you will be talking to INTERNET CUSTOMER SERVICE GROUP who I'm not familiar with the rep was loud and rude plus wouldn't let me talk to a sup had me on hold for more them 45mins until I hung up"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Venice, IL",
+      "city": "Belleville, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "A fax was sent from Relay Wire requesting payment for a Annual Service Renewal- 3 year for fax services."
+      "desc": "This business in an Ear, Nose &amp; Throat physicians' office. 09/25/26 we received faxed copy of Invoice #600121NH from Relay Wire for $498.85. Charges were for \"Annual fax service for fax # 618 239-9492\" (which is our fax #). \"Annual Service Renewal 10/01/26 - 09/30/27. Due 10/25/26. Acct: RWHC309541\"\nAcct Executive: Stephanie Wray - swray@relaywire.app"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Winnetka, IL",
+      "city": "Addison, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax saying we owe money for our annual fax service."
+      "desc": "Received fax invoice for fax services never contracted"
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Chicago, IL",
+      "city": "Loves Park, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Recieved Fax Invoice to pay for maintenance on fax line"
+      "desc": "We got a bill for annal fax service for $498.85.\nWe pay our phone company for the fax phone line."
     },
     {
       "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "O Fallon, IL",
+      "city": "IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
+      "desc": "I received a fax from Relay Wire. This is what it is for:\nIt is an annual renewal invoice for one annual term. Included services fax number routing, web portal access, searchable transmission records, encrypted transmission; service availability monitoring, standard support; and data export functionality."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Advance Fee Loan",
+      "city": "Crystal Lake, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "Calls to tell me I'm approved for a loan i never applied for"
     },
     {
       "date": "2026-09-25",
@@ -127,6 +247,22 @@
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
       "desc": "Faxed fake invoice"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Online Purchase",
+      "city": "Round Lake, IL",
+      "amt": 35,
+      "biz": "Shop Vivly",
+      "desc": "I paid for a scent diffuser from their site. After weeks I emailed and they \"told me\" where my package was. After another week and a half, I asked for a tracking number and they gave me the link to some fraudulent tracking site which basically gave updates like \"truck broke down, delivery not possible, or attempt to deliver made\" . I demanded a refund but they kept saying we can't refund you because it hasnt been delivered yet. A total scam. Scamming hardworking people out of their money, just a bunch of thieves who don't want to work."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Online Purchase",
+      "city": "Elmhurst, IL",
+      "amt": 399.96,
+      "biz": "Nurabeam",
+      "desc": "Purchased a red light therapy device from them.  1 month later they deducted $399.96 from my account saying that I signed up for a subscription for cream/ then claimed that I placed an order for the cream.  This is a blatant lie.  My bank is siding with these scammers who made up documentation that I ordered the cream.  Sadly my bank has also been scammed by them and is refusing to believe a loyal customer for over 20 years.  My research indicates they are scammers based in Portugal.  There is no customer service phone number and the address in Miami Beach Florida is fake.  Florida has no record of this company registered as a business there.  Fake all around.  They will once in awhile answer an email and tell you that they will refund (which never happens)."
     },
     {
       "date": "2026-09-25",
@@ -146,6 +282,14 @@
     },
     {
       "date": "2026-09-25",
+      "type": "Employment",
+      "city": "Cortland, IL",
+      "amt": 0,
+      "biz": "Cornerstone",
+      "desc": "Cornerstone is pretending to be a gig job n sent me 120 dollars to set up online gambling, was contacted by text and email. Was asked to verify my address and personal info in a text to be set up for the online gambling"
+    },
+    {
+      "date": "2026-09-25",
       "type": "Fake Invoice/Supplier Bill",
       "city": "Villa Park, IL",
       "amt": 0,
@@ -161,12 +305,20 @@
       "desc": "Saw a good deal on cargo pants. I was advertised for 2 weeks before I decided to buy them. Payed money and still no product. Tried contacting through email and I fails to deliver"
     },
     {
+      "date": "2026-09-25",
+      "type": "Romance",
+      "city": "Rolling Meadows, IL",
+      "amt": 500,
+      "biz": "—",
+      "desc": "$12"
+    },
+    {
       "date": "2026-09-24",
-      "type": "Online Purchase",
-      "city": "Libertyville, IL",
-      "amt": 0,
-      "biz": "Curve and Bloom",
-      "desc": "I ordered from this website and the order sat at ready to ship for over a week. No details from the company and they refused to cancel order and issue refund. Avoid Curve and Bloom!"
+      "type": "Phishing",
+      "city": "Carlinville, IL",
+      "amt": 39.95,
+      "biz": "The Personality",
+      "desc": "The Personality.com offers a personality test for 1.95 then secretly subscribes you, then several days later debits your account for 39.95"
     },
     {
       "date": "2026-09-24",
@@ -242,11 +394,11 @@
     },
     {
       "date": "2026-09-23",
-      "type": "Tax Collection",
-      "city": "Wonder Lake, IL",
-      "amt": 0,
-      "biz": "No name left",
-      "desc": "Called from number 866-392-4909.\nThis is the voicemail that they left on my phone. I don&rsquo;t owe back taxes. I have an accountant who handles my taxes every year. No identification on who they are as a company. Scam.\nYou can press nine. This is an important alert regarding your past due taxes. As you know, resolution options are time sensitive, and extensions come to an end October 15th. It's crucial we speak to you and get you into a resolution program. Give us a call as soon as you get this at 775-438-1723 regarding stopping further collection activity, that's 775-438-1723. We look forward to hearing from you and reaching a resolution."
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 445,
+      "biz": "Loan club.com",
+      "desc": "I was informed to get a loan I sent a cvs card for the loan"
     },
     {
       "date": "2026-09-23",
@@ -322,11 +474,11 @@
     },
     {
       "date": "2026-09-22",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 44.66,
-      "biz": "The Art of Hippy Potter",
-      "desc": "Hello,\nThe owner of this website has not provided any shipping information, nor responded to any e-mail inquires regarding the shipping information. Initial receipt stated 5 top 7 business days for shipping. Left in the dark regarding order. He portraits himself as an artist yet no product information has been divulged. Their handle on X (twitter) is @ItsHippyPotter"
+      "type": "Other",
+      "city": "Alton, IL",
+      "amt": 0,
+      "biz": "No e given",
+      "desc": "See attachment"
     },
     {
       "date": "2026-09-22",
@@ -402,11 +554,11 @@
     },
     {
       "date": "2026-09-21",
-      "type": "Phishing",
-      "city": "Rockford, IL",
+      "type": "Retail Business",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Advanced Cash",
-      "desc": "I received an email saying I owed money to Cash Advanced.   I never borrowed money from them and each email that I get is from a supposedly a lawyer's office"
+      "biz": "Company: Don’s Tractor House * Location: Little Rock, Iowa 51243",
+      "desc": "$26"
     },
     {
       "date": "2026-09-20",
@@ -481,12 +633,12 @@
       "desc": "I was looking for a way to apply for a new passport because I lost mine and was in a rush. I paid $199 to apply for a new passport thinking it was for a government agency"
     },
     {
-      "date": "2026-09-18",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 825,
-      "biz": "Glamfiend",
-      "desc": "Placed a custom order. Was told item would arrive Sep 14th. Sep 16th came and still no tracking information. I reached out to the company multiple times on about 4 different platforms with NO RESPONSE. Called the company number was not in service. Tried going back on the website and the website was completely gone!!!! Contacted affirm to assist with an update and the merchant finally replied but not with an update but with an ATTITUDE SAYING THAT THEY WILL NOT COMMUNICATE WITH ME ANYMORE BECAUSE I INQUIRED ABOUT MY PASSED DUE $825 order!!! Website is mysteriously back up and accepting orders!!! No refund or update has been issued. Waiting on affirm."
+      "date": "2026-09-20",
+      "type": "Government Agency Imposter",
+      "city": "Downers Grove, IL",
+      "amt": 105.9,
+      "biz": "PVR Passport",
+      "desc": "I was getting a renewed passport for my 14 year old daughter. it asked for her passport number, social security number and a check #. I wondered why it did not ask for an updated photo, and it gave me a ticket # but nothing came from that and I can't find the site."
     },
     {
       "date": "2026-09-18",
@@ -561,12 +713,12 @@
       "desc": "I placed a one-time order which was never received, although payment was taken promptly. I could not find any contact information so sent an email through their website. There was no response to 3 different messages sent. 30-days later they charge my card again. I have this in dispute and hope that's the end of the scam."
     },
     {
-      "date": "2026-09-17",
-      "type": "Debt Collections",
+      "date": "2026-09-18",
+      "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Trustmark Solutions Group",
-      "desc": "$24"
+      "biz": "CM",
+      "desc": "Here is the message:\nCM: Victoria your $6,600 spending card for food, gas &amp; utilities has been confirmed.\nReply CARD to claim yours before it expires.\nText STOP to unsubscribe.\nFrom number: 42474"
     },
     {
       "date": "2026-09-17",
@@ -582,7 +734,7 @@
       "city": "Joliet, IL",
       "amt": 168,
       "biz": "Pay Laterr",
-      "desc": "$25"
+      "desc": "$24"
     },
     {
       "date": "2026-09-17",
@@ -641,165 +793,13 @@
       "desc": "They claim to provide real pearls, but after having a jeweller check it, it turned out to be some kind of plastic. I would never pay that kind of money for plastic. The product description is misleading and fake."
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 42,
-      "biz": "Solbrace",
-      "desc": "Solbrace advertises returns but I&rsquo;ve emailed them 4 times to initiate a return and never received a response.  Their website says they&rsquo;ll respond to return requests in 2 business days.  My first email was sent 3 weeks ago and still no response."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Processing Department",
-      "desc": "Voicemail said \"This is (garbled) with processing department. Our office has received preliminary paperwork and this phone number was listed as a possible contact number for the individual we're attempting to obtain updated location information for. Please return our call at your earliest convenience so we can stop any further skip tracing efforts and work toward an amicable resolution over the next few days. We appreciate your cooperation and look forward to speaking with you."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Nauvoo, IL",
-      "amt": 0,
-      "biz": "Vividseats.com",
-      "desc": "This company is advertising tickets for The Legacy Theater in Carthage, Illinois at a 50% increased price than what we sell them for.  They are offering parking packages, which we do not offer.  They are doing this without our authorization to do so.  We want to have them cease and desist offering tickets to our theater."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Rockton, IL",
-      "amt": 0,
-      "biz": "Corporate Filings",
-      "desc": "The form received was CF1003 requesting a corporate filing fee of $136.22."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Simpson, IL",
-      "amt": 50,
-      "biz": "support@mail.mizuthread.com",
-      "desc": "Fake plastic teeth that were supposed to be silicone dentures no way to get a refund. Can't find anything but email. No response from it"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Online Purchase",
-      "city": "Xenia, IL",
-      "amt": 38,
-      "biz": "Micro Mist",
-      "desc": "I ordered a Micro Mist portable Nebulizer and I used it twice and it quit. I contacted the company, they told me to send a video of it not working and I did. I haven't heard back since I sent the video. I'm mad and want my money back."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Clear Path Financial",
-      "desc": "Consistent harassment from this phone number about an \"Ashley\" claiming I filed for a 10k loan."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Debt Collections",
-      "city": "Chicago Ridge, IL",
-      "amt": 0,
-      "biz": "Kirkland Meyers",
-      "desc": "Calling pretending I owe debt and other family members too, leaves an automatic robotic message"
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Phishing",
-      "city": "Highland, IL",
-      "amt": 0,
-      "biz": "rosenberg and associates",
-      "desc": "receiving mutliple calls a dayf rom multiple numbers 636-402-6143 407-479-85797   302-216-7568  270-368-4346  406-313-4581  505-444-2036  872-762-0176 has been gong on for months.  no idea who these people are.  all hours of the day and night.  i block number and they clone antoher number to call from."
-    },
-    {
-      "date": "2026-09-16",
-      "type": "Credit Cards",
-      "city": "Melrose Park, IL",
-      "amt": 0,
-      "biz": "Chase",
-      "desc": "This person called speaking speak telling me that there were some suspicious Zelle transactions in my account. Then he attempted to read the names like if I knew them. Then he told me that the transaction came from a iPhone 8 and then tried to confirm my information. I didn't give him any information then I told him that I would go in person to bank and he quickly thanked me and hung up"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Washington, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "The front of the envelope reads public Safety Crime Center, *****&nbsp;vehicle owner antitheft tracking information enclosed.\nThe inside has a pin number and a notice date a phone number with 1-833-363-3303 LIST the make and model of our car and let us know that it&rsquo;s gonna give us complementary antitheft programming while I was tracking."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Washington, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Letter states our records indicate that you have not contacted us to have your vehicle service  contract activated. We are informing you that if your factory warranty has expired, you will be responsible for paying any repairs however with expired you can still activate a service contract on your vehicle before it&rsquo;s too late please call 188-488-3280 today then it reads a summary of terms with different dates and monetary information TBD it gives important vehicle information like what kind of engine it is 4 x 4 GPS, etc.."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 195,
-      "biz": "Aptive Pest Control",
-      "desc": "$12"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 100,
-      "biz": "United Recovery Solutions",
-      "desc": "$13"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Advance Fee Loan",
-      "city": "Niles, IL",
-      "amt": 0,
-      "biz": "Fig Lending",
-      "desc": "phone call goes direct to message.  contact to complete a loan that i did not request. includes legit lender name but phone number that has already been reported to BBB.  I did not respond and marked the message as spam."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Advance Fee Loan",
-      "city": "Downers Grove, IL",
-      "amt": 0,
-      "biz": "United Covenant Financial",
-      "desc": "Offerred personal loan regardles of credit score at 5% interest"
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Other",
-      "city": "Elmwood, IL",
-      "amt": 375,
-      "biz": "Stevenson Homes",
-      "desc": "The business had a property for rent and we paid the application fee, and the deposit and half of the cleaning fee to see the property for our son to move into to attend Palmer Chiropractic College.  They never showed up to show us the property.  And after our meeting time was over an hour past the scheduled time frame they told us we needed to pay half of the rent which we didn't pay.  We also drove an hour and a half from Illinois to Davenport Iowa.  And the time they asked for additional money once we were in Iowa we realized that we were scammed.  The money that we did pay them was done through the Cash App."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Online Purchase",
-      "city": "Prospect Heights, IL",
-      "amt": 0,
-      "biz": "Sihan Wang",
-      "desc": "Packages sent daily.  None were ordered. No evidence of charges made.  The sender nor the post office can stop it.  We are waiting for a negative consequence.  Concerned."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Online Purchase",
-      "city": "Minooka, IL",
-      "amt": 5000,
-      "biz": "Outdoor Lighting Pros",
-      "desc": "Paid $5,000 for outdoor light installation of Govee lights. They didn't show up when they were supposed to, were extremely disorganized, then after the work was finally completed only 30% of the lights work because they did not wire them correctly, and 82 of the lights were hanging off the house not attached correctly. When attempting to get this fixed they refused to come back out, told us to contact the light manufacturer. The lights are not broken, they're wired incorrectly and the wires are butchered. Nothing the light manufacturer can or should do about this, this is the installers fault. When attempting to contact them again they had their wife, and then their sister respond saying we were being unreasonable and \"its just lights\". We gave them $5,000 for them to essentially ruin the wires on our lights and have them not work."
-    },
-    {
-      "date": "2026-09-15",
-      "type": "Phishing",
-      "city": "Tremont, IL",
-      "amt": 0,
-      "biz": "RBI Debt Collector",
-      "desc": "Call RBI - Debt Collector at 8889779729 or visit payxray.com for a payment plan that fits your needs. We can help you get back on track. To optout txt STOP"
+      "amt": 29,
+      "biz": "Hausly Goods",
+      "desc": "I ordered a vanity table that never arrived nor was ever shipped it seems. Have tried contacting customer support with no answer. Also had unusual charges on my card a couple weeks later but unsure if it&rsquo;s related"
     }
   ],
-  "total_on_file": 24544
+  "total_on_file": 24593
 }

@@ -6,35 +6,83 @@
   "reports": [
     {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Lake In The Hills, IL",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Villa Park, IL",
       "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "An invoice in the amount of $498.85 was received via fax for \"annual fax service for fax number for one annual term\"."
+      "biz": "—",
+      "desc": "The scammer called and demanded to speak with the doctor. She stated her name is Nicole Norberto. Her number is 864-263-7750 ext 103. She stated that the doctor&rsquo;s application for \"Top Women Doctor of America\" was approved. When I told her that the doctor never applied for the application. I told her that the doctor was busy and that she will call back later. (The doctor has no intention to call back). I asked Nicole for her email and she refused to give it."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Riverside, IL",
+      "amt": 0,
+      "biz": "Cracker Barrel",
+      "desc": "Cracker Barrel has a fake website..\nI put my payment information in, and was told failed payment.\nI know realize it&rsquo;s Cracker Barrell with 2 L&rsquo;s on the end. I now know it&rsquo;s a fake website, just wanting my payment info,  it needs to be taken down.  I know need to cancel both the cards I used."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Rockford, IL",
+      "amt": 800,
+      "biz": "Genuine Essiac Tea",
+      "desc": "Genuine Essiac Tea advertises curing and treating various forms of cancer in people and animals. My dad was sold this product after having symptoms in early 2025 of bladder cancer. He took it as directed and spent hundreds of dollars on it. He refused all other treatment as he believe what they were selling. He died 9/10/26. This company needs to be held accountable."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Employment",
+      "city": "Yorkville, IL",
+      "amt": 0,
+      "biz": "VeloMatrix Group",
+      "desc": "This is the full body of the email that was sent to me. I also uploaded a screenshot that included the sender&rsquo;s email address.\nInterview From VeloMatrix Group (September 28, 2026)\nGood day!\nThis is Emma Jones calling about your job interview for the Shipping Quality Checker position at VeloMatrix Group. We are excited to check if you are fit for the role.\nWe need to know if you are interested or not, so we can conduct an interview or take you off the li\nPlease send me an SMS or please call me back at (515) 686 5314. Thank you and have a great da\nLINK ABOUT THE JOB: https://velomatrixgroup.com/guide\n???\nKind regards,\nEmma Jones | HR Department\nDirect number: (515) 686 5314\nVeloMatrix Group\n7175 W Jefferson Ave Unit 417, Lakewood, CO 80235\n(719) 992-7606\nMon-Fri 09:00AM-06:00PM EST\nSat-Sun Closed"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Tax Collection",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Tax Petition Office",
+      "desc": "The spam call states they are calling from a tax petition office in case I still have an IRS or State tax balance that needs to be addressed."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Broadview, IL",
+      "amt": 69.95,
+      "biz": "Emma &Olivia Boutique",
+      "desc": "Ordered a dress.  The dress is not the dress ordered and the size is 2 full size smaller.  Trying to return the dress.  Was given a country of China address and instructed to mail it to China.  Initially the website stated business was in United States.  That would be the cost of the incorrect item mailed to me.  This is a scam.  Nothing like what was purchased off of the website.  Ugh!!!!!!!!"
     },
     {
       "date": "2026-09-28",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Farmersville, IL",
+      "city": "Schaumburg, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "came over the fax machine relay wire 9/25/26  UTC  to 217 227 3607  our time and date not set sorry"
+      "desc": "Received an invoice for a fax service relay / fax number routing for $498.85.  We use fax service relay but not from Relay Wire"
     },
     {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Springfield, IL",
+      "type": "Identity Theft",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a fake invoice via fax from Relay Wire saying we owed for the \"Annual Service Renewal - year 3\" for our fax number."
+      "biz": "Moyra Webb",
+      "desc": "Website tried to debit $12.99 from my account. My bank declined the transaction due to suspicious activity. They cancelled my card and issued me a new one. The day after they issued to the new card, before I even received it, the same company tried to charge 12.99 again. I have no idea how they got this info. I called the bank and they placed a stop payment for the company on my account and all cards associated with it."
     },
     {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Mokena, IL",
+      "type": "Utility",
+      "city": "Wilmington, IL",
       "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Invoice was sent via fax that claimed we owed $498.85 for an Annual fax service for our fax number."
+      "biz": "Relay Wire",
+      "desc": "Received an email invoice for fax services in the amount $498.85.  We had recently switched fax providers so I thought maybe it was real.  Luckily my accounting department realized it was a scam."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Phishing",
+      "city": "Buffalo Grove, IL",
+      "amt": 0,
+      "biz": "Illinois Office for Business Development",
+      "desc": "This number has called repeatedly over the past several weeks, always from the same phone number, asking for information regarding our business. The phone number is a Maine area code, but they claim to be from the illinois office of business development."
     },
     {
       "date": "2026-09-28",
@@ -55,74 +103,26 @@
     {
       "date": "2026-09-28",
       "type": "Identity Theft",
+      "city": "Bolingbrook, IL",
+      "amt": 0,
+      "biz": "mylife.com",
+      "desc": "This is a internet company.  They published my obituary and I am a 82 senior and of course I am not dead.\nI contacted the company and they will not remove the obituary and they aid I have to pay to remove.\nI think this is some scam   Can you help me. Thank you.."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Hillside, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "Received a faxed invoice for fax tracking services claiming it is a 'contract renewal', billing period is one year but for a three year renewal.  (??  Makes no sense).   No phone number given, but email addresses:  Stephanie Wray: swray@relaywire.app    Billing Inquires: billing@relaywire.app    Tech Support:  relaywire.app/help-request/       \"For wire transfers or ACH payments, please contact billing@relaywire.app for instructions\""
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Identity Theft",
       "city": "Oregon, IL",
       "amt": 41.27,
       "biz": "savers club llc id guard llc international readers llc",
       "desc": "accessed bank account without consent and made withdrawals."
-    },
-    {
-      "date": "2026-09-27",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 39.99,
-      "biz": "Kiera Simone",
-      "desc": "A sweater was purchased in March.  Shipping information was sent via email as though it was a legitimate order.  I realized two months later the order never arrived and contacted customer service.  I was told the address supplied was incorrect (it wasn't) and I supplied it again.  Outreach continued to customer service over several months with the same explanation that the address supplied was either incomplete or the address rejected the shipment.  Neither were accurate and the address was supplied two additional times.  Customer service was advised the shipping address was an office building with a mail room and does not reject shipments.  Customer service refuses to refund in full and would like to hold 20%."
-    },
-    {
-      "date": "2026-09-27",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Kankakee, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received a fake invoice for annual fax services for our fax line in the amount of 498.85."
-    },
-    {
-      "date": "2026-09-27",
-      "type": "Online Purchase",
-      "city": "New Baden, IL",
-      "amt": 239.7,
-      "biz": "cartographermarket",
-      "desc": "ACCUSSO, LLC == purchase through facebook or TickTok.  Initial purchase in June, 2026.  $35.95 charged unauthorized 6 times.  Issue reported to PayPal, not resolved.  Debit charged to Bank account, latest one to my savings account which is NEVER authorized.  PayPal is doing nothing to assist."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Scammer sent invoice for \"annual service for fax number [our number] for one annual term\" via fax."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Venice, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "A fax was sent from Relay Wire requesting payment for a Annual Service Renewal- 3 year for fax services."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Winnetka, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax saying we owe money for our annual fax service."
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Recieved Fax Invoice to pay for maintenance on fax line"
-    },
-    {
-      "date": "2026-09-25",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "O Fallon, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received fax of invoice for payment for faxing services for annual renewal"
     }
   ]
 }
