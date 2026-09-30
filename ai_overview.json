@@ -4,166 +4,106 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Recent alerts from the Better Business Bureau of Central Illinois and local law enforcement highlight a significant surge in sophisticated scams across the region, including phone spoofing, phishing texts, and imposter cons.",
-      "snippet_links": [
-        {
-          "text": "Better Business Bureau of Central Illinois",
-          "link": "https://www.centralillinoisproud.com/news/local-news/scams-increase-62-percent/"
-        }
-      ]
+      "snippet": "Law enforcement and consumer protection agencies report several active impersonation, bank, and rental scams circulating across Central Illinois."
     },
     {
       "type": "heading",
-      "snippet": "Common Active Scams in Central Illinois"
+      "snippet": "Active Scams in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Government & Law Enforcement Impersonation: Scammers pose as the U.S. Attorney\u2019s Office , local sheriff's offices (such as and Sangamon counties), or municipal police departments. They claim victims have missed court, face active warrants, or need to pay for GPS ankle monitors, demanding immediate payment over the phone."
+          "snippet": "Pekin City Official Impersonation: Scammers are sending fake invoices and fraudulent notices on what looks like official city letterhead to collect money, targeting individuals who recently appeared before the zoning board of appeals ."
         },
         {
-          "snippet": "DMV & Utility Phishing Texts: Fraudulent text messages mimicking the Illinois DMV/Secretary of State or I-Pass/Illinois Tollway claim that license statuses are expiring or tolls are unpaid, pushing users to click malicious phishing links ."
+          "snippet": "Pretrial Services Scam: The Champaign County Sheriff's Office warns that callers pose as the Illinois Office of Statewide Pretrial Services, demanding payment over the phone for GPS monitoring devices or supervision to secure a loved one's release ."
         },
         {
-          "snippet": "Online Shopping & Fake Tariffs: Fake retail sites advertised on social media offer steep discounts, then follow up post-purchase claiming extra money must be wired to cover unexpected \"customs tariffs\" before the item ships ."
+          "snippet": "Bank & FTC Impersonation Calls: Agencies like the Woodford County Sheriff's Office and CEFCU report scammers claiming to be from banks or the Federal Trade Commission, telling victims their accounts are compromised and instructing them to withdraw cash or transfer funds into Bitcoin ATMs ."
         },
         {
-          "snippet": "Rental & Housing Fraud: Scammers lift photos of real Central Illinois properties to post fake online rental listings, or circulate bogus Section 8 housing waitlist flyers on Facebook to harvest personal data from college students and families ."
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "How to Protect Yourself"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Never pay over the phone: Legitimate government agencies, courts, and police departments will never demand immediate payment via gift cards, Bitcoin, or phone transfers ."
+          "snippet": "DMV Smishing Texts: The Illinois Secretary of State's office warns of fraudulent text messages claiming driving privileges or vehicle registrations will be suspended unless action is taken."
         },
         {
-          "snippet": "Do not click links in texts: Unsolicited SMS alerts from services like Netflix, delivery couriers, or state offices should be ignored or verified independently through official websites."
-        },
-        {
-          "snippet": "Verify directly: If you receive a worrisome call claiming to be from a local sheriff or agency, hang up and call the official department number listed on their verified municipal website."
+          "snippet": "College Rental Fraud: The Better Business Bureau (BBB) of Central Illinois highlights rental listings that reuse stolen property photos online to collect fake deposits and first-month rent from students and residents."
         }
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you want to report a specific incident or need information on a different type of fraud, tell me what kind of suspicious message or call you received so I can provide more tailored safety steps."
+      "snippet": "If you want, let me know:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "The type of scam or suspicious contact you experienced (phone call, text, or letter)"
+        },
+        {
+          "snippet": "The specific town or county in Central Illinois where it happened"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "I can share more specific warning signs or provide official contact numbers to verify the communication."
     }
   ],
   "references": [
     {
-      "title": "Better Business Bureau warns of surge in scams as cases ...",
-      "link": "https://www.centralillinoisproud.com/news/local-news/scams-increase-62-percent/",
-      "snippet": "According to the BBB, more than 81,000 scams have already been reported so far this year, marking a 62% increase compared to this time last year.",
+      "title": "Pekin police warn of scammers attempting to impersonate city ...",
+      "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/",
+      "snippet": "Pekin police warn of scammers attempting to impersonate city officials by: Sean Lisitza Posted: Jul 16, 2026 / 03:19 PM CDT Updated: Jul 16, 2026 / 03:19 PM CDT by...",
       "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPSqHh93z63Itv5fRQOQtLpS3qNE5Nt6ZyHGXNi_pB1-oxn2-OQ1DwmIY2xMazyMl7A54eCt4euJoLIzQXjMAhljrc",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ_VpfqKmDbYPqgI9fUlHryHv-aoy_pmK6A8X1wI8YEdIoehA2jPGt3eR2h_7-0PKdoAH46DoRlXAEpXyJvLR4WES3HonrmKftdmrz",
       "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 0
     },
     {
-      "title": "U.S. Attorney's Office for the Central District of Illinois warns ...",
-      "link": "https://prairiepress.net/stories/us-attorneys-office-for-the-central-district-of-illinois-warns-about-phone-spoofing-scam,161276",
-      "snippet": "Illinois warns about phone spoofing scam * These callers may claim to be employees of the U.S. Attorney's Office, use the names of real staff members,",
-      "source": "The Prairie Press",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM7CgnuL7wz6_7LAihVykWLyT75aoCt9xCV8PHaz8rbaRNsdgSrv5Bm_sV6sSkRWUEABfbx01NnDW43d-SSuO4k0GtMPbukyO0qB8g",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://prairiepress.net&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Champaign Co. Sheriff warns of Pretrial Services ...",
+      "link": "https://www.wcia.com/news/champaign-county/champaign-co-sheriff-warns-of-pretrial-services-impersonation-scam/",
+      "snippet": "Champaign Co. Sheriff warns of Pretrial Services impersonation scam by: Bradley Zimmerman Posted: Mar 23, 2026 / 08:08 PM CDT Updated: Mar 23, 2026 / 08:08 PM CDT ...",
+      "source": "WCIA.com",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIQW61X2AazQC8pQo3J3V9STJdlsFJQvTnFWPs3wXYw-TfDm-ElOCaCpOfxNK0fkm-sK79HDRWcB5XFnfoQXW8dRjAWZQ9aGjYDASH",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 1
     },
     {
-      "title": "Police warn of scam targeting McLean County residents",
-      "link": "https://www.centralillinoisproud.com/news/local-news/scam-alert-mclean-county/",
-      "snippet": "Scammers are calling people while pretending to be from the police department or sheriff's office,",
+      "title": "Sheriff's Office alerts residents about bank scams",
+      "link": "https://www.centralillinoisproud.com/news/local-news/phone-scam-warning-eureka/",
+      "snippet": "Woodford County Sheriff's Office warns of increase in bank caller scams According to a Facebook post by the sheriff's office, the scam caller often claims to be fr...",
       "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc3ejH2ItPbSYjvGbhBtnkOlvO9RcdHNpJX_KYNLA8Z7pgHJNPMk2wYrE0qqrmDBNXfF6GCFosLzUhaFC9IMQQOnbnGtoAEDzhWugQ",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTywOflShKgbLYdra6vRuY6lLfgnX7PwiCjih9tLsgz0c1mouLN6dygc3U4SQKC-dT4AAasV9TkPZh0_-Q_b1jcxHeYnDveTlYiS9N0",
       "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 2
     },
     {
-      "title": "Champaign Co. Sheriff warns of Pretrial Services ...",
-      "link": "https://www.wcia.com/news/champaign-county/champaign-co-sheriff-warns-of-pretrial-services-impersonation-scam/",
-      "snippet": "The Champaign County Sheriff's Office is warning of a scam that they said is targeting family members of people in custody.",
-      "source": "WCIA.com",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIQW61X2AazQC8pQo3J3V9STJdlsFJQvTnFWPs3wXYw-TfDm-ElOCaCpOfxNK0fkm-sK79HDRWcB5XFnfoQXW8dRjAWZQ9aGjYDASH",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "CEFCU alerts members about rising imposter scams",
+      "link": "https://www.centralillinoisproud.com/news/local-news/peoria-illinois-imposter-scams/",
+      "snippet": "CEFCU warning members of increase in imposter scams by: Austin Feaman, Josh Seabaugh Posted: Dec 19, 2025 / 06:07 PM CST Updated: Dec 19, 2025 / 06:08 PM CST by: A...",
+      "source": "CIProud.com",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtBvSMtaafh7lL9PTzWV4DJ4m2sZHa4rMDh1QoYeSIHPoXWmdyRK7VH195E4Y3lnFluMN8a1OhmoaaeF1Qay8q8gQ",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 3
     },
     {
-      "title": "Sangamon Co. Sheriff warning community of ankle monitor scam",
-      "link": "https://www.wcia.com/news/sangamon-county/sangamon-co-sheriff-warning-community-of-ankle-monitor-scam/",
-      "snippet": "The Sangamon County Sheriff's Office is warning of a phone scam they've been made aware of that is targeting members of the community.",
-      "source": "WCIA.com",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQpFHNIZNc4ASA13yanw1SSvN0HstrGDUbwS6K4UgJOlIoYjG1ON5Tghqs1faW7rY7GHwo1PS_rVzsb_pQwHy4VmLdnGn52oguKt10",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "title": "Illinois Secretary of State warns of DMV text scams",
+      "link": "https://www.centralillinoisproud.com/news/top-stories/illinois-dmv-scam-warning/",
+      "snippet": "Illinois Secretary of State warns of DMV text scams by: Sean Lisitza Posted: Jan 16, 2026 / 04:05 PM CST Updated: Jan 16, 2026 / 04:06 PM CST by: Sean Lisitza Post...",
+      "source": "CIProud.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP4HacxQWHtHSMLozj7fYOcbev2aHb2BXE9RCjqKdYst9zQYdh5ZDB7E8dr7H1iVQ4RGDqSFe3vwrzbStYq3XilKRzxYWT0p2PdCN7",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "index": 4
-    },
-    {
-      "title": "Woodford Sheriff warning residents of new phishing scam",
-      "link": "https://www.centralillinoisproud.com/news/local-news/woodford-sheriff-warning-residents-of-new-phishing-scam/",
-      "snippet": "Illinois Tollway is advising all I-Pass customers to ignore recent texts asking for outstanding toll fees. Anyone who receives these texts is encouraged to file a...",
-      "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF5XilQGWcsruKBFOT13Kz6TIKA5Kvw49ocCHUUOGP2IRleA0tStqOAjb-_vyeeTj6uwvRabIkLpkHVp-tMol78MXK",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 5
-    },
-    {
-      "title": "Giannoulias warns about rise in DMV text scams",
-      "link": "https://evanstonroundtable.com/2025/05/27/giannoulias-warns-about-rise-in-dmv-text-scams/",
-      "snippet": "The office only sends text messages to remind residents about scheduled DMV appointments. It does not send text messages regarding driver's license or vehicle",
-      "source": "Evanston RoundTable",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRK2RsCSxsz1PzK8awiaQRe45phcxzoCgOdWV36U9agY4JdNf7uwk6s0Mkjv_73569xAlasbrIJGuQd54a4KmkFFI2nIB3w2s57KJvW",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evanstonroundtable.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 6
-    },
-    {
-      "title": "Better Business Bureau warns of online shopping scams",
-      "link": "https://www.centralillinoisproud.com/news/local-news/online-shopping-scam-bbb/",
-      "snippet": "These scammers pose as reputable companies selling products for a much lower price, using ads on social media to lure victims into purchasing their items",
-      "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcl_mE00oTs43_oltw3SoYt7K8IHXtWGiIniARdUgmhIRcvKRcD8SDrFrkxJgcpAp-BPzr1MQ4jzjTU1zy5-e7zA7r",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 7
     },
     {
       "title": "As 60 people fell victim to rental scams in Central Illinois over ...",
       "link": "https://www.25newsnow.com/video/2025/08/12/60-people-fell-victim-rental-scams-central-illinois-over-past-year-bbb-warns-college-students-watch-out/",
-      "snippet": "Scammers copy photos and descriptions of properties to post online and try to collect deposits and first month's rent.",
+      "snippet": "it is movein time at the college and the university. level for students and the fall semester. but the BBB has a warning renters b...",
       "source": "WEEK | 25 News Now",
       "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxR6g2rOjFM5y61AUKE8k_mYaiP_n2cWZNfPGVnWq_3LQi_v8WoTxCTHsUUYXJ9e73CaHFKkcBZwzLPNxUyt1hvgbW",
       "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 8
-    },
-    {
-      "title": "Illinois Housing Development Authority signals alarm on new scam",
-      "link": "https://www.centralillinoisproud.com/news/local-news/illinois-housing-development-authority-signals-alarm-on-new-scam/",
-      "snippet": "Scammers are pretending to be the Illinois Housing Development Authority online, a new waitlist for specific homes as part of the Section 8 Housing Choice Voucher...",
-      "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wnvlCT5lyjqbnYgHTFJ5jt4vusZaHKiS1iRqNybCu-HGCwjqRTTFYAyA2FQ6CwzWJVNTmeCpxK4gHMuA_AReBrynr4z15DoKMMR7",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 9
-    },
-    {
-      "title": "Canton police warning public about local scams",
-      "link": "https://www.centralillinoisproud.com/news/local-news/canton-police-warning-public-about-local-scams/",
-      "snippet": "Canton Police warn that government employees will never call to collect debts, and will not accept payment in the form of gift cards.",
-      "source": "CIProud.com",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj-sIe-KTGQNlkI3aP42GNieUebvBHwXAnQVNsvijzYfKl2pgheGgn8GUd6IogOcMv_pEoIwuFwhjG5gsOL6RKonldszlJmjwo3q7H",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 10
-    },
-    {
-      "title": "How to Avoid Scams this Holiday Season",
-      "link": "https://cms.illinois.gov/benefits/stateemployee/bewell/financialwellness/december2023-hot-to-avoid-scams-this-holiday-season.html",
-      "snippet": "Avoid this scam by not clicking on every link you see, being careful with who you give your credit card information to and ensuring you're visiting real stores.",
-      "source": "Illinois Central Management Services (.gov)",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThJw6d0PrEDb49ZlmwXVT74Q3pWcyFFRdW5Yue89We_82HTssrsBY5tIkKEoQIaZ4RYNTLcpaCf5d-m3zvnGrwKLg",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cms.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "index": 11
+      "index": 5
     }
   ]
 }
