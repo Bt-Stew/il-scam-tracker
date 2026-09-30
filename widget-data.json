@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-09-30",
+      "type": "Online Purchase",
+      "city": "Edwardsville, IL",
+      "amt": 65.99,
+      "biz": "Try Strawberry",
+      "desc": "I placed an order for lotion through trystrawberry.com.  I received an order number and a response that the order would be shipped within 7-10 days.  After multiple attempts to contact and receive tracking number for this order via email, I never received an email, just lots of excuses about customer service and order issues.  One month later, the order has never been received and they have stopped responding to the emails on requests for tracking information.  After researching online, I have found multiple people that had similar issues with this company."
+    },
     {
       "date": "2026-09-29",
       "type": "Phishing",
@@ -14,11 +22,51 @@
     },
     {
       "date": "2026-09-29",
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Murphysboro, IL",
+      "amt": 244.95,
+      "biz": "Reservaion Stays",
+      "desc": "Posed as a booking website for hotels. You are able to book the room and apply for \"cancellation policy\" However they make it very difficult to cancel and will not refund the card use but request bank information for the return. When I attempted to contact costumer service I was hung up on. Despite me paying extra for a cancellation policy they will not refund my money nor provide any assistance."
+    },
+    {
+      "date": "2026-09-29",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Nexfund",
+      "desc": "(833) 514-0553: Hi [XXXXXXXX], Alexis here from Nexfund. I am following up on your personal loan request for $40,000. Text END to opt out. If you no longer need the $40,000 just let me know. Otherwise, do you have a few minutes now to talk? You can also reach us by calling (847) 595-5389."
+    },
+    {
+      "date": "2026-09-29",
+      "type": "Credit Cards",
+      "city": "Gilberts, IL",
+      "amt": 0,
+      "biz": "Citibank",
+      "desc": "Impostor called from that number pretending to be a Citibank representative. Gave me last 4 of a Mastercard Credit Card which I didn't recognize, a told me the card I had applied for in weeks ago (which I didn't) had been used to purchase firearms in NY. I asked for their information, they claimed to be someone named  \"Lee Morgan\" and they gave me a local number starting with 224 (from Chicago). I blocked the 800 number and didn't try calling them back."
+    },
+    {
+      "date": "2026-09-29",
+      "type": "Online Purchase",
+      "city": "Zion, IL",
+      "amt": 170,
+      "biz": "JP maxx inc",
+      "desc": "I bought a hair shaver and it doesn&rsquo;t cut hair. I tried to return product and they refused to refund me"
+    },
+    {
+      "date": "2026-09-29",
       "type": "Fake Invoice/Supplier Bill",
       "city": "Troy, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
       "desc": "Scammer sent an invoice via fax for a fax line stating we owed $498.85 for an annual renewal of our fax. It looks like an invoice with an invoice #, invoice date, Payment terms, contract ref, due date, and account number.  It goes on to say that this is an annual service renewal - year 3 with our fax #, qty, rate and amount.  The states included services.  At the bottom is a Payment Stub that is to be detached and returned to Relay Wire."
+    },
+    {
+      "date": "2026-09-29",
+      "type": "Online Purchase",
+      "city": "Bourbonnais, IL",
+      "amt": 50.18,
+      "biz": "konluka",
+      "desc": "I am filing this complaint regarding an order I placed with Konluka (konluka.com).\nI placed an order for 2 caps and paid 50.18 using my credit card.\nKonluka provided me with a tracking number, but the tracking information did not show a completed delivery to my address. Despite the tracking information, I never received the merchandise I paid for.  I contacted them and the credit card company but did not get a refund from them."
     },
     {
       "date": "2026-09-29",
@@ -37,92 +85,44 @@
       "desc": "Received a single page fax from an unfamiliar phone number, with a non-local area code. The area code is from the same state, however."
     },
     {
-      "date": "2026-09-29",
-      "type": "Phishing",
-      "city": "Elgin, IL",
-      "amt": 0,
-      "biz": "Grand Cave law office",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Counterfeit Product",
-      "city": "Mendota, IL",
-      "amt": 60,
-      "biz": "Bella Hudson",
-      "desc": "The product was a horrible knockoff and looked nothing like the picture and they lied about the return policy. They post pictures of dresses to sell that they do not have and give u a cheap knockoff that looks nothing like the dress"
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Phishing",
-      "city": "Aurora, IL",
-      "amt": 88.9,
-      "biz": "ARVOXTECHPULSEOUTLETSU CANDLER USA",
-      "desc": "It was on a Home Depot website. Take 5 minutes to complete a survey to have your name entered into a drawing to win a free garden utility cart, you  just pay a processing and shipping fee. I completed the survey, then they ask for credit card information, to what I thought was for the processing and shipping fee. Next thing I get is a note saying thank you for your payment of $11.95 for entering your name in the drawing to win the free garden utility cart. Now they have my credit card information, and they chaged $11.95 on Sept 25, 2026 and an additional $76.95 without any approval by me on Sept. 27, 2026.     ARVOXTECHPULSEOUTLETSU CANDLER USA  is a scam."
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Phishing",
-      "city": "Richmond, IL",
-      "amt": 0,
-      "biz": "AE warranty",
-      "desc": "Email indicating account would be closed"
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Evanston, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "A faxed invoice for \"annual fax service\" from Relay Wire."
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Glenview, IL",
-      "amt": 0,
-      "biz": "Relay Wire",
-      "desc": "A faxed invoice was received to pay for \"annual fax service.\"  The request is to pay Relay Wire for the fax service for one year."
-    },
-    {
       "date": "2026-09-28",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Schaumburg, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "Received an invoice for a fax service relay / fax number routing for $498.85.  We use fax service relay but not from Relay Wire"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "Identity Theft",
+      "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Moyra Webb",
-      "desc": "Website tried to debit $12.99 from my account. My bank declined the transaction due to suspicious activity. They cancelled my card and issued me a new one. The day after they issued to the new card, before I even received it, the same company tried to charge 12.99 again. I have no idea how they got this info. I called the bank and they placed a stop payment for the company on my account and all cards associated with it."
-    },
-    {
-      "date": "2026-09-28",
-      "type": "Utility",
-      "city": "Wilmington, IL",
-      "amt": 0,
-      "biz": "Relay Wire",
-      "desc": "Received an email invoice for fax services in the amount $498.85.  We had recently switched fax providers so I thought maybe it was real.  Luckily my accounting department realized it was a scam."
-    },
-    {
-      "date": "2026-09-28",
-      "type": "Phishing",
-      "city": "Buffalo Grove, IL",
-      "amt": 0,
-      "biz": "Illinois Office for Business Development",
-      "desc": "This number has called repeatedly over the past several weeks, always from the same phone number, asking for information regarding our business. The phone number is a Maine area code, but they claim to be from the illinois office of business development."
+      "amt": 76.46,
+      "biz": "theunitedgentleman",
+      "desc": "I ordered a parka in February. By August, after many emails from them saying it is processing and on its way, I never got it. Then my wife got involved and told them we were going to dispute this with our bank. 12 emails later they said they were going to check about a refund. Nothing heard from them since. This is stealing. No coat, no refund. Save yourself the grief and DO NOT ORDER from The United Gentlemen."
     },
     {
       "date": "2026-09-28",
       "type": "Online Purchase",
-      "city": "Flora, IL",
-      "amt": 88.11,
-      "biz": "Hair Jazz",
-      "desc": "I ordered shampoo and conditioner from this company. The purchase price came out of my acct the next day. I did not receive an email confirmation so I contacted them immediately! I sent several emails as well as called them NUMEROUS times! No answer at all. I&rsquo;ve ordered Hair Jazz many times and have had no problems at all."
+      "city": "Wheaton, IL",
+      "amt": 300,
+      "biz": "Memopezil",
+      "desc": "Started with Bill Gates and how his father had been lost to Alzheimer&rsquo;s. It went into much detail about how much research he had done in money. He had spent that we could try this at home recipe. Then of course it switched to a pill that you had to buy which was called MEMOPEZIL. Of course this was around $300 and it was a scam."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Rockford, IL",
+      "amt": 0,
+      "biz": "Relay Wire",
+      "desc": "An invoice was faxed to our business for our primary fax line.  Included a charge for \"Annual Service Renewal Year 3\"  Included services\" Fax number routing; web portal access; searchable transmissions records; encrypted transmissions; service availability monitoring; standard support; and data export functionality."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Villa Park, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "The scammer called and demanded to speak with the doctor. She stated her name is Nicole Norberto. Her number is 864-263-7750 ext 103. She stated that the doctor&rsquo;s application for \"Top Women Doctor of America\" was approved. When I told her that the doctor never applied for the application. I told her that the doctor was busy and that she will call back later. (The doctor has no intention to call back). I asked Nicole for her email and she refused to give it."
+    },
+    {
+      "date": "2026-09-28",
+      "type": "Online Purchase",
+      "city": "Riverside, IL",
+      "amt": 0,
+      "biz": "Cracker Barrel",
+      "desc": "Cracker Barrel has a fake website..\nI put my payment information in, and was told failed payment.\nI know realize it&rsquo;s Cracker Barrell with 2 L&rsquo;s on the end. I now know it&rsquo;s a fake website, just wanting my payment info,  it needs to be taken down.  I know need to cancel both the cards I used."
     }
   ]
 }
