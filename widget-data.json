@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-01",
+  "generated_at": "2026-10-02",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-02",
+      "type": "Online Purchase",
+      "city": "Shumway, IL",
+      "amt": 69,
+      "biz": "Arbrilene",
+      "desc": "I saw their ad on Facebook and thought the jacket was nice and I ordered it.  It came and doesn't fit and is of poor quality.  So I tried to send them an email (support@abrilene.com) about this and they won't respond back to me.  I want to return it but there was no contact information for them.  I had an address in Orlando, FL - 1234 Lakeview Ave., Suite 200, Orlando, FL 32801.  It was on their website and they won't respond to me.  My husband took the package to the post office and the address wasn't good.  I wanted to report this to warn others about them."
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Credit Cards",
+      "city": "Christopher, IL",
+      "amt": 0,
+      "biz": "Bank scam",
+      "desc": "This business left a voicemail with an account number to call 877-870-8367.  I called them back and gave them my bank information.  My bank told me that this was a scam and they could not close my account.  I wanted to report this to the BBB to warn others."
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Phishing",
+      "city": "Benton, IL",
+      "amt": 0,
+      "biz": "5MrBeast (Impersonation Scam)",
+      "desc": "I received multiple text messages claiming I had won a prize from &ldquo;MrBeast.&rdquo; The scammer pretended to be MrBeast and said I needed to contact an &ldquo;assistant&rdquo; to claim the prize. The messages came from several different phone numbers, including (562) 384-0857, (248) 342-4286, (252) 499-5375, (510) 776-xxxx, and +1 (716) 936-0969.The scammer tried to convince me to respond and follow instructions to claim a prize, which is a common impersonation scam. They attempted to get money or personal information by pretending to be a well-known public figure. I did not lose any money and did not provide any personal information. I am reporting this to help prevent others from falling for the same impersonation scam."
+    },
+    {
+      "date": "2026-10-01",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Mount Vernon, IL",
+      "amt": 0,
+      "biz": "Memphis dme supply llc",
+      "desc": "Filed with medicare,several thousand  dollars"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "Online Purchase",
+      "city": "Alton, IL",
+      "amt": 43,
+      "biz": "Zoyablisss",
+      "desc": "The tracker said items delivered. From date of order it took 23 days and I never received the merchandise."
+    },
     {
       "date": "2026-10-01",
       "type": "Employment",
@@ -45,84 +85,44 @@
       "desc": "They claim to have a website that helps with stokes and other personal financial services. They have you watch a video then attached the buy now pay later options to make you feel comfortable about your purchase and they keep going after the first payment they need another and so from their. But they never say or give a date when your product will arrive or be emailed. I'm trying to let Klarna know that they are using their names to get paid."
     },
     {
-      "date": "2026-10-01",
-      "type": "Credit Cards",
-      "city": "Crest Hill, IL",
-      "amt": 259,
-      "biz": "Golden Protection Group",
-      "desc": "Letter rec'd. in mail from Home Warranty Division from Golden Protection Group with my Lender Info:JP Morgan Chase Bank NA with my Full name, address, zipcode that my Home Warranty with Chase may be expiring or has alreaady expired. I thought it was from the warranty Dept. of Chase Bank of which i currently have a mortgage. It said to call immediately &amp; \"we reserve the right to revoke your eligability for service coverage with expiration date given. I called &amp; deep man voice stated the same must pay $259 now to keep coverage. Reluctently was in a hurry gave credit card # stated i did NOT want it.  May cancel at any time. I immediately called my credit card, cancelled it &amp; filed a fraud claim. I called my mortgage company after that  &amp; mortgage supervisor stated \" It's a SCAM\"  Chase is doing a thorough investigation."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Online Purchase",
-      "city": "Edwardsville, IL",
-      "amt": 71,
-      "biz": "Tabletopgames",
-      "desc": "Paid for items never received. 3 months of emails and no refund or item."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Worthless Problem-solving Service",
-      "city": "Calumet City, IL",
-      "amt": 100,
-      "biz": "Kindle Direct Publishing Inc",
-      "desc": "I paid $100 deposit with balance of &amp;50 for their assist in uploading my manuscript on KDP. I was not satisfied with the layout , they blamed it on Amazon, said if I don&rsquo;t give them $50 they were going to steal my rights and publish my book\nUnder their own name and Jeff Luke said he didn&rsquo;t need my permisdion to do it."
-    },
-    {
       "date": "2026-09-30",
       "type": "Online Purchase",
-      "city": "Dundee, IL",
-      "amt": 18.06,
-      "biz": "Nails Mailed",
-      "desc": "Took my order and money, never sent the product. I attempted to contact customer service and never heard anything back."
-    },
-    {
-      "date": "2026-09-30",
-      "type": "Investment",
-      "city": "Schaumburg, IL",
-      "amt": 250000,
-      "biz": "Global Glamping",
-      "desc": "Did not pay back loan agreement and I won a lawsuit against defendant but have not been able to reclaim lost money."
+      "city": "La Grange, IL",
+      "amt": 121,
+      "biz": "Vital forms direct",
+      "desc": "Requested birth certificate. Thought the site was official cook county IL records. Rather I learned it was third party site. Reviews show scams, poor ratings."
     },
     {
       "date": "2026-09-30",
       "type": "Fake Invoice/Supplier Bill",
-      "city": "Morris, IL",
+      "city": "Saint Charles, IL",
       "amt": 0,
       "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "The scammer sent an emailed invoice for annual fax line service renewal stating we owed $498.85 to continue service annually.  This company has no connection to our fax line or any relationship to our financial arrangement relating to it."
+      "desc": "Invoice for fax subscription for use for a year"
     },
     {
       "date": "2026-09-30",
-      "type": "Online Purchase",
-      "city": "Edwardsville, IL",
-      "amt": 65.99,
-      "biz": "Try Strawberry",
-      "desc": "I placed an order for lotion through trystrawberry.com.  I received an order number and a response that the order would be shipped within 7-10 days.  After multiple attempts to contact and receive tracking number for this order via email, I never received an email, just lots of excuses about customer service and order issues.  One month later, the order has never been received and they have stopped responding to the emails on requests for tracking information.  After researching online, I have found multiple people that had similar issues with this company."
-    },
-    {
-      "date": "2026-09-30",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 245,
-      "biz": "Chimera Peptides",
-      "desc": "After purchasing the product I was then informed that I had to purchase delivery insurance. When I asked for a refund they stop responding."
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Online Purchase",
-      "city": "Arlington Heights, IL",
-      "amt": 45,
-      "biz": "Magic Puffy",
-      "desc": "I made the mistake of ordering something I thought that was so cool for my great nephew. The product was shown as this big beautiful box that would go 3 dimensional when you added water. After 4 weeks the product finally came. It was an absolute joke. The box was 8&rdquo;x2&rdquo;. I have emailed them numerous times and was posting about their bait and switch on their page. Now the page is no longer available to me. I don&rsquo;t want anyone else being fooled by this ridiculous company"
-    },
-    {
-      "date": "2026-09-29",
-      "type": "Phishing",
-      "city": "Naperville, IL",
+      "type": "Advance Fee Loan",
+      "city": "Fox Lake, IL",
       "amt": 0,
-      "biz": "not given",
-      "desc": "this stupid home warranty company won't stop sending me mail. i don't want one and they threaten me. their letters are soooo misleading. they target elderly. make it sound like you NEED this and are required. this is deceptive and predatory. please make it stop. says final notice. it's NEVER final. they keep sending. they put wells fargo name on their to make it seem like it's WF. they say something may be expiring, so you think you are losing coverage and will be in trouble and lose your home. make them stop"
+      "biz": "—",
+      "desc": "Calls 4 times daily offering a loan of 67k. No human. Relentless."
+    },
+    {
+      "date": "2026-09-30",
+      "type": "Online Purchase",
+      "city": "Lake Forest, IL",
+      "amt": 449,
+      "biz": "Vitcher LLC",
+      "desc": "Order ID: 36618 Order a storage shed on line from them, said it was shipped and had a tracking # that went to no link. Tried contacting their customer service at contact@vitcher.com with no response."
+    },
+    {
+      "date": "2026-09-30",
+      "type": "Employment",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Hope Wing Foundation",
+      "desc": "Received an email as follows from andrewbennan1@gmail.com:\n\"Hello,\nI am reaching out to see if you are available to design a logo for Hope Wing Foundation, a new NGO in Detroit, MI, focused on supporting children with disabilities, after discovering your work on your website; if you are interested and available, we would love to discuss our vision and timeline before our unveiling in December. Just to be clear, this would be a paid commission, not a donation request.\nThank you, and I look forward to your response.\nRegards,\nAndrew Bennan (Founder)\nHope Wing Foundation\nDetroit, MI\""
     }
   ]
 }
