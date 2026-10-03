@@ -4,9 +4,9 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Recent active scams targeting Central Illinois residents include false law enforcement warrants, fake state police text messages, and fraudulent bank calls.",
+      "snippet": "Recent scams reported across Central Illinois include fake city invoices, spoofed police calls about missed jury duty or warrants, and fraudulent home repair schemes.",
       "snippet_highlighted_words": [
-        "false law enforcement warrants, fake state police text messages, and fraudulent bank calls"
+        "fake city invoices, spoofed police calls about missed jury duty or warrants, and fraudulent home repair schemes"
       ],
       "reference_indexes": [
         0,
@@ -16,29 +16,43 @@
     },
     {
       "type": "heading",
-      "snippet": "Common Active Scams"
+      "snippet": "Active Scams in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "False Police Warrants: Scammers \"spoof\" local numbers from the Urbana Police Department or Peoria County Sheriff's Office, claiming victims have missed court dates or have active warrants and demanding immediate payment.",
+          "snippet": "Impersonation of City Officials: Scammers in Pekin are sending fake invoices and fraudulent notices using official city letterhead, specifically targeting residents who recently appeared before the zoning board of appeals .",
           "reference_indexes": [
-            3
+            1
           ]
         },
         {
-          "snippet": "State Police Text Scams: Fraudsters text residents claiming vehicle violations, using urgent threats and fake links to pressure people into paying fines. Law enforcement never asks for immediate text-message payments."
+          "snippet": "Police and Warrant Spoofing: Law enforcement agencies in Urbana and Peoria have warned the public about phone scams where callers spoof official police numbers. Scammers pretend to be police chiefs or deputies, claiming the victim missed jury duty or has an active warrant, and demand immediate payment.",
+          "reference_indexes": [
+            2,
+            3,
+            4
+          ]
         },
         {
-          "snippet": "Bank Impersonation Calls: Callers in counties like Woodford claim accounts are compromised, instructing victims to withdraw cash or transfer money to a \"secure account\"."
+          "snippet": "Garage Door Repair Schemes: Fraudsters across Central Illinois are posing as reputable local garage door companies online, overcharging drastically for minor parts, and sometimes intentionally sabotaging equipment to force high repair bills.",
+          "reference_indexes": [
+            0
+          ]
         },
         {
-          "snippet": "Malicious QR Codes: The Better Business Bureau warns that scammers place fake QR stickers over real payment codes in public places to steal credit card data."
+          "snippet": "Bank Imposter and Secure Account Scams: The Woodford County Sheriff's Office reported an increase in calls where scammers claim to be from a bank, telling victims their accounts are compromised and instructing them to move money into a \"secure account\" or withdraw cash.",
+          "reference_indexes": [
+            5
+          ]
+        },
+        {
+          "snippet": "DMV Phishing Texts: The Illinois Secretary of State warned residents about fraudulent text messages threatening vehicle registration suspension and demanding personal or financial information."
         }
       ],
       "reference_indexes": [
-        4
+        6
       ]
     },
     {
@@ -49,51 +63,72 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Do not answer unknown calls: Let unfamiliar numbers go to voicemail.",
+          "snippet": "Verify independently: If you receive a suspicious letter or call from a government office or utility, hang up and call the official public phone number listed on their verified website.",
           "reference_indexes": [
-            5
+            1
           ]
         },
         {
-          "snippet": "Verify independently: Hang up and call official public safety or bank numbers directly using trusted contacts\u2014never the number provided by the caller."
+          "snippet": "Never pay over the phone: Law enforcement and government agencies will never demand payment via gift cards, cryptocurrency, Venmo, or CashApp.",
+          "reference_indexes": [
+            2
+          ]
         },
         {
-          "snippet": "Never pay via gift cards or wire transfers: Government agencies and legitimate businesses will never demand payment via gift cards, cryptocurrency, or cash apps."
+          "snippet": "Recognize spoofing: Caller ID can be faked. Do not trust a call simply because the number matches a local police department or financial institution."
         }
+      ],
+      "reference_indexes": [
+        2,
+        3
       ]
     },
     {
       "type": "paragraph",
-      "snippet": "If you'd like, let me know:"
+      "snippet": "If you'd like, I can:"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "What type of suspicious contact you received (call, text, or email)"
+          "snippet": "Provide tips on what to do if you already shared personal information"
         },
         {
-          "snippet": "What the scammer claimed"
+          "snippet": "Share info on how to report a scam to the Illinois Attorney General or BBB"
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "snippet": "I can give you specific steps on who to report it to."
     }
   ],
   "references": [
     {
       "index": 0,
-      "title": "Sheriff's Office alerts residents about bank scams",
-      "link": "https://www.centralillinoisproud.com/news/local-news/phone-scam-warning-eureka/",
-      "snippet": "Woodford County Sheriff's Office warns of increase in bank caller scams by: Josh Seabaugh Posted: Feb 27, 2026 / 01:55 PM CST Updated: Feb 27, 2026 / 01:55 PM CST ...",
-      "source": "CIProud.com",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTywOflShKgbLYdra6vRuY6lLfgnX7PwiCjih9tLsgz0c1mouLN6dygc3U4SQKC-dT4AAasV9TkPZh0_-Q_b1jcxHeYnDveTlYiS9N0"
+      "title": "Scammers target Central Illinois with garage door repair scheme",
+      "link": "https://www.25newsnow.com/video/2026/07/22/scammers-target-central-illinois-with-garage-door-repair-scheme/",
+      "snippet": "Scammers target Central Illinois with garage door repair scheme she called me and she said \"We were scammed yesterday.\" That's Darlene. who doesn't want to use her",
+      "source": "25NewsNow.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnk7Bu_9z4PEUqtRRP7oE46aZDOsnyE89sfHHUJ4iAIhw-WVc2EbahqaiChMdbwPwMbEZG0pnXDcXqKnd5kiSwN6w3FmUjlab_FMfSJQ"
     },
     {
       "index": 1,
+      "title": "Pekin police warn of scammers attempting to impersonate city ...",
+      "link": "https://www.centralillinoisproud.com/news/local-news/pekin-police-warning-scam/",
+      "snippet": "Pekin police warn of scammers attempting to impersonate city officials by: Sean Lisitza Posted: Jul 16, 2026 / 03:19 PM CDT Updated: Jul 16, 2026 / 03:19 PM CDT by...",
+      "source": "CIProud.com",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ_VpfqKmDbYPqgI9fUlHryHv-aoy_pmK6A8X1wI8YEdIoehA2jPGt3eR2h_7-0PKdoAH46DoRlXAEpXyJvLR4WES3HonrmKftdmrz"
+    },
+    {
+      "index": 2,
+      "title": "Peoria Sheriff\u2019s Office warns of \u2018missed jury duty\u2019 scam",
+      "link": "https://www.centralillinoisproud.com/news/local-news/peoria-sheriff-scam-warning/",
+      "snippet": "Peoria Sheriff's Office warns of 'missed jury duty' scam by: Sean Lisitza Posted: Mar 3, 2026 / 04:23 PM CST Updated: Mar 3, 2026 / 04:23 PM CST by: Sean Lisitza P...",
+      "source": "CIProud.com",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRToC2g91W0_Ec-sRozcImtsQNc0Q65LSHnWJ4zFY1h_YDrZg3k8h57gVcywO0sDT07qqGDikJpPP1pfN74UZYoUAWDWf0NGRIVpLfB"
+    },
+    {
+      "index": 3,
       "title": "Urbana Police warning public of false warrant scams",
       "link": "https://www.wcia.com/news/champaign-county/urbana-police-warning-public-of-false-warrant-scams/",
       "snippet": "Urbana Police warning public of false warrant scams by: Ethan Holesha Posted: Apr 16, 2026 / 04:41 PM CDT Updated: Apr 17, 2026 / 04:57 PM CDT by: Ethan Holesha Po...",
@@ -102,39 +137,31 @@
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVpSwnCsZfVNhzbE9RUm6vnmRGTeU7ngEbE6doUjODXsAlO1mGJhcoFnnlvWYwGeAKmvwKug1v47nW0m9asZV1rGSJbukQ8QrWFEN"
     },
     {
-      "index": 2,
-      "title": "Illinois residents hit by text scam posing as state police",
-      "link": "https://www.centralillinoisproud.com/news/illinois-news/illinois-state-police-text-scam/",
-      "snippet": "Illinois residents hit by text scam posing as state police by: Sean Lisitza Posted: May 18, 2026 / 02:44 PM CDT Updated: May 18, 2026 / 02:44 PM CDT by: Sean Lisit...",
-      "source": "CIProud.com",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbYJ-AlaWwJcqI7OEdXbApyalI0xTZjE87vgbQM_tZV1e5T-SLrQaV9L7ZMFQs3beV33LfYR2EDXlcUwgLMXkG3xI"
-    },
-    {
-      "index": 3,
-      "title": "Peoria Sheriff warns of scammers impersonating them",
-      "link": "https://www.centralillinoisproud.com/news/local-news/peoria-sheriff-warns-of-scammers-impersonating-them/",
-      "snippet": "Peoria Sheriff warns of scammers impersonating them by: Sam Godby Posted: Jan 29, 2024 / 02:29 PM CST Updated: Jan 29, 2024 / 02:29 PM CST by: Sam Godby Posted: Ja...",
-      "source": "CIProud.com",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSb_45C40lVaAh_glVEL-Rjp8hiS4sJTFQqH2DODHMH5V_AeRmyDs7mboN3b9juTEVkIWXk5L8-_G66mlWqbeUMw6VyPuVe6V6kLBM"
-    },
-    {
       "index": 4,
-      "title": "The next QR code you scan could be a scam, experts warn",
-      "link": "https://www.nbcchicago.com/news/local/beware-the-next-qr-code-you-scan-could-be-a-scam-better-business-bureau-warns/3971219/",
-      "snippet": "By Izzy Stroobandt \u2022 Published August 5, 2026 \u2022 Updated on August 5, 2026 at 8:36 pm \u201cScammers stick fake QR decals directly on top of real payment codes,\u201d notes B...",
-      "source": "NBC 5 Chicago",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcchicago.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYH--j9Ob6OOrfVzII3agrm7T3bmNjB5wolAGV3hwMb2Nuy9nW8FdMoM-OG0f9-QrEBy_jMVqsf-EWOtPPDeXO_tyY"
+      "title": "Urbana PD, Champaign Co. EMA warn public of impersonation scam",
+      "link": "https://www.wcia.com/news/champaign-county/urbana-pd-champaign-co-ema-warn-public-of-impersonation-scam/",
+      "snippet": "Urbana PD, Champaign Co. EMA warn public of impersonation scam In a Facebook post on Tuesday, the Champaign County Emergency Management Agency announced that the U...",
+      "source": "WCIA.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzEbzqW4fjEu8Upbf7ogFIlYklxyFMSM6MpdYkYxD4GmreuhnjalrgRR6AgfPWy0AlvFdtskj9EWlyu_iOa73APwTk"
     },
     {
       "index": 5,
-      "title": "Peoria workshop helps Central Illinoisans not fall victim to scams, ...",
-      "link": "https://www.centralillinoisproud.com/news/local-news/peoria-workshop-helps-central-illinoisans-not-fall-victim-to-scams-preventable-crimes/",
-      "snippet": "Peoria workshop helps Central Illinoisans not fall victim to scams, preventable crimes \u201cThese scammers are always one step ahead of us,\u201d said Aimee Shinall, Victim...",
+      "title": "Sheriff's Office alerts residents about bank scams",
+      "link": "https://www.centralillinoisproud.com/news/local-news/phone-scam-warning-eureka/",
+      "snippet": "Woodford County Sheriff's Office warns of increase in bank caller scams by: Josh Seabaugh Posted: Feb 27, 2026 / 01:55 PM CST Updated: Feb 27, 2026 / 01:55 PM CST ...",
       "source": "CIProud.com",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTywOflShKgbLYdra6vRuY6lLfgnX7PwiCjih9tLsgz0c1mouLN6dygc3U4SQKC-dT4AAasV9TkPZh0_-Q_b1jcxHeYnDveTlYiS9N0"
+    },
+    {
+      "index": 6,
+      "title": "Illinois Secretary of State warns of DMV text scams",
+      "link": "https://www.centralillinoisproud.com/news/top-stories/illinois-dmv-scam-warning/",
+      "snippet": "Illinois Secretary of State warns of DMV text scams by: Sean Lisitza Posted: Jan 16, 2026 / 04:05 PM CST Updated: Jan 16, 2026 / 04:06 PM CST by: Sean Lisitza Post...",
+      "source": "CIProud.com",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.centralillinoisproud.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP4HacxQWHtHSMLozj7fYOcbev2aHb2BXE9RCjqKdYst9zQYdh5ZDB7E8dr7H1iVQ4RGDqSFe3vwrzbStYq3XilKRzxYWT0p2PdCN7"
     }
   ]
 }
