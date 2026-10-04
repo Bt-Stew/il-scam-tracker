@@ -6,11 +6,35 @@
   "reports": [
     {
       "date": "2026-10-02",
+      "type": "Advance Fee Loan",
+      "city": "Decatur, IL",
+      "amt": 0,
+      "biz": "Covery Oak Financial",
+      "desc": "Trying to say I was pre approved for a loan."
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Tax Collection",
+      "city": "Pekin, IL",
+      "amt": 0,
+      "biz": "no name used",
+      "desc": "These people repeatedly keep calling, leaving messages regarding my past-due taxes. I don't have past-due taxes and haven't answered any of the calls."
+    },
+    {
+      "date": "2026-10-02",
       "type": "Online Purchase",
       "city": "Marengo, IL",
       "amt": 122,
       "biz": "Olive & Evy",
       "desc": "$24"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Advance Fee Loan",
+      "city": "Bloomington, IL",
+      "amt": 0,
+      "biz": "Allamericanloan.com",
+      "desc": "They said I was approved for $5500.00 loan, but after filling in all the info they then said I was approved and all I had to do was make the first-time payment of 80.58 first loan payment,  didn't pay. But they have personal info. I'm elderly and needed ths for a deposit on a home."
     },
     {
       "date": "2026-10-02",
@@ -27,6 +51,14 @@
       "amt": 0,
       "biz": "Bank scam",
       "desc": "This business left a voicemail with an account number to call 877-870-8367.  I called them back and gave them my bank information.  My bank told me that this was a scam and they could not close my account.  I wanted to report this to the BBB to warn others."
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Advance Fee Loan",
+      "city": "Galesburg, IL",
+      "amt": 1200,
+      "biz": "Lightstream loans",
+      "desc": "Was told I was approved, transferred money in bank acct. proceeded to  tell me I needed to send a gift card on 2pccassions because of poor credit for insurance. They after gift cards they took the loan amt.of 2000. They even answered phone as Lightstream . Paperwork showed Uniersal and bank said payment came from Progressive"
     },
     {
       "date": "2026-10-02",
@@ -54,75 +86,43 @@
     },
     {
       "date": "2026-10-01",
-      "type": "Online Purchase",
-      "city": "Alton, IL",
-      "amt": 43,
-      "biz": "Zoyablisss",
-      "desc": "The tracker said items delivered. From date of order it took 23 days and I never received the merchandise."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Employment",
-      "city": "Quincy, IL",
-      "amt": 0,
-      "biz": "Nipatol Oncology",
-      "desc": "Attachment is the fake offer letter sent to my email."
-    },
-    {
-      "date": "2026-10-01",
       "type": "Credit Cards",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Amex",
-      "desc": "Jeffy Ramos, \"ID\":AMX110589 called and said a card was issued in my name, on 6/30/26, with an address in NYC associated, while I live in Chicago and hadn't been to NYC in 15 months. She said it was used to purchase pistols and ammo.  If I didn't report the identity theft within 2 hours my name would be reported to Homeland Security.  If I reported it to NYPD, which she \"connected\" me to, my name would be removed and my involvement would end."
+      "city": "Crest Hill, IL",
+      "amt": 259,
+      "biz": "Golden Protection Group",
+      "desc": "Letter rec'd. in mail from Home Warranty Division from Golden Protection Group with my Lender Info:JP Morgan Chase Bank NA with my Full name, address, zipcode that my Home Warranty with Chase may be expiring or has alreaady expired. I thought it was from the warranty Dept. of Chase Bank of which i currently have a mortgage. It said to call immediately &amp; \"we reserve the right to revoke your eligability for service coverage with expiration date given. I called &amp; deep man voice stated the same must pay $259 now to keep coverage. Reluctently was in a hurry gave credit card # stated i did NOT want it.  May cancel at any time. I immediately called my credit card, cancelled it &amp; filed a fraud claim. I called my mortgage company after that  &amp; mortgage supervisor stated \" It's a SCAM\"  Chase is doing a thorough investigation."
     },
     {
       "date": "2026-10-01",
-      "type": "Counterfeit Product",
-      "city": "Troy, IL",
-      "amt": 48.1,
-      "biz": "Judith k lindow",
-      "desc": "Item not as described. Very small instead of picture shown"
+      "type": "Online Purchase",
+      "city": "Edwardsville, IL",
+      "amt": 71,
+      "biz": "Tabletopgames",
+      "desc": "Paid for items never received. 3 months of emails and no refund or item."
     },
     {
-      "date": "2026-09-30",
-      "type": "Investment",
-      "city": "Schaumburg, IL",
-      "amt": 250000,
-      "biz": "Global Glamping",
-      "desc": "Did not pay back loan agreement and I won a lawsuit against defendant but have not been able to reclaim lost money."
+      "date": "2026-10-01",
+      "type": "Worthless Problem-solving Service",
+      "city": "Calumet City, IL",
+      "amt": 100,
+      "biz": "Kindle Direct Publishing Inc",
+      "desc": "I paid $100 deposit with balance of &amp;50 for their assist in uploading my manuscript on KDP. I was not satisfied with the layout , they blamed it on Amazon, said if I don&rsquo;t give them $50 they were going to steal my rights and publish my book\nUnder their own name and Jeff Luke said he didn&rsquo;t need my permisdion to do it."
     },
     {
       "date": "2026-09-30",
       "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 1584,
-      "biz": "Trynovanow.com",
-      "desc": "It was offered a job to handmade different products . But after they started a tasks requirement to send the package of parts to put together as handmade products. Initially small amounts ( 10$ ) paired for tasks done . After they did change in prepaid tasks asking for 27$ , 30, 81 , 98, 130, 390, &hellip; increasing reach time . When I tried to withdraw the amount from the company account they said my score with company is only 96 and to get at 100 I have to pay 400x4 =1600$ more to be able to withdraw. I realized finally is a tasks scam and closed my account in chime used to make transactions for them. Closed my telegram account even it was my way to communicate with my family in Germany . Do not trust any offer for handmade jobs ! All are task scam , now !"
+      "city": "Springfield, IL",
+      "amt": 147,
+      "biz": "Athena Ai",
+      "desc": "Athena AI was marketed on Facebook. Payment to join the system is $147. I paid. I was given access. The job is simple. Train AI to choose the most accurate answer from the most simple to the most challenging question, sometimes thru worded multiple questions or thru images. Ten task per day if you're on the 1st level but as you finish task diligently, your level goes up. The site is app.athenasystemai.us. Their minimum withdrawal is $700 and once I was to $2100 I tried to withdraw and could never get any assistance when the &ldquo;system&rdquo;&rsquo;did not recognize my email.  As expected, no payment was ever made. Definite scam.\nDollars Lost: $147"
     },
     {
       "date": "2026-09-30",
-      "type": "Phishing",
-      "city": "La Grange, IL",
-      "amt": 0,
-      "biz": "AE Homa Warranty",
-      "desc": "I have received multiple threatening texts from AE Home Warranty notifying me of a closure; they have my cell phone and text nearly every day to respond or call."
-    },
-    {
-      "date": "2026-09-30",
-      "type": "Counterfeit Product",
-      "city": "Chicago, IL",
-      "amt": 40,
-      "biz": "Backstage Archive",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-09-30",
-      "type": "Phishing",
-      "city": "Rockford, IL",
-      "amt": 0,
-      "biz": "Independent Sales LLC",
-      "desc": "A Middle Aged African American Gentleman that allegedly goes by the name Terrance Jacobs was doing.  door to door sales. The man sold me a $40 bottle of cleaning agent. Claims that it works on everything and bio-safe. etc. but the sale also supports the Youth in Chicago against gang violence. The man was nice, funny and a bit pushy. I bought so he would leave and to do a feel good thing. But after leaving. i immediately searched the info on the bottle and lead me to other people feeling scammed by the same service in the area. This incident occurred in Rockford IL, but they claimed to out from chicago. This appears to be a scam on selling over priced cleaners to support a seemingly non existent charity.\nThe Cleaning product they are selling is called \" Get Gone \"."
+      "type": "Online Purchase",
+      "city": "Dundee, IL",
+      "amt": 18.06,
+      "biz": "Nails Mailed",
+      "desc": "Took my order and money, never sent the product. I attempted to contact customer service and never heard anything back."
     }
   ]
 }
