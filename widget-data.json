@@ -1,72 +1,96 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-05",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-10-02",
-      "type": "Advance Fee Loan",
-      "city": "Decatur, IL",
-      "amt": 0,
-      "biz": "Covery Oak Financial",
-      "desc": "Trying to say I was pre approved for a loan."
-    },
-    {
-      "date": "2026-10-02",
-      "type": "Tax Collection",
-      "city": "Pekin, IL",
-      "amt": 0,
-      "biz": "no name used",
-      "desc": "These people repeatedly keep calling, leaving messages regarding my past-due taxes. I don't have past-due taxes and haven't answered any of the calls."
-    },
-    {
-      "date": "2026-10-02",
+      "date": "2026-10-05",
       "type": "Online Purchase",
-      "city": "Marengo, IL",
-      "amt": 122,
-      "biz": "Olive & Evy",
+      "city": "Riverside, IL",
+      "amt": 35.07,
+      "biz": "Shopedikted",
+      "desc": "I contacted the merchant on 9-16-26 after not receiving my merchandise. They indicated that based on their tracking information my items were delivered on 9-16-26. However, I never received any items. I requested a refund and for over two weeks the only response I been given is that they are conducting an investigation with the logistics company."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Employment",
+      "city": "O Fallon, IL",
+      "amt": 0,
+      "biz": "Minubo/minuagt.com",
+      "desc": "They come at you with a job offer that you can do on your own, promoting other businesses items.  But eventually you get package deals, upload more money than you have and keep getting negative."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Slap Funk Strings",
+      "desc": "This website is copying listings for our store's inventory and attempting to sell items that they don't have.<br class=\"t-last-br\" />"
+    },
+    {
+      "date": "2026-10-04",
+      "type": "Other",
+      "city": "Chicago, IL",
+      "amt": 75,
+      "biz": "SugarBabyCare.cp",
+      "desc": "I placed an order once for face pads from a social media ad. I was emailed about a month later that my credit card was going to be charged again and I was enrolled in a subscription. There was no information regarding a subscription in my order or my confirmtion when I placed the order. I emailed customer service that I did not want this subscription, nor did I sign up for anything. I told them to cancel my order. My credit card was charged again. When I got the email confirmation of the second charge, I emailed them again and this time my emails were replied to by AI just going in circles with the same questions.\nThe face pads completely fall apart when I try to pull them out of the container. I don't even use them. I certainly don't want more. This company is a nightmare."
+    },
+    {
+      "date": "2026-10-03",
+      "type": "Phishing",
+      "city": "Elizabeth, IL",
+      "amt": 0,
+      "biz": "Berry Supplies LLC",
+      "desc": "An individual from Berry Supply LLC (in my situation \"Glen Ishan\" or \"Glen Ishaan\") will reach out to you asking to book with your business for teambuilding, etc. for their employees. Then, they'll ask if you accept credit card and if you will help them make the payout to their professional photographer who will also be coming to the event. They may pay you in full: your services, the photographer's fees, any extra fees you bill them. Then, they will cc you with some bogus photographer email and tell you the photographer must take a direct bank transfer. I'm sure they take all your money if you follow through with all of this. But we're going to get them before they can."
+    },
+    {
+      "date": "2026-10-03",
+      "type": "Employment",
+      "city": "East Saint Louis, IL",
+      "amt": 3000,
+      "biz": "SwiftGrid Delivery",
+      "desc": "They Said I was getting paid and I never received Pay"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 119.99,
+      "biz": "furnioutdoorworld",
+      "desc": "Order # F2825427472\nCamariloo Plastic Dual Overflow Rain Barrel and Hose\nOrdered on March 28, 2026  - never arrived\nI called on April 16, phone is out of service\nI wrote on May 18 to say I expect a full refund within one week, or I'll report to Atty Gnrl &amp; BBB - no response"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "Credit Cards",
+      "city": "Chatham, IL",
+      "amt": 0,
+      "biz": "IMPOSTER UCB Bank",
       "desc": "$24"
     },
     {
-      "date": "2026-10-02",
-      "type": "Advance Fee Loan",
-      "city": "Bloomington, IL",
-      "amt": 0,
-      "biz": "Allamericanloan.com",
-      "desc": "They said I was approved for $5500.00 loan, but after filling in all the info they then said I was approved and all I had to do was make the first-time payment of 80.58 first loan payment,  didn't pay. But they have personal info. I'm elderly and needed ths for a deposit on a home."
+      "date": "2026-10-03",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Rushville, IL",
+      "amt": 358.8,
+      "biz": "Relay Wire",
+      "desc": "We received an invoice for an annual fax plan from this company Med Pulse."
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "type": "Online Purchase",
-      "city": "Shumway, IL",
-      "amt": 69,
-      "biz": "Arbrilene",
-      "desc": "I saw their ad on Facebook and thought the jacket was nice and I ordered it.  It came and doesn't fit and is of poor quality.  So I tried to send them an email (support@abrilene.com) about this and they won't respond back to me.  I want to return it but there was no contact information for them.  I had an address in Orlando, FL - 1234 Lakeview Ave., Suite 200, Orlando, FL 32801.  It was on their website and they won't respond to me.  My husband took the package to the post office and the address wasn't good.  I wanted to report this to warn others about them."
+      "city": "Carman, IL",
+      "amt": 153,
+      "biz": "Bestticketfare",
+      "desc": "They offer airline flight tickets.   They showed a price for the flights.   They take you to a place to pay and show you the total you will pay for the flights, and you use your C.C. to pay for them.    Then they call you later that day and tell you that you are a \"restricted\" status.   Then told me that my flight can change price and that they had already changed the date for my return flight by 1 day.   When I told them it didn't work they offered my the same flights for $700 more than I had paid.  When I declined they said to cancel I would forfeit a $200  for a cancellation fee.    I argued with them for an hour and they eventually gave me the same flights for $450 more than I had paid, but still $150 more than the price from a legitimate travel agency.  I had non refundable hotel accommodations so I had no choice but to accept the $150 loss rather than the $200 cancellation fee."
     },
     {
-      "date": "2026-10-02",
-      "type": "Credit Cards",
-      "city": "Christopher, IL",
+      "date": "2026-10-01",
+      "type": "Employment",
+      "city": "Evanston, IL",
       "amt": 0,
-      "biz": "Bank scam",
-      "desc": "This business left a voicemail with an account number to call 877-870-8367.  I called them back and gave them my bank information.  My bank told me that this was a scam and they could not close my account.  I wanted to report this to the BBB to warn others."
-    },
-    {
-      "date": "2026-10-02",
-      "type": "Advance Fee Loan",
-      "city": "Galesburg, IL",
-      "amt": 1200,
-      "biz": "Lightstream loans",
-      "desc": "Was told I was approved, transferred money in bank acct. proceeded to  tell me I needed to send a gift card on 2pccassions because of poor credit for insurance. They after gift cards they took the loan amt.of 2000. They even answered phone as Lightstream . Paperwork showed Uniersal and bank said payment came from Progressive"
-    },
-    {
-      "date": "2026-10-02",
-      "type": "Phishing",
-      "city": "Benton, IL",
-      "amt": 0,
-      "biz": "5MrBeast (Impersonation Scam)",
-      "desc": "I received multiple text messages claiming I had won a prize from &ldquo;MrBeast.&rdquo; The scammer pretended to be MrBeast and said I needed to contact an &ldquo;assistant&rdquo; to claim the prize. The messages came from several different phone numbers, including (562) 384-0857, (248) 342-4286, (252) 499-5375, (510) 776-xxxx, and +1 (716) 936-0969.The scammer tried to convince me to respond and follow instructions to claim a prize, which is a common impersonation scam. They attempted to get money or personal information by pretending to be a well-known public figure. I did not lose any money and did not provide any personal information. I am reporting this to help prevent others from falling for the same impersonation scam."
+      "biz": "Valued Merchant Services",
+      "desc": "I received a phone call from an unknown number and did not answer. The caller left a voicemail stating that they had seen my resume online. However, they did not specify where they found my resume or the website where my resume was allegedly posted.\nThe caller stated that there was a job opening but did not identify the position or provide any specific details about the job. He asked whether I was still looking for employment and requested that I call or text him back.\nHe also directed me to visit a website and read the reviews. As I was doing so, I did not find the website. I found a BBB review describing a situation that appeared similar to my experience.\nI became concerned that this may be a potential employment scam. I am submitting this report to document the contact and bring the situation to BBB's attention."
     },
     {
       "date": "2026-10-01",
@@ -86,43 +110,19 @@
     },
     {
       "date": "2026-10-01",
-      "type": "Credit Cards",
-      "city": "Crest Hill, IL",
-      "amt": 259,
-      "biz": "Golden Protection Group",
-      "desc": "Letter rec'd. in mail from Home Warranty Division from Golden Protection Group with my Lender Info:JP Morgan Chase Bank NA with my Full name, address, zipcode that my Home Warranty with Chase may be expiring or has alreaady expired. I thought it was from the warranty Dept. of Chase Bank of which i currently have a mortgage. It said to call immediately &amp; \"we reserve the right to revoke your eligability for service coverage with expiration date given. I called &amp; deep man voice stated the same must pay $259 now to keep coverage. Reluctently was in a hurry gave credit card # stated i did NOT want it.  May cancel at any time. I immediately called my credit card, cancelled it &amp; filed a fraud claim. I called my mortgage company after that  &amp; mortgage supervisor stated \" It's a SCAM\"  Chase is doing a thorough investigation."
-    },
-    {
-      "date": "2026-10-01",
       "type": "Online Purchase",
-      "city": "Edwardsville, IL",
-      "amt": 71,
-      "biz": "Tabletopgames",
-      "desc": "Paid for items never received. 3 months of emails and no refund or item."
+      "city": "Alton, IL",
+      "amt": 43,
+      "biz": "Zoyablisss",
+      "desc": "The tracker said items delivered. From date of order it took 23 days and I never received the merchandise."
     },
     {
       "date": "2026-10-01",
-      "type": "Worthless Problem-solving Service",
-      "city": "Calumet City, IL",
-      "amt": 100,
-      "biz": "Kindle Direct Publishing Inc",
-      "desc": "I paid $100 deposit with balance of &amp;50 for their assist in uploading my manuscript on KDP. I was not satisfied with the layout , they blamed it on Amazon, said if I don&rsquo;t give them $50 they were going to steal my rights and publish my book\nUnder their own name and Jeff Luke said he didn&rsquo;t need my permisdion to do it."
-    },
-    {
-      "date": "2026-09-30",
       "type": "Employment",
-      "city": "Springfield, IL",
-      "amt": 147,
-      "biz": "Athena Ai",
-      "desc": "Athena AI was marketed on Facebook. Payment to join the system is $147. I paid. I was given access. The job is simple. Train AI to choose the most accurate answer from the most simple to the most challenging question, sometimes thru worded multiple questions or thru images. Ten task per day if you're on the 1st level but as you finish task diligently, your level goes up. The site is app.athenasystemai.us. Their minimum withdrawal is $700 and once I was to $2100 I tried to withdraw and could never get any assistance when the &ldquo;system&rdquo;&rsquo;did not recognize my email.  As expected, no payment was ever made. Definite scam.\nDollars Lost: $147"
-    },
-    {
-      "date": "2026-09-30",
-      "type": "Online Purchase",
-      "city": "Dundee, IL",
-      "amt": 18.06,
-      "biz": "Nails Mailed",
-      "desc": "Took my order and money, never sent the product. I attempted to contact customer service and never heard anything back."
+      "city": "Quincy, IL",
+      "amt": 0,
+      "biz": "Nipatol Oncology",
+      "desc": "Attachment is the fake offer letter sent to my email."
     }
   ]
 }
