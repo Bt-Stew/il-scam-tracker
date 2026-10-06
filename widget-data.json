@@ -7,10 +7,34 @@
     {
       "date": "2026-10-05",
       "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 119.34,
+      "biz": "Ryken",
+      "desc": "I was researching weighted vests and found Ryken online. I ordered one on August 23, 2026, paying for it with a credit card. I received an email that same day stating that my order was reserved for their next inventory release. I also received an email stating that the order was being prepared for shipping. When I check that email there are two buttons: one to view the order and one to track the order with Shop. The links worked initially, but do not work now. When I go to the original Ryken website I used, it does not work. I've sent 3 emails asking for clarification and have not received any response."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
       "city": "Riverside, IL",
       "amt": 35.07,
       "biz": "Shopedikted",
       "desc": "I contacted the merchant on 9-16-26 after not receiving my merchandise. They indicated that based on their tracking information my items were delivered on 9-16-26. However, I never received any items. I requested a refund and for over two weeks the only response I been given is that they are conducting an investigation with the logistics company."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
+      "city": "Monticello, IL",
+      "amt": 64.92,
+      "biz": "Glowdime",
+      "desc": "Popular product. other suppliers. Misrepresented. Never received. Tracking and email provided don't work"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
+      "city": "Decatur, IL",
+      "amt": 69.99,
+      "biz": "Kestrel Sound",
+      "desc": "This is for a mp3 portable player. The shipped once, delivered to wrong city, sent another, still delivered to wrong city. Now no response to emails or instant messaging. I now believe they have changed their name to something else. I have heard this is a scam called &ldquo;dropped shipping&rdquo;."
     },
     {
       "date": "2026-10-05",
@@ -38,6 +62,14 @@
     },
     {
       "date": "2026-10-03",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 2450,
+      "biz": "Inthemoment.film: ( Dream crew, dream film, dream team picture)",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-10-03",
       "type": "Phishing",
       "city": "Elizabeth, IL",
       "amt": 0,
@@ -53,76 +85,44 @@
       "desc": "They Said I was getting paid and I never received Pay"
     },
     {
-      "date": "2026-10-03",
+      "date": "2026-10-02",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 119.99,
-      "biz": "furnioutdoorworld",
-      "desc": "Order # F2825427472\nCamariloo Plastic Dual Overflow Rain Barrel and Hose\nOrdered on March 28, 2026  - never arrived\nI called on April 16, phone is out of service\nI wrote on May 18 to say I expect a full refund within one week, or I'll report to Atty Gnrl &amp; BBB - no response"
+      "city": "Elgin, IL",
+      "amt": 72.63,
+      "biz": "Winona Makes",
+      "desc": "I first saw a video on fb about this native American lady who was selling handcrafted bags and i wanted one so i looked up her website and ordered the bag i wanted plus a mystery box and insurance. The total came out to $72.63. When i went back to check the status of my order on her website, it came up as an error saying this business does not exsist. And i saw a post on fb from someone who said her granddaughter had looked it up and it came out to be a scam. Others have complained that the product they received is fake and not what the site is advertising. I have attempted to contact the seller but have not received any response back about this issue."
     },
     {
-      "date": "2026-10-03",
-      "type": "Credit Cards",
-      "city": "Chatham, IL",
+      "date": "2026-10-02",
+      "type": "Advance Fee Loan",
+      "city": "Decatur, IL",
       "amt": 0,
-      "biz": "IMPOSTER UCB Bank",
+      "biz": "Covery Oak Financial",
+      "desc": "Trying to say I was pre approved for a loan."
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Tax Collection",
+      "city": "Pekin, IL",
+      "amt": 0,
+      "biz": "no name used",
+      "desc": "These people repeatedly keep calling, leaving messages regarding my past-due taxes. I don't have past-due taxes and haven't answered any of the calls."
+    },
+    {
+      "date": "2026-10-02",
+      "type": "Online Purchase",
+      "city": "Marengo, IL",
+      "amt": 122,
+      "biz": "Olive & Evy",
       "desc": "$24"
     },
     {
-      "date": "2026-10-03",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Rushville, IL",
-      "amt": 358.8,
-      "biz": "Relay Wire",
-      "desc": "We received an invoice for an annual fax plan from this company Med Pulse."
-    },
-    {
-      "date": "2026-10-03",
-      "type": "Online Purchase",
-      "city": "Carman, IL",
-      "amt": 153,
-      "biz": "Bestticketfare",
-      "desc": "They offer airline flight tickets.   They showed a price for the flights.   They take you to a place to pay and show you the total you will pay for the flights, and you use your C.C. to pay for them.    Then they call you later that day and tell you that you are a \"restricted\" status.   Then told me that my flight can change price and that they had already changed the date for my return flight by 1 day.   When I told them it didn't work they offered my the same flights for $700 more than I had paid.  When I declined they said to cancel I would forfeit a $200  for a cancellation fee.    I argued with them for an hour and they eventually gave me the same flights for $450 more than I had paid, but still $150 more than the price from a legitimate travel agency.  I had non refundable hotel accommodations so I had no choice but to accept the $150 loss rather than the $200 cancellation fee."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Employment",
-      "city": "Evanston, IL",
+      "date": "2026-10-02",
+      "type": "Advance Fee Loan",
+      "city": "Bloomington, IL",
       "amt": 0,
-      "biz": "Valued Merchant Services",
-      "desc": "I received a phone call from an unknown number and did not answer. The caller left a voicemail stating that they had seen my resume online. However, they did not specify where they found my resume or the website where my resume was allegedly posted.\nThe caller stated that there was a job opening but did not identify the position or provide any specific details about the job. He asked whether I was still looking for employment and requested that I call or text him back.\nHe also directed me to visit a website and read the reviews. As I was doing so, I did not find the website. I found a BBB review describing a situation that appeared similar to my experience.\nI became concerned that this may be a potential employment scam. I am submitting this report to document the contact and bring the situation to BBB's attention."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Healthcare/Medicaid/Medicare",
-      "city": "Mount Vernon, IL",
-      "amt": 0,
-      "biz": "Memphis dme supply llc",
-      "desc": "Filed with medicare,several thousand  dollars"
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Velocity Careers",
-      "desc": "Scammer reached out to me about a job I never applied to. They sent fake offer letters via email, reached out on Google Chat, and promised a remote position, 30 days of PTO, and reimbursement for work equipment."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Online Purchase",
-      "city": "Alton, IL",
-      "amt": 43,
-      "biz": "Zoyablisss",
-      "desc": "The tracker said items delivered. From date of order it took 23 days and I never received the merchandise."
-    },
-    {
-      "date": "2026-10-01",
-      "type": "Employment",
-      "city": "Quincy, IL",
-      "amt": 0,
-      "biz": "Nipatol Oncology",
-      "desc": "Attachment is the fake offer letter sent to my email."
+      "biz": "Allamericanloan.com",
+      "desc": "They said I was approved for $5500.00 loan, but after filling in all the info they then said I was approved and all I had to do was make the first-time payment of 80.58 first loan payment,  didn't pay. But they have personal info. I'm elderly and needed ths for a deposit on a home."
     }
   ]
 }
