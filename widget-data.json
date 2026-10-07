@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-06",
+      "type": "Retail Business",
+      "city": "Pekin, IL",
+      "amt": 0,
+      "biz": "American assistance/ambt",
+      "desc": "Website to get a free tablet you fill out with all your personal information and it wasn't a tablet they want to send you a phone I do not need a phone matter of fact all they sent me was the SIM card I called him and asked about the tablet and they can't provide a tablet false advertisement misleading and asking for my social security number which no I did not give them it's a scam then I asked him for you know what's the resolution to this they give me another phone number this trying to sell me an emergency alert thing and I'm talking to a lady she would not shut up all she had to get her spell in it was being recorded I just hung up on it I don't know how many senior citizens these people scam but it's got to be a lot"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Batavia, IL",
+      "amt": 2399,
+      "biz": "The Forge LLP",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Phishing",
+      "city": "Joliet, IL",
+      "amt": 0,
+      "biz": "Safe Auto Glass",
+      "desc": "$25"
+    },
     {
       "date": "2026-10-05",
       "type": "Online Purchase",
@@ -62,27 +86,27 @@
     },
     {
       "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Eldorado, IL",
-      "amt": 230.95,
-      "biz": "biomeadow",
-      "desc": "I sent the product back because I did not want it and they will not issue me a refund."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Eldorado, IL",
-      "amt": 239.95,
-      "biz": "Biomeadow",
-      "desc": "Product was returned via USPS and my return was never deposited back into my account. I have called multiple times and was told it was deposited but never was now when I call and give reference # they just hang up"
+      "type": "Employment",
+      "city": "O Fallon, IL",
+      "amt": 0,
+      "biz": "Minubo/minuagt.com",
+      "desc": "They come at you with a job offer that you can do on your own, promoting other businesses items.  But eventually you get package deals, upload more money than you have and keep getting negative."
     },
     {
       "date": "2026-10-05",
       "type": "Online Purchase",
       "city": "Chicago, IL",
-      "amt": 119.34,
-      "biz": "Ryken",
-      "desc": "I was researching weighted vests and found Ryken online. I ordered one on August 23, 2026, paying for it with a credit card. I received an email that same day stating that my order was reserved for their next inventory release. I also received an email stating that the order was being prepared for shipping. When I check that email there are two buttons: one to view the order and one to track the order with Shop. The links worked initially, but do not work now. When I go to the original Ryken website I used, it does not work. I've sent 3 emails asking for clarification and have not received any response."
+      "amt": 0,
+      "biz": "Slap Funk Strings",
+      "desc": "This website is copying listings for our store's inventory and attempting to sell items that they don't have.<br class=\"t-last-br\" />"
+    },
+    {
+      "date": "2026-10-04",
+      "type": "Other",
+      "city": "Chicago, IL",
+      "amt": 75,
+      "biz": "SugarBabyCare.cp",
+      "desc": "I placed an order once for face pads from a social media ad. I was emailed about a month later that my credit card was going to be charged again and I was enrolled in a subscription. There was no information regarding a subscription in my order or my confirmtion when I placed the order. I emailed customer service that I did not want this subscription, nor did I sign up for anything. I told them to cancel my order. My credit card was charged again. When I got the email confirmation of the second charge, I emailed them again and this time my emails were replied to by AI just going in circles with the same questions.\nThe face pads completely fall apart when I try to pull them out of the container. I don't even use them. I certainly don't want more. This company is a nightmare."
     },
     {
       "date": "2026-10-03",
@@ -99,30 +123,6 @@
       "amt": 0,
       "biz": "Berry Supplies LLC",
       "desc": "An individual from Berry Supply LLC (in my situation \"Glen Ishan\" or \"Glen Ishaan\") will reach out to you asking to book with your business for teambuilding, etc. for their employees. Then, they'll ask if you accept credit card and if you will help them make the payout to their professional photographer who will also be coming to the event. They may pay you in full: your services, the photographer's fees, any extra fees you bill them. Then, they will cc you with some bogus photographer email and tell you the photographer must take a direct bank transfer. I'm sure they take all your money if you follow through with all of this. But we're going to get them before they can."
-    },
-    {
-      "date": "2026-10-03",
-      "type": "Employment",
-      "city": "East Saint Louis, IL",
-      "amt": 3000,
-      "biz": "SwiftGrid Delivery",
-      "desc": "They Said I was getting paid and I never received Pay"
-    },
-    {
-      "date": "2026-10-03",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 50,
-      "biz": "Allamericancreditloans",
-      "desc": "I was emailed a loan for 2516.\nI was told to buy Apple card and send the code by chat then I would wait 15 minutes to get the money. I did just that next I know l couldn't chat anymore and my email were being ignored since there is no number to contact. I was assured constantly to send the money I would surely get my money"
-    },
-    {
-      "date": "2026-10-03",
-      "type": "Online Purchase",
-      "city": "Dixon, IL",
-      "amt": 40,
-      "biz": "Feimuko",
-      "desc": "There promoting this product on tv and what they&rsquo;re sent me is not same item , I try sending product back and getting my money back and there giving  the run around! I just do t understand how there promoting this tv?"
     }
   ]
 }
