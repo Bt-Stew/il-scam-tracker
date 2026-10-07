@@ -14,6 +14,22 @@
     },
     {
       "date": "2026-10-06",
+      "type": "Phishing",
+      "city": "Lake Bluff, IL",
+      "amt": 0,
+      "biz": "Bay Area Times",
+      "desc": "This is an aggressive phishing operation using \"tips@bayareatimes.com\" email address or similar email addresses to flood my inbox with unsolicited scam messages. Emails arrive from aliases like growth@bayareatimes.com, info@bayareatimes.com, and tips@bayareatimes.com, and this scammer rotates addresses daily to bypass spam filters and trick recipients into engaging. The messages are flagged as phishing by mail servers, and clicking links or downloading attachments can compromise your personal data. Do not click on any links."
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 90,
+      "biz": "Deal Dunk",
+      "desc": "Scammer offers a bracelet for $1.99 to support shelter dogs and never mentions an ongoing subscription fee that renews every 21 days. Does not state that in the social media add until you go onto their website after the fact they&rsquo;ve already been taking funds out of your account."
+    },
+    {
+      "date": "2026-10-06",
       "type": "Healthcare/Medicaid/Medicare",
       "city": "Batavia, IL",
       "amt": 2399,
@@ -22,11 +38,35 @@
     },
     {
       "date": "2026-10-06",
+      "type": "Online Purchase",
+      "city": "Morton Grove, IL",
+      "amt": 29.99,
+      "biz": "Casebus.com",
+      "desc": "Website : www.casebus.com\nSupposedly sells iphone cases. Ordered case, they charged my card the same day. Nearly a week went by and their website showed they had not even shipped the case, let alone deliver it. Repeated phone calls and emails went unanswered. I have given up, hence the complaint, Filed chargeback with credit card."
+    },
+    {
+      "date": "2026-10-06",
       "type": "Phishing",
       "city": "Joliet, IL",
       "amt": 0,
       "biz": "Safe Auto Glass",
       "desc": "$25"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025, I have received over 590 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller offered unsolicited \"time sensitive resolution options\" to my supposedly unpaid taxes. I don't owe any taxes. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025 I have received over 590 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Sandy lending side\" and offered an unsolicited $67,000 unsecured personal loan, claiming she resurrected my file on an office dare. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times."
     },
     {
       "date": "2026-10-05",
@@ -46,83 +86,43 @@
     },
     {
       "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Lake Zurich, IL",
-      "amt": 50,
-      "biz": "Iris Johanna",
-      "desc": "Item purchased was not what was advertised. Extremely poor quality and when asked for a return and refund, per their own policy, was offer first a 20% refund and then a 30% refund. They are not upholding their own policies and are sending trash articles of clothing. In the photo you will see what was advertised and what was received. As well as their written policy."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Shorewood, IL",
-      "amt": 36.55,
-      "biz": "Velvet Polley - SP David Michael Ramire Tucson, AZ",
-      "desc": "We were looking to purchase Pelican brand accessories for our kayaks and their site appeared legitimate. Offering a sale price on kayak tie downs and scupper plugs. We did not receive a confirmation from the on-line sale at pelician-kayaks.com but did recieve a conformation from the Shop App ( which I am not a fan of. They dont seem to check out thier vendors.)\nAfter a couple of weeks I tried to contact the company. No phone number listed . I attempted to email the company with the oreder number and description of what we ordered. Email bounced back as undeliverable. Contacted bank to dispute  order as fraudulent activity. Debit card was cancelled. After 3 weeks still have not received order."
-    },
-    {
-      "date": "2026-10-05",
       "type": "Employment",
-      "city": "Arlington Heights, IL",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Avesis",
-      "desc": "I avoided the scam but had &ldquo;lou&rdquo; email me about a job and then Brian to call me for a screening.  Thankfully didn&rsquo;t fall for it because I saw the number posted on here first."
+      "biz": "Circel Health",
+      "desc": "This email is a textbook \"fake certification\" job scam. The \"Circle Health\" domain used in this email (circlehealthcaregroup.com) and the \"Staffing Manager\" Austin Reid are part of a coordinated phishing and financial extraction scheme designed to target job seekersThe \"Circle Health\" domain used in this email (circlehealthcaregroup.com) and the \"Staffing Manager\" Austin Reid are part of a coordinated phishing and financial extraction scheme designed to target job seekers"
     },
     {
       "date": "2026-10-05",
-      "type": "Debt Collections",
+      "type": "Home Improvement",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "AE home warranty",
+      "desc": "They keep saying that my home warranty is ending or the file has closed. Prompting me to call the number"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
+      "city": "Monticello, IL",
+      "amt": 64.92,
+      "biz": "Glowdime",
+      "desc": "Popular product. other suppliers. Misrepresented. Never received. Tracking and email provided don't work"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
+      "city": "Decatur, IL",
+      "amt": 69.99,
+      "biz": "Kestrel Sound",
+      "desc": "This is for a mp3 portable player. The shipped once, delivered to wrong city, sent another, still delivered to wrong city. Now no response to emails or instant messaging. I now believe they have changed their name to something else. I have heard this is a scam called &ldquo;dropped shipping&rdquo;."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Other",
       "city": "Moline, IL",
       "amt": 0,
-      "biz": "The Capital Group/Maxwell & Bryant Group",
-      "desc": "Person called denied they were a collection agency/debt collector and said they were in fact a pre litigation company. They used employer information from 2017, an employer who was closed by the feds. I thought it was something affiliated but she want on to allege that I had $1300 unpaid bill from 2020 to Bruce furniture store. She also alleged I was mailed debt settlement and did not need to provide proof of debt. She offered an option to settle a debt directly with the store and would transfer me, she was unsuccessful and told me to call the store directly.\nNot only did she deny being a debt collector she said she was going to file docs with court but did not work for a law firm, and did not know what attorney would show up. Her vernacular was also suspicious as she had a hard time reiterating what was actually happening."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Zion, IL",
-      "amt": 58.24,
-      "biz": "sgwsshop.com/admsale.com",
-      "desc": "I ordered dentures as seen in the advertisement and received child-like plastic teeth that looked like it belonged in a Halloween costume package."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Employment",
-      "city": "O Fallon, IL",
-      "amt": 0,
-      "biz": "Minubo/minuagt.com",
-      "desc": "They come at you with a job offer that you can do on your own, promoting other businesses items.  But eventually you get package deals, upload more money than you have and keep getting negative."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Slap Funk Strings",
-      "desc": "This website is copying listings for our store's inventory and attempting to sell items that they don't have.<br class=\"t-last-br\" />"
-    },
-    {
-      "date": "2026-10-04",
-      "type": "Other",
-      "city": "Chicago, IL",
-      "amt": 75,
-      "biz": "SugarBabyCare.cp",
-      "desc": "I placed an order once for face pads from a social media ad. I was emailed about a month later that my credit card was going to be charged again and I was enrolled in a subscription. There was no information regarding a subscription in my order or my confirmtion when I placed the order. I emailed customer service that I did not want this subscription, nor did I sign up for anything. I told them to cancel my order. My credit card was charged again. When I got the email confirmation of the second charge, I emailed them again and this time my emails were replied to by AI just going in circles with the same questions.\nThe face pads completely fall apart when I try to pull them out of the container. I don't even use them. I certainly don't want more. This company is a nightmare."
-    },
-    {
-      "date": "2026-10-03",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 2450,
-      "biz": "Inthemoment.film: ( Dream crew, dream film, dream team picture)",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-03",
-      "type": "Phishing",
-      "city": "Elizabeth, IL",
-      "amt": 0,
-      "biz": "Berry Supplies LLC",
-      "desc": "An individual from Berry Supply LLC (in my situation \"Glen Ishan\" or \"Glen Ishaan\") will reach out to you asking to book with your business for teambuilding, etc. for their employees. Then, they'll ask if you accept credit card and if you will help them make the payout to their professional photographer who will also be coming to the event. They may pay you in full: your services, the photographer's fees, any extra fees you bill them. Then, they will cc you with some bogus photographer email and tell you the photographer must take a direct bank transfer. I'm sure they take all your money if you follow through with all of this. But we're going to get them before they can."
+      "biz": "Aetna",
+      "desc": "Voicemail claiming to be from medical provider."
     }
   ]
 }
