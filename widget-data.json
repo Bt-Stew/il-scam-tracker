@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-07",
+      "type": "Online Purchase",
+      "city": "Oakland, IL",
+      "amt": 1020,
+      "biz": "Loaderz.com",
+      "desc": "They charged me an additional $1020 (on top of the agreed upon total) for travel time to move my belongings. We live far away from a big city. They did not tell us they were booking movers from three hours away (6-hours of travel in total). If we had known we definitely would not have used their service. The travel fee in the original agreement was $25. They said nothing about the additional travel expense. They tacked that amount on at the very end and the movers would not unload our belongings until we paid the full amount."
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Investment",
+      "city": "Sycamore, IL",
+      "amt": 575,
+      "biz": "TikTok",
+      "desc": "I received multiple adds on TikTok to join their TikTok Shop merchant program. I was deceived into sending money to cover inventory/sales of product. I believe this is an investment scam. I made the first deposit on good faith thinking it was startup costs. Every order after that became more and more expensive/requesting more money. I contacted their customer service rep about closing my store and cancelling orders and was advised that is not possible until all orders are completed. After every order was completed a new one would populate requiring more money to proceed. And never being able to close the account or their guidelines"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025, I have received over 590 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller offered unsolicited \"time sensitive resolution options\" to my supposedly unpaid taxes. I don't owe any taxes. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Counterfeit Product",
+      "city": "Riverside, IL",
+      "amt": 120,
+      "biz": "ThePrintFast Store",
+      "desc": "The online store advertised a product specific to Nike and the Chicago Bears.  The product, received 4 weeks after payment was made and little follow-up from the company is a counterfeit shoe (not the Nike Air Mx 90 as advertised) and is not specific to the Chicago Bears in any way (no logo, wrong team colors, nothing that indicates Chicago as originally pictured)"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Typical Scam going through trademarks and providing unsolicited services.  My phone is on the do not call list."
+    },
+    {
+      "date": "2026-10-06",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 45,
+      "biz": "Safe Path Kids",
+      "desc": "purchased the books on ~6/5/26 via Shop app. It was supposed to be a 1 time purchase for the books. They charged me $44.95 for books + flash cards instead of $19.99 for the books. I did not purchase the flashcards nor did i receive them. Since then, i have recurring charges (despite my account indicating no subscription) on 7/13, 8/2, 9/10, and 9/27/26. I have asked them to refund and remove my info from their system at each event but they have not replied - although i have received a refund for eveything exvept for 1 order + the flash cards from the initial order."
+    },
     {
       "date": "2026-10-06",
       "type": "Retail Business",
@@ -15,114 +63,66 @@
     {
       "date": "2026-10-06",
       "type": "Phishing",
-      "city": "Lake Bluff, IL",
-      "amt": 0,
-      "biz": "Bay Area Times",
-      "desc": "This is an aggressive phishing operation using \"tips@bayareatimes.com\" email address or similar email addresses to flood my inbox with unsolicited scam messages. Emails arrive from aliases like growth@bayareatimes.com, info@bayareatimes.com, and tips@bayareatimes.com, and this scammer rotates addresses daily to bypass spam filters and trick recipients into engaging. The messages are flagged as phishing by mail servers, and clicking links or downloading attachments can compromise your personal data. Do not click on any links."
-    },
-    {
-      "date": "2026-10-06",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 90,
-      "biz": "Deal Dunk",
-      "desc": "Scammer offers a bracelet for $1.99 to support shelter dogs and never mentions an ongoing subscription fee that renews every 21 days. Does not state that in the social media add until you go onto their website after the fact they&rsquo;ve already been taking funds out of your account."
-    },
-    {
-      "date": "2026-10-06",
-      "type": "Healthcare/Medicaid/Medicare",
-      "city": "Batavia, IL",
-      "amt": 2399,
-      "biz": "The Forge LLP",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-06",
-      "type": "Online Purchase",
-      "city": "Morton Grove, IL",
-      "amt": 29.99,
-      "biz": "Casebus.com",
-      "desc": "Website : www.casebus.com\nSupposedly sells iphone cases. Ordered case, they charged my card the same day. Nearly a week went by and their website showed they had not even shipped the case, let alone deliver it. Repeated phone calls and emails went unanswered. I have given up, hence the complaint, Filed chargeback with credit card."
+      "city": "Somonauk, IL",
+      "amt": 20,
+      "biz": "Telepay T* Telepay",
+      "desc": "I was watching TikTok and an ad popped up saying congratulations. I&rsquo;ve watched a certain amount of videos and it directed me to another page.. it then said I had so many points and I could convert it into Cash. All I needed to do is pick what card I wanted the cash deposited into. So I did and then it asked me for $20 for a one time fee and the funds would be released into my account. So unfortunately, I paid $20 and then it asked me to send them another $40. I did this through Apple Cash and then I realize this was a scam after researching it."
     },
     {
       "date": "2026-10-06",
       "type": "Phishing",
-      "city": "Joliet, IL",
+      "city": "Highland, IL",
       "amt": 0,
-      "biz": "Safe Auto Glass",
-      "desc": "$25"
+      "biz": "ha mediations",
+      "desc": "received call 10/6/2026 at 1:00 pm from 773-219-0197   Hello I am calling tospeak with carol drewer im calling in reference to a complaint that has been filed against you in our office it is important that i do speak with either yourself or your attorney before any further possible legal action is taken such as a judgement or wage congressional caramel jewer we can be reaching our offices here at ha mediations t prevent possible legal action from being taken by our client again we would like to speak with either yourself or your attorney and we can be reached directly at 844-459-9319"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "type": "Advance Fee Loan",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have received over 590 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller offered unsolicited \"time sensitive resolution options\" to my supposedly unpaid taxes. I don't owe any taxes. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025 I have received over 590 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Sandy lending side\" and offered an unsolicited $67,000 unsecured personal loan, claiming she resurrected my file on an office dare. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times."
+      "biz": "Calvary Oak Financial",
+      "desc": "They keep calling me about a personal loan or debt consolidation loan. I asked the location- NJ and 20 other locations. I asked why I couldn&rsquo;t find a website/ never answered just irritated. He did say that he was given my info because I had inquired about refinancing my home, which is true, that was 6 mo ago. Are some of these financial institutions selling our personal information on the dark web? Kind of makes you go hmmmm??"
     },
     {
       "date": "2026-10-05",
       "type": "Online Purchase",
-      "city": "Rock Island, IL",
-      "amt": 59.95,
-      "biz": "Harper and wellsgoggle",
-      "desc": "Company, Harper and Wells. Address listed as Boston,MA but is an apt, not storefront. Bought a dress for $59.95, dress was not at all like advertised. Tried to get adress to return item with no response . Others say you have to return to China, company never told me this. Have read so many complaints since this happened from others about this company. How do you stop this from happening to others. I'm sure I'll never see my money again"
+      "city": "Lake Zurich, IL",
+      "amt": 50,
+      "biz": "Iris Johanna",
+      "desc": "Item purchased was not what was advertised. Extremely poor quality and when asked for a return and refund, per their own policy, was offer first a 20% refund and then a 30% refund. They are not upholding their own policies and are sending trash articles of clothing. In the photo you will see what was advertised and what was received. As well as their written policy."
     },
     {
       "date": "2026-10-05",
       "type": "Online Purchase",
-      "city": "Hanover Park, IL",
-      "amt": 0,
-      "biz": "7088 La Presa Dr, Los Angeles, California 90068",
-      "desc": "So this web site is advertising Flutes and flute head joints for between 1% and 10% of retail prices!\na $15000.00 dollar flute for $150.00 for example."
+      "city": "Shorewood, IL",
+      "amt": 36.55,
+      "biz": "Velvet Polley - SP David Michael Ramire Tucson, AZ",
+      "desc": "We were looking to purchase Pelican brand accessories for our kayaks and their site appeared legitimate. Offering a sale price on kayak tie downs and scupper plugs. We did not receive a confirmation from the on-line sale at pelician-kayaks.com but did recieve a conformation from the Shop App ( which I am not a fan of. They dont seem to check out thier vendors.)\nAfter a couple of weeks I tried to contact the company. No phone number listed . I attempted to email the company with the oreder number and description of what we ordered. Email bounced back as undeliverable. Contacted bank to dispute  order as fraudulent activity. Debit card was cancelled. After 3 weeks still have not received order."
     },
     {
       "date": "2026-10-05",
       "type": "Employment",
-      "city": "Chicago, IL",
+      "city": "Arlington Heights, IL",
       "amt": 0,
-      "biz": "Circel Health",
-      "desc": "This email is a textbook \"fake certification\" job scam. The \"Circle Health\" domain used in this email (circlehealthcaregroup.com) and the \"Staffing Manager\" Austin Reid are part of a coordinated phishing and financial extraction scheme designed to target job seekersThe \"Circle Health\" domain used in this email (circlehealthcaregroup.com) and the \"Staffing Manager\" Austin Reid are part of a coordinated phishing and financial extraction scheme designed to target job seekers"
+      "biz": "Avesis",
+      "desc": "I avoided the scam but had &ldquo;lou&rdquo; email me about a job and then Brian to call me for a screening.  Thankfully didn&rsquo;t fall for it because I saw the number posted on here first."
     },
     {
       "date": "2026-10-05",
-      "type": "Home Improvement",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "AE home warranty",
-      "desc": "They keep saying that my home warranty is ending or the file has closed. Prompting me to call the number"
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Monticello, IL",
-      "amt": 64.92,
-      "biz": "Glowdime",
-      "desc": "Popular product. other suppliers. Misrepresented. Never received. Tracking and email provided don't work"
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Online Purchase",
-      "city": "Decatur, IL",
-      "amt": 69.99,
-      "biz": "Kestrel Sound",
-      "desc": "This is for a mp3 portable player. The shipped once, delivered to wrong city, sent another, still delivered to wrong city. Now no response to emails or instant messaging. I now believe they have changed their name to something else. I have heard this is a scam called &ldquo;dropped shipping&rdquo;."
-    },
-    {
-      "date": "2026-10-05",
-      "type": "Other",
+      "type": "Debt Collections",
       "city": "Moline, IL",
       "amt": 0,
-      "biz": "Aetna",
-      "desc": "Voicemail claiming to be from medical provider."
+      "biz": "The Capital Group/Maxwell & Bryant Group",
+      "desc": "Person called denied they were a collection agency/debt collector and said they were in fact a pre litigation company. They used employer information from 2017, an employer who was closed by the feds. I thought it was something affiliated but she want on to allege that I had $1300 unpaid bill from 2020 to Bruce furniture store. She also alleged I was mailed debt settlement and did not need to provide proof of debt. She offered an option to settle a debt directly with the store and would transfer me, she was unsuccessful and told me to call the store directly.\nNot only did she deny being a debt collector she said she was going to file docs with court but did not work for a law firm, and did not know what attorney would show up. Her vernacular was also suspicious as she had a hard time reiterating what was actually happening."
+    },
+    {
+      "date": "2026-10-05",
+      "type": "Online Purchase",
+      "city": "Zion, IL",
+      "amt": 58.24,
+      "biz": "sgwsshop.com/admsale.com",
+      "desc": "I ordered dentures as seen in the advertisement and received child-like plastic teeth that looked like it belonged in a Halloween costume package."
     }
   ]
 }
