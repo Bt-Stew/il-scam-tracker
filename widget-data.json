@@ -6,6 +6,30 @@
   "reports": [
     {
       "date": "2026-10-08",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Glen Ellyn, IL",
+      "amt": 0,
+      "biz": "Relay Wire",
+      "desc": "We recieved a fax from a company we do not do buisness with.  This fax was an invoice for service we have never used.  attaching a scan of the fax"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 60,
+      "biz": "COL Pictures LLC",
+      "desc": "I subscribed to a free trial to a story site subscription through Facebook for $.99, using PayPal.  I cancelled the subscription within hours of completing the free trial, and received a confirmation pop up (but no email).  Following this, two charges for $29.99 were made to my PayPal account.  PayPal has stopped the subscription on their end, but the $59.98 charged is erroneous and I would like that money back."
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Phishing",
+      "city": "Lewistown, IL",
+      "amt": 0,
+      "biz": "Attorney",
+      "desc": "Says i owe on a credit card and i have court date that i never recieved. Said would have been in the mail. This supposed credit card is from 2013"
+    },
+    {
+      "date": "2026-10-08",
       "type": "Online Purchase",
       "city": "Lisle, IL",
       "amt": 138.65,
@@ -37,6 +61,14 @@
       "desc": "The individual contacted me through indeed, which is a job posting site.  He stated that he represented mentis systems and has a temporary assignment through the nestle corporation.  I decided to check mentis systems website. It lists all the locations that are foreign and domestic.  For the united states locations, they have different addresses but the same corporate phone number.  I tried to call the number but no one answered.  I didn't try to contact the foreign locations.  So I'm skeptical of the intentions for the business."
     },
     {
+      "date": "2026-10-08",
+      "type": "Other",
+      "city": "Willowbrook, IL",
+      "amt": 0,
+      "biz": "Imposter Just Answer",
+      "desc": "$24"
+    },
+    {
       "date": "2026-10-07",
       "type": "Phishing",
       "city": "Evanston, IL",
@@ -54,75 +86,43 @@
     },
     {
       "date": "2026-10-07",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 3000,
-      "biz": "Horizon Logistics LLC",
-      "desc": "I was contracted as an independent contractor for a order fulfillment associate, however I was never paid for the services and now all dashboard , and emails and phone numbers aren&rsquo;t responding"
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Rental",
-      "city": "Schiller Park, IL",
-      "amt": 100,
-      "biz": "Charles.knight11",
-      "desc": "This person posted a video on tik tok showing an apartment unit in the neighborhood and then when you inquire they set up a tour date but before then you have to fill out a brief questionnaire/application and then it asks for a deposit you will get back after viewing the apartment whether you are interested or not you will get it back they reassure you that and say it will be used to defer people from seeing it that are not serious or might miss the assigned time, they then said oh your payment wasn&rsquo;t received after sending confirmation and then say they have many applications as that is what&rsquo;s taking time because they cannot refund it unless it is allegedly confirmed"
-    },
-    {
-      "date": "2026-10-07",
       "type": "Online Purchase",
-      "city": "Lake Zurich, IL",
-      "amt": 110,
-      "biz": "Nasora",
-      "desc": "Product has been sent to me and I&rsquo;m allergic to the main ingredient&hellip; iodine.\nTried contacting them and there is no way to reach them and they keep sending them.Calling my bank."
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "None provided",
-      "desc": "Repeated spam phone calls claiming approval of a low interest 50,000-90,000 loan."
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Online Purchase",
-      "city": "Oakland, IL",
-      "amt": 1020,
-      "biz": "Loaderz.com",
-      "desc": "They charged me an additional $1020 (on top of the agreed upon total) for travel time to move my belongings. We live far away from a big city. They did not tell us they were booking movers from three hours away (6-hours of travel in total). If we had known we definitely would not have used their service. The travel fee in the original agreement was $25. They said nothing about the additional travel expense. They tacked that amount on at the very end and the movers would not unload our belongings until we paid the full amount."
+      "city": "Bradley, IL",
+      "amt": 66,
+      "biz": "Fig and willow official",
+      "desc": "I purchased rug shampooer from the company in August and never received my item"
     },
     {
       "date": "2026-10-07",
       "type": "Debt Collections",
-      "city": "Rockford, IL",
+      "city": "Joliet, IL",
       "amt": 0,
       "biz": "—",
-      "desc": "I got an email saying I borrowed money from Cash Net and I owe 1999.00.  I never borrowed money from cash net.  They threatened me with a lawsuit."
+      "desc": "Voicemails, several a day: This urgent message is intended for (name). My name is Mrs. Clark with payment processing.  The reason for my call today is to verify the address we have on file as we are preparing to file documentation in your case....Our client has flagged you as evasive and non compliant."
     },
     {
       "date": "2026-10-07",
-      "type": "Counterfeit Product",
-      "city": "Tinley Park, IL",
-      "amt": 127,
-      "biz": "Amari bay",
-      "desc": "Cashmere sweater advertised on Facebook. Took weeks to arrive. Clearly not cashmere and no tags at all. Company did not provide return information."
+      "type": "Tax Collection",
+      "city": "Peoria, IL",
+      "amt": 0,
+      "biz": "United Filing Release Verification and Enrollments Department",
+      "desc": "Voicemail transcript: This is Christy Burke with United Filing Release, Verification and Enrollments Department. I wanted to make one more quick follow-up attempts before the 15th because there may have been recent updates regarding your situation that are worth reviewing. Sometimes it's as simple as confirming a filing issue, balance, penalty, or notice that was never fully resolved. Other times there may be programs available that people don't realize they still qualify for until a quick verification review is completed. I do have a direct verification line available so if you call in now, we can get you a clear answer without any unnecessary waiting or transfers. You can reach me directly at 888-676-3952 again that's 888-676-3952. To reach the main department line, just call back our toll-free number I called you from. If you no longer wish to receive future"
     },
     {
       "date": "2026-10-07",
-      "type": "Other",
-      "city": "Woodridge, IL",
-      "amt": 0,
-      "biz": "Home Warranty Division",
-      "desc": "Mail from \"Home Warranty Division\" uses alarming language as \"important to contact..to avoid unnecessary delays...need to get home warranty up to day...final notice...failure to call...revoke your eligibility...after expiration date.\" Not illegal but alarming and easily sounds as if you are lacking or have let coverage expire. I called to get removed from their mailing list, the man on the line kept asking questions about coverage and would not relent after telling him I just want to be removed from list. I asked several times and said I just want my addressed removed and he would not stop. I said I would call the BBB and he asked what company I would report on? and he hung up. Sounds like \"Home Warranty Division\" is just a generic name."
+      "type": "Online Purchase",
+      "city": "Des Plaines, IL",
+      "amt": 98.48,
+      "biz": "Qpopup",
+      "desc": "I ordered a dress on 9/10 from qpopup.com and received a confirmation email. I never received shipping confirmation, but I was able to use my confirmation to look at my order status. The tracking info stated my package shipped from Hong Kong on 9/11 and was delivered on 10/1, but I never received the package. I emailed qpopup (hello@qpopup.com) on 10/2 to follow up. I received a response that they would investigate. I followed up on 10/5 and 10/7 and did not receive a response."
     },
     {
-      "date": "2026-10-06",
-      "type": "Employment",
-      "city": "Rockton, IL",
-      "amt": 0,
-      "biz": "Kyle Williams.",
-      "desc": "Found the job advertised on a job board, flexjobs. They reached out stating they were interested in talking. However, no interview was set up. Instead they just sent an email saying to expect a check. I never accepted any job offer. I told them via email I had no interest. Instead they sent me two checks to cash for about $1000 each. I shredded both. In that mailing they claimed they're sending product next. This needs to stop fast."
+      "date": "2026-10-07",
+      "type": "Online Purchase",
+      "city": "Ottawa, IL",
+      "amt": 74.99,
+      "biz": "Sierra’s Wreaths",
+      "desc": "I ordered a wreath it showed a young lady making these and told a story of how she started making them. I placed the order online through &lsquo;shop&rsquo; and only got a fake shipping confirmation over a month ago."
     }
   ]
 }
