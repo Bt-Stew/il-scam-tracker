@@ -1,6 +1,225 @@
 {
-  "generated": false,
+  "generated": true,
   "query": "Central Illinois Scams",
-  "text_blocks": [],
-  "references": []
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Central Illinois residents are currently targeted by several active, prominent scams, including AI voice-cloning phone schemes, spoofed law enforcement calls, and gift card or tampering traps.",
+      "reference_indexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "AI Voice-Cloning & Family Emergency Scams: Scammers use artificial intelligence to mimic the voices of loved ones or children, claiming they are in an urgent accident, hospital, or legal emergency and demanding immediate payment via Zelle, Cash App, wire transfer, or cryptocurrency .",
+          "reference_indexes": [
+            0,
+            5
+          ]
+        },
+        {
+          "snippet": "Spoofed Sheriff/Police & Warrant Scams: Scammers spoof local sheriff or police numbers (such as in Williamson County) or federal/U.S. Attorney numbers, posing as detectives or officers and claiming the victim has a missed court date or active arrest warrant. They demand immediate cash bonds or payment over the phone.",
+          "reference_indexes": [
+            2,
+            6
+          ]
+        },
+        {
+          "snippet": "Fake Traffic & Toll Violation Texts: Fraudulent text messages mimicking the Illinois Tollway, Secretary of State, or local traffic courts claim you owe unpaid fines and threaten driver's license suspension unless you click a link and pay. (Note: State agencies do not demand or request fine payments via unprompted text) .",
+          "reference_indexes": [
+            3,
+            7,
+            8
+          ]
+        },
+        {
+          "snippet": "Gift Card & Retail Tampering: Criminals tamper with gift cards on open store racks by peeling off security covers, photographing PINs, and reapplying stickers, or scraping middle codes to drain funds the moment a card is activated.",
+          "reference_indexes": [
+            1,
+            4
+          ]
+        },
+        {
+          "snippet": "Storm Chaser & Contractor Scams: Following spring and summer storms, dishonest contractors and fake public adjusters move through Central Illinois neighborhoods, offering \"free inspections\" and pressuring homeowners into large upfront cash payments for unnecessary or unfinished repairs.",
+          "reference_indexes": [
+            9
+          ]
+        },
+        {
+          "snippet": "High-Dollar Gold Bar & Investment Fraud: Scammers build long-term online or phone trust with seniors or investors, convincing them to liquidate retirement accounts or buy physical gold bars to hand over to \"couriers\" for safekeeping."
+        },
+        {
+          "snippet": "Verify independently: Hang up and call official numbers directly (never use the phone number provided in a suspicious text or caller ID).",
+          "reference_indexes": [
+            11
+          ]
+        },
+        {
+          "snippet": "Check official hotlines: You can report suspected fraud or get assistance from the Office of the Illinois Attorney General using their Springfield Consumer Fraud Hotline at 1-800-243-0618.",
+          "snippet_links": [
+            {
+              "text": "Office of the Illinois Attorney General",
+              "link": "https://illinoisattorneygeneral.gov"
+            }
+          ],
+          "reference_indexes": [
+            12
+          ]
+        },
+        {
+          "snippet": "Never pay via gift card or crypto: Legitimate government agencies, police departments, and utilities will never demand payment in gift cards, prepaid debit cards, wire transfers, or cryptocurrency.",
+          "reference_indexes": [
+            13,
+            14
+          ]
+        },
+        {
+          "snippet": "Inspect gift cards: If you buy gift cards, check the back for peeled stickers or missing scratch-off panels, or ask for cards kept securely behind the counter."
+        }
+      ],
+      "reference_indexes": [
+        10,
+        1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you or someone you know received a specific message or call, let me know what they claimed (e.g., a fake warrant, a tech support alert, or an online listing) and I can give you exact steps to verify it."
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "AI giving scammers new tools to target Central Illinois victims ...",
+      "link": "https://www.facebook.com/25NewsWEEK/posts/ai-giving-scammers-new-tools-to-target-central-illinois-victimsdetails/1678270947662126/",
+      "snippet": "SCAM WARNING Phone scammers are using AI to clone voices and convince people that their loved ones are calling for money, Atty. General Kwame Raoul says... #PhoneS...",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuXOc5LqwAEcmGU8eHa7jUQt5Qr5kaaMYVtOFs4KknmmSVVj6hR8Ez_Iz2kFtL30tEA2BtBj9LuIMpQJ8eCXJY7IB-c2MrHrR49oUz"
+    },
+    {
+      "index": 1,
+      "title": "5 Walmart Scams \u2014 EXPOSED LIVE! | Jeff Rossen",
+      "link": "https://www.facebook.com/rossenreports/videos/5-walmart-scams-exposed-live/26952707241096694/",
+      "snippet": "Top 5 Walmart Scams of 2026 Exposed by Rossen Reports guys um you can probably tell by my gray hairs i've been doing this for a while. and we talk a lot and I'm up",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5YQKdIca9EkBTasLusvTHv53FPndglYnMr-gkj2OFZrJaMmrOqMqfAYcP9CQQ6D3ADqKv7nmIqZZ_0-WBnxF_uALLB39mPgXbEWJt"
+    },
+    {
+      "index": 2,
+      "title": "Those pesky scam calls are getting trickier. The sheriff's office ...",
+      "link": "https://www.facebook.com/wandtv/videos/those-pesky-scam-calls-are-getting-trickier-the-sheriffs-office-says-theyve-cost/1834717731296046/",
+      "snippet": "Those pesky scam calls are getting trickier. The sheriff's office says they've cost Central Illinois residents thousands of dollars. ... This news report from WAND...",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXMnJ41Rc3FroTxhmtvrOlmPLN1FRXXU1YHdoPcHl8BYPjMHClEUkUeBojpNOFPblNqI5u5B7W-oPqDeQlzlPo7eTtklf9MtpmrXk3"
+    },
+    {
+      "index": 3,
+      "title": "Look Out for Fraudulent DMV Text Scams - ILSOS.gov",
+      "link": "https://www.ilsos.gov/special/dmv-text-scams.html",
+      "snippet": "The Illinois Secretary of State's office sends text messages ONLY for appointment reminders. These allow you to confirm your appointment, reschedule, or cancel at ...",
+      "source": "Illinois Secretary of State (.gov)",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ilsos.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPGz61sZA11LgA22Xcgry9Bq-g8O0VepBwFNQs6iq7K_in7gdVm4zYsX8jPSFVu3wSExf_g856G9wHxCBW0iKI5vlKdJgKxxkEsdv"
+    },
+    {
+      "index": 4,
+      "title": "/r/Scams - Reddit",
+      "link": "https://www.reddit.com/r/Scams/",
+      "snippet": "It was late so only the self-checks were open, but to run the cards the cashier had to come over, and she ripped the tabs off, scanned the cards, did the override ...",
+      "source": "Reddit",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlub8DpBMKW8_5MJJhduujWBu8EAE7rYttDWgi_6GMa4LFkVQhHNoR1q6uKonqq2LLPVkVoZ1OiK5YT4iKe0f2zeg14XblllsafsKF"
+    },
+    {
+      "index": 5,
+      "title": "What are some common types of fraud and scams? | Consumer Financial Protection Bureau",
+      "link": "https://www.consumerfinance.gov/ask-cfpb/what-are-some-common-types-of-fraud-and-scams-en-2092/",
+      "snippet": "Identity/Trust Scams: Blackmail (threats over private content), Grandparent (fake relative emergencies via AI voice cloning), Impostor (fake government/bank offici...",
+      "source": "Consumer Financial Protection Bureau (.gov)",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.consumerfinance.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkfKnD04radbSqQzp7M34QfptDGkIuiV1RTl3FzSpE8vWU1Jz2TlNpN0i1r0iYa00AgIXBLoAkiiqynrLoA6RBb3OwU67uxpF7AtXh"
+    },
+    {
+      "index": 6,
+      "title": "Central District of Illinois | News - Department of Justice",
+      "link": "https://www.justice.gov/usao-cdil/pr",
+      "snippet": "... in Prison for Multimillion Dollar Bank Fraud Discovered in Bankruptcy Court. URBANA, Ill. \u2013 A Chandlerville man, Travis L. Murphy, 55, has been sentenced to 42...",
+      "source": "Department of Justice (.gov)",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.justice.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 7,
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-illinoisans-to-be-alert-for-text-message-scams-involving-fake-traffic-violations",
+      "snippet": "***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL URGES ILLINOISANS TO BE ALERT FOR TEXT MESSAGE SCAMS INVOLVING FAKE TRAFFIC VIOLATIONS. March 30, 2026. Chicago \u2013 Attor...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 8,
+      "title": "Giannoulias warns about increase in scam calls, text ...",
+      "link": "https://www.youtube.com/watch?v=NFeQKHHDOw0",
+      "snippet": "Giannoulias warns about increase in scam calls, text impersonating Secretary of State\u2019s office the Illinois Secretary of State is warning about a new round of bogu",
+      "source": "YouTube",
+      "source_icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABwBgCdASogACAAPtEutFooIagoGAEAGglpAAgQOIGMN51NQTdAFrX-Gsb3eB0vjkR650qMGfT1YAffL3gA_v7DV4WHcQ3AMY0viseS_fbLPgBim8s7XqnKaMHBRcyfOE4vTcp5-54fqo_Gizl7xHcxmWbpveYJ9c4-5a0EDPOdCeNJ-WFkryy_QYHD-zgv80vLy5SvS4NPCE9yQ6QwXyu41j_yFu59g4p-MrdcT31kpT-WJL1PPhWUsl0XGDk3r3ebudY-aeQvkiNOjWjKdokhDHRLFtuqSoLa2Vp4x-uleoVncBqgv0mZkZ4pfYZNvf2WBkHk0oivKEYhFwLt_V-rJPmKFVKdWBBnga9UbnlZQ6o1SRfo7wAAAAA.webp",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdy3z0o4NHpZb3Uni_KlqFWk3cYH5mCe1Clx152epaJnvAbKL_37S3oDcQ0eac0s8N3qUL-ucmr_NA0cKRvzvQlGrfpFxnY0iDfyzq"
+    },
+    {
+      "index": 9,
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-warns-residents-to-be-on-the-lookout-for-storm-related-repair-scams-after-record-breaking-spring-storms",
+      "snippet": "... up and rebuild after multiple rounds of damaging spring storms, Attorney General Kwame Raoul warned Illinois residents to be on alert for scammers looking to e...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 10,
+      "title": "Marion, Illinois woman duped out of $318K in elaborate gold",
+      "link": "https://www.cbsnews.com/chicago/news/marion-illinois-woman-elaborate-gold-bar-scheme/",
+      "snippet": "Gold-bar scams on the rise They may also use the opposite tact, building a close rapport over weeks with vulnerable seniors who come to trust them explicitly. Cox ...",
+      "source": "CBS News",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS13bVCJl7vM357pcdHdXq6HZRrZUXxeSpm2Xz0XnWj_7nnPOTbPQwEVA65jjVeyW7JxJKxR613sS8o5Xe0hvnsJfphcGzuLIxZgsZw"
+    },
+    {
+      "index": 11,
+      "title": "Scammers\u2019 Three Lies",
+      "link": "https://www.youtube.com/watch?v=MA9iXRHc-iE",
+      "snippet": "Scammers' Three Lies - YouTube This content isn't available. \u26a0\ufe0f Scammers are getting bolder. Their favorite tricks include old lies told in new ways. I'll show you...",
+      "source": "YouTube",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2QAL9FUuB-pNfQ8kK4RoktRCDfOxuEp0eehXSUI3H6xu3iktTIbKWE0Dzuo3b_ywbPpmDij4Z6XHRGuqL-vmyhX4Troq1mR2wSoUE"
+    },
+    {
+      "index": 12,
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alertattorney-general-raoul-warns-illinoisans-of-investment-scams-posted-on-meta-platforms",
+      "snippet": "Do not provide strangers access to your devices: Illinois consumers should keep in mind that most fraudulent transactions, especially those involving cryptocurrenc...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 13,
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-consumers-to-stay-warm-stay-safe-and-watch-out-for-utility-scams-this-winter",
+      "snippet": "Remember that your utility company will never ask you to make a payment using cryptocurrency, gift cards, or by wire transfer or peer-to-peer apps, like Zelle or V...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 14,
+      "title": "Office of the Illinois Attorney General Kwame Raoul",
+      "link": "https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-urges-residents-to-take-precautions-to-avoid-tax-identity-theft-when-filing-tax-returns3.24.26",
+      "snippet": "Raoul offered tips to help consumers avoid becoming a victim of tax identity theft: * With a few exceptions, the IRS needs your permission to email or text you and...",
+      "source": "Office of the Illinois Attorney General (.gov)",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://illinoisattorneygeneral.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    }
+  ]
 }
