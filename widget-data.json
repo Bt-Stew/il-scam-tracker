@@ -1,16 +1,112 @@
 {
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-10-08",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Glen Ellyn, IL",
+      "date": "2026-10-09",
+      "type": "Phishing",
+      "city": "Rockford, IL",
       "amt": 0,
-      "biz": "Relay Wire",
-      "desc": "We recieved a fax from a company we do not do buisness with.  This fax was an invoice for service we have never used.  attaching a scan of the fax"
+      "biz": "none",
+      "desc": "Scammer asked for first name. He then asked for information about my proterty value .  then asked if i wanted to sell and when. Wanted  also  to   come visit property.  He  did know  address."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Phishing",
+      "city": "Lake Zurich, IL",
+      "amt": 0,
+      "biz": "Service Activation Center",
+      "desc": "I was cold called about my cars extended warranty that i hadn&rsquo;t activated yet. I should have known something was fishy when the caller didn&rsquo;t say the name of the &ldquo;company&rdquo; when the call started. They will ask a lot of leading questions and half full statements that are phishing for the right thing to say next."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Online Purchase",
+      "city": "La Salle, IL",
+      "amt": 63.29,
+      "biz": "QVC/Huxolia/32bracelets",
+      "desc": "It was an ad on Snapchat advertising for QVC on chair for a buy 2 get 2 free."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Online Purchase",
+      "city": "Elmwood Park, IL",
+      "amt": 55.9,
+      "biz": "Paul Wardrobe",
+      "desc": "Ordered what was described as an elegant evening dress. Product received was poor quality and not as depicted, material was like T shirt material. Customer service # message was not taking calls at this time, so I emailed them asking for a return label since they have a 30-day return policy 3 times, each time I got the same message that they are trying to make things right but no return label. When I said I would open a dispute claim with my credit card, they said they would refund me 50% and I could keep the dress and I would lose the CC claims, so their offer was better. I initiated a claim with my payment source and received a resolution after multiple emails and pictures were sent.  I spent a lot of time on my big mistake ordering from this company, lesson learned DO NOT ORDER FROM THIS COMPANY unless you enjoy headaches and like to waste time!!!"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 50.34,
+      "biz": "Forgedinvalhalla.com",
+      "desc": "I&rsquo;d previously ordered from the same website several years ago.  At that time, everything went smoothly. I recently ordered the same item for a gift to a colleague and now I run into they took my money but I never received the order. It&rsquo;s been nearly three weeks and nothing has been shipped."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Online Purchase",
+      "city": "Elmhurst, IL",
+      "amt": 42.98,
+      "biz": "Hooma",
+      "desc": "Ordered ice maker June 22,2026. When I checked the status of the order it said it was being delivered, but it was always an issue with it being delivered. First they said no one was home, then the truck broke down after that it said it was a road block. It was something different every time I spoke with someone through chat. When I emailed asked for an refund they stop responding."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 329.48,
+      "biz": "Countless Creations By Rose",
+      "desc": "I paid for merchandise that amounted to 329.48. I originally paid through after pay. After i asked for a refund she told me no. The next day she text me an address that the items will be at. I didn't pick up the items and yet my money hasn't been refunded. I filed a complaint with CFPB as well"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Phishing",
+      "city": "Heyworth, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "\"...regarding a new Walmart account is created using your name and phone number, and you have charged for an amount of $1,302.49. According to our database, this is a suspicious account. If this was not you, please press one to talk with Walmart customer support or immediately call back on the same number that appear on you caller ID for direct connection.\" (please note that the grammar errors were in the message!)"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Online Purchase",
+      "city": "Berwyn, IL",
+      "amt": 182.64,
+      "biz": "Addidas",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Phishing",
+      "city": "Blackstone, IL",
+      "amt": 30,
+      "biz": "Crystal Ashley",
+      "desc": "I was looking for an apartment,  seen an add on marketplace,  received a text about it but wanted a credit score on a website, sent a picture and paid for report,  she said she would reimburse,  then asked for a picture of another credit report, i never responded back"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Online Purchase",
+      "city": "Mattoon, IL",
+      "amt": 96,
+      "biz": "your-jetflame.com",
+      "desc": "I made N online purchase to Backroad Goods for an alleged heirloom limited edition oak lamp, approximately $60. I cannot find the receipt because they didn&rsquo;t bother. When opened, it&rsquo;s a piece of junk made out of plastic with three batteries that were completely rusted inside of it. I demanded a return of my monies and a paid shipping label to return their joke of an item. They refused to make a refund. They refused to give a packing label, and say that that is at my expense to return to Hong Kong for a full refund. His whole thing has been a total scam, and they refuse to own up."
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Phishing",
+      "city": "Fairview Heights, IL",
+      "amt": 0,
+      "biz": "SilverLine",
+      "desc": "Received a text at 12:21 PM on Thu Oct 8\nHello Dan, Cindy from SilverLine here. I have your $26,721 file update ready to review. Call me today at 949-868-9968 so we can finish the task."
     },
     {
       "date": "2026-10-08",
@@ -23,106 +119,10 @@
     {
       "date": "2026-10-08",
       "type": "Phishing",
-      "city": "Lewistown, IL",
-      "amt": 0,
-      "biz": "Attorney",
-      "desc": "Says i owe on a credit card and i have court date that i never recieved. Said would have been in the mail. This supposed credit card is from 2013"
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Online Purchase",
-      "city": "Lisle, IL",
-      "amt": 138.65,
-      "biz": "Micas",
-      "desc": "I made my order and they shipped it through an illegitimate shipping company and the delivery driver stole it. I don&rsquo;t have issues in my building with stolen packages and i check for the package literal SECONDS after i got the delivered notification. They staged the delivery and used a fake label on the lobby door instead of bringing it to my actual door. I filed a a complaint for investigation with the shipping company and they never contacted me back. So i contacted Micas and asked for my money back and they sent me to the another illegitimate company that i apparently paid for shipping protection and they&rsquo;re also giving me the run around. Micas is saying there&rsquo;s nothing they can do and it&rsquo;s a total loss."
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Debt Collections",
-      "city": "Naperville, IL",
-      "amt": 0,
-      "biz": "Steinberg and Associates",
-      "desc": "Someone named Ayana called my mother leaving a voicemail that she forwarded to me. The voicemail stated that I owed a debt and would be served court papers to my job. I called the number back and a man answered, I gave him a case number that was given from the voicemail left on my mother's mobile. He asked me to confirm my birthdate, which he already knew. I asked what is this about and he would not tell me unless I verified my date of birth. He immediately got loud with me and told me he would see me in court and hung up! I called back and the same guy answered and I told him don't my family ever again."
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Online Purchase",
-      "city": "Schiller Park, IL",
-      "amt": 50,
-      "biz": "Bella",
-      "desc": "I redeem 200,000 seats through noom app September 14 and I never received my $50 gift card when I called them they sent me term and condition I redeem earlier for $20 gift card that sent me that but $50. It&rsquo;s not working nowhere in that app said you can&rsquo;t redeem 200,000 seats. I work so hard for that and I need my $50 gift card."
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Employment",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Mentioned Systems",
-      "desc": "The individual contacted me through indeed, which is a job posting site.  He stated that he represented mentis systems and has a temporary assignment through the nestle corporation.  I decided to check mentis systems website. It lists all the locations that are foreign and domestic.  For the united states locations, they have different addresses but the same corporate phone number.  I tried to call the number but no one answered.  I didn't try to contact the foreign locations.  So I'm skeptical of the intentions for the business."
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Other",
-      "city": "Willowbrook, IL",
-      "amt": 0,
-      "biz": "Imposter Just Answer",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Phishing",
-      "city": "Evanston, IL",
-      "amt": 400,
-      "biz": "Widen Chimney and Vent",
-      "desc": "An email was circulated on a neighborhood listserve advertising discounted dryer vent service on a certain day if enough neighbors signed up. It turns out it's a known scam technique. Someone came and did remove some dryer lint, but vastly overcharged for the service. On investigation the website is entirely fake and AI created and the address location is a dumpster in a strip mall in the suburbs."
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Employment",
-      "city": "Barrington, IL",
-      "amt": 2500,
-      "biz": "Career Empowe/WMS & Associates LLC",
-      "desc": "Bob Applequist contacted me via Linked as a representative/Founder of WMS &amp; Assoicates LLC to help me secure interviews and job offers (Attached signed agreement).  Bob introduced me to one person but never schedule or secured formal interviews ove the course of 9 1/2 months.  I have attached the signed agreement.  I recently found out via the IL Secretary of State website, that WMS &amp; Associcates LLC was involvuntary desolved on 4/8/2022.  Bob subsequently continued to use the WMS &amp; Associates LLC company name under which my agreement was finalized.  The total charge for his services was quoted at $5000 of which I only paid halk $2500 up front.  The remaining balance of $2500 was not paid.  I have since been ghosted by Bob as he has not returned emails, text or phone call to his number 630-605-2088.  This clearly was an attempt to fraud and a scam to collect fees."
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Online Purchase",
-      "city": "Bradley, IL",
-      "amt": 66,
-      "biz": "Fig and willow official",
-      "desc": "I purchased rug shampooer from the company in August and never received my item"
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Debt Collections",
-      "city": "Joliet, IL",
+      "city": "Highland, IL",
       "amt": 0,
       "biz": "—",
-      "desc": "Voicemails, several a day: This urgent message is intended for (name). My name is Mrs. Clark with payment processing.  The reason for my call today is to verify the address we have on file as we are preparing to file documentation in your case....Our client has flagged you as evasive and non compliant."
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Tax Collection",
-      "city": "Peoria, IL",
-      "amt": 0,
-      "biz": "United Filing Release Verification and Enrollments Department",
-      "desc": "Voicemail transcript: This is Christy Burke with United Filing Release, Verification and Enrollments Department. I wanted to make one more quick follow-up attempts before the 15th because there may have been recent updates regarding your situation that are worth reviewing. Sometimes it's as simple as confirming a filing issue, balance, penalty, or notice that was never fully resolved. Other times there may be programs available that people don't realize they still qualify for until a quick verification review is completed. I do have a direct verification line available so if you call in now, we can get you a clear answer without any unnecessary waiting or transfers. You can reach me directly at 888-676-3952 again that's 888-676-3952. To reach the main department line, just call back our toll-free number I called you from. If you no longer wish to receive future"
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Online Purchase",
-      "city": "Des Plaines, IL",
-      "amt": 98.48,
-      "biz": "Qpopup",
-      "desc": "I ordered a dress on 9/10 from qpopup.com and received a confirmation email. I never received shipping confirmation, but I was able to use my confirmation to look at my order status. The tracking info stated my package shipped from Hong Kong on 9/11 and was delivered on 10/1, but I never received the package. I emailed qpopup (hello@qpopup.com) on 10/2 to follow up. I received a response that they would investigate. I followed up on 10/5 and 10/7 and did not receive a response."
-    },
-    {
-      "date": "2026-10-07",
-      "type": "Online Purchase",
-      "city": "Ottawa, IL",
-      "amt": 74.99,
-      "biz": "Sierra’s Wreaths",
-      "desc": "I ordered a wreath it showed a young lady making these and told a story of how she started making them. I placed the order online through &lsquo;shop&rsquo; and only got a fake shipping confirmation over a month ago."
+      "desc": "Caller said that I have an outstanding tax bill and that they can help resolve"
     }
   ]
 }
