@@ -86,6 +86,14 @@
     },
     {
       "date": "2026-10-08",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 60,
+      "biz": "Izzy Rojas Photography",
+      "desc": "I reached out to the photographer to book a maternity photoshoot. I found their account through Instagram, but they also had a valid website. I looked through their portfolio and thought it would be a good fit, particularly because his rates were lower than other photographers in the area. We agreed on a time, date, and general location and the photographer asked me to send him a deposit of $60. However we had not confirmed the exact meeting location at that point. I sent the deposit on Tuesday, and the photoshoot was on Friday. Less than 24 hours before the photoshoot, we had received no further details, despite me reaching out and following up. We were in contact between 9/18/2026 up to today, 10/8/2026. I gave this photographer grace throughout our communication because I repeatedly had to follow up with him. Overall bad customer service and unprofessional, and I have not heard from him regarding our booking tomorrow."
+    },
+    {
+      "date": "2026-10-08",
       "type": "Phishing",
       "city": "Blackstone, IL",
       "amt": 30,
@@ -115,14 +123,6 @@
       "amt": 60,
       "biz": "COL Pictures LLC",
       "desc": "I subscribed to a free trial to a story site subscription through Facebook for $.99, using PayPal.  I cancelled the subscription within hours of completing the free trial, and received a confirmation pop up (but no email).  Following this, two charges for $29.99 were made to my PayPal account.  PayPal has stopped the subscription on their end, but the $59.98 charged is erroneous and I would like that money back."
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Phishing",
-      "city": "Highland, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Caller said that I have an outstanding tax bill and that they can help resolve"
     }
   ]
 }
