@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-12",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-12",
+      "type": "Phishing",
+      "city": "Freeburg, IL",
+      "amt": 0,
+      "biz": "Vicb",
+      "desc": "Was called about owing money to quci cash. Give claim number of ec238-67, same as another com.plaint filed with BBB that i saw posted. They called from a private number"
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Phishing",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Ally Commercial Small Business Funding",
+      "desc": "Unsolicited Fax numerous times. Fax company cannot stop them. On Do Not Call registry and contacted them to stop. Ally Commercial\nSmall Business Funding\nA working capital line of credit can provide a sense of financial security, helping you fund the\neveryday operations of your business. We look forward to helping you find the right program to\nfit your needs.\nUnsecured business lines of credit are ideal for businesses looking for a financing solution to\nsupplement cash flow, pay off credit card debt, take advantage of business opportunities or\nbusiness expansion. Unsecured offers low liability financing."
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Identity Theft",
+      "city": "Edwardsville, IL",
+      "amt": 0,
+      "biz": "Jobesh Solutions",
+      "desc": "Received denial from United Healthcare for unused services from Jobesh Solutions. Used previous Member ID number for medical supplies for $6,779. Have never used their services. Stolen ID number."
+    },
+    {
+      "date": "2026-10-10",
+      "type": "Phishing",
+      "city": "Godfrey, IL",
+      "amt": 0,
+      "biz": "LNA Legal Group",
+      "desc": "Claimed i owed a bank money from years ago and they will settle if i pay electronically immediately. If not they will pursue further and i will have to pay legal fees and court cost and they can seize assets to collect the owed money. They contacted my mother's cell phone first and they had my address and my SSN."
+    },
+    {
+      "date": "2026-10-10",
+      "type": "Counterfeit Product",
+      "city": "Canton, IL",
+      "amt": 39,
+      "biz": "Backroad Goods",
+      "desc": "Ordered witch lamp,stained glass,last ones being made by an elderly lady from Ma."
+    },
     {
       "date": "2026-10-09",
       "type": "Phishing",
@@ -11,6 +51,14 @@
       "amt": 0,
       "biz": "none",
       "desc": "Scammer asked for first name. He then asked for information about my proterty value .  then asked if i wanted to sell and when. Wanted  also  to   come visit property.  He  did know  address."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "Phishing",
+      "city": "Sullivan, IL",
+      "amt": 0,
+      "biz": "Aldi & associatea",
+      "desc": "Voicemail left from 636-246-6880 saying that she was Pat Hill from Aldi &amp; Associates. Please contact her at 385-486-4816 again that is 385-486-4214.&rdquo; So I looked up the number and says it&rsquo;s debt collectors for gym and real estate and I have had neither dealings, I&rsquo;ve already had ALL MY INFORMATION leaked to dark web from cyberattacks on hospitals, early childhood registration (as teacher), credit cards, prepaid cards, etc. so I&rsquo;m not surprised if it&rsquo;s a scammer"
     },
     {
       "date": "2026-10-09",
@@ -37,92 +85,44 @@
       "desc": "$24"
     },
     {
-      "date": "2026-10-09",
-      "type": "Online Purchase",
-      "city": "Elmwood Park, IL",
-      "amt": 55.9,
-      "biz": "Paul Wardrobe",
-      "desc": "Ordered what was described as an elegant evening dress. Product received was poor quality and not as depicted, material was like T shirt material. Customer service # message was not taking calls at this time, so I emailed them asking for a return label since they have a 30-day return policy 3 times, each time I got the same message that they are trying to make things right but no return label. When I said I would open a dispute claim with my credit card, they said they would refund me 50% and I could keep the dress and I would lose the CC claims, so their offer was better. I initiated a claim with my payment source and received a resolution after multiple emails and pictures were sent.  I spent a lot of time on my big mistake ordering from this company, lesson learned DO NOT ORDER FROM THIS COMPANY unless you enjoy headaches and like to waste time!!!"
-    },
-    {
-      "date": "2026-10-09",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 50.34,
-      "biz": "Forgedinvalhalla.com",
-      "desc": "I&rsquo;d previously ordered from the same website several years ago.  At that time, everything went smoothly. I recently ordered the same item for a gift to a colleague and now I run into they took my money but I never received the order. It&rsquo;s been nearly three weeks and nothing has been shipped."
-    },
-    {
-      "date": "2026-10-09",
-      "type": "Online Purchase",
-      "city": "Elmhurst, IL",
-      "amt": 42.98,
-      "biz": "Hooma",
-      "desc": "Ordered ice maker June 22,2026. When I checked the status of the order it said it was being delivered, but it was always an issue with it being delivered. First they said no one was home, then the truck broke down after that it said it was a road block. It was something different every time I spoke with someone through chat. When I emailed asked for an refund they stop responding."
-    },
-    {
-      "date": "2026-10-09",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 329.48,
-      "biz": "Countless Creations By Rose",
-      "desc": "I paid for merchandise that amounted to 329.48. I originally paid through after pay. After i asked for a refund she told me no. The next day she text me an address that the items will be at. I didn't pick up the items and yet my money hasn't been refunded. I filed a complaint with CFPB as well"
-    },
-    {
-      "date": "2026-10-09",
-      "type": "Phishing",
-      "city": "Heyworth, IL",
+      "date": "2026-10-08",
+      "type": "Employment",
+      "city": "Elgin, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "\"...regarding a new Walmart account is created using your name and phone number, and you have charged for an amount of $1,302.49. According to our database, this is a suspicious account. If this was not you, please press one to talk with Walmart customer support or immediately call back on the same number that appear on you caller ID for direct connection.\" (please note that the grammar errors were in the message!)"
-    },
-    {
-      "date": "2026-10-09",
-      "type": "Online Purchase",
-      "city": "Berwyn, IL",
-      "amt": 182.64,
-      "biz": "Addidas",
-      "desc": "$25"
+      "biz": "Continental Ag",
+      "desc": "I was approached by email from someone claiming to be Bryan Mandzak, HR manager for Continental Ag regarding a work from home job. I completed a text based interview for a position through Teams (his teams account is linked to Bryanhrdesk@outlook.com) and was hired the following day. Part of the onboarding papers asked for my personal information including government id and that I write down my bank account information and send it to him via email. I attempted to contact him directly but he refused to talk via Teams and only through a \"Zoom\" link that went to a third party site, not Zoom, and tried to download an unspecified update. I ceased communication at this point once I realized that he would not speak to me directly."
     },
     {
       "date": "2026-10-08",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 60,
-      "biz": "Izzy Rojas Photography",
-      "desc": "I reached out to the photographer to book a maternity photoshoot. I found their account through Instagram, but they also had a valid website. I looked through their portfolio and thought it would be a good fit, particularly because his rates were lower than other photographers in the area. We agreed on a time, date, and general location and the photographer asked me to send him a deposit of $60. However we had not confirmed the exact meeting location at that point. I sent the deposit on Tuesday, and the photoshoot was on Friday. Less than 24 hours before the photoshoot, we had received no further details, despite me reaching out and following up. We were in contact between 9/18/2026 up to today, 10/8/2026. I gave this photographer grace throughout our communication because I repeatedly had to follow up with him. Overall bad customer service and unprofessional, and I have not heard from him regarding our booking tomorrow."
+      "city": "Warrenville, IL",
+      "amt": 200,
+      "biz": "Hims and Hers Health, Inc.",
+      "desc": "Online weight loss prescription but never received the product."
     },
     {
       "date": "2026-10-08",
-      "type": "Phishing",
-      "city": "Blackstone, IL",
-      "amt": 30,
-      "biz": "Crystal Ashley",
-      "desc": "I was looking for an apartment,  seen an add on marketplace,  received a text about it but wanted a credit score on a website, sent a picture and paid for report,  she said she would reimburse,  then asked for a picture of another credit report, i never responded back"
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Online Purchase",
-      "city": "Mattoon, IL",
-      "amt": 96,
-      "biz": "your-jetflame.com",
-      "desc": "I made N online purchase to Backroad Goods for an alleged heirloom limited edition oak lamp, approximately $60. I cannot find the receipt because they didn&rsquo;t bother. When opened, it&rsquo;s a piece of junk made out of plastic with three batteries that were completely rusted inside of it. I demanded a return of my monies and a paid shipping label to return their joke of an item. They refused to make a refund. They refused to give a packing label, and say that that is at my expense to return to Hong Kong for a full refund. His whole thing has been a total scam, and they refuse to own up."
-    },
-    {
-      "date": "2026-10-08",
-      "type": "Phishing",
-      "city": "Fairview Heights, IL",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Glen Ellyn, IL",
       "amt": 0,
-      "biz": "SilverLine",
-      "desc": "Received a text at 12:21 PM on Thu Oct 8\nHello Dan, Cindy from SilverLine here. I have your $26,721 file update ready to review. Call me today at 949-868-9968 so we can finish the task."
+      "biz": "Relay Wire",
+      "desc": "We recieved a fax from a company we do not do buisness with.  This fax was an invoice for service we have never used.  attaching a scan of the fax"
     },
     {
       "date": "2026-10-08",
-      "type": "Online Purchase",
+      "type": "Advance Fee Loan",
       "city": "Chicago, IL",
-      "amt": 60,
-      "biz": "COL Pictures LLC",
-      "desc": "I subscribed to a free trial to a story site subscription through Facebook for $.99, using PayPal.  I cancelled the subscription within hours of completing the free trial, and received a confirmation pop up (but no email).  Following this, two charges for $29.99 were made to my PayPal account.  PayPal has stopped the subscription on their end, but the $59.98 charged is erroneous and I would like that money back."
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025, I have received nearly 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller offered unsolicited \"time sensitive resolution options\" to my supposedly unpaid taxes. I don't owe any taxes. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Advance Fee Loan",
+      "city": "Bolingbrook, IL",
+      "amt": 0,
+      "biz": "An attempt to collect a debt",
+      "desc": "I was contacted by a phone number (855) 200-3702 stating that I had money owed from a loan, that I never received. They had all of my personal information. Address, DOB, social security number. They had everything! I immediately placed a hold on my social security number today! BEWARE!!!! They threatened my credit and adding this debt to my credit."
     }
   ]
 }
