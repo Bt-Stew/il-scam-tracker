@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-13",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-13",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Online Purchase",
+      "city": "Marshall, IL",
+      "amt": 189.92,
+      "biz": "Deamy Pat",
+      "desc": "Order 2 of these items on sept 19,2026 got one Friday in a bag all rolled up and second arrived today i have sent numerous messages emails phone number is non working these pat pillows dont work no instructions and everything written in Chinese im throughly upset and feel like this is a scam for the money i paid for these and dont work and no response of any kind from them"
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Phishing",
+      "city": "Sterling, IL",
+      "amt": 0,
+      "biz": "Atlas home rentals",
+      "desc": "Application fees for a rental property in Sterling Illinois"
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Phishing",
+      "city": "Oak Park, IL",
+      "amt": 0,
+      "biz": "Sterling Processing Group",
+      "desc": "Someone called agent Sloan from Sterling Processing Group called me this morning and left a voicemail saying that a claim was filed against me. Basically someone sued me. I called back and the person picked up immediately and knew who I was. She started to ask me to say my full name which I did and to confirm my call phon number, which I also did. The she asked me to confirm my date of birth and my last digits of SSN (she knew this information). I told this person that I will not give personal information to someone who I don't know that is legit and at this point and I also asked for physical/mail paperwork. At this point she got very angry and she barely let me talk. She said \"good luck in court\" and she hung up on me."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Online Purchase",
+      "city": "Streamwood, IL",
+      "amt": 188.91,
+      "biz": "Raz-vape.com",
+      "desc": "I ordered raz vapes from what it look like a legitimate website. I never received confirmation email, or any email about my order."
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "$25"
+    },
     {
       "date": "2026-10-12",
       "type": "Phishing",
@@ -11,6 +59,14 @@
       "amt": 75,
       "biz": "Shitzu Family Services (free puppies)",
       "desc": "The page on Facebook said free puppies which they misspelled the name shih tzu as shitzu.  I was interested and asked questions.  At first they said $500 then I said I can't pay that for any dog.  They changed it to $150.  They said I had to send a deposit of $75.  Which I was stupid and sent them $75.  We were to meet later in week.  The next day after taking $75 they asked for $75 more for vaccinations.  That's when I said no.  That's when I realized it was a scam.  These people may live anywhere because they said Louisville KY but they may be in Africa.  I reported to Facebook but they say they don't break the community standards.  So they don't care if it is a scam, and take people's money and give them nothing in return.  I hope you can stop this and I saw more than one of these on Facebook."
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Counterfeit Product",
+      "city": "Chicago, IL",
+      "amt": 42.81,
+      "biz": "Kearthe",
+      "desc": "I ordered one red Annoying Nested Screw Gift Box August 22, 2026 (order #260823021132929).  This was paid with my credit card but I got an email telling me it was paid by Pay Pal #Y47G.  This order was on its way August 26, 2026.  Yes I did receive the product but instead of ten boxes within boxes it came as only four.  A few days later I received another product which I didn&rsquo;t order but was charged for.  This product was exactly the same.  I&rsquo;ve tried contacting them but all the info I had was bogus.  I, of course, was taken for a total of 42.81 for both.  If  you see this company ad don&rsquo;t use em.  Kearthe has many other items they are selling, don&rsquo;t be scammed like I was.  They&rsquo;re showing products that I wouldn&rsquo;t order no matter how great they may seem and let me tell you they seem to be just the right gift item for someone on your gift list.  Looking up the ad there was the option to subscribe and I thought I would, maybe, get more contact info."
     },
     {
       "date": "2026-10-12",
@@ -30,99 +86,43 @@
     },
     {
       "date": "2026-10-12",
-      "type": "Debt Collections",
+      "type": "Phishing",
       "city": "Belleville, IL",
       "amt": 0,
-      "biz": "None",
-      "desc": "Call back number 844-409-0530 reference number to give when calling back.  They never leave a company name or $ amount."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Charity",
-      "city": "Chicago, IL",
-      "amt": 4000,
-      "biz": "PP* Spelendor Smith",
-      "desc": "I was approached by a young man on the street with a leather booklet. He claimed to be raising money for his sister's funeral, and I agreed to donate $20. I was then surrounded by three young men, one of whom took my phone and the other who took my credit card. They attempted multiple charges on my credit card."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Healthcare/Medicaid/Medicare",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Perkii Patches LLC",
-      "desc": "Testimonial claims on website not verifiable, editorial reviews not verifiable, product claims not verifiable. Customers have been saying on other platforms that the product doesn't work like the results promised/pictured, and they have only gotten half of their money back even though the business promises a money-back guarantee. I have been continually receiving targeted ads for this product/business but it seems to clearly be a scam. The website should be taken down since there is no clear editorial, testimonial, scientific evidence behind any of their claims: https://perkipatches.shop/products/perkify-breast-enhancement-patches"
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Online Purchase",
-      "city": "Freeport, IL",
-      "amt": 0,
-      "biz": "Federa",
-      "desc": "Federa is an app used to\nBid on real estate that is up\nFor auction. You need to send them a deposit in order to bid. After the auction is over and of course you don&rsquo;t win then they give you the run around about getting refund of the deposit. I got my refund because I contacted my credit card company and they worked to get it back. Other people have never gotten their deposit back!  Attached is the developer of the app."
+      "biz": "Ally Commercial Small Business Funding",
+      "desc": "Unsolicited Fax numerous times. Fax company cannot stop them. On Do Not Call registry and contacted them to stop. Ally Commercial\nSmall Business Funding\nA working capital line of credit can provide a sense of financial security, helping you fund the\neveryday operations of your business. We look forward to helping you find the right program to\nfit your needs.\nUnsecured business lines of credit are ideal for businesses looking for a financing solution to\nsupplement cash flow, pay off credit card debt, take advantage of business opportunities or\nbusiness expansion. Unsecured offers low liability financing."
     },
     {
       "date": "2026-10-12",
       "type": "Phishing",
-      "city": "Freeburg, IL",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Vicb",
-      "desc": "Was called about owing money to quci cash. Give claim number of ec238-67, same as another com.plaint filed with BBB that i saw posted. They called from a private number"
+      "biz": "LMS",
+      "desc": "was told that the caller was verify if I would be available to be served legal documents.  call from the local phone number 773-408-1338.  Was told to contact company LMS at 877 819 4246 to find out why."
     },
     {
       "date": "2026-10-12",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
+      "type": "Identity Theft",
+      "city": "Edwardsville, IL",
       "amt": 0,
-      "biz": "Not given",
-      "desc": "$25"
+      "biz": "Jobesh Solutions",
+      "desc": "Received denial from United Healthcare for unused services from Jobesh Solutions. Used previous Member ID number for medical supplies for $6,779. Have never used their services. Stolen ID number."
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-12",
+      "type": "Counterfeit Product",
+      "city": "Park Ridge, IL",
+      "amt": 299.95,
+      "biz": "Preston Hayes",
+      "desc": "Purchased five bridesmaids dresses on the Preston Hayes website  9-17&ndash;26\nDresses arrived on 9/26/26\nThere was no sizing or tags or labels, and they appeared to all be the same size despite that I ordered SM&amp;L.\nThat day, I immediately tried to set up a return and the barrage of emails began trying to barter with me on taking the merchandise return for 150% credit.\nGoing on 14 days of nonstop emails and refusing to send me the address to return the merchandise ( which I will pay for shipping- that&rsquo;s a standard protocol )\nPretty sure they will continue to do this until the 30 day return policy lapses.\nTHIS  COMPANY IS A TOTAL  SCAM.\nSOMEONE SHUT THIS DOWN"
+    },
+    {
+      "date": "2026-10-11",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 79,
-      "biz": "Mayberry North Carolina",
-      "desc": "I saw a targeted ad from a company called Mayberry North Carolina with beautiful clothes on Facebook.  The ad showed a cute storefront, claimed to be based in North Carolina and was running a sale.  I didn&rsquo;t click the Facebook link, but rather did a search for the company and it took me to the same website with the cute storefront.  I ordered a suit and a top. Paid via credit card.  Received numerous updates that shipping is taking longer than normal.  When I tried to track the shipment, I saw something about international customs.  That was my red flag and I immediately dug deeper and saw this is a scam operation from china posing as a cute clothing shop in North Carolina. I immediately disputed the charge with my credit card company, who immediately reversed the charges.  Never again.  If it seems too good to be true&hellip; it probably is."
-    },
-    {
-      "date": "2026-10-10",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Velocast",
-      "desc": "Im received package for the company and I ship them out I was supposed to get paid today and I have nothing in my account and not I can't get a answer"
-    },
-    {
-      "date": "2026-10-10",
-      "type": "Counterfeit Product",
-      "city": "Canton, IL",
-      "amt": 39,
-      "biz": "Backroad Goods",
-      "desc": "Ordered witch lamp,stained glass,last ones being made by an elderly lady from Ma."
-    },
-    {
-      "date": "2026-10-10",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-10",
-      "type": "Counterfeit Product",
-      "city": "Plainfield, IL",
-      "amt": 0,
-      "biz": "sp dxt1000 merchandise",
-      "desc": "The seller ad. on Iphone or P/C showing good product. which is good for senior to use. but when received the product , it 'is a fake  junk one not the one ad."
+      "city": "Algonquin, IL",
+      "amt": 610,
+      "biz": "—",
+      "desc": "Person made a post on a band&rsquo;s Facebook fan page saying they had tickets for the upcoming concert. We agreed on a fair price. They sent me screenshots and emails from Ticketmaster. They sent me screenshots and emails and we agreed I would pay half now and they would transfer the tickets and then I&rsquo;d pay the other half and I kept my part of the deal and then they didn&rsquo;t keep their part of the deal and they wanted the second half and they said they&rsquo;d show me how to get the tickets and so I sent the second half and they never sent me the tickets and then they wanted more money and then we agreed on more money for a third ticket and then they wanted even more money."
     }
   ]
 }
