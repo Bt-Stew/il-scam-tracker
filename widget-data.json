@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-14",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Cicero, IL",
+      "amt": 0,
+      "biz": "Relay Wire",
+      "desc": "The Scammer said we owed $498.85 for an Annual Fax Service which includes fax number routing, web portal access, searchable transmission records, encrypted transmission, service availability monitoring, standard support, and data export functionality."
+    },
     {
       "date": "2026-10-13",
       "type": "Advance Fee Loan",
@@ -78,11 +86,11 @@
     },
     {
       "date": "2026-10-12",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Abram’s and Associates",
-      "desc": "Kim Manning calling urgent message for immediate attention. Left a case number and return call number 866-804-6907.\nPlease be advised was end of message."
+      "type": "Counterfeit Product",
+      "city": "Bourbonnais, IL",
+      "amt": 24,
+      "biz": "Rpg maps forge",
+      "desc": "I purchased an item marketed as ready-to-play game. It looks like books. Then, when purchased, it says it is downloadable only. I took screenshots of all pages. Nowhere did it say digital."
     },
     {
       "date": "2026-10-12",
@@ -115,14 +123,6 @@
       "amt": 299.95,
       "biz": "Preston Hayes",
       "desc": "Purchased five bridesmaids dresses on the Preston Hayes website  9-17&ndash;26\nDresses arrived on 9/26/26\nThere was no sizing or tags or labels, and they appeared to all be the same size despite that I ordered SM&amp;L.\nThat day, I immediately tried to set up a return and the barrage of emails began trying to barter with me on taking the merchandise return for 150% credit.\nGoing on 14 days of nonstop emails and refusing to send me the address to return the merchandise ( which I will pay for shipping- that&rsquo;s a standard protocol )\nPretty sure they will continue to do this until the 30 day return policy lapses.\nTHIS  COMPANY IS A TOTAL  SCAM.\nSOMEONE SHUT THIS DOWN"
-    },
-    {
-      "date": "2026-10-11",
-      "type": "Online Purchase",
-      "city": "Algonquin, IL",
-      "amt": 610,
-      "biz": "—",
-      "desc": "Person made a post on a band&rsquo;s Facebook fan page saying they had tickets for the upcoming concert. We agreed on a fair price. They sent me screenshots and emails from Ticketmaster. They sent me screenshots and emails and we agreed I would pay half now and they would transfer the tickets and then I&rsquo;d pay the other half and I kept my part of the deal and then they didn&rsquo;t keep their part of the deal and they wanted the second half and they said they&rsquo;d show me how to get the tickets and so I sent the second half and they never sent me the tickets and then they wanted more money and then we agreed on more money for a third ticket and then they wanted even more money."
     }
   ]
 }
