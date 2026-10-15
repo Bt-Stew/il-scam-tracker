@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-15",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-15",
+      "type": "Online Purchase",
+      "city": "Downers Grove, IL",
+      "amt": 265,
+      "biz": "Domain Name Services",
+      "desc": "Mail sent to our office indicating our Domain name was expiring and a 5 year renewal was due and needed. Person paying did not know or realize they did not hold our domain. Attempts to immediately cancel the charge were made, but person's via the \"support\" email were rude and ignored requests for cancelation and refund."
+    },
+    {
+      "date": "2026-10-14",
+      "type": "Employment",
+      "city": "Carbondale, IL",
+      "amt": 0,
+      "biz": "Work Bridge",
+      "desc": "Please see attached"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Downers Grove, IL",
+      "amt": 265,
+      "biz": "Domain Name Services",
+      "desc": "Scammer sent an invoice appearing to be a renewal for the domain name. They were and are not the domain holders and the domain was not expired or expiring as they indicated.\nOffice person paid \"bill\" not realizing they were not the domain holder and no renewal was needed"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 28,
+      "biz": "Damour Inc",
+      "desc": "Tried keeping in touch by email they would say on the way"
+    },
     {
       "date": "2026-10-14",
       "type": "Online Purchase",
@@ -19,6 +51,14 @@
       "amt": 0,
       "biz": "Relay Wire",
       "desc": "The Scammer said we owed $498.85 for an Annual Fax Service which includes fax number routing, web portal access, searchable transmission records, encrypted transmission, service availability monitoring, standard support, and data export functionality."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Other",
+      "city": "Downers Grove, IL",
+      "amt": 0,
+      "biz": "Garotanos",
+      "desc": "$24"
     },
     {
       "date": "2026-10-13",
@@ -45,84 +85,44 @@
       "desc": "Manager Woodfield: woodfieldmanager@lush.com\n2:12?PM (3 hours ago)\nto me\nHi Robert,\nI attempted to call the number on file for your 2:00pm interview, but it is not connecting. Please give our shop a call at (847) 413-1459 for your interview.\nThank you,\nShan Schmelter (MIT)\nShannon McCollom (she/her)\nShop Manager\nShannon Schmelter (she/her)\nManager in Training\nLush Woodfield Mall\nSchaumburg, IL 60173\nphone: 847-413-1459\nemail: woodfieldmanager@lush.com: Never received Timestamp: 5:53 P.M. 10/13/2026"
     },
     {
-      "date": "2026-10-13",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 34,
-      "biz": "Zain",
-      "desc": "I placed an order. I checked for delivery, and I was told oops, we're running late granted. This was over 3 months ago, at least\\n And I was told, oh, we'll just have to pay shipping again and you can get your product. But they didn't, and it's been a scam, I've been contacting for months."
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-12",
       "type": "Phishing",
-      "city": "Hickory Hills, IL",
+      "city": "Belleville, IL",
       "amt": 0,
-      "biz": "Unknown",
-      "desc": "I received a phone call from (unavailable) asking me to press any number then the pound key, when I did that it disconnected. My credit card has been compromised and I believe this may be part of it."
+      "biz": "Abram’s and Associates",
+      "desc": "Kim Manning calling urgent message for immediate attention. Left a case number and return call number 866-804-6907.\nPlease be advised was end of message."
     },
     {
-      "date": "2026-10-13",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
+      "date": "2026-10-12",
+      "type": "Debt Collections",
+      "city": "Belleville, IL",
       "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Olivia my lending  account manager\" and offered an unsolicited $60,000 unsecured personal loan to pay off my credit card debt, even though I never maintain a balance on my credit card. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this scam op to the FTC numerous times."
+      "biz": "None",
+      "desc": "Call back number 844-409-0530 reference number to give when calling back.  They never leave a company name or $ amount."
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-12",
       "type": "Phishing",
-      "city": "Island Lake, IL",
-      "amt": 0,
-      "biz": "United Courier Service",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Online Purchase",
-      "city": "Gurnee, IL",
-      "amt": 97.88,
-      "biz": "Azure",
-      "desc": "I purchased a hair product from a company and had a reaction and want to return it. I&rsquo;ve sent emails that return saying\nRecipient inbox full\nYour message couldn't be delivered to contactshopazure@gmail.com. Their inbox is full, or it's getting too much mail right now\nRecipient inbox full\nYour message couldn't be delivered to contactshopazure@gmail.com. Their inbox is full, or it's getting too much mail right now. This has gone on for a week. Then I called their customer service number 844-425-3660 twice this eeek and it goes right to a voicemail and I leave a message and no one ever calls back. This company is a total scam."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Online Purchase",
-      "city": "Palatine, IL",
-      "amt": 42.01,
-      "biz": "apiphane",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 31.9,
-      "biz": "Zexvuno",
-      "desc": "I paid Zexvuno for a product I never received. They charged my bank using a name: Aurstol Inc. out of Denver, CO."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Online Purchase",
-      "city": "New Lenox, IL",
-      "amt": 99,
-      "biz": "Terwen.com",
-      "desc": "I was on Facebook then it showed a website called Terrence.com. I saw on the website that their was a grill on sale 99.00 and shipping was free. So I ordered it but it never came. So I called my credit card company Apple to file a complaint to get my money back. So Apple would not refund my money back."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Advance Fee Loan",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Not given",
-      "desc": "$25"
+      "biz": "privacy patrol",
+      "desc": "promise a 250 dollar rewards and asked for bank details, never identified themselves as privacy patrol"
     },
     {
       "date": "2026-10-12",
-      "type": "Healthcare/Medicaid/Medicare",
+      "type": "Charity",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Perkii Patches LLC",
-      "desc": "Testimonial claims on website not verifiable, editorial reviews not verifiable, product claims not verifiable. Customers have been saying on other platforms that the product doesn't work like the results promised/pictured, and they have only gotten half of their money back even though the business promises a money-back guarantee. I have been continually receiving targeted ads for this product/business but it seems to clearly be a scam. The website should be taken down since there is no clear editorial, testimonial, scientific evidence behind any of their claims: https://perkipatches.shop/products/perkify-breast-enhancement-patches"
+      "amt": 4000,
+      "biz": "PP* Spelendor Smith",
+      "desc": "I was approached by a young man on the street with a leather booklet. He claimed to be raising money for his sister's funeral, and I agreed to donate $20. I was then surrounded by three young men, one of whom took my phone and the other who took my credit card. They attempted multiple charges on my credit card."
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Charity",
+      "city": "Chicago, IL",
+      "amt": 4000,
+      "biz": "PP*JALYN SAFFORD",
+      "desc": "I was approached by a young man on the street who claimed to be gathering donations for his sisters funeral following her suicide. He had a leather binder with pictures of the young woman as well as a sheet with several other \"donors\" and their information. I agreed to donate $20, at which point the man called over 2 other men and they took my card and cellphone while tapping to make charges on another phone."
     }
   ]
 }
