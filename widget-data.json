@@ -6,6 +6,14 @@
   "reports": [
     {
       "date": "2026-10-14",
+      "type": "Online Purchase",
+      "city": "Bolingbrook, IL",
+      "amt": 143.74,
+      "biz": "peozamal",
+      "desc": "company advertised extra large boxes from returned pallets. special if you buy 2. See product description.jpg.  Then they add shipping and \"tip.\"  What I received was a phone charging cable and a base in a padded envelope. Also shown in attachment. They refuse to provide refund or acknowledge the scam, deceitfulness, and completely inappropriate marketing scheme to dupe people out of money."
+    },
+    {
+      "date": "2026-10-14",
       "type": "Fake Invoice/Supplier Bill",
       "city": "Cicero, IL",
       "amt": 0,
@@ -15,42 +23,90 @@
     {
       "date": "2026-10-13",
       "type": "Advance Fee Loan",
+      "city": "New Lenox, IL",
+      "amt": 0,
+      "biz": "Cavalry Financial, Cavalry Oak Financial",
+      "desc": "Harassing robocalls about loan pre approvals multiple times daily for weeks despite being on the national do not call registry and opting out 5 times. When I use the prompts to get to a representative I get different information each time with slightly different variations of the company name (always some variation of Cavalry) and headquartered location (always east coast, mostly NY or NJ). When I ask about loan process and how to apply I&rsquo;ve been hung up on."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Online Purchase",
+      "city": "Tinley Park, IL",
+      "amt": 149,
+      "biz": "Trinity Meds",
+      "desc": "Once I made the payment they went radio silent. When I emailed to get status they couldn't provide a status after waiting for over 2 weeks I decided to cancel they advised that they will refund me but keep 35.00 from my refund due to consultation however there was no consultation and when I asked who did the consultation? When did it took place? What were the results of the consultation they couldn't answer my questions. I told them to cancel and refund me my money after numerous of follow ups they said refund take 3-5 days which already been 3-5 days and no refund is showing in my statement.  They keep 35.00 out of every cancelation under consultation that does not exist."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Employment",
+      "city": "Glenview, IL",
+      "amt": 500,
+      "biz": "Lush: Woodfield",
+      "desc": "Manager Woodfield: woodfieldmanager@lush.com\n2:12?PM (3 hours ago)\nto me\nHi Robert,\nI attempted to call the number on file for your 2:00pm interview, but it is not connecting. Please give our shop a call at (847) 413-1459 for your interview.\nThank you,\nShan Schmelter (MIT)\nShannon McCollom (she/her)\nShop Manager\nShannon Schmelter (she/her)\nManager in Training\nLush Woodfield Mall\nSchaumburg, IL 60173\nphone: 847-413-1459\nemail: woodfieldmanager@lush.com: Never received Timestamp: 5:53 P.M. 10/13/2026"
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 34,
+      "biz": "Zain",
+      "desc": "I placed an order. I checked for delivery, and I was told oops, we're running late granted. This was over 3 months ago, at least\\n And I was told, oh, we'll just have to pay shipping again and you can get your product. But they didn't, and it's been a scam, I've been contacting for months."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Phishing",
+      "city": "Hickory Hills, IL",
+      "amt": 0,
+      "biz": "Unknown",
+      "desc": "I received a phone call from (unavailable) asking me to press any number then the pound key, when I did that it disconnected. My credit card has been compromised and I believe this may be part of it."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Advance Fee Loan",
       "city": "Chicago, IL",
       "amt": 0,
       "biz": "Not given",
+      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Olivia my lending  account manager\" and offered an unsolicited $60,000 unsecured personal loan to pay off my credit card debt, even though I never maintain a balance on my credit card. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this scam op to the FTC numerous times."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Phishing",
+      "city": "Island Lake, IL",
+      "amt": 0,
+      "biz": "United Courier Service",
       "desc": "$24"
     },
     {
       "date": "2026-10-13",
       "type": "Online Purchase",
-      "city": "Marshall, IL",
-      "amt": 189.92,
-      "biz": "Deamy Pat",
-      "desc": "Order 2 of these items on sept 19,2026 got one Friday in a bag all rolled up and second arrived today i have sent numerous messages emails phone number is non working these pat pillows dont work no instructions and everything written in Chinese im throughly upset and feel like this is a scam for the money i paid for these and dont work and no response of any kind from them"
+      "city": "Gurnee, IL",
+      "amt": 97.88,
+      "biz": "Azure",
+      "desc": "I purchased a hair product from a company and had a reaction and want to return it. I&rsquo;ve sent emails that return saying\nRecipient inbox full\nYour message couldn't be delivered to contactshopazure@gmail.com. Their inbox is full, or it's getting too much mail right now\nRecipient inbox full\nYour message couldn't be delivered to contactshopazure@gmail.com. Their inbox is full, or it's getting too much mail right now. This has gone on for a week. Then I called their customer service number 844-425-3660 twice this eeek and it goes right to a voicemail and I leave a message and no one ever calls back. This company is a total scam."
     },
     {
-      "date": "2026-10-13",
-      "type": "Phishing",
-      "city": "Sterling, IL",
-      "amt": 0,
-      "biz": "Atlas home rentals",
-      "desc": "Application fees for a rental property in Sterling Illinois"
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Phishing",
-      "city": "Oak Park, IL",
-      "amt": 0,
-      "biz": "Sterling Processing Group",
-      "desc": "Someone called agent Sloan from Sterling Processing Group called me this morning and left a voicemail saying that a claim was filed against me. Basically someone sued me. I called back and the person picked up immediately and knew who I was. She started to ask me to say my full name which I did and to confirm my call phon number, which I also did. The she asked me to confirm my date of birth and my last digits of SSN (she knew this information). I told this person that I will not give personal information to someone who I don't know that is legit and at this point and I also asked for physical/mail paperwork. At this point she got very angry and she barely let me talk. She said \"good luck in court\" and she hung up on me."
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-12",
       "type": "Online Purchase",
-      "city": "Streamwood, IL",
-      "amt": 188.91,
-      "biz": "Raz-vape.com",
-      "desc": "I ordered raz vapes from what it look like a legitimate website. I never received confirmation email, or any email about my order."
+      "city": "Palatine, IL",
+      "amt": 42.01,
+      "biz": "apiphane",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 31.9,
+      "biz": "Zexvuno",
+      "desc": "I paid Zexvuno for a product I never received. They charged my bank using a name: Aurstol Inc. out of Denver, CO."
+    },
+    {
+      "date": "2026-10-12",
+      "type": "Online Purchase",
+      "city": "New Lenox, IL",
+      "amt": 99,
+      "biz": "Terwen.com",
+      "desc": "I was on Facebook then it showed a website called Terrence.com. I saw on the website that their was a grill on sale 99.00 and shipping was free. So I ordered it but it never came. So I called my credit card company Apple to file a complaint to get my money back. So Apple would not refund my money back."
     },
     {
       "date": "2026-10-12",
@@ -62,67 +118,11 @@
     },
     {
       "date": "2026-10-12",
-      "type": "Phishing",
-      "city": "Metropolis, IL",
-      "amt": 75,
-      "biz": "Shitzu Family Services (free puppies)",
-      "desc": "The page on Facebook said free puppies which they misspelled the name shih tzu as shitzu.  I was interested and asked questions.  At first they said $500 then I said I can't pay that for any dog.  They changed it to $150.  They said I had to send a deposit of $75.  Which I was stupid and sent them $75.  We were to meet later in week.  The next day after taking $75 they asked for $75 more for vaccinations.  That's when I said no.  That's when I realized it was a scam.  These people may live anywhere because they said Louisville KY but they may be in Africa.  I reported to Facebook but they say they don't break the community standards.  So they don't care if it is a scam, and take people's money and give them nothing in return.  I hope you can stop this and I saw more than one of these on Facebook."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Counterfeit Product",
-      "city": "Chicago, IL",
-      "amt": 42.81,
-      "biz": "Kearthe",
-      "desc": "I ordered one red Annoying Nested Screw Gift Box August 22, 2026 (order #260823021132929).  This was paid with my credit card but I got an email telling me it was paid by Pay Pal #Y47G.  This order was on its way August 26, 2026.  Yes I did receive the product but instead of ten boxes within boxes it came as only four.  A few days later I received another product which I didn&rsquo;t order but was charged for.  This product was exactly the same.  I&rsquo;ve tried contacting them but all the info I had was bogus.  I, of course, was taken for a total of 42.81 for both.  If  you see this company ad don&rsquo;t use em.  Kearthe has many other items they are selling, don&rsquo;t be scammed like I was.  They&rsquo;re showing products that I wouldn&rsquo;t order no matter how great they may seem and let me tell you they seem to be just the right gift item for someone on your gift list.  Looking up the ad there was the option to subscribe and I thought I would, maybe, get more contact info."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Civil processing service",
-      "desc": "Left a case number. Legal notice says a notice was mailed (never received) asking for home or work address. Return Contact  855-801-0053. Says you have been notified advised to prevent escalation ."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Counterfeit Product",
-      "city": "Bourbonnais, IL",
-      "amt": 24,
-      "biz": "Rpg maps forge",
-      "desc": "I purchased an item marketed as ready-to-play game. It looks like books. Then, when purchased, it says it is downloadable only. I took screenshots of all pages. Nowhere did it say digital."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Phishing",
-      "city": "Belleville, IL",
-      "amt": 0,
-      "biz": "Ally Commercial Small Business Funding",
-      "desc": "Unsolicited Fax numerous times. Fax company cannot stop them. On Do Not Call registry and contacted them to stop. Ally Commercial\nSmall Business Funding\nA working capital line of credit can provide a sense of financial security, helping you fund the\neveryday operations of your business. We look forward to helping you find the right program to\nfit your needs.\nUnsecured business lines of credit are ideal for businesses looking for a financing solution to\nsupplement cash flow, pay off credit card debt, take advantage of business opportunities or\nbusiness expansion. Unsecured offers low liability financing."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Phishing",
+      "type": "Healthcare/Medicaid/Medicare",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "LMS",
-      "desc": "was told that the caller was verify if I would be available to be served legal documents.  call from the local phone number 773-408-1338.  Was told to contact company LMS at 877 819 4246 to find out why."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Identity Theft",
-      "city": "Edwardsville, IL",
-      "amt": 0,
-      "biz": "Jobesh Solutions",
-      "desc": "Received denial from United Healthcare for unused services from Jobesh Solutions. Used previous Member ID number for medical supplies for $6,779. Have never used their services. Stolen ID number."
-    },
-    {
-      "date": "2026-10-12",
-      "type": "Counterfeit Product",
-      "city": "Park Ridge, IL",
-      "amt": 299.95,
-      "biz": "Preston Hayes",
-      "desc": "Purchased five bridesmaids dresses on the Preston Hayes website  9-17&ndash;26\nDresses arrived on 9/26/26\nThere was no sizing or tags or labels, and they appeared to all be the same size despite that I ordered SM&amp;L.\nThat day, I immediately tried to set up a return and the barrage of emails began trying to barter with me on taking the merchandise return for 150% credit.\nGoing on 14 days of nonstop emails and refusing to send me the address to return the merchandise ( which I will pay for shipping- that&rsquo;s a standard protocol )\nPretty sure they will continue to do this until the 30 day return policy lapses.\nTHIS  COMPANY IS A TOTAL  SCAM.\nSOMEONE SHUT THIS DOWN"
+      "biz": "Perkii Patches LLC",
+      "desc": "Testimonial claims on website not verifiable, editorial reviews not verifiable, product claims not verifiable. Customers have been saying on other platforms that the product doesn't work like the results promised/pictured, and they have only gotten half of their money back even though the business promises a money-back guarantee. I have been continually receiving targeted ads for this product/business but it seems to clearly be a scam. The website should be taken down since there is no clear editorial, testimonial, scientific evidence behind any of their claims: https://perkipatches.shop/products/perkify-breast-enhancement-patches"
     }
   ]
 }
