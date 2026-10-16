@@ -7,6 +7,14 @@
     {
       "date": "2026-10-15",
       "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 70.55,
+      "biz": "Us honesky",
+      "desc": "He was looking for an affordable electric skateboard and appeared to be getting a good deal."
+    },
+    {
+      "date": "2026-10-15",
+      "type": "Online Purchase",
       "city": "Yorkville, IL",
       "amt": 0,
       "biz": "Egnaro",
@@ -38,6 +46,38 @@
     },
     {
       "date": "2026-10-14",
+      "type": "Online Purchase",
+      "city": "South Holland, IL",
+      "amt": 39.99,
+      "biz": "Rovena",
+      "desc": "I ordered a bible study guide and received it but the next month I noticed that they took another $39.99 out of my account!  I did not approve for this to happen and it showed that it was a &ldquo;reoccurring &rdquo; transaction!  I called the bank  and was able to prevent it happening again!"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "Online Purchase",
+      "city": "Rolling Meadows, IL",
+      "amt": 55,
+      "biz": "Blue Ease Optics",
+      "desc": "My dad clicked the link and after inputting the credit card info, he felt something was fishy and closed the website without clicking the purchase but they deemed the item was purchased and took the money"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025, I have recieved over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller was trying to reach to get me into some kind of \"resolution program to reduce accruing interest.\" I have no outstanding debts accruing interest. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this lawbreaker to the FTC numerous times."
+    },
+    {
+      "date": "2026-10-14",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "$24"
+    },
+    {
+      "date": "2026-10-14",
       "type": "Fake Invoice/Supplier Bill",
       "city": "Downers Grove, IL",
       "amt": 265,
@@ -45,84 +85,44 @@
       "desc": "Scammer sent an invoice appearing to be a renewal for the domain name. They were and are not the domain holders and the domain was not expired or expiring as they indicated.\nOffice person paid \"bill\" not realizing they were not the domain holder and no renewal was needed"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-13",
       "type": "Online Purchase",
-      "city": "Melrose Park, IL",
+      "city": "Orland Park, IL",
       "amt": 35,
-      "biz": "—",
-      "desc": "Facebook popup. They offered stretch pants that were really nice. 6\" Stretch at waist. Only offered 3XL and 4XL for larger sizes, I ordered size 3X which I always use. I received a size 16. This is nowhere near what is a size 3XL in other online offers. The reason I'm calling it a scam because of the address and no information inside of package for contacting the company."
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Counterfeit Product",
-      "city": "Crest Hill, IL",
-      "amt": 47,
-      "biz": "Vexroan.com",
-      "desc": "The Royal Lion Glass Whiskey Decanter Set that I ordered from the photos posted on their website is not the same product depicted and delivered to me. Their photos show a larger, finely crafted decanter with an ornate crown, a solid blue treasure chest, and a glass lion with hollow legs capable of holding additional beverages. It also shows the decanter in a felt-lined decanter box. The item I received has a cheap plastic crown, a small glass box with a sticker-like decal, and solid glass legs and tail. It arrived in a cardboard box packed in Styrofoam, is about one-third the size pictured on the website, and is far less valuable than the $47 that I was charged.  The company offered a $10 refund or a $15 refund if I did not report it to the BBB."
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Carla lending department\" and offered an unsolicited $70,000 unsecured personal loan, saying it bet lunch with the entire floor that she would get me on the phone today. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this lawbreaker to the FTC numerous times."
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 28,
-      "biz": "Damour Inc",
-      "desc": "Tried keeping in touch by email they would say on the way"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Online Purchase",
-      "city": "Bolingbrook, IL",
-      "amt": 143.74,
-      "biz": "peozamal",
-      "desc": "company advertised extra large boxes from returned pallets. special if you buy 2. See product description.jpg.  Then they add shipping and \"tip.\"  What I received was a phone charging cable and a base in a padded envelope. Also shown in attachment. They refuse to provide refund or acknowledge the scam, deceitfulness, and completely inappropriate marketing scheme to dupe people out of money."
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 34,
-      "biz": "Zain",
-      "desc": "I placed an order. I checked for delivery, and I was told oops, we're running late granted. This was over 3 months ago, at least\\n And I was told, oh, we'll just have to pay shipping again and you can get your product. But they didn't, and it's been a scam, I've been contacting for months."
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Phishing",
-      "city": "Hickory Hills, IL",
-      "amt": 0,
-      "biz": "Unknown",
-      "desc": "I received a phone call from (unavailable) asking me to press any number then the pound key, when I did that it disconnected. My credit card has been compromised and I believe this may be part of it."
+      "biz": "Artveramemories.com",
+      "desc": "Purchased a Christmas ornament in July and never received it. I emailed them 6 times asking for it."
     },
     {
       "date": "2026-10-13",
       "type": "Advance Fee Loan",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Olivia my lending  account manager\" and offered an unsolicited $60,000 unsecured personal loan to pay off my credit card debt, even though I never maintain a balance on my credit card. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this scam op to the FTC numerous times."
+      "biz": "No name given",
+      "desc": "This message is solely intended for.  Letitia Amica.  File number 2026 dash FNK dash 41521.  Calling on behalf of document delivery services, we have been retained to schedule and deliver legal documents to you between the hours of 8 AM and 4 PM.  At either your home or your place of employment.  We'll be making only 2 attempts to deliver these documents.  Which will require a signature as proof of delivery.  If we are unable to deliver these documents after 2 attempts, it will be classified as a failed action to serve, which will result in the pending matter to proceed further without your consent.  If you have any questions or if you need to reschedule this delivery, you will need to contact the office directly at 844-879-1718.  And reference your file number.  Please be advised, this call has been logged and submitted as proof you have been notified of this pending legal matter.  Have a good day."
     },
     {
       "date": "2026-10-13",
-      "type": "Phishing",
-      "city": "Island Lake, IL",
+      "type": "Other",
+      "city": "Downers Grove, IL",
       "amt": 0,
-      "biz": "United Courier Service",
+      "biz": "Garotanos",
       "desc": "$24"
     },
     {
       "date": "2026-10-13",
-      "type": "Online Purchase",
-      "city": "Gurnee, IL",
-      "amt": 97.88,
-      "biz": "Azure",
-      "desc": "I purchased a hair product from a company and had a reaction and want to return it. I&rsquo;ve sent emails that return saying\nRecipient inbox full\nYour message couldn't be delivered to contactshopazure@gmail.com. Their inbox is full, or it's getting too much mail right now\nRecipient inbox full\nYour message couldn't be delivered to contactshopazure@gmail.com. Their inbox is full, or it's getting too much mail right now. This has gone on for a week. Then I called their customer service number 844-425-3660 twice this eeek and it goes right to a voicemail and I leave a message and no one ever calls back. This company is a total scam."
+      "type": "Advance Fee Loan",
+      "city": "Steward, IL",
+      "amt": 160.8,
+      "biz": "Financeify West",
+      "desc": "I received monthly charges of 39.95 from Financefy in July, August, September, and October, in addition to a 1.00 charge in July.  I never signed up for this service.  People online say it might have occurred after applying for a loan."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "Advance Fee Loan",
+      "city": "New Lenox, IL",
+      "amt": 0,
+      "biz": "Cavalry Financial, Cavalry Oak Financial",
+      "desc": "Harassing robocalls about loan pre approvals multiple times daily for weeks despite being on the national do not call registry and opting out 5 times. When I use the prompts to get to a representative I get different information each time with slightly different variations of the company name (always some variation of Cavalry) and headquartered location (always east coast, mostly NY or NJ). When I ask about loan process and how to apply I&rsquo;ve been hung up on."
     }
   ]
 }
