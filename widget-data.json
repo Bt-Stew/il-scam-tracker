@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-15",
+  "generated_at": "2026-10-16",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-16",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Lawrenceville, IL",
+      "amt": 0,
+      "biz": "Megamillions Sweepstakes",
+      "desc": "$24"
+    },
     {
       "date": "2026-10-15",
       "type": "Online Purchase",
@@ -15,50 +23,66 @@
     {
       "date": "2026-10-15",
       "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 0,
-      "biz": "Egnaro",
-      "desc": "Received a package that was not ordered, not once, but twice. Two different addresses, but the same company. Very confused on how we received these packages, thankfully no money was lost, at least to our knowledge. Shipped to us VIA USPS ground advantage."
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 0,
-      "biz": "Egnaro",
-      "desc": "Received a package that was not ordered, not once, but twice. Two different addresses, but the same company. Very confused on how we received these packages, thankfully no money was lost, at least to our knowledge. Shipped to us VIA USPS ground advantage."
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
       "city": "Downers Grove, IL",
-      "amt": 265,
-      "biz": "Domain Name Services",
-      "desc": "Mail sent to our office indicating our Domain name was expiring and a 5 year renewal was due and needed. Person paying did not know or realize they did not hold our domain. Attempts to immediately cancel the charge were made, but person's via the \"support\" email were rude and ignored requests for cancelation and refund."
+      "amt": 30,
+      "biz": "Honey Noir",
+      "desc": "Paid for product never received"
     },
     {
-      "date": "2026-10-14",
-      "type": "Employment",
-      "city": "Carbondale, IL",
+      "date": "2026-10-15",
+      "type": "Phishing",
+      "city": "Springfield, IL",
       "amt": 0,
-      "biz": "Work Bridge",
-      "desc": "Please see attached"
+      "biz": "Something Department",
+      "desc": "Called about vehicle service or warranty opportunities, used AI voice."
     },
     {
-      "date": "2026-10-14",
-      "type": "Online Purchase",
-      "city": "South Holland, IL",
-      "amt": 39.99,
-      "biz": "Rovena",
-      "desc": "I ordered a bible study guide and received it but the next month I noticed that they took another $39.99 out of my account!  I did not approve for this to happen and it showed that it was a &ldquo;reoccurring &rdquo; transaction!  I called the bank  and was able to prevent it happening again!"
+      "date": "2026-10-15",
+      "type": "Phishing",
+      "city": "Loami, IL",
+      "amt": 0,
+      "biz": "TSG LLC Trinity",
+      "desc": "$25"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
+      "type": "Counterfeit Product",
+      "city": "Chicago, IL",
+      "amt": 336.67,
+      "biz": "HAZELTON'S",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-10-15",
       "type": "Online Purchase",
-      "city": "Rolling Meadows, IL",
-      "amt": 55,
-      "biz": "Blue Ease Optics",
-      "desc": "My dad clicked the link and after inputting the credit card info, he felt something was fishy and closed the website without clicking the purchase but they deemed the item was purchased and took the money"
+      "city": "Chicago, IL",
+      "amt": 76.36,
+      "biz": "Flex health",
+      "desc": "I ordered this back massager for my lower back pain and it said it comes with a 60 day money back guarantee all over the website I tried the product it was not effective I go to return it and they say I cannot return it because I used it so how am I supposed to know if it's effective if I do not use it this is a scam company selling cheap massagers and then telling people they cannot return it after they use it"
+    },
+    {
+      "date": "2026-10-15",
+      "type": "Online Purchase",
+      "city": "Yorkville, IL",
+      "amt": 0,
+      "biz": "Egnaro",
+      "desc": "Received a package that was not ordered, not once, but twice. Two different addresses, but the same company. Very confused on how we received these packages, thankfully no money was lost, at least to our knowledge. Shipped to us VIA USPS ground advantage."
+    },
+    {
+      "date": "2026-10-15",
+      "type": "Online Purchase",
+      "city": "Yorkville, IL",
+      "amt": 0,
+      "biz": "Egnaro",
+      "desc": "Received a package that was not ordered, not once, but twice. Two different addresses, but the same company. Very confused on how we received these packages, thankfully no money was lost, at least to our knowledge. Shipped to us VIA USPS ground advantage."
+    },
+    {
+      "date": "2026-10-15",
+      "type": "Home Improvement",
+      "city": "Northbrook, IL",
+      "amt": 650,
+      "biz": "Kingsbridge, Fernando Guttierez",
+      "desc": "He promised to power wash my rear patio pavers and install the special compound to prevent weeds from growing in between the pavers. He quoted me 950.00 with 650.00 up front to pay for the special sand.  I Zelle&rsquo;s him the funds and he never did the work and refuses to answer me. He&rsquo;s a cheat and fraudster. Do not do business with him or any business he may be affiliated with."
     },
     {
       "date": "2026-10-14",
@@ -85,44 +109,20 @@
       "desc": "Scammer sent an invoice appearing to be a renewal for the domain name. They were and are not the domain holders and the domain was not expired or expiring as they indicated.\nOffice person paid \"bill\" not realizing they were not the domain holder and no renewal was needed"
     },
     {
-      "date": "2026-10-13",
-      "type": "Online Purchase",
-      "city": "Orland Park, IL",
-      "amt": 35,
-      "biz": "Artveramemories.com",
-      "desc": "Purchased a Christmas ornament in July and never received it. I emailed them 6 times asking for it."
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Advance Fee Loan",
+      "date": "2026-10-14",
+      "type": "Phishing",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "No name given",
-      "desc": "This message is solely intended for.  Letitia Amica.  File number 2026 dash FNK dash 41521.  Calling on behalf of document delivery services, we have been retained to schedule and deliver legal documents to you between the hours of 8 AM and 4 PM.  At either your home or your place of employment.  We'll be making only 2 attempts to deliver these documents.  Which will require a signature as proof of delivery.  If we are unable to deliver these documents after 2 attempts, it will be classified as a failed action to serve, which will result in the pending matter to proceed further without your consent.  If you have any questions or if you need to reschedule this delivery, you will need to contact the office directly at 844-879-1718.  And reference your file number.  Please be advised, this call has been logged and submitted as proof you have been notified of this pending legal matter.  Have a good day."
+      "amt": 330,
+      "biz": "David Kingsley",
+      "desc": "$25"
     },
     {
-      "date": "2026-10-13",
-      "type": "Other",
-      "city": "Downers Grove, IL",
-      "amt": 0,
-      "biz": "Garotanos",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Advance Fee Loan",
-      "city": "Steward, IL",
-      "amt": 160.8,
-      "biz": "Financeify West",
-      "desc": "I received monthly charges of 39.95 from Financefy in July, August, September, and October, in addition to a 1.00 charge in July.  I never signed up for this service.  People online say it might have occurred after applying for a loan."
-    },
-    {
-      "date": "2026-10-13",
-      "type": "Advance Fee Loan",
-      "city": "New Lenox, IL",
-      "amt": 0,
-      "biz": "Cavalry Financial, Cavalry Oak Financial",
-      "desc": "Harassing robocalls about loan pre approvals multiple times daily for weeks despite being on the national do not call registry and opting out 5 times. When I use the prompts to get to a representative I get different information each time with slightly different variations of the company name (always some variation of Cavalry) and headquartered location (always east coast, mostly NY or NJ). When I ask about loan process and how to apply I&rsquo;ve been hung up on."
+      "date": "2026-10-14",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 50.02,
+      "biz": "DAILYGOTE",
+      "desc": "$26"
     }
   ]
 }
