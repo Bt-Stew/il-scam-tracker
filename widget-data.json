@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-10-16",
+  "generated_at": "2026-10-19",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Marion, IL",
+      "amt": 73.13,
+      "biz": "Easylifexo",
+      "desc": "On Sept. 16, 2026 I purchased quilted bags from Easylifexo and paid for them with a Visa credit card. The only communication I received at that time was they got paid. In two weeks I wrote Easylifexo where was my product and in their reply was a tracking link. I have since been checking the tracking and it looks like it was in Marion, Illinois for several days and then the link said it was delivered Oct. 18, 2026 but it was not. I have contacted Easylifexo and their response was to check my delivery notification which I never got and to check with my family and neighbors to see if it was delivered to another home. My address is very clear on my receipt and we get correct deliveries all the time. I have asked for proof of delivery and will be asking my credit card company for a refund."
+    },
+    {
+      "date": "2026-10-18",
+      "type": "Phishing",
+      "city": "Collinsville, IL",
+      "amt": 0,
+      "biz": "Iverexpress",
+      "desc": "I keep getting emails from not just this email address but multiple about a loan that I have taken out and they're all with the same exact amount. I've not clicked on any of them, but I haven't had any loans taken out so I did some research and see that this website is trying to scam a bunch of people."
+    },
+    {
+      "date": "2026-10-18",
+      "type": "Phishing",
+      "city": "Greenville, IL",
+      "amt": 258.39,
+      "biz": "Att&t",
+      "desc": "They said the automatic payment system was down temporarily and to pay through him and he would send me a confirmation number, which he never did. The amount he quoted as owed was the wrong amount as quoted  by my son. I tried to pay what my son owed on his phone bill."
+    },
+    {
+      "date": "2026-10-18",
+      "type": "Employment",
+      "city": "Maryville, IL",
+      "amt": 0,
+      "biz": "Pills2Me",
+      "desc": "I looked into applying for a delivery job, but have no communication in over 2 weeks.  They took my id and insurance information, but no follow up."
+    },
+    {
+      "date": "2026-10-17",
+      "type": "Online Purchase",
+      "city": "Granite City, IL",
+      "amt": 41.96,
+      "biz": "Damour inc",
+      "desc": "I ordered from DAMOUR INC. and never received my order and was charged $41.96. I have reached out to then but never sent me the product or reimbursed me."
+    },
+    {
+      "date": "2026-10-16",
+      "type": "Online Purchase",
+      "city": "Alton, IL",
+      "amt": 32.95,
+      "biz": "Techpartsworks",
+      "desc": "I ordered from them and received nothing and couldn&rsquo;t reach them by email."
+    },
     {
       "date": "2026-10-16",
       "type": "Sweepstakes/Lottery/Prizes",
       "city": "Lawrenceville, IL",
       "amt": 0,
       "biz": "Megamillions Sweepstakes",
-      "desc": "$24"
+      "desc": "$26"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "Online Purchase",
+      "city": "Plainfield, IL",
+      "amt": 70.25,
+      "biz": "Starbucks florist",
+      "desc": "I ordered flowers for my daughter and thought i was ordering from a local florist.  The order was placed and psid for my debit card and minutes later canceled saying they did not deliver to her lstham address."
+    },
+    {
+      "date": "2026-10-16",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 45,
+      "biz": "Kiki wear",
+      "desc": "Order placed may 2026 never received merchandise sent several emails they responded saying they would refund my account but did not,  I contacted them again they assured me my refund was being processed still nothing now their customer service and website has been removed"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "Online Purchase",
+      "city": "Park Forest, IL",
+      "amt": 35,
+      "biz": "ATOSTM",
+      "desc": "I ordered some highway half-waisted package of eight pants online which I never received ordered on October 4th and today is the 16th of 2026 thank you"
     },
     {
       "date": "2026-10-15",
       "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 70.55,
-      "biz": "Us honesky",
-      "desc": "He was looking for an affordable electric skateboard and appeared to be getting a good deal."
+      "city": "Marseilles, IL",
+      "amt": 979.92,
+      "biz": "KittySupps",
+      "desc": "Just as all others have reported about kittysupps.com i got a text message stating my order was on its way. I NEVER ORDERED ANYTHING FROM KITTY SUPPS THIS TIME. THE CONTACTS FROM THIS SCAM SITE ARE OF NO USE. THE GOVERNMENT NEEDS TO SHUT THIS WEBSITE DOWN!"
     },
     {
       "date": "2026-10-15",
       "type": "Online Purchase",
       "city": "Downers Grove, IL",
-      "amt": 30,
-      "biz": "Honey Noir",
-      "desc": "Paid for product never received"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Phishing",
-      "city": "Springfield, IL",
-      "amt": 0,
-      "biz": "Something Department",
-      "desc": "Called about vehicle service or warranty opportunities, used AI voice."
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Phishing",
-      "city": "Loami, IL",
-      "amt": 0,
-      "biz": "TSG LLC Trinity",
-      "desc": "$25"
+      "amt": 265,
+      "biz": "Domain Name Services",
+      "desc": "Mail sent to our office indicating our Domain name was expiring and a 5 year renewal was due and needed. Person paying did not know or realize they did not hold our domain. Attempts to immediately cancel the charge were made, but person's via the \"support\" email were rude and ignored requests for cancelation and refund."
     },
     {
       "date": "2026-10-15",
       "type": "Counterfeit Product",
       "city": "Chicago, IL",
-      "amt": 336.67,
-      "biz": "HAZELTON'S",
+      "amt": 0,
+      "biz": "Jess & Anne Boutique",
+      "desc": "The products sold online do not match the products received and no refunds will be issued"
+    },
+    {
+      "date": "2026-10-15",
+      "type": "Employment",
+      "city": "Batavia, IL",
+      "amt": 1500,
+      "biz": "Covru or covraworks.com",
       "desc": "$26"
     },
     {
       "date": "2026-10-15",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 76.36,
-      "biz": "Flex health",
-      "desc": "I ordered this back massager for my lower back pain and it said it comes with a 60 day money back guarantee all over the website I tried the product it was not effective I go to return it and they say I cannot return it because I used it so how am I supposed to know if it's effective if I do not use it this is a scam company selling cheap massagers and then telling people they cannot return it after they use it"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
+      "city": "Naperville, IL",
       "amt": 0,
-      "biz": "Egnaro",
-      "desc": "Received a package that was not ordered, not once, but twice. Two different addresses, but the same company. Very confused on how we received these packages, thankfully no money was lost, at least to our knowledge. Shipped to us VIA USPS ground advantage."
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
-      "city": "Yorkville, IL",
-      "amt": 0,
-      "biz": "Egnaro",
-      "desc": "Received a package that was not ordered, not once, but twice. Two different addresses, but the same company. Very confused on how we received these packages, thankfully no money was lost, at least to our knowledge. Shipped to us VIA USPS ground advantage."
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Home Improvement",
-      "city": "Northbrook, IL",
-      "amt": 650,
-      "biz": "Kingsbridge, Fernando Guttierez",
-      "desc": "He promised to power wash my rear patio pavers and install the special compound to prevent weeds from growing in between the pavers. He quoted me 950.00 with 650.00 up front to pay for the special sand.  I Zelle&rsquo;s him the funds and he never did the work and refuses to answer me. He&rsquo;s a cheat and fraudster. Do not do business with him or any business he may be affiliated with."
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have recieved over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller was trying to reach to get me into some kind of \"resolution program to reduce accruing interest.\" I have no outstanding debts accruing interest. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this lawbreaker to the FTC numerous times."
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "$24"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Downers Grove, IL",
-      "amt": 265,
-      "biz": "Domain Name Services",
-      "desc": "Scammer sent an invoice appearing to be a renewal for the domain name. They were and are not the domain holders and the domain was not expired or expiring as they indicated.\nOffice person paid \"bill\" not realizing they were not the domain holder and no renewal was needed"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 330,
-      "biz": "David Kingsley",
-      "desc": "$25"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 50.02,
-      "biz": "DAILYGOTE",
-      "desc": "$26"
+      "biz": "https://share.google/0lgpkaIuNL3QCStZH",
+      "desc": "https://share.google/0lgpkaIuNL3QCStZH This is the link to the scammers. I get EVT and they advertised free phones. So,  I applied providing name, date of birth, address, last 4 of social security number. I became suspicious when on their site and was told to create a own but it didn&rsquo;t save"
     }
   ]
 }
