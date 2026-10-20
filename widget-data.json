@@ -6,6 +6,78 @@
   "reports": [
     {
       "date": "2026-10-19",
+      "type": "Debt Collections",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Law Firm, hung up before I could ask again",
+      "desc": "Called and asked about my address, if I lived at an address. Once it was confirmed they said that a law firm had been sending letters to that address, which is inaccurate. Gave me the number 877-310-1052 and told me that I needed to call that number immediately. She gave me a case number, said that I had been served and promptly hung up."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 52.03,
+      "biz": "Qcsithrees Discount Store",
+      "desc": "I bought clothes and accessories for 52.03 USD that were never delivered."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Debt Collections",
+      "city": "Glen Ellyn, IL",
+      "amt": 0,
+      "biz": "Hale Whitman",
+      "desc": "They are claiming I owe money on a fake debt and will try to freeze my assets if I don&rsquo;t pay them."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Channahon, IL",
+      "amt": 1000,
+      "biz": "Yayrich",
+      "desc": "Fake casino online that may payout at first but will stop as soon as you win a decent amount of money."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 82.01,
+      "biz": "Funny Fuzzy",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Identity Theft",
+      "city": "Des Plaines, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Scam Caraway cookware website declined purchase but stole credit card info. They added my info to their phone &ldquo;Wallet&rdquo; then used to purchase merchandise."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 0.45,
+      "biz": "For your custom",
+      "desc": "This website uses poor quality materials and doesn&rsquo;t list the materials on the website. Additionally the colors are not as advertised. They issue  satisfaction guarantee but do not accept returns due to it being a &ldquo;custom&rdquo; order. Once you order you cannot leave a review and if you try to leave one in incognito mode it does not allow you to. Poor quality, unwearable item, misleading reviews."
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Counterfeit Product",
+      "city": "Villa Park, IL",
+      "amt": 29.95,
+      "biz": "EM-Evelmont",
+      "desc": "I ordered pollinator cups for my landscaping from an ad that was listed on a ad that was on instagram It described the pollinator cups were made by a pottery artist in Connecticut. I ordered them thinking they are coming from Connecticut. I received an email and shipping information that said they are being sent from China. I received them but they were not anything like what was shown in the ad. I tried to find my order and email and it was no longer accessible. This was 08/18/25/2026,when ordered and then another charge for $29.95 was pending on my credit card as of 9/11/2026. Then on 10/18/2026 they charged my card again one for $14.98 &amp; $14.97. I contacted EM-Evelmont through email and told them I did not sign up for no membership and I wanted a refund for the $29.95.  Have not received the refund for the $29.95 ,"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Elk Grove Village, IL",
+      "amt": 0,
+      "biz": "NRU",
+      "desc": "Fake online store at nruwellness.shop impersonating the retailer NRU and the diaper brand Tykables. The site uses NRU's logo (loaded from nru.co.uk) and lists support@nru.com as its contact. It sells Tykables-branded products using the brand owner's product photos and product descriptions copied word for word, without permission, at a fake 65% discount (for example $9.26 marked down to $3.24). Other pages are generic fashion-store template text (testimonials about a \"blazer,\" a \"contemporary fashion destination\" About page) that do not match the products sold. The domain was registered on 2026-09-18 with a privacy-redacted registrant and is hosted on a server registered in China. The checkout uses Stripe. This looks like a fake store set up to take payments for goods that will not ship. Buyers should avoid it. The real brands' official sites are tykables.com and nru.co.uk."
+    },
+    {
+      "date": "2026-10-19",
       "type": "Online Purchase",
       "city": "Marion, IL",
       "amt": 73.13,
@@ -13,116 +85,44 @@
       "desc": "On Sept. 16, 2026 I purchased quilted bags from Easylifexo and paid for them with a Visa credit card. The only communication I received at that time was they got paid. In two weeks I wrote Easylifexo where was my product and in their reply was a tracking link. I have since been checking the tracking and it looks like it was in Marion, Illinois for several days and then the link said it was delivered Oct. 18, 2026 but it was not. I have contacted Easylifexo and their response was to check my delivery notification which I never got and to check with my family and neighbors to see if it was delivered to another home. My address is very clear on my receipt and we get correct deliveries all the time. I have asked for proof of delivery and will be asking my credit card company for a refund."
     },
     {
-      "date": "2026-10-18",
-      "type": "Phishing",
-      "city": "Collinsville, IL",
-      "amt": 0,
-      "biz": "Iverexpress",
-      "desc": "I keep getting emails from not just this email address but multiple about a loan that I have taken out and they're all with the same exact amount. I've not clicked on any of them, but I haven't had any loans taken out so I did some research and see that this website is trying to scam a bunch of people."
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Phishing",
-      "city": "Greenville, IL",
-      "amt": 258.39,
-      "biz": "Att&t",
-      "desc": "They said the automatic payment system was down temporarily and to pay through him and he would send me a confirmation number, which he never did. The amount he quoted as owed was the wrong amount as quoted  by my son. I tried to pay what my son owed on his phone bill."
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Employment",
-      "city": "Maryville, IL",
-      "amt": 0,
-      "biz": "Pills2Me",
-      "desc": "I looked into applying for a delivery job, but have no communication in over 2 weeks.  They took my id and insurance information, but no follow up."
+      "date": "2026-10-17",
+      "type": "Charity",
+      "city": "Chicago, IL",
+      "amt": 2500,
+      "biz": "Save Our Children",
+      "desc": "I was approaching Whole Foods Market when two individuals approached me. One was a young Black woman who was about 5 feet 5 inches tall and the other was a young Black man who was about 6 feet tall. They were wearing yellow vests and said they were with Save Our Children and were fundraising to help a family cover the funeral costs for a young girl who was killed on Division and Larabee. They asked for a donation and I said I could make a donation of $15. They took my card and my phone to make the donation. While I was distracted, the woman deleted the Chase app off of my phone. While I confirmed that it was a $15 donation, they said I would receive a receipt in my email. When I did not receive a receipt, I checked my phone and saw a PayPal payment to Shakyra Garrett for $2,5000 for beauty shops and barber shops. I locked my credit card and requested a replacement."
     },
     {
       "date": "2026-10-17",
       "type": "Online Purchase",
-      "city": "Granite City, IL",
-      "amt": 41.96,
-      "biz": "Damour inc",
-      "desc": "I ordered from DAMOUR INC. and never received my order and was charged $41.96. I have reached out to then but never sent me the product or reimbursed me."
+      "city": "Peoria, IL",
+      "amt": 44.24,
+      "biz": "https://fuisoern.com/",
+      "desc": "I am writing to report a fraudulent retail operation operating via ********&nbsp;advertisements. I placed an online order for discounted apparel, but the items were never delivered. Although the merchant appeared legitimate and provided a tracking number&mdash;which documented a month of transit from China&mdash;the tracking history ultimately concluded with a delivery confirmation to an incorrect ZIP code far from my address. Furthermore, the company has completely ignored all of my customer service inquiries. I strongly advise others to avoid purchasing from this website."
     },
     {
-      "date": "2026-10-16",
-      "type": "Online Purchase",
-      "city": "Alton, IL",
-      "amt": 32.95,
-      "biz": "Techpartsworks",
-      "desc": "I ordered from them and received nothing and couldn&rsquo;t reach them by email."
-    },
-    {
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Lawrenceville, IL",
-      "amt": 0,
-      "biz": "Megamillions Sweepstakes",
-      "desc": "$26"
+      "city": "Westmont, IL",
+      "amt": 1000,
+      "biz": "illinois state lottery",
+      "desc": "i won one thousand dollars in june and springfield keeps telling me that my mail wasnt there im frustrated"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 70.25,
-      "biz": "Starbucks florist",
-      "desc": "I ordered flowers for my daughter and thought i was ordering from a local florist.  The order was placed and psid for my debit card and minutes later canceled saying they did not deliver to her lstham address."
+      "city": "Rushville, IL",
+      "amt": 30,
+      "biz": "Quiaoe",
+      "desc": "The company kept telling me delivered twice I ask for a refund and they kept telling me it take time been waiting since June"
     },
     {
-      "date": "2026-10-16",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 45,
-      "biz": "Kiki wear",
-      "desc": "Order placed may 2026 never received merchandise sent several emails they responded saying they would refund my account but did not,  I contacted them again they assured me my refund was being processed still nothing now their customer service and website has been removed"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "Online Purchase",
-      "city": "Park Forest, IL",
-      "amt": 35,
-      "biz": "ATOSTM",
-      "desc": "I ordered some highway half-waisted package of eight pants online which I never received ordered on October 4th and today is the 16th of 2026 thank you"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
-      "city": "Marseilles, IL",
-      "amt": 979.92,
-      "biz": "KittySupps",
-      "desc": "Just as all others have reported about kittysupps.com i got a text message stating my order was on its way. I NEVER ORDERED ANYTHING FROM KITTY SUPPS THIS TIME. THE CONTACTS FROM THIS SCAM SITE ARE OF NO USE. THE GOVERNMENT NEEDS TO SHUT THIS WEBSITE DOWN!"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
-      "city": "Downers Grove, IL",
-      "amt": 265,
-      "biz": "Domain Name Services",
-      "desc": "Mail sent to our office indicating our Domain name was expiring and a 5 year renewal was due and needed. Person paying did not know or realize they did not hold our domain. Attempts to immediately cancel the charge were made, but person's via the \"support\" email were rude and ignored requests for cancelation and refund."
-    },
-    {
-      "date": "2026-10-15",
+      "date": "2026-10-17",
       "type": "Counterfeit Product",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Jess & Anne Boutique",
-      "desc": "The products sold online do not match the products received and no refunds will be issued"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Employment",
-      "city": "Batavia, IL",
-      "amt": 1500,
-      "biz": "Covru or covraworks.com",
-      "desc": "$26"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "Online Purchase",
-      "city": "Naperville, IL",
-      "amt": 0,
-      "biz": "https://share.google/0lgpkaIuNL3QCStZH",
-      "desc": "https://share.google/0lgpkaIuNL3QCStZH This is the link to the scammers. I get EVT and they advertised free phones. So,  I applied providing name, date of birth, address, last 4 of social security number. I became suspicious when on their site and was told to create a own but it didn&rsquo;t save"
+      "amt": 126,
+      "biz": "Weber Orthopedics",
+      "desc": "I ordered 2 pairs of shoes from an alleged orthopedic company. The shoes that I received were not as described and were from 2 different companies. I have not been able to reach them because my emails come back undeliverable from the email address posted on the website. They have no phone number and no physical address."
     }
   ]
 }
