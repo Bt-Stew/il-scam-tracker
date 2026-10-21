@@ -6,6 +6,62 @@
   "reports": [
     {
       "date": "2026-10-20",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Fairview Heights, IL",
+      "amt": 0,
+      "biz": "WEBENVY",
+      "desc": "Fax of an invoice received on 10/20/2026 from Webenvy360 for $498.65. Invoice states it is for monthly digital marketing services \"under the agreed scope of work\". We do not use Webenvy and have never heard of them until this fax arrived. I researched and found this scam has been going on for several years."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 85,
+      "biz": "C-All",
+      "desc": "Ordered their product online and they charged me more than I anticipated and then I checked out there site on ******&nbsp;they have way more complaints I&rsquo;ve ever seen."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 95.73,
+      "biz": "Whalexi",
+      "desc": "I ordered a homecoming dress on 8/4/2026. I was provided fake shipping information, and given a customer service email address that never elicited a response, despite several emails. I had to dispute the charge with my credit company, and I thought it had been handled until I received a second charge for the same amount. I canceled the card. It also now appears the website I ordered from no longer exists."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Phishing",
+      "city": "Skokie, IL",
+      "amt": 10.95,
+      "biz": "They impersonated the Illinois Vehicle Registration. Receipt showed i had signed up for recourring payment of $10.95. They asked for two credit card numbers and info . Said they couldnt read one.",
+      "desc": "I was renewing my vehicle registration and was routed to what I thought was the site. Must have a similar website to fool people  Was trying to reach ILSOS.gov. They rejected my first credit card and asked for info for a second. Thought that odd. After giving info got a receipt from AMVOS online.com for a reoccurring amount of $10.95 each month. They have my license plate and info for two credit cards. Checked with chat gpt and found that this has happened to other people. They emailed me and said they would correct it but I am suspicious. In this email they asked for banking information"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Belleville, IL",
+      "amt": 0,
+      "biz": "Webenvy",
+      "desc": "I received a fax containing an invoice for social media services. (i.e.- online reputation management:$129.95, website engagement:$118.95, social media engagement tracking:$89.85, marketing insights: $84.95, and marketing reporting: $75.95)\nTotal Amount Due: $498.65\nInvoice Number 2088868\nCustomer ID: WBE740170\nPayment Terms: Net30\nUnder the business information for my company it says the service domain is: Progressive.com.  Don't know if that is pertinent information or not so I figured I'd just include it.\nThe contact information was given is as follows:\nWeb Envy\n9535 Forest Lane Suite 114J\nDallas, Texas 75243\nwebenvy360.io\nIt says to make payment to: webenvy360.io/portal and to send any billing questions to: billing@webenvy360.io\nI never had any interaction with this company other than receiving the fax."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Elmhurst, IL",
+      "amt": 69.25,
+      "biz": "Emblem boutique San Francisco",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Phishing",
+      "city": "Aurora, IL",
+      "amt": 0,
+      "biz": "Official Business",
+      "desc": "I received a rather threatening letter about losing the opportunity for my vehicle to have a warranty. There is little to no information about the sender of this letter other than the phone number. The letter claims they've been trying to contact me, though I have received no other emails, phone calls, or letters and if I don't call them by a date that's only a couple days away, I will be liable for any repairs to my car. Overall seems very scammy and when I called I was on hold for a while and never actually spoke with anyone."
+    },
+    {
+      "date": "2026-10-20",
       "type": "Phishing",
       "city": "Morton Grove, IL",
       "amt": 0,
@@ -22,107 +78,51 @@
     },
     {
       "date": "2026-10-19",
-      "type": "Debt Collections",
-      "city": "Chicago, IL",
+      "type": "Online Purchase",
+      "city": "Peoria, IL",
+      "amt": 54.8,
+      "biz": "Auren",
+      "desc": "This website offers boneless couch for a discounted price. After paying for the item, I received updates on the tracking and then a few days later after the &ldquo;carrier picked up my order to deliver to me&rdquo;, all the sudden I couldn&rsquo;t track the order and it kept saying server error. You can&rsquo;t reach anyone and the phone number on the website is no longer is service."
+    },
+    {
+      "date": "2026-10-18",
+      "type": "Phishing",
+      "city": "Collinsville, IL",
       "amt": 0,
-      "biz": "Law Firm, hung up before I could ask again",
-      "desc": "Called and asked about my address, if I lived at an address. Once it was confirmed they said that a law firm had been sending letters to that address, which is inaccurate. Gave me the number 877-310-1052 and told me that I needed to call that number immediately. She gave me a case number, said that I had been served and promptly hung up."
+      "biz": "Iverexpress",
+      "desc": "I keep getting emails from not just this email address but multiple about a loan that I have taken out and they're all with the same exact amount. I've not clicked on any of them, but I haven't had any loans taken out so I did some research and see that this website is trying to scam a bunch of people."
     },
     {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 52.03,
-      "biz": "Qcsithrees Discount Store",
-      "desc": "I bought clothes and accessories for 52.03 USD that were never delivered."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Debt Collections",
-      "city": "Glen Ellyn, IL",
+      "date": "2026-10-18",
+      "type": "Other",
+      "city": "IL",
       "amt": 0,
-      "biz": "Hale Whitman",
-      "desc": "They are claiming I owe money on a fake debt and will try to freeze my assets if I don&rsquo;t pay them."
+      "biz": "Carol Sterling and Impact Modeling see WVUE Fox 8 Defenders Report, Scam continues",
+      "desc": "Carol Sterling targets victims using her daughters Impact Modeling agency. Carol Sterling swindles model hopefuls and their families with elaborate lies, scams, promises. She has a network of contacts who help her with the scam. See Fox 8 WVUE Model Hopefuls Out Thousands\nShe travels with minors over state lines, she scans families out of thousands, she manipulates model hopefuls. She is a danger. How is she allowed to still operate and exploit her connection to Impact Agency? Authorities need to protect children and families."
     },
     {
-      "date": "2026-10-19",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Channahon, IL",
-      "amt": 1000,
-      "biz": "Yayrich",
-      "desc": "Fake casino online that may payout at first but will stop as soon as you win a decent amount of money."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Western Springs, IL",
-      "amt": 147,
-      "biz": "www.hrblbhs.com",
-      "desc": "Online website selling retail items such as clothing and shoes. The phone number for contact is disconnected and the email address is not deliverable under the contact info listed on the website."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 82.01,
-      "biz": "Funny Fuzzy",
-      "desc": "$26"
-    },
-    {
-      "date": "2026-10-19",
+      "date": "2026-10-18",
       "type": "Identity Theft",
-      "city": "Des Plaines, IL",
+      "city": "Bloomington, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "Scam Caraway cookware website declined purchase but stole credit card info. They added my info to their phone &ldquo;Wallet&rdquo; then used to purchase merchandise."
+      "biz": "VGAthletehabit",
+      "desc": "MY bank called me on a credit card alert.  This is the second time in two months that I&rsquo;ve had to change my bank credit card&mdash;it&rsquo;s the same fraud people.  The company&rsquo;s name is VgAthletehabit in California.  How do i make them stop"
     },
     {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 0.45,
-      "biz": "For your custom",
-      "desc": "This website uses poor quality materials and doesn&rsquo;t list the materials on the website. Additionally the colors are not as advertised. They issue  satisfaction guarantee but do not accept returns due to it being a &ldquo;custom&rdquo; order. Once you order you cannot leave a review and if you try to leave one in incognito mode it does not allow you to. Poor quality, unwearable item, misleading reviews."
+      "date": "2026-10-18",
+      "type": "Investment",
+      "city": "Waukegan, IL",
+      "amt": 2000,
+      "biz": "summit-securities, Discord/Profit insider",
+      "desc": "I deposited $2000 of my own money into an account on the trading platform at summit-securities.com ( also using their client dashboard at dashboard.summit-securities.com). After generating profits on the account, I submitted a withdrawal request. The request has not been reviewed or processed in 3 weeks of submitting it. Support has not responded to any messages sent through their website chat support portal and email. The platform markets itself as a fully regulated broker offering forex, CFDs, and related products. Public information on the site shows it relies on a liquidity provider (Marquess Global Ltd) registered in the Union of Comoros (Bonovo Road, Fomboni, Island of Moh&eacute;li) under a Mwali International Services Authority (MISA) license. No clear U.S. business address or verifiable major-jurisdiction regulation is provided.\nThis appears to be a common pattern with high-risk offshore trading platforms that accept deposits but obstruct withdrawals and stop responding once profits are requested."
     },
     {
       "date": "2026-10-18",
       "type": "Phishing",
-      "city": "Plainfield, IL",
-      "amt": 0,
-      "biz": "Service Activation Center",
-      "desc": "I received a call on October 14, 2026 from a \"Service Activation Center\" regarding extended warranty related to the vehicle I'm currently financing. They made it sound like they were a third-party company working with Volkswagen, the make of car I'm currently financing. Its my first time financing a car and they had all information regarding my vehicle so I had thought it was legitimate. Due to my believing they were legitimate, I gave them my bank account information as they \"require: it to make the monthly payments. However, after looking into it further, I realized multiple other people have been subject to the same scam and want to make sure as much people are aware of it as possible."
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Employment",
-      "city": "Maryville, IL",
-      "amt": 0,
-      "biz": "Pills2Me",
-      "desc": "I looked into applying for a delivery job, but have no communication in over 2 weeks.  They took my id and insurance information, but no follow up."
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "JERRY(001)-YASFBARA",
-      "desc": "Unsolicited package came from JERRY(001)-YASFBARA\n9208 Charles Smith Ave\nRancho Cucamonga, CA 91730 through USPS"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 37.98,
-      "biz": "Tiny Explorings",
-      "desc": "$26"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "Online Purchase",
-      "city": "Granite City, IL",
-      "amt": 41.96,
-      "biz": "Damour inc",
-      "desc": "I ordered from DAMOUR INC. and never received my order and was charged $41.96. I have reached out to then but never sent me the product or reimbursed me."
+      "city": "Greenville, IL",
+      "amt": 258.39,
+      "biz": "Att&t",
+      "desc": "They said the automatic payment system was down temporarily and to pay through him and he would send me a confirmation number, which he never did. The amount he quoted as owed was the wrong amount as quoted  by my son. I tried to pay what my son owed on his phone bill."
     }
   ]
 }
