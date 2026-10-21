@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-20",
+  "generated_at": "2026-10-21",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-21",
+      "type": "Phishing",
+      "city": "Jonesboro, IL",
+      "amt": 0,
+      "biz": "Illinoisfiling.com",
+      "desc": "I received a text message from 1-833-950-0621 from Illinoisfiling.com.  I pushed on the link and it wanted me to confirm all of my information.  Then it said pay $299.00 and I would never have to file again.  They sent it twice and asked for my banking information.  This is when I called the BBB to check to see if it was a scam.  It is a scam."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 64,
+      "biz": "KATEGRANA",
+      "desc": "I found a cute dress on a website called KATEGRANA and was told they ship within one business day. A few business days later, I followed up by email and phone call and heard nothing. The item never shipped, and they never reached out to me. They took my money and are still claiming to sell clothing online, but it's a scam."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Belleville, IL",
+      "amt": 25,
+      "biz": "Poly casino",
+      "desc": "I won 25 sc (equivalent to $25) in a promotion but never received it. Customer service said I never participated but I have screen shots of my winning total (timed and dated by Poly Casino)"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Downers Grove, IL",
+      "amt": 104,
+      "biz": "Lilisrose",
+      "desc": "Ordered two dresses off Lilisrose.com. One dress was wrong. The other didn&rsquo;t fit. The return policy on the website says full returns within 30 days and that they would provide prepaid return postage. Package was shipped from California, but now they are asking for it to be mailed to Hong Kong and for me to pay the shipping and that they will supposedly reimburse me for the shipping afterwards. I&rsquo;ve pushed back on this asking for the prepaid postage, and contacted my credit card company."
+    },
     {
       "date": "2026-10-20",
       "type": "Fake Invoice/Supplier Bill",
@@ -15,6 +47,22 @@
     {
       "date": "2026-10-20",
       "type": "Online Purchase",
+      "city": "Skokie, IL",
+      "amt": 20,
+      "biz": "DailyYardPro",
+      "desc": "Ordered a mini Christmas Advent Calendar which appeared to be assorted plastic blocks which would be assembled each day of advent and hung on the Christmas tree.\nitems  received were flat plastic Christmas shapes contains various Christmas scenes.  No information available to return item for a refund."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Phishing",
+      "city": "Oak Park, IL",
+      "amt": 0,
+      "biz": "Chicago Area Archivists",
+      "desc": "Attached is the email. SnattleGrass is a CAA colleague. The scammer posed as me and asked her to pay a vendor $1500.00."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
       "city": "Springfield, IL",
       "amt": 85,
       "biz": "C-All",
@@ -22,107 +70,59 @@
     },
     {
       "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 95.73,
-      "biz": "Whalexi",
-      "desc": "I ordered a homecoming dress on 8/4/2026. I was provided fake shipping information, and given a customer service email address that never elicited a response, despite several emails. I had to dispute the charge with my credit company, and I thought it had been handled until I received a second charge for the same amount. I canceled the card. It also now appears the website I ordered from no longer exists."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Phishing",
-      "city": "Skokie, IL",
-      "amt": 10.95,
-      "biz": "They impersonated the Illinois Vehicle Registration. Receipt showed i had signed up for recourring payment of $10.95. They asked for two credit card numbers and info . Said they couldnt read one.",
-      "desc": "I was renewing my vehicle registration and was routed to what I thought was the site. Must have a similar website to fool people  Was trying to reach ILSOS.gov. They rejected my first credit card and asked for info for a second. Thought that odd. After giving info got a receipt from AMVOS online.com for a reoccurring amount of $10.95 each month. They have my license plate and info for two credit cards. Checked with chat gpt and found that this has happened to other people. They emailed me and said they would correct it but I am suspicious. In this email they asked for banking information"
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Belleville, IL",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Webenvy",
-      "desc": "I received a fax containing an invoice for social media services. (i.e.- online reputation management:$129.95, website engagement:$118.95, social media engagement tracking:$89.85, marketing insights: $84.95, and marketing reporting: $75.95)\nTotal Amount Due: $498.65\nInvoice Number 2088868\nCustomer ID: WBE740170\nPayment Terms: Net30\nUnder the business information for my company it says the service domain is: Progressive.com.  Don't know if that is pertinent information or not so I figured I'd just include it.\nThe contact information was given is as follows:\nWeb Envy\n9535 Forest Lane Suite 114J\nDallas, Texas 75243\nwebenvy360.io\nIt says to make payment to: webenvy360.io/portal and to send any billing questions to: billing@webenvy360.io\nI never had any interaction with this company other than receiving the fax."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Elmhurst, IL",
-      "amt": 69.25,
-      "biz": "Emblem boutique San Francisco",
+      "biz": "Resolve Lending",
       "desc": "$26"
     },
     {
       "date": "2026-10-20",
-      "type": "Phishing",
-      "city": "Aurora, IL",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Official Business",
-      "desc": "I received a rather threatening letter about losing the opportunity for my vehicle to have a warranty. There is little to no information about the sender of this letter other than the phone number. The letter claims they've been trying to contact me, though I have received no other emails, phone calls, or letters and if I don't call them by a date that's only a couple days away, I will be liable for any repairs to my car. Overall seems very scammy and when I called I was on hold for a while and never actually spoke with anyone."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Phishing",
-      "city": "Morton Grove, IL",
-      "amt": 0,
-      "biz": "Greetings Island",
-      "desc": "received an email evite through Greetings Island and asked to log in to open by supplying email and password."
+      "biz": "Not given",
+      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. This caller identified themself as \"business verification department\" and claimed there was an \"urgent issue with your business listing\" on Google. I don't have a business listing on google. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
     },
     {
       "date": "2026-10-19",
-      "type": "Phishing",
-      "city": "Chicago, IL",
+      "type": "Identity Theft",
+      "city": "Des Plaines, IL",
       "amt": 0,
-      "biz": "Bay Area Times",
-      "desc": "No way, I blocked the \"tips@bayareatimes.com\" email address associated with Bay Area Times. A few minutes ago, they sent an email using \"growth@bayareatimes.com\". I had flagged these messages as spam or phishing attempts and warned my family against clicking any links inside them. Now, this scam operation used the rolling email address tactic where their active email address changes automatically at set intervals or per interaction, similar to a rotating IP address."
+      "biz": "—",
+      "desc": "Scam Caraway cookware website declined purchase but stole credit card info. They added my info to their phone &ldquo;Wallet&rdquo; then used to purchase merchandise."
     },
     {
       "date": "2026-10-19",
       "type": "Online Purchase",
-      "city": "Peoria, IL",
-      "amt": 54.8,
-      "biz": "Auren",
-      "desc": "This website offers boneless couch for a discounted price. After paying for the item, I received updates on the tracking and then a few days later after the &ldquo;carrier picked up my order to deliver to me&rdquo;, all the sudden I couldn&rsquo;t track the order and it kept saying server error. You can&rsquo;t reach anyone and the phone number on the website is no longer is service."
+      "city": "Chicago, IL",
+      "amt": 0.45,
+      "biz": "For your custom",
+      "desc": "This website uses poor quality materials and doesn&rsquo;t list the materials on the website. Additionally the colors are not as advertised. They issue  satisfaction guarantee but do not accept returns due to it being a &ldquo;custom&rdquo; order. Once you order you cannot leave a review and if you try to leave one in incognito mode it does not allow you to. Poor quality, unwearable item, misleading reviews."
     },
     {
-      "date": "2026-10-18",
-      "type": "Phishing",
-      "city": "Collinsville, IL",
+      "date": "2026-10-19",
+      "type": "Counterfeit Product",
+      "city": "Villa Park, IL",
+      "amt": 29.95,
+      "biz": "EM-Evelmont",
+      "desc": "I ordered pollinator cups for my landscaping from an ad that was listed on a ad that was on instagram It described the pollinator cups were made by a pottery artist in Connecticut. I ordered them thinking they are coming from Connecticut. I received an email and shipping information that said they are being sent from China. I received them but they were not anything like what was shown in the ad. I tried to find my order and email and it was no longer accessible. This was 08/18/25/2026,when ordered and then another charge for $29.95 was pending on my credit card as of 9/11/2026. Then on 10/18/2026 they charged my card again one for $14.98 &amp; $14.97. I contacted EM-Evelmont through email and told them I did not sign up for no membership and I wanted a refund for the $29.95.  Have not received the refund for the $29.95 ,"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Elk Grove Village, IL",
       "amt": 0,
-      "biz": "Iverexpress",
-      "desc": "I keep getting emails from not just this email address but multiple about a loan that I have taken out and they're all with the same exact amount. I've not clicked on any of them, but I haven't had any loans taken out so I did some research and see that this website is trying to scam a bunch of people."
+      "biz": "NRU",
+      "desc": "Fake online store at nruwellness.shop impersonating the retailer NRU and the diaper brand Tykables. The site uses NRU's logo (loaded from nru.co.uk) and lists support@nru.com as its contact. It sells Tykables-branded products using the brand owner's product photos and product descriptions copied word for word, without permission, at a fake 65% discount (for example $9.26 marked down to $3.24). Other pages are generic fashion-store template text (testimonials about a \"blazer,\" a \"contemporary fashion destination\" About page) that do not match the products sold. The domain was registered on 2026-09-18 with a privacy-redacted registrant and is hosted on a server registered in China. The checkout uses Stripe. This looks like a fake store set up to take payments for goods that will not ship. Buyers should avoid it. The real brands' official sites are tykables.com and nru.co.uk."
     },
     {
-      "date": "2026-10-18",
-      "type": "Other",
-      "city": "IL",
-      "amt": 0,
-      "biz": "Carol Sterling and Impact Modeling see WVUE Fox 8 Defenders Report, Scam continues",
-      "desc": "Carol Sterling targets victims using her daughters Impact Modeling agency. Carol Sterling swindles model hopefuls and their families with elaborate lies, scams, promises. She has a network of contacts who help her with the scam. See Fox 8 WVUE Model Hopefuls Out Thousands\nShe travels with minors over state lines, she scans families out of thousands, she manipulates model hopefuls. She is a danger. How is she allowed to still operate and exploit her connection to Impact Agency? Authorities need to protect children and families."
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Identity Theft",
-      "city": "Bloomington, IL",
-      "amt": 0,
-      "biz": "VGAthletehabit",
-      "desc": "MY bank called me on a credit card alert.  This is the second time in two months that I&rsquo;ve had to change my bank credit card&mdash;it&rsquo;s the same fraud people.  The company&rsquo;s name is VgAthletehabit in California.  How do i make them stop"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Investment",
-      "city": "Waukegan, IL",
-      "amt": 2000,
-      "biz": "summit-securities, Discord/Profit insider",
-      "desc": "I deposited $2000 of my own money into an account on the trading platform at summit-securities.com ( also using their client dashboard at dashboard.summit-securities.com). After generating profits on the account, I submitted a withdrawal request. The request has not been reviewed or processed in 3 weeks of submitting it. Support has not responded to any messages sent through their website chat support portal and email. The platform markets itself as a fully regulated broker offering forex, CFDs, and related products. Public information on the site shows it relies on a liquidity provider (Marquess Global Ltd) registered in the Union of Comoros (Bonovo Road, Fomboni, Island of Moh&eacute;li) under a Mwali International Services Authority (MISA) license. No clear U.S. business address or verifiable major-jurisdiction regulation is provided.\nThis appears to be a common pattern with high-risk offshore trading platforms that accept deposits but obstruct withdrawals and stop responding once profits are requested."
-    },
-    {
-      "date": "2026-10-18",
-      "type": "Phishing",
-      "city": "Greenville, IL",
-      "amt": 258.39,
-      "biz": "Att&t",
-      "desc": "They said the automatic payment system was down temporarily and to pay through him and he would send me a confirmation number, which he never did. The amount he quoted as owed was the wrong amount as quoted  by my son. I tried to pay what my son owed on his phone bill."
+      "date": "2026-10-19",
+      "type": "Online Purchase",
+      "city": "Marion, IL",
+      "amt": 73.13,
+      "biz": "Easylifexo",
+      "desc": "On Sept. 16, 2026 I purchased quilted bags from Easylifexo and paid for them with a Visa credit card. The only communication I received at that time was they got paid. In two weeks I wrote Easylifexo where was my product and in their reply was a tracking link. I have since been checking the tracking and it looks like it was in Marion, Illinois for several days and then the link said it was delivered Oct. 18, 2026 but it was not. I have contacted Easylifexo and their response was to check my delivery notification which I never got and to check with my family and neighbors to see if it was delivered to another home. My address is very clear on my receipt and we get correct deliveries all the time. I have asked for proof of delivery and will be asking my credit card company for a refund."
     }
   ]
 }
