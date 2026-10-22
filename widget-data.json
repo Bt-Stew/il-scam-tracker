@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-21",
+  "generated_at": "2026-10-22",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-22",
+      "type": "Phishing",
+      "city": "Quincy, IL",
+      "amt": 200,
+      "biz": "Adams County Sheriff's Department",
+      "desc": "I received a call from someone claiming to be with my local sherrif's department in Adams County. They told me that I has missed jury duty and a warrant was out for my arrest unless I paid a fine. Not wanting to have anything on my record, I went along with their instructions and sent them money through Bitcoin."
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Phishing",
+      "city": "Edwardsville, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "I received the following text message on October 21, 2026\nFrom:\n(423)960-1949\nText Message Contents:\nWe are hosting a focus group for Illinois residents that pays 200 dollars.  Interested?  Fill out a qualifying survey here https://txtrq.co/xTgPal Thanks! to opt out reply remove2end\nRemove2End"
+    },
     {
       "date": "2026-10-21",
       "type": "Healthcare/Medicaid/Medicare",
@@ -70,19 +86,19 @@
     },
     {
       "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 25,
-      "biz": "Poly casino",
-      "desc": "I won 25 sc (equivalent to $25) in a promotion but never received it. Customer service said I never participated but I have screen shots of my winning total (timed and dated by Poly Casino)"
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Resolve Lending",
+      "desc": "$26"
     },
     {
       "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Montgomery, IL",
-      "amt": 2.73,
-      "biz": "ORNTLI",
-      "desc": "Orntli is a scam company pretending to sell products online but doesn&rsquo;t not have them. They will tell you that their shipping has not synced yet so weeks will go by without any products that you bought. If you want to cancel they will tell you that there is a fee of 20% that they will deduct from your payment. They say they&rsquo;re based in Norway, using an address there. They don not have any products."
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. This caller identified themself as \"business verification department\" and claimed there was an \"urgent issue with your business listing\" on Google. I don't have a business listing on google. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
     },
     {
       "date": "2026-10-20",
@@ -107,22 +123,6 @@
       "amt": 0,
       "biz": "Webenvy",
       "desc": "I received a fax containing an invoice for social media services. (i.e.- online reputation management:$129.95, website engagement:$118.95, social media engagement tracking:$89.85, marketing insights: $84.95, and marketing reporting: $75.95)\nTotal Amount Due: $498.65\nInvoice Number 2088868\nCustomer ID: WBE740170\nPayment Terms: Net30\nUnder the business information for my company it says the service domain is: Progressive.com.  Don't know if that is pertinent information or not so I figured I'd just include it.\nThe contact information was given is as follows:\nWeb Envy\n9535 Forest Lane Suite 114J\nDallas, Texas 75243\nwebenvy360.io\nIt says to make payment to: webenvy360.io/portal and to send any billing questions to: billing@webenvy360.io\nI never had any interaction with this company other than receiving the fax."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Elmhurst, IL",
-      "amt": 69.25,
-      "biz": "Emblem boutique San Francisco",
-      "desc": "$26"
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Phishing",
-      "city": "Aurora, IL",
-      "amt": 0,
-      "biz": "Official Business",
-      "desc": "I received a rather threatening letter about losing the opportunity for my vehicle to have a warranty. There is little to no information about the sender of this letter other than the phone number. The letter claims they've been trying to contact me, though I have received no other emails, phone calls, or letters and if I don't call them by a date that's only a couple days away, I will be liable for any repairs to my car. Overall seems very scammy and when I called I was on hold for a while and never actually spoke with anyone."
     }
   ]
 }
