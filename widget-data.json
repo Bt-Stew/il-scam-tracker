@@ -6,11 +6,59 @@
   "reports": [
     {
       "date": "2026-10-21",
+      "type": "Healthcare/Medicaid/Medicare",
+      "city": "Chester, IL",
+      "amt": 0,
+      "biz": "Billing services",
+      "desc": "A company by the name of billing services reached out with my full name (first and last) and attempted to collect $162.36 from me for various line items. I called the phone number that was provided and they requested the last four of my social as well as birth date and zip code. I said I was not comfortable giving that information over the phone and they said they couldn't tell me what company was billing me for these plans. The plans were made to sound like insurance premiums, one of which happened to sound halfway legit relative to my line of work. I feel convinced that this is a scam and wanted to report it."
+    },
+    {
+      "date": "2026-10-21",
       "type": "Phishing",
       "city": "Jonesboro, IL",
       "amt": 0,
       "biz": "Illinoisfiling.com",
       "desc": "I received a text message from 1-833-950-0621 from Illinoisfiling.com.  I pushed on the link and it wanted me to confirm all of my information.  Then it said pay $299.00 and I would never have to file again.  They sent it twice and asked for my banking information.  This is when I called the BBB to check to see if it was a scam.  It is a scam."
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Advance Fee Loan",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "Since October 2025, I have received over 610 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Frank\" and offered an unsolicited $60,000 unsecured personal loan, saying i was one of a very few who had been approved. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Online Purchase",
+      "city": "Collinsville, IL",
+      "amt": 38.37,
+      "biz": "Barir",
+      "desc": "Barrir clothing is a scam online clothing store dont do it"
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Online Purchase",
+      "city": "Rockford, IL",
+      "amt": 88.76,
+      "biz": "Bootylift.co",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Phishing",
+      "city": "Effingham, IL",
+      "amt": 0,
+      "biz": "Doris Yasfbara",
+      "desc": "I received a package from Doris Yasfbara. The address was 9208 Charles Smith Ave., Rancho Cucamonga, CA 91730\nMy research shows that I am a target of a &ldquo;brushing scam.&rdquo;  I received some cheap decorations that I did not order and they plan to use my name in a fraudulent review. Please be aware this is a fraudulent account."
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Phishing",
+      "city": "Midlothian, IL",
+      "amt": 0,
+      "biz": "4Ever Home Warranty",
+      "desc": "RESPONSE TO THIS NOTICE REQUESTED\nThe notice is to inform you that the property&rsquo;s home warranty, at _____, secured by ______, may be expiring or has already expired.\nPlease call immediately as this will be our final attempt to notify you about activating your home warranty."
     },
     {
       "date": "2026-10-20",
@@ -31,98 +79,50 @@
     {
       "date": "2026-10-20",
       "type": "Online Purchase",
-      "city": "Downers Grove, IL",
-      "amt": 104,
-      "biz": "Lilisrose",
-      "desc": "Ordered two dresses off Lilisrose.com. One dress was wrong. The other didn&rsquo;t fit. The return policy on the website says full returns within 30 days and that they would provide prepaid return postage. Package was shipped from California, but now they are asking for it to be mailed to Hong Kong and for me to pay the shipping and that they will supposedly reimburse me for the shipping afterwards. I&rsquo;ve pushed back on this asking for the prepaid postage, and contacted my credit card company."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Fairview Heights, IL",
-      "amt": 0,
-      "biz": "WEBENVY",
-      "desc": "Fax of an invoice received on 10/20/2026 from Webenvy360 for $498.65. Invoice states it is for monthly digital marketing services \"under the agreed scope of work\". We do not use Webenvy and have never heard of them until this fax arrived. I researched and found this scam has been going on for several years."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Skokie, IL",
-      "amt": 20,
-      "biz": "DailyYardPro",
-      "desc": "Ordered a mini Christmas Advent Calendar which appeared to be assorted plastic blocks which would be assembled each day of advent and hung on the Christmas tree.\nitems  received were flat plastic Christmas shapes contains various Christmas scenes.  No information available to return item for a refund."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Phishing",
-      "city": "Oak Park, IL",
-      "amt": 0,
-      "biz": "Chicago Area Archivists",
-      "desc": "Attached is the email. SnattleGrass is a CAA colleague. The scammer posed as me and asked her to pay a vendor $1500.00."
+      "city": "Montgomery, IL",
+      "amt": 2.73,
+      "biz": "ORNTLI",
+      "desc": "Orntli is a scam company pretending to sell products online but doesn&rsquo;t not have them. They will tell you that their shipping has not synced yet so weeks will go by without any products that you bought. If you want to cancel they will tell you that there is a fee of 20% that they will deduct from your payment. They say they&rsquo;re based in Norway, using an address there. They don not have any products."
     },
     {
       "date": "2026-10-20",
       "type": "Online Purchase",
       "city": "Springfield, IL",
-      "amt": 85,
-      "biz": "C-All",
-      "desc": "Ordered their product online and they charged me more than I anticipated and then I checked out there site on ******&nbsp;they have way more complaints I&rsquo;ve ever seen."
+      "amt": 95.73,
+      "biz": "Whalexi",
+      "desc": "I ordered a homecoming dress on 8/4/2026. I was provided fake shipping information, and given a customer service email address that never elicited a response, despite several emails. I had to dispute the charge with my credit company, and I thought it had been handled until I received a second charge for the same amount. I canceled the card. It also now appears the website I ordered from no longer exists."
     },
     {
       "date": "2026-10-20",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
+      "type": "Phishing",
+      "city": "Skokie, IL",
+      "amt": 10.95,
+      "biz": "They impersonated the Illinois Vehicle Registration. Receipt showed i had signed up for recourring payment of $10.95. They asked for two credit card numbers and info . Said they couldnt read one.",
+      "desc": "I was renewing my vehicle registration and was routed to what I thought was the site. Must have a similar website to fool people  Was trying to reach ILSOS.gov. They rejected my first credit card and asked for info for a second. Thought that odd. After giving info got a receipt from AMVOS online.com for a reoccurring amount of $10.95 each month. They have my license plate and info for two credit cards. Checked with chat gpt and found that this has happened to other people. They emailed me and said they would correct it but I am suspicious. In this email they asked for banking information"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Belleville, IL",
       "amt": 0,
-      "biz": "Resolve Lending",
+      "biz": "Webenvy",
+      "desc": "I received a fax containing an invoice for social media services. (i.e.- online reputation management:$129.95, website engagement:$118.95, social media engagement tracking:$89.85, marketing insights: $84.95, and marketing reporting: $75.95)\nTotal Amount Due: $498.65\nInvoice Number 2088868\nCustomer ID: WBE740170\nPayment Terms: Net30\nUnder the business information for my company it says the service domain is: Progressive.com.  Don't know if that is pertinent information or not so I figured I'd just include it.\nThe contact information was given is as follows:\nWeb Envy\n9535 Forest Lane Suite 114J\nDallas, Texas 75243\nwebenvy360.io\nIt says to make payment to: webenvy360.io/portal and to send any billing questions to: billing@webenvy360.io\nI never had any interaction with this company other than receiving the fax."
+    },
+    {
+      "date": "2026-10-20",
+      "type": "Online Purchase",
+      "city": "Elmhurst, IL",
+      "amt": 69.25,
+      "biz": "Emblem boutique San Francisco",
       "desc": "$26"
     },
     {
       "date": "2026-10-20",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
+      "type": "Phishing",
+      "city": "Aurora, IL",
       "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have received over 600 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. This caller identified themself as \"business verification department\" and claimed there was an \"urgent issue with your business listing\" on Google. I don't have a business listing on google. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Identity Theft",
-      "city": "Des Plaines, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "Scam Caraway cookware website declined purchase but stole credit card info. They added my info to their phone &ldquo;Wallet&rdquo; then used to purchase merchandise."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 0.45,
-      "biz": "For your custom",
-      "desc": "This website uses poor quality materials and doesn&rsquo;t list the materials on the website. Additionally the colors are not as advertised. They issue  satisfaction guarantee but do not accept returns due to it being a &ldquo;custom&rdquo; order. Once you order you cannot leave a review and if you try to leave one in incognito mode it does not allow you to. Poor quality, unwearable item, misleading reviews."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Counterfeit Product",
-      "city": "Villa Park, IL",
-      "amt": 29.95,
-      "biz": "EM-Evelmont",
-      "desc": "I ordered pollinator cups for my landscaping from an ad that was listed on a ad that was on instagram It described the pollinator cups were made by a pottery artist in Connecticut. I ordered them thinking they are coming from Connecticut. I received an email and shipping information that said they are being sent from China. I received them but they were not anything like what was shown in the ad. I tried to find my order and email and it was no longer accessible. This was 08/18/25/2026,when ordered and then another charge for $29.95 was pending on my credit card as of 9/11/2026. Then on 10/18/2026 they charged my card again one for $14.98 &amp; $14.97. I contacted EM-Evelmont through email and told them I did not sign up for no membership and I wanted a refund for the $29.95.  Have not received the refund for the $29.95 ,"
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Elk Grove Village, IL",
-      "amt": 0,
-      "biz": "NRU",
-      "desc": "Fake online store at nruwellness.shop impersonating the retailer NRU and the diaper brand Tykables. The site uses NRU's logo (loaded from nru.co.uk) and lists support@nru.com as its contact. It sells Tykables-branded products using the brand owner's product photos and product descriptions copied word for word, without permission, at a fake 65% discount (for example $9.26 marked down to $3.24). Other pages are generic fashion-store template text (testimonials about a \"blazer,\" a \"contemporary fashion destination\" About page) that do not match the products sold. The domain was registered on 2026-09-18 with a privacy-redacted registrant and is hosted on a server registered in China. The checkout uses Stripe. This looks like a fake store set up to take payments for goods that will not ship. Buyers should avoid it. The real brands' official sites are tykables.com and nru.co.uk."
-    },
-    {
-      "date": "2026-10-19",
-      "type": "Online Purchase",
-      "city": "Marion, IL",
-      "amt": 73.13,
-      "biz": "Easylifexo",
-      "desc": "On Sept. 16, 2026 I purchased quilted bags from Easylifexo and paid for them with a Visa credit card. The only communication I received at that time was they got paid. In two weeks I wrote Easylifexo where was my product and in their reply was a tracking link. I have since been checking the tracking and it looks like it was in Marion, Illinois for several days and then the link said it was delivered Oct. 18, 2026 but it was not. I have contacted Easylifexo and their response was to check my delivery notification which I never got and to check with my family and neighbors to see if it was delivered to another home. My address is very clear on my receipt and we get correct deliveries all the time. I have asked for proof of delivery and will be asking my credit card company for a refund."
+      "biz": "Official Business",
+      "desc": "I received a rather threatening letter about losing the opportunity for my vehicle to have a warranty. There is little to no information about the sender of this letter other than the phone number. The letter claims they've been trying to contact me, though I have received no other emails, phone calls, or letters and if I don't call them by a date that's only a couple days away, I will be liable for any repairs to my car. Overall seems very scammy and when I called I was on hold for a while and never actually spoke with anyone."
     }
   ]
 }
