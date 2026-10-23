@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-10-23",
+      "type": "Fake Invoice/Supplier Bill",
+      "city": "Urbana, IL",
+      "amt": 0,
+      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
+      "desc": "I received an unsolicited fax from Med Pulse requesting payment for Secure Fax Routing &amp; Encryption and other services I did not sign up for. After reviewing this \"company\" I noted that this is a probable scam as I did not sign up for any of the listed services nor had I heard about this company previous to receiving the fax."
+    },
+    {
+      "date": "2026-10-22",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Structure construction/shopperstem",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-10-22",
+      "type": "Counterfeit Product",
+      "city": "Clarendon Hills, IL",
+      "amt": 87.23,
+      "biz": "Veeralai.com (Emily)",
+      "desc": "Advertisements while playing video game. Two separate orders. One for a fleece jacket and one for christmas ornaments. Didn't realize both orders were with the same company until I tried to contact them. Emily(Pristime)support@Pristime.zendesk.com. no listed phone number."
+    },
     {
       "date": "2026-10-22",
       "type": "Phishing",
@@ -11,6 +35,14 @@
       "amt": 0,
       "biz": "Department of Procedures nd conduct",
       "desc": "talking about sealed court papers that are needing to be delivered  to my home or work place. if no contact is made will be a failure to comply"
+    },
+    {
+      "date": "2026-10-22",
+      "type": "Debt Collections",
+      "city": "Wonder Lake, IL",
+      "amt": 121.66,
+      "biz": "Legal Division",
+      "desc": "I was called from a Simone Reynolds at 844-479-8521 Ext 107 from the Legal Division stating that I have an old credit card by Indigo that is in collections and the company is going to take legal action against me and garnish my wages if I don't make a payment promptly. She stated the amount was around 2500 (I can't remember the exact amount) but that they will settle with me for 1200.  I told her I did not have that kind of money, so she attempted putting me on a payment plan of which I paid $121.66 up front with additional payments to come on the 23rd of October and then the 15th of November and December after that.  Immediately after the conversation I realized that it was probably fraud, so I pulled my credit reports, and I have nothing in collections at this time. I closed my debit card and disputed the charge with my bank. They were able to read off my social security number as well as old addresses and my mortgage information."
     },
     {
       "date": "2026-10-22",
@@ -46,83 +78,51 @@
     },
     {
       "date": "2026-10-21",
-      "type": "Bank/Credit Card Company Imposter",
-      "city": "Chicago, IL",
+      "type": "Phishing",
+      "city": "Waterloo, IL",
       "amt": 0,
-      "biz": "—",
-      "desc": "Matthew Cruz called claiming to be the Manager from Chase Sapphire Preferred Visa Credit Card. He gave an employee number of JPMC******** He stated a transaction was made at MidwayUSA.com for $2990. He said Chase received an application 9/22/26 and they issued a card on 10/1/26. He said the card number was **** **** **** ****&nbsp;but I do not have a Chase card account. He told me to contact the NYPD and use reference number CRW-****. He transferred me directly to the police department and spoke with NYPD officer Ashley Rodrijguez. She said her hotline number is 646-610-5000 and her badge number is ****. She said it was the 33rd District NYPD. I did not give information but they new my name, phone and the last two digits of my SSN. They said they would investigate and call me back. I did not supply them with any personal information."
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Advance Fee Loan",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "Since October 2025, I have received over 610 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller identified themself as \"Frank\" and offered an unsolicited $60,000 unsecured personal loan, saying i was one of a very few who had been approved. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign, not isolated calls."
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Advance Fee Loan",
-      "city": "Minooka, IL",
-      "amt": 0,
-      "biz": "Stephanie Howard",
-      "desc": "I have Ben called every day for the past four weeks and they will not stop calling after I&rsquo;ve asked them to stop"
+      "biz": "Federal Applications Processor Hoffenmer",
+      "desc": "Company targets new motor carriers, it doesn't matter how many times you tell them to stop they constantly harass you with predatory solicitation by phone, text and mail."
     },
     {
       "date": "2026-10-21",
       "type": "Online Purchase",
-      "city": "Lansing, IL",
-      "amt": 67.48,
-      "biz": "—",
-      "desc": "Your package will never deliver and they won&rsquo;t respond to emails or any type of way to contact them"
+      "city": "Collinsville, IL",
+      "amt": 38.37,
+      "biz": "Barir",
+      "desc": "Barrir clothing is a scam online clothing store dont do it"
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Online Purchase",
+      "city": "Rockford, IL",
+      "amt": 88.76,
+      "biz": "Bootylift.co",
+      "desc": "$26"
     },
     {
       "date": "2026-10-21",
       "type": "Phishing",
-      "city": "Buffalo Grove, IL",
+      "city": "Effingham, IL",
       "amt": 0,
-      "biz": "Chase Bank",
-      "desc": "I received 2 phones yesterday, 10/20/2026.  The first call came aat 1:07 pm informing me of Suspicious Bank Pending Transaction with Home Depot in Phoenix.  She claim to be calling from Chase Bank.  The 2nd call came at 2:09pm, same person.  She claimed the my Debit Card had in fact been compromised.  Did I want to get a replacement Debit Card sent regular mail or Expedited.  I said Expedited if there is no charge.  She agreed and proceeded to ask for my Password/ Bank Secret Code so she could process the Debit Card Replacement.  I said I NEVER GIVE out that information, especially over the phone.  I will go to the bank and request a Replacement Debit Card at the office!!  This ended any further discussion.  I contacted Chase to inform them of the Suspicious Bank Scam."
+      "biz": "Doris Yasfbara",
+      "desc": "I received a package from Doris Yasfbara. The address was 9208 Charles Smith Ave., Rancho Cucamonga, CA 91730\nMy research shows that I am a target of a &ldquo;brushing scam.&rdquo;  I received some cheap decorations that I did not order and they plan to use my name in a fraudulent review. Please be aware this is a fraudulent account."
+    },
+    {
+      "date": "2026-10-21",
+      "type": "Phishing",
+      "city": "Midlothian, IL",
+      "amt": 0,
+      "biz": "4Ever Home Warranty",
+      "desc": "RESPONSE TO THIS NOTICE REQUESTED\nThe notice is to inform you that the property&rsquo;s home warranty, at _____, secured by ______, may be expiring or has already expired.\nPlease call immediately as this will be our final attempt to notify you about activating your home warranty."
     },
     {
       "date": "2026-10-20",
       "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 25,
-      "biz": "Poly casino",
-      "desc": "I won 25 sc (equivalent to $25) in a promotion but never received it. Customer service said I never participated but I have screen shots of my winning total (timed and dated by Poly Casino)"
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Online Purchase",
-      "city": "Montgomery, IL",
-      "amt": 2.73,
-      "biz": "ORNTLI",
-      "desc": "Orntli is a scam company pretending to sell products online but doesn&rsquo;t not have them. They will tell you that their shipping has not synced yet so weeks will go by without any products that you bought. If you want to cancel they will tell you that there is a fee of 20% that they will deduct from your payment. They say they&rsquo;re based in Norway, using an address there. They don not have any products."
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Phishing",
       "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Better Business Bureau",
-      "desc": "They called me twice and the voicemail&rsquo;s were &ldquo;Yes, this is the Better Business Bureau.  My name is Anne Wildy.  This message is for the owner of the company.  Please return my call at 336-510-6907.  Um I'll be in my office till 4 PM.  And again, my number is 336-510-6907.  Thank you.&hellip;&rdquo;"
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Advance Fee Loan",
-      "city": "Skokie, IL",
-      "amt": 0,
-      "biz": "Better Debt Solutions",
-      "desc": "Constant calls from different numbers from different cities but it all says the same thing"
-    },
-    {
-      "date": "2026-10-20",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "TSS",
-      "desc": "I was sent this text three times today, blocked it twice and the third time screenshot asked chat gpt about it and it reported BBB has previous reports of the same scam."
+      "amt": 64,
+      "biz": "KATEGRANA",
+      "desc": "I found a cute dress on a website called KATEGRANA and was told they ship within one business day. A few business days later, I followed up by email and phone call and heard nothing. The item never shipped, and they never reached out to me. They took my money and are still claiming to sell clothing online, but it's a scam."
     }
   ]
 }
