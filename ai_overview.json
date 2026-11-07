@@ -4,88 +4,55 @@
   "text_blocks": [
     {
       "type": "paragraph",
-      "snippet": "Recent warnings from law enforcement, banks, and federal authorities highlight several active and rising scams targeting residents across Central Illinois:",
+      "snippet": "Recent scam warnings across Central Illinois highlight a rise in sophisticated phone, AI voice, and impersonation schemes.",
       "snippet_highlighted_words": [
-        "several active and rising scams targeting residents across Central Illinois"
+        "sophisticated phone, AI voice, and impersonation schemes"
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        2
       ]
     },
     {
       "type": "heading",
-      "snippet": "1. Phone Spoofing & Government Impersonation"
+      "snippet": "Common Scams in Central Illinois"
     },
     {
       "type": "list",
       "list": [
         {
-          "snippet": "Federal Prosecutor & Court Scams: Scammers are spoofing the phone numbers of the U.S. Attorney's Office for the Central District of Illinois and federal court officials, falsely claiming recipients are part of a criminal investigation (such as sex trafficking) or owe fines, and demanding immediate payment or threats of arrest.",
+          "snippet": "Law Enforcement & Government Impersonation: Scammers spoof phone numbers (such as Springfield area codes or local sheriff's offices) to pose as the Illinois State Police, the U.S. Attorney\u2019s Office for the Central District of Illinois, or local county sheriffs. They claim you missed jury duty, have a pension issue, or face a warrant, demanding immediate money or gift cards.",
           "reference_indexes": [
-            0,
             1,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "snippet": "AI-Generated Voice & Romance Scams: Reported heavily in areas like Peoria County, scammers use artificial intelligence-generated voices and fake online personas to build trust over time before requesting money or financial information.",
+          "reference_indexes": [
             2
           ]
         },
         {
-          "snippet": "Law Enforcement & Jury Duty Scams: Callers impersonate local sheriff's offices (such as Macon or Peoria county departments) claiming the victim missed jury duty or has an active citation, often using real personal data to pressure victims.",
+          "snippet": "Bank Impersonation Calls: Community banks\u2014including Fisher National Bank and Federated Bank\u2014have warned customers of fake callers displaying the bank\u2019s actual name or phone number on caller ID to steal login details.",
           "reference_indexes": [
-            3,
-            4
+            0
           ]
         },
         {
-          "snippet": "State Police Pension Scams: Scammers use caller ID spoofing with Springfield-area codes (217) to pose as the Illinois State Police (ISP), asking for money or confirming personal details regarding the ISP pension fund.",
+          "snippet": "Secretary of State Smishing: Fraudulent text messages falsely claim to be from the Illinois Secretary of State, threatening license suspensions and demanding payment or personal data.",
           "reference_indexes": [
-            5
+            6
           ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "2. AI-Assisted & Romance Scams"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "AI Voice Generation: Scammers in counties like Peoria are using artificial intelligence-generated voices and deepfake technology to make urgent calls sound alarmingly real."
         },
         {
-          "snippet": "Romance Scams: Fraudsters build long-term online relationships with victims before manufacturing emergencies or requests for money.",
+          "snippet": "Home Repair & Storm Chasers: Door-to-door contractors and storm-chasing crews target homeowners with high-pressure tactics, demands for large cash advances, or substandard/incomplete work.",
           "reference_indexes": [
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "3. Bank & Financial Institution Impersonation"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Community banks\u2014including Fisher National Bank and Federated Bank\u2014have issued joint alerts regarding fraudulent phone calls. Scammers spoof bank caller IDs to trick customers into revealing online banking login credentials, account numbers, or two-factor authentication codes.",
-          "reference_indexes": [
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "snippet": "4. Secretary of State & Text Scams"
-    },
-    {
-      "type": "list",
-      "list": [
-        {
-          "snippet": "Fraudulent text messages falsely claim to be from the Illinois Secretary of State, threatening driver\u2019s license suspension or unpaid traffic tickets/tolls unless a link is clicked or a fine is paid immediately.",
-          "reference_indexes": [
-            10,
-            11
+            7,
+            8
           ]
         }
       ]
@@ -98,69 +65,66 @@
       "type": "list",
       "list": [
         {
-          "snippet": "Hang Up and Call Directly: Never trust caller ID alone. If a caller claims to be from your bank, the police, or a government agency, hang up and dial the organization's official, published phone number yourself.",
-          "reference_indexes": [
-            0,
-            8,
-            9
-          ]
-        },
-        {
-          "snippet": "Never Pay Over the Phone: Government agencies, courts, law enforcement, and banks will never demand cash, gift cards, cryptocurrency, or immediate wire transfers over the phone.",
+          "snippet": "Hang up immediately: Legitimate government agencies, courts, and banks will never cold-call you demanding cash, cryptocurrency, or sensitive login credentials.",
           "reference_indexes": [
             1,
-            2,
-            5
+            9,
+            10
           ]
         },
         {
-          "snippet": "Establish a Safe Word: Families are encouraged to create a private verbal safe word to verify loved one's identities during unexpected or emergency calls, especially given the rise of AI voice cloning.",
+          "snippet": "Verify independently: Do not trust caller ID. Look up the official phone number of your bank or local agency independently and call them back directly.",
           "reference_indexes": [
-            7
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "snippet": "Never click text links: Do not tap links in unexpected text messages claiming to be from state offices like the Illinois Secretary of State.",
+          "reference_indexes": [
+            6
           ]
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "snippet": "Would you like information on how to report a specific scam to the Illinois Attorney General or the Better Business Bureau, or do you need help checking a suspicious call you recently received?"
     }
   ],
   "references": [
     {
       "index": 0,
+      "title": "Central Illinois banks issue warning on increase in phone scams",
+      "link": "https://fox2now.com/news/illinois/central-illinois-banks-issue-warning-on-increase-in-phone-scams/",
+      "snippet": "Central Illinois banks issue warning on increase in phone scams CENTRAL ILLINOIS (WCIA) \u2014 Two community banks in Central Illinois are warning people to be on the l...",
+      "source": "FOX 2",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fox2now.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVn4aoMmdjLWKJ-hGxEPlQ6bSk7F9BCO2xvtjPU8Ll0Ak_zp2Yynb8Th0ewJsD8w-OuvMWSvAdWJGKtvIn7BqKq87OuQCFQ0l-WY9m_ArBFEjKBSoS5c03NSBD1kHgwWgyckv80h4bsZWyegn8s7HzcFI"
+    },
+    {
+      "index": 1,
+      "title": "Scam Alert Recent warnings from central Illinois remind everyone that ...",
+      "link": "https://www.facebook.com/repkeicher/posts/scam-alertrecent-warnings-from-central-illinois-remind-everyone-that-scam-calls-/1514009833868914/",
+      "snippet": "Illinois State Police Warns Of Phone Scams COLLINSVILLE - The Illinois State Police (ISP) is warning the public of a phone scam that is currently circulating throu...",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoWLzsFCGEg0NfU_jUG_UdpZosY9-ZUkW4QSXDry08ltpLXWZm9wah0K7_Jsizmbq9Qet5_l7XHpmju-VkRhru5WcvrIFgf5UjI6XI14_5KZX_LXKFneZsf8m3k8pW2oNoGirym_HDFw"
+    },
+    {
+      "index": 2,
+      "title": "AI giving scammers new tools to target Central Illinois victims",
+      "link": "https://www.25newsnow.com/2026/10/06/ai-giving-scammers-new-tools-target-central-illinois-victims/",
+      "snippet": "AI giving scammers new tools to target Central Illinois victims Close / By Gianna Njau Published: Oct. 5, 2026 at 8:22 PM PDT PEORIA COUNTY (25News Now) -Scammers ...",
+      "source": "WEEK | 25 News Now",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4p2uQeHJwwuxtJBlgKxdz7RyGY070sJZQIbcmr2ZTou5cO4nkKrQKZD8YStrYWKjbqi3vN49_dB-8THVO3V7rYHDHh8be7eWAWNCuwdCu4M8yTJCn8xCDLmTMFEYPz1PZSwl_dwGCXxSRHqVU2iLQ-M"
+    },
+    {
+      "index": 3,
       "title": "U.S. Attorney's Office for the Central District of Illinois Warns Public ...",
       "link": "https://www.justice.gov/usao-cdil/pr/us-attorneys-office-central-district-illinois-warns-public-about-phone-spoofing-scam",
       "snippet": "U.S. Attorney's Office for the Central District of Illinois Warns Public About Phone Spoofing Scam. Thursday, September 3, 2026. Share right caret. Facebook \u00b7 X \u00b7 ...",
       "source": "Department of Justice (.gov)",
       "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.justice.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EJMiKKVMS9xRwz7EGa_UnC9kbd8X0Q0dmGyvnf-l-Ub88Os8q86mupgNStnm6O8NuKhWdoXN8baZaAUSt0I43-c7FS_zFjehiMF8yukUg8Iyl-aYB6_9pLIzEDjTZOzjKxrJG25_IHuhFhJBMpq1GQ8"
-    },
-    {
-      "index": 1,
-      "title": "Federal prosecutors warn of scam calls in Central Illinois - WCIA.com",
-      "link": "https://www.wcia.com/news/federal-prosecutors-warn-of-scam-calls-in-central-illinois/",
-      "snippet": "In a news release, the U.S. Attorney's Office for the Central District of Illinois did not mention a specific incident involving its office. However, they said sca...",
-      "source": "WCIA.com",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy1vng5m3bfQ2C00yb9I0VDKYFnpc_7sNPDI9VhpogOd9zUnJLcpP0zDTwIbJKVbPnD_3YJvYjWhnKr6aubP5nR2Mkmy7jxBKxNWmHMw5_1VqULGEbSh99tVMCG9BBrkrBBtXcIO0EDdACQTUkv7ct_0"
-    },
-    {
-      "index": 2,
-      "title": "Scam Alerts | Southern District of Illinois",
-      "link": "https://www.ilsd.uscourts.gov/scam-alerts",
-      "snippet": "Central Violations Bureau (CVB) Scam Fraudulent Calls Impersonating Court Officials The U.S. District Court has received reports that members of the public are bei...",
-      "source": "Southern District of Illinois (.gov)",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ilsd.uscourts.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-    },
-    {
-      "index": 3,
-      "title": "Those pesky scam calls are getting trickier. The sheriff's office says they' ...",
-      "link": "https://www.facebook.com/wandtv/posts/those-pesky-scam-calls-are-getting-trickier-the-sheriffs-office-says-theyve-cost/1517136687126279/",
-      "snippet": "Central Illinois sheriffs warn residents of phone scams Connie Baker and 3 others 4 reactions \u00b7 1 comment \u00b7 8 shares WCIA 3 News 3y \u00b7 Public The Champaign County S",
-      "source": "Facebook",
-      "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvAOQ1uyPJgHujSHfxg42LBMTlttzdiqE_s4Wle-mmYoE2L3UtpjFCJ-CPd-OhzaeI5UZFNo1-Ok2O5W2RJdrpb514WMsOn78p18bobASrrDEdjpUEDid-T1RYb7eIZUcM7gewDNJ9rG35OLvWM7sgRt0"
     },
     {
       "index": 4,
@@ -173,39 +137,38 @@
     },
     {
       "index": 5,
-      "title": "Scam Alert Recent warnings from central Illinois remind everyone that ...",
-      "link": "https://www.facebook.com/repkeicher/posts/scam-alertrecent-warnings-from-central-illinois-remind-everyone-that-scam-calls-/1514009833868914/",
-      "snippet": "Illinois State Police Warns Of Phone Scams COLLINSVILLE - The Illinois State Police (ISP) is warning the public of a phone scam that is currently circulating throu...",
+      "title": "Those pesky scam calls are getting trickier. The sheriff's office says they' ...",
+      "link": "https://www.facebook.com/wandtv/posts/those-pesky-scam-calls-are-getting-trickier-the-sheriffs-office-says-theyve-cost/1517136687126279/",
+      "snippet": "Central Illinois sheriffs warn residents of phone scams Connie Baker and 3 others 4 reactions \u00b7 1 comment \u00b7 8 shares WCIA 3 News 3y \u00b7 Public The Champaign County S",
       "source": "Facebook",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoWLzsFCGEg0NfU_jUG_UdpZosY9-ZUkW4QSXDry08ltpLXWZm9wah0K7_Jsizmbq9Qet5_l7XHpmju-VkRhru5WcvrIFgf5UjI6XI14_5KZX_LXKFneZsf8m3k8pW2oNoGirym_HDFw"
+      "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvAOQ1uyPJgHujSHfxg42LBMTlttzdiqE_s4Wle-mmYoE2L3UtpjFCJ-CPd-OhzaeI5UZFNo1-Ok2O5W2RJdrpb514WMsOn78p18bobASrrDEdjpUEDid-T1RYb7eIZUcM7gewDNJ9rG35OLvWM7sgRt0"
     },
     {
       "index": 6,
-      "title": "AI giving scammers new tools to target Central Illinois victims",
-      "link": "https://www.25newsnow.com/2026/10/06/ai-giving-scammers-new-tools-target-central-illinois-victims/",
-      "snippet": "AI giving scammers new tools to target Central Illinois victims Close / By Gianna Njau Published: Oct. 5, 2026 at 8:22 PM PDT PEORIA COUNTY (25News Now) -Scammers ...",
-      "source": "WEEK | 25 News Now",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQi3hqWPSuQdelfwc62LIjlCcW54wfyZr8MgzslO7zQCTTc_w98v24FEwOvTPBzR6AErzkQHSl-IzbqiAh0pTgQOr6t1El0fBHzMkiSQhINO54uytID9KQwt27ZKhv9n4ZmWAPZWSHgplhI1w4OgwWnF-M"
+      "title": "If you get a text claiming to be from the \u201cIllinois Secretary of State\u201d ...",
+      "link": "https://www.instagram.com/reel/DVjaq05lObk/?hl=en",
+      "snippet": "If you get a text claiming to be from the \u201cIllinois Secretary of State\u201d threatening suspension or enforcement \u2013 don\u2019t click or reply. Our office never sends texts",
+      "source": "Instagram",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStMOMPLYhqrOoUo1xACXZPdzH32GRa_lU_MHXYLm0Ixbm2xXPnOwgA0r_e50aGOXqDCAebIlPCxoh2yPhG6N-P3Kiu_iQWsHLsV9D8Tm07y2w5lQMwFSymINRKOiaHZmkzauLGg9ilJMzZLgd9gzlvz1Y"
     },
     {
       "index": 7,
-      "title": "AI giving scammers new tools to target Central Illinois victims",
-      "link": "https://www.25newsnow.com/video/2026/10/05/ai-giving-scammers-new-tools-target-central-illinois-victims/",
-      "snippet": "AI giving scammers new tools to target Central Illinois victims now from your home. team. this is 25 News scammers are finding new ways to make their schemes look",
-      "source": "25 News Now",
-      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.25newsnow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpiSlhybjIcwcWUigudTwuS7hzuMTR6DDO9We8meKSSzIw5ymmXQYPPWmCvhKhqCc_dBed-rybHmCdyw1oYA7IB5lFLoBEuI3vEn4VgYZndU9wcP5kQNj1j6YpDcqsIxg7aJ0zpIPRsatvUrPHOW5Jgk4"
+      "title": "Beware of Scams",
+      "link": "https://ready.illinois.gov/after/beware-of-scams.html",
+      "snippet": "Home Repair Scams: Beware door-to-door solicitors, transients, and large cash advances; verify licenses; note state/FEMA never certify contractors or charge for in...",
+      "source": "Ready Illinois (.gov)",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ready.illinois.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
     },
     {
       "index": 8,
-      "title": "Central Illinois banks issue warning on increase in phone scams",
-      "link": "https://fox2now.com/news/illinois/central-illinois-banks-issue-warning-on-increase-in-phone-scams/",
-      "snippet": "Central Illinois banks issue warning on increase in phone scams CENTRAL ILLINOIS (WCIA) \u2014 Two community banks in Central Illinois are warning people to be on the l...",
-      "source": "FOX 2",
-      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fox2now.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVn4aoMmdjLWKJ-hGxEPlQ6bSk7F9BCO2xvtjPU8Ll0Ak_zp2Yynb8Th0ewJsD8w-OuvMWSvAdWJGKtvIn7BqKq87OuQCFQ0l-WY9m_ArBFEjKBSoS5c03NSBD1kHgwWgyckv80h4bsZWyegn8s7HzcFI"
+      "title": "It's severe weather season, and storm damage can leave homeowners ...",
+      "link": "https://www.facebook.com/abc7chicago/videos/i-team-quick-tip-storm-repair-fraud/970863595645374/",
+      "snippet": "It's severe weather season, and storm damage can leave homeowners vulnerable. The Illinois Attorney General is warning about scammers looking to cash in on cleanup",
+      "source": "Facebook",
+      "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMR01MFrip0GUW8HbDL9MGjUQIoXMDOQCSGwKFqD_FEpIaChnNzBPfrtvFaVQ1ZQdo7qGYOwusDtZsKxXEJhJtKYD1TS_2_dxBLMIILCIwfMcgtLl90a9m5FDylpYtUysqdZaheIObbbnBcNPGjMoWUuY"
     },
     {
       "index": 9,
@@ -213,26 +176,16 @@
       "link": "https://www.youtube.com/watch?v=iC4zGyjAXvg",
       "snippet": "two central Illinois banks are warning people of a recent increase in scams it's Fish Fischer National Bank with locations over in Mohammed Fiser and Champagne. an",
       "source": "YouTube",
-      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
       "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPkhGEU8sjuTGo8SGA3vxBkLbRgmjxLmDs0jaUt7xE-viXoHAUm-YlU4VORw5QcTpQ5ASnKm_OCR_P0lv517qCBbRYeTF5XJIgyWJowcDdnBV85oT9MKQBklc2QvLHUm_VXm4eKTmutdby8VX8NdszkGw"
     },
     {
       "index": 10,
-      "title": "If you get a text claiming to be from the \u201cIllinois Secretary of State\u201d ...",
-      "link": "https://www.instagram.com/reel/DVjaq05lObk/?hl=en",
-      "snippet": "If you get a text claiming to be from the \u201cIllinois Secretary of State\u201d threatening suspension or enforcement \u2013 don\u2019t click or reply. Our office never sends texts",
-      "source": "Instagram",
-      "source_icon": "https://serpapi.com/searches/6aee12adf89c971a4283b45a/images/spkfelIO90DeGkU6hPXjsN6tY_PX-_8BvCNy1SfrXiUI6omIbeYJQA6tqA7oc7MA.png",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStMOMPLYhqrOoUo1xACXZPdzH32GRa_lU_MHXYLm0Ixbm2xXPnOwgA0r_e50aGOXqDCAebIlPCxoh2yPhG6N-P3Kiu_iQWsHLsV9D8Tm07y2w5lQMwFSymINRKOiaHZmkzauLGg9ilJMzZLgd9gzlvz1Y"
-    },
-    {
-      "index": 11,
-      "title": "If you get a text claiming to be from the \u201cIllinois Secretary of State ...",
-      "link": "https://www.facebook.com/ILSecofState/videos/if-you-get-a-text-claiming-to-be-from-the-illinois-secretary-of-state-threatenin/985556207138109/",
-      "snippet": "If you get a text claiming to be from the \u201cIllinois Secretary of State\u201d threatening suspension or enforcement \u2013 don\u2019t click or reply. Our office never sends texts",
-      "source": "Facebook",
-      "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
-      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStMOMPLYhqrOoUo1xACXZPdzH32GRa_lU_MHXYLm0Ixbm2xXPnOwgA0r_e50aGOXqDCAebIlPCxoh2yPhG6N-P3Kiu_iQWsHLsV9D8Tm07y2w5lQMwFSymINRKOiaHZmkzauLGg9ilJMzZLgd9gzlvz1Y"
+      "title": "Scam Alerts | Southern District of Illinois",
+      "link": "https://www.ilsd.uscourts.gov/scam-alerts",
+      "snippet": "Central Violations Bureau (CVB) Scam Fraudulent Calls Impersonating Court Officials The U.S. District Court has received reports that members of the public are bei...",
+      "source": "Southern District of Illinois (.gov)",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ilsd.uscourts.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
     }
   ]
 }
