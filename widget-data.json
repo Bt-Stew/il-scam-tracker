@@ -1,128 +1,128 @@
 {
-  "generated_at": "2026-10-23",
+  "generated_at": "2026-11-12",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-10-23",
-      "type": "Online Purchase",
-      "city": "Frankfort, IL",
-      "amt": 43,
-      "biz": "Jet power washer",
-      "desc": "I saw an advertisement for. Power washer that connects to your house. The ad showed it would remove algae from siding clean concrete. It did not\nI tried emailing them  one does not exists for email provided\nTried calling no address I can send it back ay my own expense\nThat will probably cost a lot. Who know\nI am a senior trying to find products to make my chores easier"
-    },
-    {
-      "date": "2026-10-23",
-      "type": "Sweepstakes/Lottery/Prizes",
+      "date": "2026-11-12",
+      "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Publishers Clearing House",
-      "desc": "Letter send to my mother."
+      "biz": "URYOGAJOURNEY",
+      "desc": "The \"company\" popped up as an ad on my phone. Once I clicked on it, it then attempted to take my PayPal information. I never signed up for an account. Each day since, the company is attempting to charge my credit card $29.90 per day. My CC company is declining it. I tried emailing the support@uryogajourney.com to stop this charge attempt, and the email address is getting sent back and is not a real email account."
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-11-11",
+      "type": "Phishing",
+      "city": "Alton, IL",
+      "amt": 0,
+      "biz": "H.A Mediations",
+      "desc": "this is your final call. This is HA Mediations, um, you will be receiving your notice today. They will be out to your residence. This is for final preparation for Madison County. Um, your case file is MQW 9608. Can you to update your address? Telephone number it's 346-362-1106. This is your final call. Good luck."
+    },
+    {
+      "date": "2026-11-11",
       "type": "Online Purchase",
-      "city": "Bethalto, IL",
-      "amt": 99.99,
-      "biz": "Ccw consiehttps://ccwconciergeteam.com/which-states/",
-      "desc": "Their advertisements on Facebook say they can get a conceal carry gun permit thriugh the mail for IL. When in fact they are applying for a NH conceal carry permit that's not reciprocal with IL"
+      "city": "Charleston, IL",
+      "amt": 175,
+      "biz": "Katherine's Knitwear",
+      "desc": "I saw an ad for sweaters and signed up for email to get discount and then saw a charge on my card. I immediately reported it and sent several emails to the company to refund and cancel as there mist have been a mistake a purvhase was made in error as I was just looking for discount for future possible purchase but after researching the company appeared to be a scam. No money was returned and sweaters did not arrive nor was the email thread answered."
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Skokie, IL",
+      "amt": 130,
+      "biz": "Funny Fuzzy",
+      "desc": "Many order was placed on this websites by customers and myself included.  Many customers like myself haven't received their orders and been waiting for months after being promised too. There has been many reviews and complaints about the scam website trying to find answers and warn others from falling into their trap. The company gives us no updates and when a refund was requested, they don't reply back. When emailing the company they replied it's already processed. Tried emailing them again this week after 4 months of waiting and the email is now not working and bounced back. This website needs to be shutdown before more people are getting scammed for their money. Thank you."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Keyesport, IL",
+      "amt": 57,
+      "biz": "Kennedy alfred",
+      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Keyesport, IL",
+      "amt": 57,
+      "biz": "Kennedy alfred",
+      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Keyesport, IL",
+      "amt": 57,
+      "biz": "Kennedy alfred",
+      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Other",
+      "city": "Keyesport, IL",
+      "amt": 57,
+      "biz": "Kennedy alfred",
+      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Phishing",
+      "city": "McHenry, IL",
+      "amt": 0,
+      "biz": "Lori Myers, business funding advisor.",
+      "desc": "Getting 10 calls a day from different phone numbers either telling me they want to lend me $$$ or to be tax relief for my tax debt. I'm retired 6 years"
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Identity Theft",
+      "city": "Waukegan, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Call from Chicago, Il\n&ldquo;My name is Natalie Brookford document services. This call is intended for (                )For reference number 284-476* This is a formal notice regarding the noncompliance notice that is being filed against you. If you have not received the notice properly by mail, please call the litigation office immediately to request a copy to be sent out certified. Please note this complaint can before legally without your consent within one or two business days, please feel free to contact the office with any further questions at. 866 809-4504 Please consider yourself notified. Thank you&hellip;&rdquo;"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "Home Improvement",
+      "city": "Plano, IL",
+      "amt": 3100,
+      "biz": "Garage Door Services",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-09",
       "type": "Debt Collections",
-      "city": "Kankakee, IL",
+      "city": "Glendale Heights, IL",
       "amt": 0,
-      "biz": "Santana",
-      "desc": "Call Sam inside this person said my Social Security number saying that I owe $10,000 they make a sale for 5000. I will have to go to court if I didn&rsquo;t pay and my driver license will be suspended."
+      "biz": "Document Recovery Services",
+      "desc": "They left me a voicemail stating they would deliver documents between 8 am and 4 pm, two attempts would be made at my home address and my work address. After that I would be listed as non compliant and then I would be listed for processing\nI made the mistake of calling back, then they refused to tell me what company they were and were belligerent and ended up hanging up on me.\nThey are using predatory practices to collect debts from debts which are not owed"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-11-09",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 153,
-      "biz": "Usvitalrecords.org",
-      "desc": "Spoof website looking like an official document page.  I wanted a birth certificate for my son and they charged me 10x the regular and never sent the certificate.  Scam"
+      "city": "Bristol, IL",
+      "amt": 1899,
+      "biz": "Aub Meryl kennel",
+      "desc": "Contacted on Facebook interested in a dog. Checked site on google said it was a registered site and was safe. I then gave multiple payments thru Zelle and Apple Pay was emailed detailed contract and as I gave the down payment I saw him change puppy from available to sold so it again seemed ok then made another payment for paperwork process and on contract stated an insurance deposit that was refundable upon accepting dog. Then on arrival to meeting spot to get dog seller then stated he emailed me an additional form requesting 2500 dollars to receive dog. I then knew id been had and there was no dog to buy. Seller then kept messaging me to say he&rsquo;s waiting for payment. The agreed price was 1500$"
     },
     {
-      "date": "2026-10-23",
-      "type": "Fake Invoice/Supplier Bill",
-      "city": "Urbana, IL",
-      "amt": 0,
-      "biz": "Relay Wire / Web Envy / Med Pulse Fake Invoice Phishing and Identity Theft Scam",
-      "desc": "I received an unsolicited fax from Med Pulse requesting payment for Secure Fax Routing &amp; Encryption and other services I did not sign up for. After reviewing this \"company\" I noted that this is a probable scam as I did not sign up for any of the listed services nor had I heard about this company previous to receiving the fax."
-    },
-    {
-      "date": "2026-10-22",
-      "type": "Advance Fee Loan",
+      "date": "2026-11-09",
+      "type": "Fake Check/Money Order",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Not",
-      "desc": "Since October 2025, I have received over 610 unsolicited prerecorded calls promoting supposed personal loans/debt relief. I have NEVER applied for a loan, answered these calls, returned a call, or consented to these solicitations. The callers continually rotate/spoof caller-ID numbers while directing recipients to recurring callback numbers using fictitious stories. Recent messages claim I have an existing &ldquo;file,&rdquo; that supervisors/underwriters have reviewed it, and, often lately, that numerous employees have repeatedly tried to reach me. This caller offered an unsolicited $60,000 unsecured personal loan, saying i was one of a very few who had been approved. Other recordings use similar fictitious personal stories and loan approvals. I have preserved numerous voicemails, screenshots, dates, caller-ID numbers and callback numbers and have reported this to the FTC numerous times. This appears to be a large-scale, persistent robocall campaign"
+      "biz": "Solaris Holdings",
+      "desc": "I received a $23.95 check (#105156, dated October 28, 2026) from Solaris Holdings. No explanation was given for issuing the check, and I have never done business with Solaris Holdings."
     },
     {
-      "date": "2026-10-22",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Structure construction/shopperstem",
-      "desc": "$26"
-    },
-    {
-      "date": "2026-10-22",
-      "type": "Retail Business",
-      "city": "Quincy, IL",
-      "amt": 3000,
-      "biz": "Gerardo Salazar",
-      "desc": "This person sold a vehicle and said that the engine/timing belt were replaced. Later it was discovered that the vehicle was sent to the scrapyard by the original owner and he then sold it without registering it under his name. No contact has been made to clarify this situation. The shop that was noted on the Carfax report as who changed the engine, said that they didn&rsquo;t do the work and the original owner said that it was sold to Tiger Auto Recycling/Tiger Cash For Junk. Contact with Gerardo Salazar and the junkyard have been unsuccessful. The vehicle now needs the engine fixed. There are others who have been scammed on Facebook Marketplace by the same person."
-    },
-    {
-      "date": "2026-10-22",
+      "date": "2026-11-09",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "AMBT American Support Assistance free Government phone",
-      "desc": "Just another business day searching the website and discovered this Government site were offer free wireless phone ,One completed one online forms and submit for processing.  Certain information were misleading the general public  you apply for free Government wireless phone and all their is a sim card. Sim card and wireless phone two different component or devices.  I can only suggest this website some kind of scam. Or false attained personal information fraudulent. I contact this website two three separate occasions for verification describe product offer from the Government website.  Search into suspicious website offer for legitimate business practice with general public. You advertise one product and deceit the applications with something else."
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Online Purchase",
-      "city": "Lansing, IL",
-      "amt": 67.48,
-      "biz": "—",
-      "desc": "Your package will never deliver and they won&rsquo;t respond to emails or any type of way to contact them"
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Phishing",
-      "city": "Buffalo Grove, IL",
-      "amt": 0,
-      "biz": "Chase Bank",
-      "desc": "I received 2 phones yesterday, 10/20/2026.  The first call came aat 1:07 pm informing me of Suspicious Bank Pending Transaction with Home Depot in Phoenix.  She claim to be calling from Chase Bank.  The 2nd call came at 2:09pm, same person.  She claimed the my Debit Card had in fact been compromised.  Did I want to get a replacement Debit Card sent regular mail or Expedited.  I said Expedited if there is no charge.  She agreed and proceeded to ask for my Password/ Bank Secret Code so she could process the Debit Card Replacement.  I said I NEVER GIVE out that information, especially over the phone.  I will go to the bank and request a Replacement Debit Card at the office!!  This ended any further discussion.  I contacted Chase to inform them of the Suspicious Bank Scam."
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Dekalb, IL",
-      "amt": 400000,
-      "biz": "—",
-      "desc": "She claims her name is Susan Smith and claims to be a Special Agent for the government. She says she hands out unclaimed lottery winnings as grants for a certain amount payments to her in Apple pay gift cards. Every time for her to pay up there a new excuse this has been going on for 10 months along with she tries to get you cash bad checks and  send the money before they bounce in the form of Apple pay gift cards. The only reason i fell for this scam was a high school i graduate with vouched for her."
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Phishing",
-      "city": "Edwardsville, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "I received the following text message on October 21, 2026\nFrom:\n(423)960-1949\nText Message Contents:\nWe are hosting a focus group for Illinois residents that pays 200 dollars.  Interested?  Fill out a qualifying survey here https://txtrq.co/xTgPal Thanks! to opt out reply remove2end\nRemove2End"
-    },
-    {
-      "date": "2026-10-21",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 250,
-      "biz": "Mariachi Flor de Primavera",
-      "desc": "I hired Mariachi Flor de Primavera for an event and sent the deposit as requested. Communication was going well through email, text messages, and phone calls&mdash;until the day of the event. Suddenly, they stopped responding and never showed up. Later, they sent me a message claiming there had been a scheduling mix-up and promised to refund my deposit. However, I never received my refund.\nTheir unprofessionalism and lack of communication completely ruined my event and caused unnecessary stress and disappointment."
+      "city": "Midlothian, IL",
+      "amt": 325,
+      "biz": "fangearest.shop",
+      "desc": "Placed order at fangearest.shop went through a valid shop app.  Received valid looking email with confirmation.  Was then given push back for delivery dates.  Tried calling bogus phone number.  Tried research and everything leaned toward scam.  Shipping company also a scam Slow Sheep GDE."
     }
   ]
 }
