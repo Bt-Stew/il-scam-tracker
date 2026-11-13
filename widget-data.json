@@ -6,6 +6,22 @@
   "reports": [
     {
       "date": "2026-11-12",
+      "type": "Online Purchase",
+      "city": "Plainfield, IL",
+      "amt": 189,
+      "biz": "Ownitbody",
+      "desc": "I brought 3 NFL jackets and never received them"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "Online Purchase",
+      "city": "Cicero, IL",
+      "amt": 449.91,
+      "biz": "www.mossbrady.com",
+      "desc": "I was checking my bank statement and found several fraudulent charges from a business called www.mossbrady.com. I had never heard of them, never ordered their services. I called and emailed them and never got any response. (I reported it to my bank and am getting a new debit card). I have no idea how they got my bank information, these were several recurring charges from them, each at $49.99 and totaling $499.91."
+    },
+    {
+      "date": "2026-11-12",
       "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
@@ -27,6 +43,14 @@
       "amt": 175,
       "biz": "Katherine's Knitwear",
       "desc": "I saw an ad for sweaters and signed up for email to get discount and then saw a charge on my card. I immediately reported it and sent several emails to the company to refund and cancel as there mist have been a mistake a purvhase was made in error as I was just looking for discount for future possible purchase but after researching the company appeared to be a scam. No money was returned and sweaters did not arrive nor was the email thread answered."
+    },
+    {
+      "date": "2026-11-11",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Rewards giant",
+      "desc": "I received an email from The entity inviting me to take a survey to win a $1000 Amazon card."
     },
     {
       "date": "2026-11-10",
@@ -62,27 +86,27 @@
     },
     {
       "date": "2026-11-10",
-      "type": "Other",
-      "city": "Keyesport, IL",
-      "amt": 57,
-      "biz": "Kennedy alfred",
-      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 38.37,
+      "biz": "Luytas LLC  Jinhoonal. JH",
+      "desc": "Ordered jogging suits that never arrived. Tra king says delivered"
     },
     {
       "date": "2026-11-10",
-      "type": "Phishing",
-      "city": "McHenry, IL",
-      "amt": 0,
-      "biz": "Lori Myers, business funding advisor.",
-      "desc": "Getting 10 calls a day from different phone numbers either telling me they want to lend me $$$ or to be tax relief for my tax debt. I'm retired 6 years"
-    },
-    {
-      "date": "2026-11-10",
-      "type": "Identity Theft",
-      "city": "Waukegan, IL",
-      "amt": 0,
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 56,
       "biz": "—",
-      "desc": "Call from Chicago, Il\n&ldquo;My name is Natalie Brookford document services. This call is intended for (                )For reference number 284-476* This is a formal notice regarding the noncompliance notice that is being filed against you. If you have not received the notice properly by mail, please call the litigation office immediately to request a copy to be sent out certified. Please note this complaint can before legally without your consent within one or two business days, please feel free to contact the office with any further questions at. 866 809-4504 Please consider yourself notified. Thank you&hellip;&rdquo;"
+      "desc": "There was an ad on Facebook for Chicago Bears cups, I ordered two of them I never received the cups."
+    },
+    {
+      "date": "2026-11-09",
+      "type": "Debt Collections",
+      "city": "Glendale Heights, IL",
+      "amt": 0,
+      "biz": "Document Recovery Services",
+      "desc": "They threatened me that they would send law enforcement to my home or work to collect a debt from 2011. Then when I told them it was a debt from 15 years ago, yelled at me that I was hiding behind the statute of limitations"
     },
     {
       "date": "2026-11-09",
@@ -99,30 +123,6 @@
       "amt": 0,
       "biz": "Document Recovery Services",
       "desc": "They left me a voicemail stating they would deliver documents between 8 am and 4 pm, two attempts would be made at my home address and my work address. After that I would be listed as non compliant and then I would be listed for processing\nI made the mistake of calling back, then they refused to tell me what company they were and were belligerent and ended up hanging up on me.\nThey are using predatory practices to collect debts from debts which are not owed"
-    },
-    {
-      "date": "2026-11-09",
-      "type": "Online Purchase",
-      "city": "Bristol, IL",
-      "amt": 1899,
-      "biz": "Aub Meryl kennel",
-      "desc": "Contacted on Facebook interested in a dog. Checked site on google said it was a registered site and was safe. I then gave multiple payments thru Zelle and Apple Pay was emailed detailed contract and as I gave the down payment I saw him change puppy from available to sold so it again seemed ok then made another payment for paperwork process and on contract stated an insurance deposit that was refundable upon accepting dog. Then on arrival to meeting spot to get dog seller then stated he emailed me an additional form requesting 2500 dollars to receive dog. I then knew id been had and there was no dog to buy. Seller then kept messaging me to say he&rsquo;s waiting for payment. The agreed price was 1500$"
-    },
-    {
-      "date": "2026-11-09",
-      "type": "Fake Check/Money Order",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Solaris Holdings",
-      "desc": "I received a $23.95 check (#105156, dated October 28, 2026) from Solaris Holdings. No explanation was given for issuing the check, and I have never done business with Solaris Holdings."
-    },
-    {
-      "date": "2026-11-09",
-      "type": "Online Purchase",
-      "city": "Midlothian, IL",
-      "amt": 325,
-      "biz": "fangearest.shop",
-      "desc": "Placed order at fangearest.shop went through a valid shop app.  Received valid looking email with confirmation.  Was then given push back for delivery dates.  Tried calling bogus phone number.  Tried research and everything leaned toward scam.  Shipping company also a scam Slow Sheep GDE."
     }
   ]
 }
