@@ -38,6 +38,30 @@
     },
     {
       "date": "2026-11-11",
+      "type": "Phishing",
+      "city": "Saint Charles, IL",
+      "amt": 0,
+      "biz": "State Location Services",
+      "desc": "Received call threatening complaint filed against me from Tyler Jones Sate Location Services in Dupage county, listed my age and full name.  threatened to contact employer which they named, and family, (and friends lol) and noted my home address, until they process and get me served.\nThis Slug also had a bit of a southern accent or twang to their voice, and spoke very quickly so much to the point where it was difficult to understand.\nI don&rsquo;t currently have any outstanding debts that I&rsquo;m aware of, or issues in Dupage county that would warrant receiving a call (that I&rsquo;m aware of).  Stay aware and don&rsquo;t answer the phone for anyone you don&rsquo;t know.\nThis sort of thing has been happening to me for years now either from robo callers or real people."
+    },
+    {
+      "date": "2026-11-11",
+      "type": "Employment",
+      "city": "Naperville, IL",
+      "amt": 0,
+      "biz": "Goodwill industries",
+      "desc": "This was a job posting on Next Door app for Data Entry remote job. The person who posted the job has an email address rita.goodwillapplication@pm.me and then when I sent an email to her, she said I needed to contact through teams the interview manager for this job.  The job interviewer name was Mrs. Heather Joseph Marie and she said the interview process was through text only on teams and I will get training on the phone through teams.  She asked for my name and location and just gave my name and city and state, then she asked more questions about the job, and when I asked her if I can contact somebody to make sure this is not a scam, she stopped texting."
+    },
+    {
+      "date": "2026-11-11",
+      "type": "Employment",
+      "city": "Island Lake, IL",
+      "amt": 0,
+      "biz": "GAS POS",
+      "desc": "The scammer sent a email stating I was being considered for and accounting operations specialist. Sent me a long list of questions and very next morning sent back saying they are offering my the job with the most generic offer letter. Phone number is not valid, and the company website is far to basic."
+    },
+    {
+      "date": "2026-11-11",
       "type": "Online Purchase",
       "city": "Charleston, IL",
       "amt": 175,
@@ -53,76 +77,52 @@
       "desc": "I received an email from The entity inviting me to take a survey to win a $1000 Amazon card."
     },
     {
-      "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Skokie, IL",
-      "amt": 130,
-      "biz": "Funny Fuzzy",
-      "desc": "Many order was placed on this websites by customers and myself included.  Many customers like myself haven't received their orders and been waiting for months after being promised too. There has been many reviews and complaints about the scam website trying to find answers and warn others from falling into their trap. The company gives us no updates and when a refund was requested, they don't reply back. When emailing the company they replied it's already processed. Tried emailing them again this week after 4 months of waiting and the email is now not working and bounced back. This website needs to be shutdown before more people are getting scammed for their money. Thank you."
+      "date": "2026-11-11",
+      "type": "Other",
+      "city": "Bloomingdale, IL",
+      "amt": 510.69,
+      "biz": "Door dash",
+      "desc": "The scammer presented himself as a door dash employee, telling me that i had a delivery that was purchased with a stolen debit card. He then asked me my name, phone number and email address. He used this information to transfer my money to a Crimson Card that was issued by starion bank and then to a lead bank prepaid account. I have notified door dash and they claim to be looking into it. I also talked with someone who represents Crimson cards and asked them to cancel the account. They said that this would take up to 60 days to complete the cancelation of the account. I am skeptical and would appreciate your help looking into the matter. Thank you"
     },
     {
       "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Keyesport, IL",
-      "amt": 57,
-      "biz": "Kennedy alfred",
-      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
-    },
-    {
-      "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Keyesport, IL",
-      "amt": 57,
-      "biz": "Kennedy alfred",
-      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
-    },
-    {
-      "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Keyesport, IL",
-      "amt": 57,
-      "biz": "Kennedy alfred",
-      "desc": "The shoes I received not the right size and color. I emailed them about it and they gave me 3 options  and I was not aware I was ordering something from china."
-    },
-    {
-      "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 38.37,
-      "biz": "Luytas LLC  Jinhoonal. JH",
-      "desc": "Ordered jogging suits that never arrived. Tra king says delivered"
-    },
-    {
-      "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 56,
+      "type": "Other",
+      "city": "Beardstown, IL",
+      "amt": 0,
       "biz": "—",
-      "desc": "There was an ad on Facebook for Chicago Bears cups, I ordered two of them I never received the cups."
+      "desc": "Received unsolicited mail (dog toys) and information on how to \"return/refund\". I did not order this and will not be contacting them for a \"return/refund\"."
     },
     {
-      "date": "2026-11-09",
-      "type": "Debt Collections",
-      "city": "Glendale Heights, IL",
-      "amt": 0,
-      "biz": "Document Recovery Services",
-      "desc": "They threatened me that they would send law enforcement to my home or work to collect a debt from 2011. Then when I told them it was a debt from 15 years ago, yelled at me that I was hiding behind the statute of limitations"
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 115.6,
+      "biz": "SILVERLINE FLOWERS",
+      "desc": "I google searched who delivers flowers in Rogers Park Chicago. I ordered a beautiful arrangement. I received a confirmation email from SIlverline Florists. My credit card was charged by a company with a different name than the website called \"Starluck Flowers\". The flowers were never delivered. I called Starluck Flowers to see where my order was and they informed me that they have no idea who Silverline Florists are. I found another number and spoke to someone from the Silverline website, she said my order was canceled and I received a refund and an email from Silverline. I have NOT received an email or a refund. This website is scamming people. I also checked out some other reviews and they all say the same thing. Kindly put this website out of business. Thank you!"
     },
     {
-      "date": "2026-11-09",
-      "type": "Home Improvement",
-      "city": "Plano, IL",
-      "amt": 3100,
-      "biz": "Garage Door Services",
-      "desc": "$25"
+      "date": "2026-11-10",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Hillsboro, IL",
+      "amt": 500,
+      "biz": "PCH",
+      "desc": "I received a call from Publisher's Clearinghouse from Patrick Butterfield, badge # ****** *******************************) that I had won their lottery, $4.5 million and a new Mercedes Benz.  Then he asked me to get the cash pack cards for $500 in order to register to get this and gave the names of Nancy White and Walter Williams.  They said they had to go to Bank of America in Springfield to get the money.  He wanted my bank information and I didn't give it to him.  We had been telling him it's a hoax.  I called BBB to report this to them and to warn others too."
     },
     {
-      "date": "2026-11-09",
-      "type": "Debt Collections",
-      "city": "Glendale Heights, IL",
-      "amt": 0,
-      "biz": "Document Recovery Services",
-      "desc": "They left me a voicemail stating they would deliver documents between 8 am and 4 pm, two attempts would be made at my home address and my work address. After that I would be listed as non compliant and then I would be listed for processing\nI made the mistake of calling back, then they refused to tell me what company they were and were belligerent and ended up hanging up on me.\nThey are using predatory practices to collect debts from debts which are not owed"
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Riverton, IL",
+      "amt": 200,
+      "biz": "GA",
+      "desc": "Evidently I placed annorder for ceylon cinnamon supplements on a website, and was secretly signed up for monthly subscription for the smount of $62.98 a month is being charged to my credit card.  I have emailed the company and requested cancellation but the subscription seems to be theougha 3rd. Party.  Im tryig to find a way to cancel it!  Beware!"
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Online Purchase",
+      "city": "Posen, IL",
+      "amt": 59.4,
+      "biz": "Jeroefsf",
+      "desc": "I purchased two jogging suites for a total price of $59.40. I order on 9-22-2026 and was advised via shop app order was delivered on 10-26-2026. I never received items. I have tried to reach out to this company but the email address provided does not work. How can I get my money back?"
     }
   ]
 }
