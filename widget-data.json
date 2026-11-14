@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-11-13",
+      "type": "Online Purchase",
+      "city": "Ava, IL",
+      "amt": 75,
+      "biz": "Luxe",
+      "desc": "Ordered never received product and they stole money from my checking account. Had to cancel my card."
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Online Purchase",
+      "city": "Clinton, IL",
+      "amt": 0,
+      "biz": "Dick's Sporting Goods Impostor",
+      "desc": "came upon a Dicks sporting goods sale event ,  so ordered three products , got email with order # but I didn't feel right about it after the fact so called Dicks Sporting Goods and found out it is a scam using their name !! so locked all my credit cards and contacted my bank , one charge for 35.99 for one coat was on my debit card charge posted yesterday , but when I looked at bank sight again tonight it was gone , not sure what is going on with that so sent text to bank stating what happened , so not sure if I lost money or not but other transaction was not on bank sight or on any of my credit cards so hope not out of my money !! learned my lesson for sure"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "Online Purchase",
+      "city": "Metropolis, IL",
+      "amt": 2910.18,
+      "biz": "Cloudgain",
+      "desc": "I entered a contract with Cloudgain for 1 year in October 2025. I would supposedly get numerous patient referrals. Did not get hardly any referrals, meaning not even enough to pay for the service. Then without any notification; Coudgain took $2910.18 out of my bank account. As soon as I noticed I called Cloudgain after searching for the number. Received a recording say they were away from their desk and would call back. Cloudgain (Shawn) called back and I told him I wanted my money returned period. I said there is nothing to discuss I do not want the service and I want my money back. The next day same thing except He would talk to the billing department. Over a week now no call back. I have called daily getting the same answering machine message they are away from my desk right now but will return your call. It is wrong to take money out of anyone's account without notifying them first. Shawn stated it is in the contract autorenewal. Even then I should have been notified 1st. This is just plain theft."
+    },
     {
       "date": "2026-11-12",
       "type": "Online Purchase",
@@ -11,6 +35,22 @@
       "amt": 189,
       "biz": "Ownitbody",
       "desc": "I brought 3 NFL jackets and never received them"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "Phishing",
+      "city": "Sparta, IL",
+      "amt": 0,
+      "biz": "Document delivery services",
+      "desc": "This is a courtesy notification that our office is calling on behalf of document delivery services. We have been retained to schedule and deliver documents to you between the hours of 8 a.m. and 4 PM at either your home or your place of employment. We'll be making only 2 attempts to deliver these documents, which will require a signature as proof of delivery. If we are unable to deliver these documents after 2 attempts, it will be classified as a failed action to deliver, which will result in a pending matter to proceed further without your consent. If you have any questions or if you need to reschedule this delivery, please call our office before the end of the day directly at 866-753-8281. Please be advised that this call has been logged as a proof you have been advised of this matter. Have a good day.&hellip;&rdquo;"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "Phishing",
+      "city": "Granite City, IL",
+      "amt": 0,
+      "biz": "Legal Department",
+      "desc": "I got a call from someone saying they were from a \"\"Legal Department\"\" (didn't give a agency or company name) And they had legal documents that needed deliver and wanted me to verify my address. (they had my correct address but I didn't verify it with them). I told her that this was a spam phone call and she told me they would use this recording in court and she hung up."
     },
     {
       "date": "2026-11-12",
@@ -30,6 +70,14 @@
     },
     {
       "date": "2026-11-11",
+      "type": "Family/Friend Emergency",
+      "city": "Paris, IL",
+      "amt": 700,
+      "biz": "Friend impostor",
+      "desc": "On July 31, 2026 I thought was helping a friend who asked for me to send the money thru ***** to a recruiter to process paperwork to be able to leave the military early.  Person tried to say the money was never received. Both my bank and ***** refuse to pay the money back. This money was my 401k loan and now I am paying for a loan on money that i did not receive. The person tried to say it was the money he deposited into my bank. Bank informed me they declined that transaction cause it was coming from out of state."
+    },
+    {
+      "date": "2026-11-11",
       "type": "Phishing",
       "city": "Alton, IL",
       "amt": 0,
@@ -37,92 +85,44 @@
       "desc": "this is your final call. This is HA Mediations, um, you will be receiving your notice today. They will be out to your residence. This is for final preparation for Madison County. Um, your case file is MQW 9608. Can you to update your address? Telephone number it's 346-362-1106. This is your final call. Good luck."
     },
     {
-      "date": "2026-11-11",
-      "type": "Phishing",
-      "city": "Saint Charles, IL",
-      "amt": 0,
-      "biz": "State Location Services",
-      "desc": "Received call threatening complaint filed against me from Tyler Jones Sate Location Services in Dupage county, listed my age and full name.  threatened to contact employer which they named, and family, (and friends lol) and noted my home address, until they process and get me served.\nThis Slug also had a bit of a southern accent or twang to their voice, and spoke very quickly so much to the point where it was difficult to understand.\nI don&rsquo;t currently have any outstanding debts that I&rsquo;m aware of, or issues in Dupage county that would warrant receiving a call (that I&rsquo;m aware of).  Stay aware and don&rsquo;t answer the phone for anyone you don&rsquo;t know.\nThis sort of thing has been happening to me for years now either from robo callers or real people."
-    },
-    {
-      "date": "2026-11-11",
-      "type": "Employment",
-      "city": "Naperville, IL",
-      "amt": 0,
-      "biz": "Goodwill industries",
-      "desc": "This was a job posting on Next Door app for Data Entry remote job. The person who posted the job has an email address rita.goodwillapplication@pm.me and then when I sent an email to her, she said I needed to contact through teams the interview manager for this job.  The job interviewer name was Mrs. Heather Joseph Marie and she said the interview process was through text only on teams and I will get training on the phone through teams.  She asked for my name and location and just gave my name and city and state, then she asked more questions about the job, and when I asked her if I can contact somebody to make sure this is not a scam, she stopped texting."
-    },
-    {
-      "date": "2026-11-11",
-      "type": "Employment",
-      "city": "Island Lake, IL",
-      "amt": 0,
-      "biz": "GAS POS",
-      "desc": "The scammer sent a email stating I was being considered for and accounting operations specialist. Sent me a long list of questions and very next morning sent back saying they are offering my the job with the most generic offer letter. Phone number is not valid, and the company website is far to basic."
-    },
-    {
-      "date": "2026-11-11",
-      "type": "Online Purchase",
-      "city": "Charleston, IL",
-      "amt": 175,
-      "biz": "Katherine's Knitwear",
-      "desc": "I saw an ad for sweaters and signed up for email to get discount and then saw a charge on my card. I immediately reported it and sent several emails to the company to refund and cancel as there mist have been a mistake a purvhase was made in error as I was just looking for discount for future possible purchase but after researching the company appeared to be a scam. No money was returned and sweaters did not arrive nor was the email thread answered."
-    },
-    {
-      "date": "2026-11-11",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Rewards giant",
-      "desc": "I received an email from The entity inviting me to take a survey to win a $1000 Amazon card."
-    },
-    {
-      "date": "2026-11-11",
-      "type": "Other",
-      "city": "Bloomingdale, IL",
-      "amt": 510.69,
-      "biz": "Door dash",
-      "desc": "The scammer presented himself as a door dash employee, telling me that i had a delivery that was purchased with a stolen debit card. He then asked me my name, phone number and email address. He used this information to transfer my money to a Crimson Card that was issued by starion bank and then to a lead bank prepaid account. I have notified door dash and they claim to be looking into it. I also talked with someone who represents Crimson cards and asked them to cancel the account. They said that this would take up to 60 days to complete the cancelation of the account. I am skeptical and would appreciate your help looking into the matter. Thank you"
-    },
-    {
       "date": "2026-11-10",
-      "type": "Other",
-      "city": "Beardstown, IL",
+      "type": "Identity Theft",
+      "city": "Waukegan, IL",
       "amt": 0,
       "biz": "—",
-      "desc": "Received unsolicited mail (dog toys) and information on how to \"return/refund\". I did not order this and will not be contacting them for a \"return/refund\"."
+      "desc": "Call from Chicago, Il\n&ldquo;My name is Natalie Brookford document services. This call is intended for (                )For reference number 284-476* This is a formal notice regarding the noncompliance notice that is being filed against you. If you have not received the notice properly by mail, please call the litigation office immediately to request a copy to be sent out certified. Please note this complaint can before legally without your consent within one or two business days, please feel free to contact the office with any further questions at. 866 809-4504 Please consider yourself notified. Thank you&hellip;&rdquo;"
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Phishing",
+      "city": "Plainfield, IL",
+      "amt": 0,
+      "biz": "Membersgain.com",
+      "desc": "The scammer wants you to call them to claim a prize reward. Giving you a toll free number to call 1-888-440-0867 and give a claim # PK98D64741\nThe scammer claims you have a 100.00 savings for Walmart and Target."
     },
     {
       "date": "2026-11-10",
       "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 115.6,
-      "biz": "SILVERLINE FLOWERS",
-      "desc": "I google searched who delivers flowers in Rogers Park Chicago. I ordered a beautiful arrangement. I received a confirmation email from SIlverline Florists. My credit card was charged by a company with a different name than the website called \"Starluck Flowers\". The flowers were never delivered. I called Starluck Flowers to see where my order was and they informed me that they have no idea who Silverline Florists are. I found another number and spoke to someone from the Silverline website, she said my order was canceled and I received a refund and an email from Silverline. I have NOT received an email or a refund. This website is scamming people. I also checked out some other reviews and they all say the same thing. Kindly put this website out of business. Thank you!"
-    },
-    {
-      "date": "2026-11-10",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Hillsboro, IL",
-      "amt": 500,
-      "biz": "PCH",
-      "desc": "I received a call from Publisher's Clearinghouse from Patrick Butterfield, badge # ****** *******************************) that I had won their lottery, $4.5 million and a new Mercedes Benz.  Then he asked me to get the cash pack cards for $500 in order to register to get this and gave the names of Nancy White and Walter Williams.  They said they had to go to Bank of America in Springfield to get the money.  He wanted my bank information and I didn't give it to him.  We had been telling him it's a hoax.  I called BBB to report this to them and to warn others too."
+      "city": "Freeport, IL",
+      "amt": 55.24,
+      "biz": "Lolli & Lace",
+      "desc": "I found a website PROMOTED BY GOOGLE! called Lolli &amp; Lace that had a costume my 6yo wanted for Halloween. They said 5 to 7 business days and I ordered on Oct 9th. By the 27th I emailed them to ask where my package was. I received a generic &ldquo;thanks for you order, it&rsquo;s on the way response&rdquo; to which I sent back demanding my items arrive within 48 hours or I would take action. The site has since been shut down and there is no way to contact them with many other consumers making the same claims. I&rsquo;ve contacted my bank to try to get a refund. But I also think that these sites should not be promoted by other companies if they have not done proper investigation into the legitimacy of the companies."
     },
     {
       "date": "2026-11-10",
       "type": "Online Purchase",
-      "city": "Riverton, IL",
-      "amt": 200,
-      "biz": "GA",
-      "desc": "Evidently I placed annorder for ceylon cinnamon supplements on a website, and was secretly signed up for monthly subscription for the smount of $62.98 a month is being charged to my credit card.  I have emailed the company and requested cancellation but the subscription seems to be theougha 3rd. Party.  Im tryig to find a way to cancel it!  Beware!"
+      "city": "Vernon Hills, IL",
+      "amt": 29,
+      "biz": "Aviroo Home",
+      "desc": "Ordered a pair of glasses and got automatically enrolled in a monthly discount program, but no details on what it is.  Cancelled through paypal and they are still taking it out of my debit card/bank account even after sending an email to cancel.  I received an email stating that the subscription was cancelled as it was under Nevo Brands.  Now they take it out of my account as Allevio"
     },
     {
       "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Posen, IL",
-      "amt": 59.4,
-      "biz": "Jeroefsf",
-      "desc": "I purchased two jogging suites for a total price of $59.40. I order on 9-22-2026 and was advised via shop app order was delivered on 10-26-2026. I never received items. I have tried to reach out to this company but the email address provided does not work. How can I get my money back?"
+      "type": "Phishing",
+      "city": "Streator, IL",
+      "amt": 0,
+      "biz": "5 Financial",
+      "desc": "He tried to tell me i was being offered a low intrest loan to help pay off debt"
     }
   ]
 }
