@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-11-17",
+      "type": "Other",
+      "city": "Elliott, IL",
+      "amt": 212,
+      "biz": "Moody Exposures Co.",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 58.18,
+      "biz": "Petal Wardrobe",
+      "desc": "The website uses bogus US physical address and is actually registered to China. They also use stolen images of models/products from actual legitimate stores (such as Retrofete), and are advertising items they do not have. A shipping label will be created, but the item will never ship. Customer service will run you in circles. They are also affiliated with wearforesthub.com so steer clear of that one too."
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "None provided",
+      "desc": "i bought a used car and now I'm receiving what look like solicitations in the mail for vehicle service contract activation"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Counterfeit Product",
+      "city": "Moro, IL",
+      "amt": 246,
+      "biz": "Auntie Rue",
+      "desc": "Auntie Rue marketing claims to sell genuine titanium cutting boards appearing to be approximately 1/4 of an inch thick in the advertisements. The products received are a thickness of .035 inches composed of an unknown alloy of stainless steel. This was personally verified by me through the use of XRF elemental composition technology. The seller maintains marketing that denigrates other sellers of the very cheap knock offs that they delivered to me. The seller then denies the reality of all evidence that I have presented to them through technological means and physical analyzation that is passed to them via emails by me. It is obvious that the only contact to the company is an AI entity posing as a first name of (Sarah)"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Phishing",
+      "city": "Melrose Park, IL",
+      "amt": 0,
+      "biz": "Imperial",
+      "desc": "Imperial left voice mail: This is Imperial contacting you with an important business matter. Press 1 to be connected or dial 855-762-5665. This message is intended for name withheld."
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Online Purchase",
+      "city": "Buffalo Grove, IL",
+      "amt": 4275,
+      "biz": "Aquadreamusa",
+      "desc": "I bought a Fish tank and Stand combo. I received the product and set it up. As soon as I filled it with water it leaked and poured all over my homes floor.  I contacted the company to allow me to pay and send it back to them and asked many times for the return shipping address they completely ignored my request to do so. Finally I got a response that quoted if you where to return it to us we we gladly refund you $6.00.!!!!!"
+    },
     {
       "date": "2026-11-16",
       "type": "Online Purchase",
@@ -11,6 +59,14 @@
       "amt": 135,
       "biz": "Daily dose",
       "desc": "Subscription service that I canceled and they still charged me and I cannot get into contact with anybody."
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Online Purchase",
+      "city": "Decatur, IL",
+      "amt": 9.98,
+      "biz": "Zentrovio",
+      "desc": "The sale ended up going thru a platform called SHOP where they tell you your order shipped and use some company called 17TRACK which i have had problems with before - even though this company is in Canada - they show it shipped from China and eventually show it delivered to my employer which NEVER happened and they have never ever answered not one of my 25 or so emails and the phone number does not work and the platform that takes the order says they cannot control what the seller does !  It is not alot of money but it is the principle and i am a senior citizen so to me $10 is alot of money and could have bought a different gift.  They do not even answer messages through their facebook site so they are just a fake storefront taking money."
     },
     {
       "date": "2026-11-16",
@@ -29,100 +85,44 @@
       "desc": "I placed a order, i never received a order number only a receipt of my payment, no info on the company it just said i made a payment through Rdl bath and body works. I just checked my email the order was placed last night using my cash app card. Im not sure if im gonna get my money back, I went to my bbw app and it had no info on the order i had placed. So please beware go to the direct website and not a link from facebook or orher social media"
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-13",
       "type": "Online Purchase",
-      "city": "Winnetka, IL",
-      "amt": 3000,
-      "biz": "—",
-      "desc": "This website is a fraud that impersonates a real company. The name is in the website url: bluebottescoffee.com instead of bluebottlecoffee.com.\nI tried to purchase a product and the transaction kept bouncing back, but they received my credit card information. I was then scammed $3000 from that credit card."
+      "city": "IL",
+      "amt": 57,
+      "biz": "Delarira",
+      "desc": "Saw an advertisement on line and ordered clothing items.  Eventually received a delivery tracking number.  When it said that it had been delivered didn't see anything.  Reached out on the inquiries@delarira.com address and spoke with someone who said they would resend the items once everything was reprocessed.  Nothing has happened since.  Just sent them an email today asking for a status update and am realizing now that I must have been scammed."
     },
     {
-      "date": "2026-11-15",
-      "type": "Fake Check/Money Order",
-      "city": "Joliet, IL",
-      "amt": 0,
-      "biz": "Express capital",
-      "desc": "Sent and looks genuine real check to exchange for money for $73,500.00 and may be up to $350,000 once you call to number shown or webpage shown on letter and has activation code T26-249281"
-    },
-    {
-      "date": "2026-11-15",
-      "type": "Charity",
-      "city": "Chicago, IL",
-      "amt": 2000,
-      "biz": "PP Victims Assistance Program",
-      "desc": "I was walking out of Walgreens and was approached by two men allegedly raising money for a suicide victim's assistance charity. There are often people fundraising in our neighborhood. They told me that the money was to help pay for the funeral of the younger man's brother. I said I'd donate $15. The younger man told me he had to log into an IL state portal on my phone to show me something and the other one took my Discover card first and charged it twice for $500, but told me it didn't go through, and then asked me for my other card, which he then charged four times for $500. I have disputed these charges with the bank. I think that the younger one wanted my phone to try to authorize the charges/make sure they went through."
-    },
-    {
-      "date": "2026-11-15",
-      "type": "Online Purchase",
-      "city": "Glen Carbon, IL",
-      "amt": 0,
-      "biz": "M & G Mini Doxies",
-      "desc": "Was looking to find dachshund puppy that they would deliver to me. I didn&rsquo;t trust to send money through Chime or other sites. Told them I was willing to drive to their location and pay cash in full the very next day. They still demanded a deposit to hold puppy. They would not tell me location or avoided the subject of where they are located."
-    },
-    {
-      "date": "2026-11-15",
-      "type": "Romance",
-      "city": "Chicago, IL",
-      "amt": 300,
-      "biz": "Instantalks",
-      "desc": "Thought I had a real connection with a man, who was supposed to meet after a certain amount of time spent getting to know each other an kept saying he wasn&rsquo;t ready yet an lost tens of thousands of dollars hoping this man would make plans for us to be together an still never met him, he said everything I wanted to hear that&rsquo;s how he kept me coming back an with photos an voice messages that was all prerecorded an more lies to follow they get you to open up to them an use all of it against you, an continue with more lies, I fell hard for this man an lost over 30,000 trying to be with someone who probably doesn&rsquo;t even exist"
-    },
-    {
-      "date": "2026-11-15",
-      "type": "Online Purchase",
-      "city": "Glendale Heights, IL",
-      "amt": 30,
-      "biz": "Ai Food Group Net",
-      "desc": "I bought ear plugs that were no longer sold in the US and they claimed they had it. I never received an order confirmation that my order was placed. It&rsquo;s been over two weeks since I placed the order and not a peep from them since. I&rsquo;m filing a claim with my bank to have this matter taken care of"
-    },
-    {
-      "date": "2026-11-14",
-      "type": "Online Purchase",
-      "city": "Fox Lake, IL",
-      "amt": 78,
-      "biz": "Nuora",
-      "desc": "Dont purchase from nuora. They are very deceitful. You make a purchase, they enroll you in a subscription. Website is very misleading. Product is garbage, they run subscriptions after midnight, so by time you notice youve had an order placed you did not authorize it is too late to stop it."
-    },
-    {
-      "date": "2026-11-12",
-      "type": "Phishing",
-      "city": "Lemont, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "I recieved a text message from (717) 930-4755 saying: \"Your health policy has an unresolved past-due balance. Failure to resolve this will result in termination and loss of benefits. Call 888-756-1846 immediately.\" I'm currently on Medicaid and don't have any past-due balance, but I decided to call the number to get to the bottom of this. After waiting a few seconds, I was connected with an individual on the other line asking me why I was calling. I told them my name and explained the text message, and said that I had no past-due balance. The individual then asked if I had a health policy through an employer or a personal plan. I proceeded to say that I was on Medicaid (I didn't say my plan or any sensitive information, just that I was on Medicaid). Immediately after I mentioned Medicaid, they abruptly hung up."
-    },
-    {
-      "date": "2026-11-12",
-      "type": "Online Purchase",
-      "city": "Metropolis, IL",
-      "amt": 2910.18,
-      "biz": "Cloudgain",
-      "desc": "I entered a contract with Cloudgain for 1 year in October 2025. I would supposedly get numerous patient referrals. Did not get hardly any referrals, meaning not even enough to pay for the service. Then without any notification; Coudgain took $2910.18 out of my bank account. As soon as I noticed I called Cloudgain after searching for the number. Received a recording say they were away from their desk and would call back. Cloudgain (Shawn) called back and I told him I wanted my money returned period. I said there is nothing to discuss I do not want the service and I want my money back. The next day same thing except He would talk to the billing department. Over a week now no call back. I have called daily getting the same answering machine message they are away from my desk right now but will return your call. It is wrong to take money out of anyone's account without notifying them first. Shawn stated it is in the contract autorenewal. Even then I should have been notified 1st. This is just plain theft."
-    },
-    {
-      "date": "2026-11-12",
-      "type": "Online Purchase",
-      "city": "Plainfield, IL",
-      "amt": 189,
-      "biz": "Ownitbody",
-      "desc": "I brought 3 NFL jackets and never received them"
-    },
-    {
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "type": "Counterfeit Product",
-      "city": "Lake Zurich, IL",
-      "amt": 121.41,
-      "biz": "support@themarlowefamilypalmbeach.com",
-      "desc": "Advertising as a local cmpany while shipments came from China, and despite 30 days money back guarantee advertised online, does everything not to refund: 1. requires an emal , then tried to offer only 15% refund, then advised that all returns must be made at my own expense to China address, and she does not take any responsibility if reurn is lost. Moreover, provided specific instructions on return value to state not more than 25$ otherwise shipments will be rejeted without refund. I advised its illegal and I must put exact value I paid for this but i was  made clear o me that chances of getting refund are very low. I searched online, and foud out numerous people have been thru same, as they got cheap items of poor quality and nothing close to vivid pictures advertised online."
+      "city": "Granite City, IL",
+      "amt": 154.78,
+      "biz": "Reborn Dolls Shop",
+      "desc": "Ordered a reborn doll from reborndollsshop.com. Received a plastic baby doll that looks nothing like what was advertised. The baby came in a box from babeside.com, even though I ordered through reborndollsshop.com. Contacted both businesses. Babeside responded, but reborndollsshop has not. Attempted to use their live chat feature, but it is never working. Very frustrating to spend so much money only to receive a cheap doll that I could have bought at a local store."
     },
     {
-      "date": "2026-11-12",
-      "type": "Phishing",
-      "city": "Sparta, IL",
-      "amt": 0,
-      "biz": "Document delivery services",
-      "desc": "This is a courtesy notification that our office is calling on behalf of document delivery services. We have been retained to schedule and deliver documents to you between the hours of 8 a.m. and 4 PM at either your home or your place of employment. We'll be making only 2 attempts to deliver these documents, which will require a signature as proof of delivery. If we are unable to deliver these documents after 2 attempts, it will be classified as a failed action to deliver, which will result in a pending matter to proceed further without your consent. If you have any questions or if you need to reschedule this delivery, please call our office before the end of the day directly at 866-753-8281. Please be advised that this call has been logged as a proof you have been advised of this matter. Have a good day.&hellip;&rdquo;"
+      "date": "2026-11-13",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 398,
+      "biz": "Cardio Flush",
+      "desc": "I purchased the items in July they refunded my money. Then They tried to debit my card November 13, and the bank declined. They called me said I had a subscription, I didn&rsquo;t, said I owed 200. I said no I don&rsquo;t have a subscription then they said they would keep billing me monthly. They would not cancel unless I paid 143.00. My bank advised me to settle. So I said ok. Gave them my card info he said wait. Then came back and said everything processed and my subscription was cancelled.\nI asked for confirmation of the debit. 383.00! I said I did not agree to that amount. I called my bank and they said it&rsquo;s not fraud because you agreed to 143 dollars. I said, yeah, but they charged me $383. How is that not fraud. So now I have to wait until it posts to my account and then dispute the charge. Save yourself the aggravation. do not buy cardio flush under any circumstances. The product is garbage and the customer service is a scam."
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Counterfeit Product",
+      "city": "Sycamore, IL",
+      "amt": 327.95,
+      "biz": "Parker & Stone",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Counterfeit Product",
+      "city": "Naperville, IL",
+      "amt": 103.42,
+      "biz": "Brooks & Bennett Newport",
+      "desc": "Placed an order and almost immediately (within 15 mins.) I realized the site was questionable because of lack of readable reviews and no serviceable phone number for customer service, only a email listed. I emailed them and requested the order be cancelled, multiple times. I got one AI generated response which promised someone would contact me with 48 hrs. No acknowledgment of cancellation. Shortly thereafter, around 15 mins, a email came saying the order was shipped. I have since seen a lot of information on line that leads me to believe this company is ripping people off and should be shut down."
     }
   ]
 }
