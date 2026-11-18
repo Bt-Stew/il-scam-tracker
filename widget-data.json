@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-18",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-11-18",
+      "type": "Online Purchase",
+      "city": "Caseyville, IL",
+      "amt": 108,
+      "biz": "Instant Hydration",
+      "desc": "Instant Hydration offered a deal where you would receive a discounted rate on their product when you sign up for a subscription that you can &ldquo;cancel anytime&rdquo;   However their website has no cancellation process and uses a &ldquo;cancel&rdquo; button in a  deceptive way.  There is no reminder before you are billed for your next subscription shipment. Then, if you sign on your account and select cancel under manage subscription, it takes you only to a page to delay your subscription shipment. If you select &ldquo;cancel&rdquo; on that screen, it only &ldquo;cancels&rdquo; the process of delaying your shipment and takes you back to the menu- it does not cancel your subscription."
+    },
+    {
+      "date": "2026-11-17",
+      "type": "Online Purchase",
+      "city": "Edwardsville, IL",
+      "amt": 29.99,
+      "biz": "Pomence",
+      "desc": "I bought 2 hats from this company a month ago. Product has still not shipped. Now my credit card was just charged $29.99 by this company. They are claiming that I knew I was being enrolled in a membership, which is not the case whatsoever. I have requested a refund of this charge, and after several emails back and forth, with automated responses, I was offered a 10% refund. This is not acceptable, and I have disputed this charge with my credit card company."
+    },
     {
       "date": "2026-11-17",
       "type": "Online Purchase",
@@ -14,11 +30,35 @@
     },
     {
       "date": "2026-11-17",
+      "type": "Identity Theft",
+      "city": "Metropolis, IL",
+      "amt": 0,
+      "biz": "St. Louis homeless hotline",
+      "desc": "They said they were homeless helpline phone number reference from shelter 618-4827330 they said they would need the helpline to refer people for assistance to be put on list I called gave them my information but as soon as I gave my social security number they hung up the phone"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "Retail Business",
+      "city": "Mattoon, IL",
+      "amt": 700,
+      "biz": "Whisker Way Logistics",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "Debt Collections",
+      "city": "Hillsboro, IL",
+      "amt": 0,
+      "biz": "None",
+      "desc": "The number showed up at 1111 while I was on an important phone call so I sent it to voicemail, voicemail has the number as withheld, and this is the voicemail &ldquo; File documentation in your case our department has made several attempts to get in contact with you via mail and also phone calls both of which were unsuccessful our client has flagged you as evasive and noncompliant in order to avoid further penalty please contact us immediately at 409-761-7631 again you can press one now to be transferred to a live agent or call us back at 409-761-7631 thank you and good luck&rdquo;"
+    },
+    {
+      "date": "2026-11-17",
       "type": "Other",
       "city": "Elliott, IL",
       "amt": 212,
       "biz": "Moody Exposures Co.",
-      "desc": "$25"
+      "desc": "$26"
     },
     {
       "date": "2026-11-17",
@@ -45,84 +85,44 @@
       "desc": "Show the product that wasn&rsquo;t near the quality that was received"
     },
     {
-      "date": "2026-11-16",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "None provided",
-      "desc": "i bought a used car and now I'm receiving what look like solicitations in the mail for vehicle service contract activation"
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Counterfeit Product",
-      "city": "Moro, IL",
-      "amt": 246,
-      "biz": "Auntie Rue",
-      "desc": "Auntie Rue marketing claims to sell genuine titanium cutting boards appearing to be approximately 1/4 of an inch thick in the advertisements. The products received are a thickness of .035 inches composed of an unknown alloy of stainless steel. This was personally verified by me through the use of XRF elemental composition technology. The seller maintains marketing that denigrates other sellers of the very cheap knock offs that they delivered to me. The seller then denies the reality of all evidence that I have presented to them through technological means and physical analyzation that is passed to them via emails by me. It is obvious that the only contact to the company is an AI entity posing as a first name of (Sarah)"
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Phishing",
-      "city": "Melrose Park, IL",
-      "amt": 0,
-      "biz": "Imperial",
-      "desc": "Imperial left voice mail: This is Imperial contacting you with an important business matter. Press 1 to be connected or dial 855-762-5665. This message is intended for name withheld."
-    },
-    {
-      "date": "2026-11-16",
+      "date": "2026-11-15",
       "type": "Online Purchase",
-      "city": "Buffalo Grove, IL",
-      "amt": 4275,
-      "biz": "Aquadreamusa",
-      "desc": "I bought a Fish tank and Stand combo. I received the product and set it up. As soon as I filled it with water it leaked and poured all over my homes floor.  I contacted the company to allow me to pay and send it back to them and asked many times for the return shipping address they completely ignored my request to do so. Finally I got a response that quoted if you where to return it to us we we gladly refund you $6.00.!!!!!"
+      "city": "Glendale Heights, IL",
+      "amt": 30,
+      "biz": "Ai Food Group Net",
+      "desc": "I bought ear plugs that were no longer sold in the US and they claimed they had it. I never received an order confirmation that my order was placed. It&rsquo;s been over two weeks since I placed the order and not a peep from them since. I&rsquo;m filing a claim with my bank to have this matter taken care of"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-14",
       "type": "Online Purchase",
-      "city": "Saint Joseph, IL",
-      "amt": 135,
-      "biz": "Daily dose",
-      "desc": "Subscription service that I canceled and they still charged me and I cannot get into contact with anybody."
+      "city": "Fox Lake, IL",
+      "amt": 78,
+      "biz": "Nuora",
+      "desc": "Dont purchase from nuora. They are very deceitful. You make a purchase, they enroll you in a subscription. Website is very misleading. Product is garbage, they run subscriptions after midnight, so by time you notice youve had an order placed you did not authorize it is too late to stop it."
     },
     {
       "date": "2026-11-14",
       "type": "Counterfeit Product",
-      "city": "Matteson, IL",
-      "amt": 27.56,
-      "biz": "Horelli or Rozell",
-      "desc": "Facebook advertiser showed pictures of lighted christmas greens in a planter. I received 6 individual stems of extremely liw quality and one string of tiny lights and no planter whatsoever."
+      "city": "Palatine, IL",
+      "amt": 159.98,
+      "biz": "The Norvale Club / Yiwu Cujia Trade Co. Ltd",
+      "desc": "The Norvale Club presents online as a clothing company. After placing an order, the company ships low quality or completely different merchandise to customers from China. After contacting the The Norvale Club with this issues, they tell customers to ship the merchandise back to China to before a refund can potentially be processed. In addition they tell customers to keep the defective products and get a 5% refund.\nThe company understands that returning products to China is very expensive, so they expect customers to keep the lower quality good than what they paid for.\nThis company is a scam and should not be allowed to operate in this manner."
     },
     {
       "date": "2026-11-14",
       "type": "Phishing",
-      "city": "O Fallon, IL",
-      "amt": 5000,
-      "biz": "Gloria walker",
-      "desc": "Received a cell\nPhone fro a Gloria walker. She said that I issue 2 checks to www.betone.net. She can helped me resolved this scam.  She&rsquo;ll contact us treasury SS FEC BBB and offer agencies.  She got me convinced to purchased gift cards @ kohls for $1000.00.  She kept on saying to kept thus confidential.  She also instructed me to purchases gift cards at Lowe&rsquo;s and Home Depot totaling @$4000. Using my Capitol One card.  She further instructed me provide gift card numbers and PIN numbers.  I reported this scam this scam to Capitol one to Capitol one Friday night.  And am going to my bank first thing sat morning.   bank"
+      "city": "Charleston, IL",
+      "amt": 166,
+      "biz": "U.S.Travel Passports",
+      "desc": "I searched for passport renewal online and believed I was on the Dept of State website. It was the first search result that came up.\nI put in SSN, address and old passport # for both my husband and I. We paid $296 each. A few days later, my husband received an envelope in the mail with a filled out DS-82 with his information and the photo we submitted online, along with a check for $130 made out to the Dept of State so that he can sign and submit the application. This is how we figured out the scam.\nSeveral days later and I have not received anything for my application."
     },
     {
       "date": "2026-11-14",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 300,
-      "biz": "Thin Box Solutions LLC",
-      "desc": "Bogus number listed when i googled All State insurance customer service at 866-217-7138"
-    },
-    {
-      "date": "2026-11-13",
       "type": "Online Purchase",
-      "city": "IL",
-      "amt": 57,
-      "biz": "Delarira",
-      "desc": "Saw an advertisement on line and ordered clothing items.  Eventually received a delivery tracking number.  When it said that it had been delivered didn't see anything.  Reached out on the inquiries@delarira.com address and spoke with someone who said they would resend the items once everything was reprocessed.  Nothing has happened since.  Just sent them an email today asking for a status update and am realizing now that I must have been scammed."
-    },
-    {
-      "date": "2026-11-13",
-      "type": "Counterfeit Product",
-      "city": "Granite City, IL",
-      "amt": 154.78,
-      "biz": "Reborn Dolls Shop",
-      "desc": "Ordered a reborn doll from reborndollsshop.com. Received a plastic baby doll that looks nothing like what was advertised. The baby came in a box from babeside.com, even though I ordered through reborndollsshop.com. Contacted both businesses. Babeside responded, but reborndollsshop has not. Attempted to use their live chat feature, but it is never working. Very frustrating to spend so much money only to receive a cheap doll that I could have bought at a local store."
+      "city": "Winfield, IL",
+      "amt": 51.68,
+      "biz": "Star drive Trading Co. 124 W. Dakota Ave. Suite1 Pierre, SD 57501",
+      "desc": "Saw an ad on Instagram for hair loss. Decided To purchase this Onion Shampoo from the website Vibeourplus. I used the Shop App and recieved 10 dollars off. Ordered on 10/`14/2026. Product was supposed to arrive in 10/27/2026. Did some investigating to see if there was bad reviews about this co. Only to find out product was coming from China, when i thought it was made here. Contacted them 12 times with no response. Finally got a package on 11/9/2026 with 2 onion conditioners that were 3.38oz, when i was supposed to get a 10 oz shampoo and a 10oz.conditiioner. I wrote them and asked if these were just samples, but no response. I asked for my money back or at the very least some of it, but no response. DO NOT BUY FROM These people BIG SCAM!!"
     }
   ]
 }
