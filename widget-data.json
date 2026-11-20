@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-20",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-11-20",
+      "type": "Phishing",
+      "city": "Fairfield, IL",
+      "amt": 0,
+      "biz": "PLS SUBCONTRACTED BY COUNTY",
+      "desc": "Received phone call"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "IDT TPV",
+      "desc": "A person named Raven Sully 213-524-4472 rang the apartment doorbell and represented to check in to ensure we were enrolled in the green program and that com-ed sent emails about it and asked to see our electric bill. After showing them the bill, they said we needed to sign up for the Going Green program and my partner sign papers then their representative called my partners cell to &ldquo;complete the process&rdquo; and asked if the representatives came into the building, asked for personal information and the address."
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "IllinoisFiling",
+      "desc": "sent an email saying my LLC was overdue for filing the annual report."
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Online Purchase",
+      "city": "Winnetka, IL",
+      "amt": 200,
+      "biz": "Lilysetter",
+      "desc": "I bought the product online in September and now it is November and I have received no emails back or the product"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Credit Cards",
+      "city": "Round Lake, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "An AI left a voice mail by the name of Jessica.\n&ldquo;Hi, this is Jessica with the activation department. I'm just following up because I saw your information come through and wanted to touch base regarding the vehicle. I had a chance to look over a few things and there may be an option here that I think you'll want to at least hear about. Give us a call whenever it's convenient at 888-509-7969 again 888-509-7969. But yeah, I think this could really help with one of those unexpected repairs that nobody wants to have to deal with. It seems like it could be a good fit. And if you prefer to opt out or no longer be contacted, that's fine too. Just let us know when you call us back. I hope you have a great rest of your day.&hellip;&rdquo;"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Retail Business",
+      "city": "Joliet, IL",
+      "amt": 316.4,
+      "biz": "Savvy Shelf Mart",
+      "desc": "I was trying to purchase 4 Goodyear tires when I came across this website on Google. I saw they had a really good price on those tires, so I proceeded to buy them. At checkout, I entered my debit card information and pressed continue. Then a spinning circle with the word \" processing \" in it appeared. My bank sent me a code needed to go on with the purchase. At that point, I started becoming suspicious, so I checked my bank's website. To my unpleasant surprise, I saw an unauthorized transaction of $316.40 for JetBlue Airlines flight tickets. I called the bank right away to file a fraud dispute. The agent told me that I had to wait until the transaction posted so I could file a dispute. I called back on Monday the following week to file the dispute since the transaction had already been posted and my money had been taken for good. Unfortunately, and despite the irrefutable evidence of a scam, the bank hasn't credited that money back into my account. I have also file a report with the Joliet Police Department."
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Counterfeit Product",
+      "city": "Hoffman Estates, IL",
+      "amt": 45.17,
+      "biz": "Valors.ca",
+      "desc": "I received an inaccurate item. It was supposed to be a hockey themed projector. The item is absolutely not the item I ordered. It is a cheap snowflake projector. They are not helping in the return process and blaming their supplier while not offering a refund or ability to return the incorrect item. This is obviously a scam for money."
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Counterfeit Product",
+      "city": "Grayslake, IL",
+      "amt": 0,
+      "biz": "Jada-Rose",
+      "desc": "The sold Ugg boots and showed they were Uggs and showed the tag, when it came it was not Uggs"
+    },
     {
       "date": "2026-11-19",
       "type": "Online Purchase",
@@ -13,44 +77,12 @@
       "desc": "I signed up for what I believed to be a free trial on a resume site through ChatGPT. I had attempted to cancel 3 times on my mobile device after I realized it wasnt quite what I was looking for and 7 days later the payment was drafted from my account. I initially was confused because I had cancelled. So I got on my phone to make sure and it hadnt cancelled. So I attempted again. It is discovered you cannot cancel on your mobile device which is not disclosed anywhere on the site or terms and policies. I logged onto my desktop to cancel and was able to do so that way. When I emailed explaining I had proof that I could not cancel on my mobile device although I was told it was cancelled I just requested my refund, They refused. When I told them I had time stamps proving this and that I would be reporting them for deceptive practices, they did not respond."
     },
     {
-      "date": "2026-11-18",
-      "type": "Other",
-      "city": "Canton, IL",
-      "amt": 90,
-      "biz": "Mensorium",
-      "desc": "They will not allow you to actually cancel and continue doing a monthly charge and telling you it&rsquo;s because you didn&rsquo;t cancel no matter how many times you complain about it"
-    },
-    {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "type": "Employment",
-      "city": "Granite City, IL",
+      "city": "Campus, IL",
       "amt": 0,
-      "biz": "Pacific Southwest management group llc",
-      "desc": "I was sent a check to deposit in my account and was told to use it to pay an artist for a car wrap"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Other",
-      "city": "Auburn, IL",
-      "amt": 1500,
-      "biz": "TRACK FAST",
-      "desc": "Contacted me by email  for a past due bill.  I made payments thru paypal. Last May I requested the balance- $650. I used my partner's card. Received message I still owed $650. ON APRIL 22, 2026 PAID ANOTHER $650 WITH MY CREDIT CARD.  THEY ARE CONTACTING ME AGAIN STILL OWE MONEY!!"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Other",
-      "city": "Rock Island, IL",
-      "amt": 146,
-      "biz": "Enclave Emma",
-      "desc": "I ordered 2 items and they sent 5 and charged me an extra 146 dollars i tried to call but they only offer email the number shows Florida so i e.ailed and asked how do i return and get a refund they had me take steps and then they still havnt given me address to send back i have been going back and fourt today i reached out to my bank and put a claim in"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Online Purchase",
-      "city": "Tremont, IL",
-      "amt": 30,
-      "biz": "Goda Perfume",
-      "desc": "$11"
+      "biz": "Endless Freight",
+      "desc": "I received a phone call with a work from home job offer from Endless Freight. I was supposed to receive packages that were forwarded to me, take photos of the product, and re package and mail it back out. I fell for it pretty hard and wound up receiving cheap earrings with a bad fake Tiffany receipt with spelling errors. The dashboard they had me use was poorly made and clunky, and had a lot of \"incentive\" kinds of gimmicks including your salary on the home page (4,300 a month )"
     },
     {
       "date": "2026-11-18",
@@ -78,51 +110,19 @@
     },
     {
       "date": "2026-11-18",
+      "type": "Phishing",
+      "city": "Westmont, IL",
+      "amt": 0,
+      "biz": "Home Warranty",
+      "desc": "Called to have taken off the list. Finally spoke to a person who put me on hold. The person they are mailing is deceased."
+    },
+    {
+      "date": "2026-11-18",
       "type": "Online Purchase",
       "city": "Caseyville, IL",
       "amt": 108,
       "biz": "Instant Hydration",
       "desc": "Instant Hydration offered a deal where you would receive a discounted rate on their product when you sign up for a subscription that you can &ldquo;cancel anytime&rdquo;   However their website has no cancellation process and uses a &ldquo;cancel&rdquo; button in a  deceptive way.  There is no reminder before you are billed for your next subscription shipment. Then, if you sign on your account and select cancel under manage subscription, it takes you only to a page to delay your subscription shipment. If you select &ldquo;cancel&rdquo; on that screen, it only &ldquo;cancels&rdquo; the process of delaying your shipment and takes you back to the menu- it does not cancel your subscription."
-    },
-    {
-      "date": "2026-11-17",
-      "type": "Counterfeit Product",
-      "city": "Peoria, IL",
-      "amt": 48.27,
-      "biz": "Booneb",
-      "desc": "Show the product that wasn&rsquo;t near the quality that was received"
-    },
-    {
-      "date": "2026-11-17",
-      "type": "Online Purchase",
-      "city": "Belleville, IL",
-      "amt": 99.99,
-      "biz": "GAMELAB",
-      "desc": "Sell a product and never sent it. And they don&rsquo;t respond to customer service inquiries."
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "None provided",
-      "desc": "i bought a used car and now I'm receiving what look like solicitations in the mail for vehicle service contract activation"
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Counterfeit Product",
-      "city": "Moro, IL",
-      "amt": 246,
-      "biz": "Auntie Rue",
-      "desc": "Auntie Rue marketing claims to sell genuine titanium cutting boards appearing to be approximately 1/4 of an inch thick in the advertisements. The products received are a thickness of .035 inches composed of an unknown alloy of stainless steel. This was personally verified by me through the use of XRF elemental composition technology. The seller maintains marketing that denigrates other sellers of the very cheap knock offs that they delivered to me. The seller then denies the reality of all evidence that I have presented to them through technological means and physical analyzation that is passed to them via emails by me. It is obvious that the only contact to the company is an AI entity posing as a first name of (Sarah)"
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Phishing",
-      "city": "Melrose Park, IL",
-      "amt": 0,
-      "biz": "Imperial",
-      "desc": "Imperial left voice mail: This is Imperial contacting you with an important business matter. Press 1 to be connected or dial 855-762-5665. This message is intended for name withheld."
     }
   ]
 }
