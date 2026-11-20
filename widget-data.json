@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-11-19",
+      "type": "Online Purchase",
+      "city": "Versailles, IL",
+      "amt": 29.99,
+      "biz": "Resume.io",
+      "desc": "I signed up for what I believed to be a free trial on a resume site through ChatGPT. I had attempted to cancel 3 times on my mobile device after I realized it wasnt quite what I was looking for and 7 days later the payment was drafted from my account. I initially was confused because I had cancelled. So I got on my phone to make sure and it hadnt cancelled. So I attempted again. It is discovered you cannot cancel on your mobile device which is not disclosed anywhere on the site or terms and policies. I logged onto my desktop to cancel and was able to do so that way. When I emailed explaining I had proof that I could not cancel on my mobile device although I was told it was cancelled I just requested my refund, They refused. When I told them I had time stamps proving this and that I would be reporting them for deceptive practices, they did not respond."
+    },
     {
       "date": "2026-11-18",
       "type": "Other",
@@ -42,7 +50,15 @@
       "city": "Tremont, IL",
       "amt": 30,
       "biz": "Goda Perfume",
-      "desc": "$25"
+      "desc": "$11"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 1777.77,
+      "biz": "Mshealthycanbegood/Begoodorganix",
+      "desc": "I paid Mercedes Bernice&nbsp;&nbsp;CEO of  @begoodorganix @mshealthycanbegood $1,777.77 for an expedite spell and I did not receive ANY results that I expected!  She specifically stated this spell works fast for everything. We are now at the end of the year now and many months have gone by now and there has still been no movement on it thus far on this spell she stated \"works fast and swiftly\"!  Her customer service has been extremely unsatisfactory. I asked for a refund but it was denied and no monetary resolution was offered. My messages to Mercedes Bernice of Begoodorganix @Mshealthycanbegood are now being ignored and also blocked! Consumer beware considering my experience her spell work is certainly NOT guaranteed to work despite the conviction she puts behind the advertising!"
     },
     {
       "date": "2026-11-18",
@@ -70,19 +86,27 @@
     },
     {
       "date": "2026-11-17",
-      "type": "Online Purchase",
-      "city": "Edwardsville, IL",
-      "amt": 29.99,
-      "biz": "Pomence",
-      "desc": "I bought 2 hats from this company a month ago. Product has still not shipped. Now my credit card was just charged $29.99 by this company. They are claiming that I knew I was being enrolled in a membership, which is not the case whatsoever. I have requested a refund of this charge, and after several emails back and forth, with automated responses, I was offered a 10% refund. This is not acceptable, and I have disputed this charge with my credit card company."
+      "type": "Counterfeit Product",
+      "city": "Peoria, IL",
+      "amt": 48.27,
+      "biz": "Booneb",
+      "desc": "Show the product that wasn&rsquo;t near the quality that was received"
     },
     {
       "date": "2026-11-17",
       "type": "Online Purchase",
-      "city": "Pekin, IL",
-      "amt": 55,
-      "biz": "Vinfinix also fynnaco",
-      "desc": "Advertised Advent Calendars with mini Dumpling squishy toys. On Oct 13,2026, I purchased 4 suppose to get 2 more for free and if you paid an additional 4.99 you would get a surprise. I never received the calendars I just received 1 mini Dumpling squishy and that's it I contacted support someone named Elaine said they would get back to me in a day or 2 that was November 1,2026 and never heard anything else."
+      "city": "Belleville, IL",
+      "amt": 99.99,
+      "biz": "GAMELAB",
+      "desc": "Sell a product and never sent it. And they don&rsquo;t respond to customer service inquiries."
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "None provided",
+      "desc": "i bought a used car and now I'm receiving what look like solicitations in the mail for vehicle service contract activation"
     },
     {
       "date": "2026-11-16",
@@ -99,30 +123,6 @@
       "amt": 0,
       "biz": "Imperial",
       "desc": "Imperial left voice mail: This is Imperial contacting you with an important business matter. Press 1 to be connected or dial 855-762-5665. This message is intended for name withheld."
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Online Purchase",
-      "city": "Buffalo Grove, IL",
-      "amt": 4275,
-      "biz": "Aquadreamusa",
-      "desc": "I bought a Fish tank and Stand combo. I received the product and set it up. As soon as I filled it with water it leaked and poured all over my homes floor.  I contacted the company to allow me to pay and send it back to them and asked many times for the return shipping address they completely ignored my request to do so. Finally I got a response that quoted if you where to return it to us we we gladly refund you $6.00.!!!!!"
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Online Purchase",
-      "city": "Saint Joseph, IL",
-      "amt": 135,
-      "biz": "Daily dose",
-      "desc": "Subscription service that I canceled and they still charged me and I cannot get into contact with anybody."
-    },
-    {
-      "date": "2026-11-16",
-      "type": "Online Purchase",
-      "city": "Decatur, IL",
-      "amt": 9.98,
-      "biz": "Zentrovio",
-      "desc": "The sale ended up going thru a platform called SHOP where they tell you your order shipped and use some company called 17TRACK which i have had problems with before - even though this company is in Canada - they show it shipped from China and eventually show it delivered to my employer which NEVER happened and they have never ever answered not one of my 25 or so emails and the phone number does not work and the platform that takes the order says they cannot control what the seller does !  It is not alot of money but it is the principle and i am a senior citizen so to me $10 is alot of money and could have bought a different gift.  They do not even answer messages through their facebook site so they are just a fake storefront taking money."
     }
   ]
 }
