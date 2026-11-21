@@ -7,10 +7,26 @@
     {
       "date": "2026-11-20",
       "type": "Phishing",
+      "city": "Pekin, IL",
+      "amt": 0,
+      "biz": "Home warranty division",
+      "desc": "Issued customer ID number issued expiration date supplied phone number address and correct last name and provided temporary home protection identification card"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "Phishing",
       "city": "Fairfield, IL",
       "amt": 0,
       "biz": "PLS SUBCONTRACTED BY COUNTY",
       "desc": "Received phone call"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "Home Improvement",
+      "city": "Rockford, IL",
+      "amt": 2137.02,
+      "biz": "Garage Door Repair Services Rockford IL / T.H. Garage Doors",
+      "desc": "called to have new springs put on my garage door. technician showed up in dodge ram truck with colorado plates. no signage or company name. no estimate before work completed. charged us over $2000 for a job that should have been no more than $600..( according to other companies.)  when I called and complained, manager argued and hung up on me.  every time I had phone calls it was from a different #  Do not use this company,,"
     },
     {
       "date": "2026-11-19",
@@ -69,20 +85,36 @@
       "desc": "The sold Ugg boots and showed they were Uggs and showed the tag, when it came it was not Uggs"
     },
     {
-      "date": "2026-11-19",
-      "type": "Online Purchase",
-      "city": "Versailles, IL",
-      "amt": 29.99,
-      "biz": "Resume.io",
-      "desc": "I signed up for what I believed to be a free trial on a resume site through ChatGPT. I had attempted to cancel 3 times on my mobile device after I realized it wasnt quite what I was looking for and 7 days later the payment was drafted from my account. I initially was confused because I had cancelled. So I got on my phone to make sure and it hadnt cancelled. So I attempted again. It is discovered you cannot cancel on your mobile device which is not disclosed anywhere on the site or terms and policies. I logged onto my desktop to cancel and was able to do so that way. When I emailed explaining I had proof that I could not cancel on my mobile device although I was told it was cancelled I just requested my refund, They refused. When I told them I had time stamps proving this and that I would be reporting them for deceptive practices, they did not respond."
+      "date": "2026-11-18",
+      "type": "Phishing",
+      "city": "Plainfield, IL",
+      "amt": 0,
+      "biz": "Jsa national asset protection",
+      "desc": "Received this call-\n&ldquo;Hi, this is Stacy Barber calling from National Asset Management in regards to a complaint that has been followed against either you, your social or someone associated with this phone number. I need an immediate call back from either you or your legal representative today at telephone number 844-3052174 again the telephone number is 844-3052174. Good luck.&hellip;&rdquo;"
     },
     {
-      "date": "2026-11-19",
-      "type": "Employment",
-      "city": "Campus, IL",
+      "date": "2026-11-18",
+      "type": "Phishing",
+      "city": "Chicago, IL",
       "amt": 0,
-      "biz": "Endless Freight",
-      "desc": "I received a phone call with a work from home job offer from Endless Freight. I was supposed to receive packages that were forwarded to me, take photos of the product, and re package and mail it back out. I fell for it pretty hard and wound up receiving cheap earrings with a bad fake Tiffany receipt with spelling errors. The dashboard they had me use was poorly made and clunky, and had a lot of \"incentive\" kinds of gimmicks including your salary on the home page (4,300 a month )"
+      "biz": "Tax resolution",
+      "desc": "Constant constant regarding my tax. Blocked many of the calls but unsuccessful."
+    },
+    {
+      "date": "2026-11-18",
+      "type": "Employment",
+      "city": "Plano, IL",
+      "amt": 0,
+      "biz": "Link Road Storage LLC",
+      "desc": "I applied for a job on indeed and then received a call from Anna Martin about the position I went through with the interview process then I started to wonder if it was a legitimate job and company so I searched the company address and it was the address of Charlie Health which clearly is a hospital or medical facility"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "Online Purchase",
+      "city": "Tremont, IL",
+      "amt": 30,
+      "biz": "Goda Perfume",
+      "desc": "$25"
     },
     {
       "date": "2026-11-18",
@@ -91,38 +123,6 @@
       "amt": 1777.77,
       "biz": "Mshealthycanbegood/Begoodorganix",
       "desc": "I paid Mercedes Bernice&nbsp;&nbsp;CEO of  @begoodorganix @mshealthycanbegood $1,777.77 for an expedite spell and I did not receive ANY results that I expected!  She specifically stated this spell works fast for everything. We are now at the end of the year now and many months have gone by now and there has still been no movement on it thus far on this spell she stated \"works fast and swiftly\"!  Her customer service has been extremely unsatisfactory. I asked for a refund but it was denied and no monetary resolution was offered. My messages to Mercedes Bernice of Begoodorganix @Mshealthycanbegood are now being ignored and also blocked! Consumer beware considering my experience her spell work is certainly NOT guaranteed to work despite the conviction she puts behind the advertising!"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Online Purchase",
-      "city": "Morton, IL",
-      "amt": 53,
-      "biz": "Squish Please",
-      "desc": "After purchase I noticed there was no where to leave a review and they only had an email to contact and the email is broken"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Retail Business",
-      "city": "Pekin, IL",
-      "amt": 0,
-      "biz": "Geek Squad Imposter",
-      "desc": "Email is encouraging the recipient to call an unknown number claiming to be affiliated with Geek Squad. Typical Phishing and money scam regarding a fake transaction and limited timeline to \"fix\" the problem. The email is clearly also not affiliated with Geek Squad. Also reported it to ******&nbsp;for Phishing."
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Phishing",
-      "city": "Westmont, IL",
-      "amt": 0,
-      "biz": "Home Warranty",
-      "desc": "Called to have taken off the list. Finally spoke to a person who put me on hold. The person they are mailing is deceased."
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Online Purchase",
-      "city": "Caseyville, IL",
-      "amt": 108,
-      "biz": "Instant Hydration",
-      "desc": "Instant Hydration offered a deal where you would receive a discounted rate on their product when you sign up for a subscription that you can &ldquo;cancel anytime&rdquo;   However their website has no cancellation process and uses a &ldquo;cancel&rdquo; button in a  deceptive way.  There is no reminder before you are billed for your next subscription shipment. Then, if you sign on your account and select cancel under manage subscription, it takes you only to a page to delay your subscription shipment. If you select &ldquo;cancel&rdquo; on that screen, it only &ldquo;cancels&rdquo; the process of delaying your shipment and takes you back to the menu- it does not cancel your subscription."
     }
   ]
 }
