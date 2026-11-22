@@ -402,6 +402,14 @@
     },
     {
       "date": "2026-11-10",
+      "type": "Phishing",
+      "city": "Plainfield, IL",
+      "amt": 0,
+      "biz": "Membersgain.com",
+      "desc": "The scammer wants you to call them to claim a prize reward. Giving you a toll free number to call 1-888-440-0867 and give a claim # PK98D64741\nThe scammer claims you have a 100.00 savings for Walmart and Target."
+    },
+    {
+      "date": "2026-11-10",
       "type": "Online Purchase",
       "city": "Freeport, IL",
       "amt": 55.24,
@@ -473,12 +481,12 @@
       "desc": "Evidently I placed annorder for ceylon cinnamon supplements on a website, and was secretly signed up for monthly subscription for the smount of $62.98 a month is being charged to my credit card.  I have emailed the company and requested cancellation but the subscription seems to be theougha 3rd. Party.  Im tryig to find a way to cancel it!  Beware!"
     },
     {
-      "date": "2026-11-10",
-      "type": "Online Purchase",
-      "city": "Posen, IL",
-      "amt": 59.4,
-      "biz": "Jeroefsf",
-      "desc": "I purchased two jogging suites for a total price of $59.40. I order on 9-22-2026 and was advised via shop app order was delivered on 10-26-2026. I never received items. I have tried to reach out to this company but the email address provided does not work. How can I get my money back?"
+      "date": "2026-11-09",
+      "type": "Phishing",
+      "city": "Crest Hill, IL",
+      "amt": 0,
+      "biz": "GMD Management",
+      "desc": "Business texted my phone number, claiming that the auction date on my family's property was near. They provided a cell number to call for solutions."
     },
     {
       "date": "2026-11-09",
@@ -534,7 +542,7 @@
       "city": "Plainfield, IL",
       "amt": 626.2,
       "biz": "USA Passports",
-      "desc": "$25"
+      "desc": "$11"
     },
     {
       "date": "2026-11-09",
@@ -553,12 +561,12 @@
       "desc": "The website is fake. The company shows a US address but then claims they are based in China. The products are fake, quality received was dirty/wrinkled and nothing like pictured. There is no way for paying customers to leave a review- so all of the reviews most likely are fabricated and/or AI."
     },
     {
-      "date": "2026-11-09",
-      "type": "Credit Cards",
-      "city": "Hanover Park, IL",
-      "amt": 0,
-      "biz": "IMPOSTER Wells Fargo Bank",
-      "desc": "$26"
+      "date": "2026-11-06",
+      "type": "Online Purchase",
+      "city": "Fulton, IL",
+      "amt": 66.21,
+      "biz": "Healthwearco.",
+      "desc": "Purchased  apparel but never received.\nWas given several different tracking numbers that usps said were not legit."
     },
     {
       "date": "2026-11-06",
@@ -633,12 +641,12 @@
       "desc": "I googled the item I was looking for to find a brand. Instead, I got linked to a company that has the creators make a mock-up. I received it from overseas when it was supposed to come from Texas. Item looked handmade by a novice. Shirt pocket was in the armpit area. Tight stitching where there should be stretch. Very cheap material. I initiated a return on the site which doesn't work. I then used the email to initiate a return. They kept trying to get me to keep it and give me a little bit back. I settled after they promised $60 would be returned to my payment method.   I did receive that payment. Then I got a notification from Fed Ex that I was being billed for shipping, 18. I never agreed to that."
     },
     {
-      "date": "2026-11-06",
-      "type": "Online Purchase",
-      "city": "Richton Park, IL",
-      "amt": 30,
-      "biz": "CHANTALJ",
-      "desc": "I ordered directly from this creator&rsquo;s website and I never received my order. After waiting more than 14 days, I reached out via DM and requested a refund. At that time, a shipping label was created. Since then, there has been no response"
+      "date": "2026-11-05",
+      "type": "Government Agency Imposter",
+      "city": "Chicago, IL",
+      "amt": 188.89,
+      "biz": "Usapassports.com",
+      "desc": "I have been making travel plans and this sight sent me an email it looked legit but it is not"
     },
     {
       "date": "2026-11-05",
@@ -713,12 +721,12 @@
       "desc": "He got a page on Facebook his name Mike the mechanic. I went on his page and ask him how much he charge for to do a ball joint on the passenger side of my car . He said 120.00 . I said ok he ask when do I need it done I told him as soon as possible so he supposedly came 11/03/2026. At 6am Tuesday morning he told me to send him the money to go get parts which I trusted him to do . I told him I have been scam before he said he been a mechanic for 30 yrs started at 17 doing it. He know how it is to work hard to have something he sweet talk me out money. Once I send it he than texted me saying his car eating up gas he need 40 more dollars to get gas he lied like he couldn't come to me cause his wife stop his money from coming off his chime . I sent him money through chime I have all the texts messages we shared he also told me that his wife people her dad and mom are police officer.."
     },
     {
-      "date": "2026-11-04",
-      "type": "Rental",
-      "city": "Country Club Hills, IL",
-      "amt": 2300,
-      "biz": "Paramount Estates",
-      "desc": "I applied to rent a property located at 17640 Central Park County Club Hills Il 60478 I was told that I was approved for the house and I needdd 2,300 holding deposit that what I deposited into a Wells Fargo account on 08/14/2024 I never signed a lease or got keys"
+      "date": "2026-11-03",
+      "type": "Phishing",
+      "city": "Wonder Lake, IL",
+      "amt": 0,
+      "biz": "Jason Mitchell",
+      "desc": "Automated call from a local number.  It left a voicemail using my maiden name, stating that I had not fulfilled my payment arrangement and that it will be immediately escalated.  It told me to call back and ask for Jason Mitchell or another representative between 9 and 6 in a completely different time zone."
     },
     {
       "date": "2026-11-03",
@@ -791,15 +799,7 @@
       "amt": 160,
       "biz": "Floatking usa",
       "desc": "I seen the ad on Facebook clicked on it offer they offered buy one get one free so I got two or two of them on June 20 never received it still haven&rsquo;t received. It contacted them by email once he responded that they were on backlog. Emailed them again nothing nothing"
-    },
-    {
-      "date": "2026-11-02",
-      "type": "Retail Business",
-      "city": "IL",
-      "amt": 79.99,
-      "biz": "Steve's Used Car Parts",
-      "desc": "It was at the top of the google saerch for an auto part by part number I got from the dealer.\nI went to the website to purchase the part I needed. I never received it."
     }
   ],
-  "total_on_file": 25428
+  "total_on_file": 25429
 }
