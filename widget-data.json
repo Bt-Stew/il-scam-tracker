@@ -1,40 +1,104 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-23",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
     {
-      "date": "2026-11-20",
-      "type": "Government Agency Imposter",
-      "city": "IL",
-      "amt": 188.89,
-      "biz": "USA Passports",
-      "desc": "Paid for what I thought was my passport but it wasn&rsquo;t a real site-ended up having to pay again to get my actual passport"
-    },
-    {
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "type": "Phishing",
-      "city": "Pekin, IL",
+      "city": "Millstadt, IL",
       "amt": 0,
-      "biz": "Home warranty division",
-      "desc": "Issued customer ID number issued expiration date supplied phone number address and correct last name and provided temporary home protection identification card"
+      "biz": "—",
+      "desc": "They call pretend to be somebody that can get $200 added to my Social Security and Medicare<br class=\"t-last-br\" />"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-23",
+      "type": "Online Purchase",
+      "city": "Grayslake, IL",
+      "amt": 17,
+      "biz": "Maya Parts",
+      "desc": "Searched the web for a very specific part for my Skilsaw. Site came up with the part I needed. Filled out all the information needed to make the purchase. Completed the purchase. Received an email that said they received me order. It&rsquo;s been over a month and have not received the product or any tracking information. Have sent emails with no response. Tried to call &ldquo; phone is disconnected &ldquo;"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Online Purchase",
+      "city": "West Frankfort, IL",
+      "amt": 259.96,
+      "biz": "Wire Salad",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Retail Business",
+      "city": "Huntley, IL",
+      "amt": 100,
+      "biz": "Cedarandtin.com",
+      "desc": "$26"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Counterfeit Product",
+      "city": "Riverdale, IL",
+      "amt": 400,
+      "biz": "Black GLP Freedom",
+      "desc": "I ordered from them 3 times, these were small bottle that had liquid, which was supposed to be dark brown liquid, but I didnt know this until I made the last order. When I got it I immediately open it up and saw it was much lighter then the first and second set. I called and told them, but as expected, they denied it, so I took a picture and sent it to them, and they said I could sent it back, and I did, which cost me $17 more dollars. I got a notion they had received it on the 19th of November 2026 and today&rsquo;s date is 23th of November 2026, looks like I have to call my bank. People watch out, lots of scammers out there.\nSincerely\nKaren Chestang\nShipping Address\n2701 Couchville pike\nNashville TN 37217\nReturn Product Address\n19655 E. 35th Dr Ste 100\nAurora Co 80011"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Online Purchase",
+      "city": "Winthrop Harbor, IL",
+      "amt": 200,
+      "biz": "Emma & Olivia Boutique",
+      "desc": "3 items ordered from website - only received 2.  Site shows enhanced/false pictures and description. The website shows an US address 30 W Gould Street, Ste R, Sheridan WY 82801.  When contacted for return via email, they state returns are sent to China at customers expense, and only 20% refund."
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Online Purchase",
+      "city": "McHenry, IL",
+      "amt": 58,
+      "biz": "Euphoria",
+      "desc": "Made the order- they said it would ship the next day. Now they say it will be several months. Refused to refund or cancel order"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Travel/Vacation/Timeshare",
+      "city": "Brookfield, IL",
+      "amt": 0.49,
+      "biz": "2026 Brookfield Travel  Adventure Show",
+      "desc": "I won a free cruise for 2 never received the voucher"
+    },
+    {
+      "date": "2026-11-21",
       "type": "Phishing",
-      "city": "Fairfield, IL",
-      "amt": 0,
-      "biz": "PLS SUBCONTRACTED BY COUNTY",
-      "desc": "Received phone call"
+      "city": "Chicago, IL",
+      "amt": 1700,
+      "biz": "Stratix 1",
+      "desc": "Say they were gonna serve me at Home or Work saying I had an account from capital one from years ago not even sure if I had one. There&rsquo;s nothing on my credit report that I had anything out now they&rsquo;re calling nonstop since I refuse to make payments anymore."
+    },
+    {
+      "date": "2026-11-21",
+      "type": "Phishing",
+      "city": "Galesburg, IL",
+      "amt": 950,
+      "biz": "—",
+      "desc": "Richard Lee (917-244-6018) and Eryn Murrel (415-449-8235) called my daughter that was selling prom dress for 75 dollars and they told her because she did not have a business account, they couldn''t send the 75 for her, they asked her to call 833-767-0522 and they saw her Venmo account and took 490 on onepay and 500 on venmo.  950 dollars gone, all her summer money working for college gone in an instant."
     },
     {
       "date": "2026-11-20",
-      "type": "Home Improvement",
-      "city": "Rockford, IL",
-      "amt": 2137.02,
-      "biz": "Garage Door Repair Services Rockford IL / T.H. Garage Doors",
-      "desc": "called to have new springs put on my garage door. technician showed up in dodge ram truck with colorado plates. no signage or company name. no estimate before work completed. charged us over $2000 for a job that should have been no more than $600..( according to other companies.)  when I called and complained, manager argued and hung up on me.  every time I had phone calls it was from a different #  Do not use this company,,"
+      "type": "Other",
+      "city": "Palatine, IL",
+      "amt": 2800,
+      "biz": "Fifth Third ***Imposter***",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Online Purchase",
+      "city": "Springfield, IL",
+      "amt": 189,
+      "biz": "ebikeglide",
+      "desc": "I was looking for an e bike and i found a good deal with ebikeglide so i ordered a bike and its been months and no support no bike nothing"
     },
     {
       "date": "2026-11-19",
@@ -59,70 +123,6 @@
       "amt": 200,
       "biz": "Lilysetter",
       "desc": "I bought the product online in September and now it is November and I have received no emails back or the product"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "Credit Cards",
-      "city": "Round Lake, IL",
-      "amt": 0,
-      "biz": "—",
-      "desc": "An AI left a voice mail by the name of Jessica.\n&ldquo;Hi, this is Jessica with the activation department. I'm just following up because I saw your information come through and wanted to touch base regarding the vehicle. I had a chance to look over a few things and there may be an option here that I think you'll want to at least hear about. Give us a call whenever it's convenient at 888-509-7969 again 888-509-7969. But yeah, I think this could really help with one of those unexpected repairs that nobody wants to have to deal with. It seems like it could be a good fit. And if you prefer to opt out or no longer be contacted, that's fine too. Just let us know when you call us back. I hope you have a great rest of your day.&hellip;&rdquo;"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "Retail Business",
-      "city": "Joliet, IL",
-      "amt": 316.4,
-      "biz": "Savvy Shelf Mart",
-      "desc": "I was trying to purchase 4 Goodyear tires when I came across this website on Google. I saw they had a really good price on those tires, so I proceeded to buy them. At checkout, I entered my debit card information and pressed continue. Then a spinning circle with the word \" processing \" in it appeared. My bank sent me a code needed to go on with the purchase. At that point, I started becoming suspicious, so I checked my bank's website. To my unpleasant surprise, I saw an unauthorized transaction of $316.40 for JetBlue Airlines flight tickets. I called the bank right away to file a fraud dispute. The agent told me that I had to wait until the transaction posted so I could file a dispute. I called back on Monday the following week to file the dispute since the transaction had already been posted and my money had been taken for good. Unfortunately, and despite the irrefutable evidence of a scam, the bank hasn't credited that money back into my account. I have also file a report with the Joliet Police Department."
-    },
-    {
-      "date": "2026-11-19",
-      "type": "Counterfeit Product",
-      "city": "Hoffman Estates, IL",
-      "amt": 45.17,
-      "biz": "Valors.ca",
-      "desc": "I received an inaccurate item. It was supposed to be a hockey themed projector. The item is absolutely not the item I ordered. It is a cheap snowflake projector. They are not helping in the return process and blaming their supplier while not offering a refund or ability to return the incorrect item. This is obviously a scam for money."
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Phishing",
-      "city": "Tinley Park, IL",
-      "amt": 0,
-      "biz": "Davis and Associates",
-      "desc": "We received a call from a man by the name of Adrian Martin from Davisand Associates stating that we were being sued and summons to court for an outstanding  unpaid bill for $9000 for a medical device."
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Phishing",
-      "city": "Plainfield, IL",
-      "amt": 0,
-      "biz": "Jsa national asset protection",
-      "desc": "Received this call-\n&ldquo;Hi, this is Stacy Barber calling from National Asset Management in regards to a complaint that has been followed against either you, your social or someone associated with this phone number. I need an immediate call back from either you or your legal representative today at telephone number 844-3052174 again the telephone number is 844-3052174. Good luck.&hellip;&rdquo;"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Tax resolution",
-      "desc": "Constant constant regarding my tax. Blocked many of the calls but unsuccessful."
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Employment",
-      "city": "Plano, IL",
-      "amt": 0,
-      "biz": "Link Road Storage LLC",
-      "desc": "I applied for a job on indeed and then received a call from Anna Martin about the position I went through with the interview process then I started to wonder if it was a legitimate job and company so I searched the company address and it was the address of Charlie Health which clearly is a hospital or medical facility"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Online Purchase",
-      "city": "Tremont, IL",
-      "amt": 30,
-      "biz": "Goda Perfume",
-      "desc": "$11"
     }
   ]
 }
