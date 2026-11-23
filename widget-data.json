@@ -6,6 +6,14 @@
   "reports": [
     {
       "date": "2026-11-20",
+      "type": "Government Agency Imposter",
+      "city": "IL",
+      "amt": 188.89,
+      "biz": "USA Passports",
+      "desc": "Paid for what I thought was my passport but it wasn&rsquo;t a real site-ended up having to pay again to get my actual passport"
+    },
+    {
+      "date": "2026-11-20",
       "type": "Phishing",
       "city": "Pekin, IL",
       "amt": 0,
@@ -77,12 +85,12 @@
       "desc": "I received an inaccurate item. It was supposed to be a hockey themed projector. The item is absolutely not the item I ordered. It is a cheap snowflake projector. They are not helping in the return process and blaming their supplier while not offering a refund or ability to return the incorrect item. This is obviously a scam for money."
     },
     {
-      "date": "2026-11-19",
-      "type": "Counterfeit Product",
-      "city": "Grayslake, IL",
+      "date": "2026-11-18",
+      "type": "Phishing",
+      "city": "Tinley Park, IL",
       "amt": 0,
-      "biz": "Jada-Rose",
-      "desc": "The sold Ugg boots and showed they were Uggs and showed the tag, when it came it was not Uggs"
+      "biz": "Davis and Associates",
+      "desc": "We received a call from a man by the name of Adrian Martin from Davisand Associates stating that we were being sued and summons to court for an outstanding  unpaid bill for $9000 for a medical device."
     },
     {
       "date": "2026-11-18",
@@ -114,15 +122,7 @@
       "city": "Tremont, IL",
       "amt": 30,
       "biz": "Goda Perfume",
-      "desc": "$25"
-    },
-    {
-      "date": "2026-11-18",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 1777.77,
-      "biz": "Mshealthycanbegood/Begoodorganix",
-      "desc": "I paid Mercedes Bernice&nbsp;&nbsp;CEO of  @begoodorganix @mshealthycanbegood $1,777.77 for an expedite spell and I did not receive ANY results that I expected!  She specifically stated this spell works fast for everything. We are now at the end of the year now and many months have gone by now and there has still been no movement on it thus far on this spell she stated \"works fast and swiftly\"!  Her customer service has been extremely unsatisfactory. I asked for a refund but it was denied and no monetary resolution was offered. My messages to Mercedes Bernice of Begoodorganix @Mshealthycanbegood are now being ignored and also blocked! Consumer beware considering my experience her spell work is certainly NOT guaranteed to work despite the conviction she puts behind the advertising!"
+      "desc": "$11"
     }
   ]
 }
