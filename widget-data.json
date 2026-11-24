@@ -15,6 +15,22 @@
     {
       "date": "2026-11-23",
       "type": "Online Purchase",
+      "city": "Elburn, IL",
+      "amt": 105.98,
+      "biz": "ebay - Seller blackwoodarthur",
+      "desc": "1 SUNJOY LARGE 2-PIECE CHRISTMAS LIGHTED LYING DEED, 3D TINSEL SANTA LYING DEER OUT (407252286558) was ordered, #04-15399-86256, from blackwoodarthur thru EBAY'S website or by EBAY'S CUTOMER SERVICE LINE. The package was ordered Nov 4, 2026 and shows delivered by EBAY and the Seller, blackwoodarthur. The issue is the FEDEX Tracking number is not correct as confirmed by FEDEX, and the picture showing delivery is not my black stone front porch, mine is concrete, and there is no actual house address in the picture confirming location. i have been given nothing but the runaround when trying to phone into or talk to EBAY. Messages have been sent to the SELLER, who keeps advising the package was delivered. THE PACKAGE HAS NOT BEEN DELIVERED, THIS IS NOT MY HOUSE, AND I HAVE BEEN UNABLE TO TO RECEIVE MY MONEY BACK THRU EBAY'S REFUND GUARANTEE POLICY."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Credit Cards",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "Not given",
+      "desc": "$25"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Online Purchase",
       "city": "Grayslake, IL",
       "amt": 17,
       "biz": "Maya Parts",
@@ -26,7 +42,7 @@
       "city": "West Frankfort, IL",
       "amt": 259.96,
       "biz": "Wire Salad",
-      "desc": "$25"
+      "desc": "$26"
     },
     {
       "date": "2026-11-23",
@@ -34,7 +50,7 @@
       "city": "Huntley, IL",
       "amt": 100,
       "biz": "Cedarandtin.com",
-      "desc": "$26"
+      "desc": "$27"
     },
     {
       "date": "2026-11-23",
@@ -69,20 +85,20 @@
       "desc": "I won a free cruise for 2 never received the voucher"
     },
     {
-      "date": "2026-11-21",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 1700,
-      "biz": "Stratix 1",
-      "desc": "Say they were gonna serve me at Home or Work saying I had an account from capital one from years ago not even sure if I had one. There&rsquo;s nothing on my credit report that I had anything out now they&rsquo;re calling nonstop since I refuse to make payments anymore."
+      "date": "2026-11-20",
+      "type": "Counterfeit Product",
+      "city": "Palatine, IL",
+      "amt": 45.17,
+      "biz": "Valors-Ca",
+      "desc": "I ordered a LED Hockey themed nightlight which now i believe is AI generated. They sent me some flimsy snowflake nightlight.  I asked repeadtly to refund and ill ship it back but not getting anywhere. see attachments"
     },
     {
-      "date": "2026-11-21",
-      "type": "Phishing",
-      "city": "Galesburg, IL",
-      "amt": 950,
-      "biz": "—",
-      "desc": "Richard Lee (917-244-6018) and Eryn Murrel (415-449-8235) called my daughter that was selling prom dress for 75 dollars and they told her because she did not have a business account, they couldn''t send the 75 for her, they asked her to call 833-767-0522 and they saw her Venmo account and took 490 on onepay and 500 on venmo.  950 dollars gone, all her summer money working for college gone in an instant."
+      "date": "2026-11-20",
+      "type": "Home Improvement",
+      "city": "Rockford, IL",
+      "amt": 2137.02,
+      "biz": "Garage Door Repair Services Rockford IL / T.H. Garage Doors",
+      "desc": "called to have new springs put on my garage door. technician showed up in dodge ram truck with colorado plates. no signage or company name. no estimate before work completed. charged us over $2000 for a job that should have been no more than $600..( according to other companies.)  when I called and complained, manager argued and hung up on me.  every time I had phone calls it was from a different #  Do not use this company,,"
     },
     {
       "date": "2026-11-20",
@@ -107,22 +123,6 @@
       "amt": 0,
       "biz": "IDT TPV",
       "desc": "A person named Raven Sully 213-524-4472 rang the apartment doorbell and represented to check in to ensure we were enrolled in the green program and that com-ed sent emails about it and asked to see our electric bill. After showing them the bill, they said we needed to sign up for the Going Green program and my partner sign papers then their representative called my partners cell to &ldquo;complete the process&rdquo; and asked if the representatives came into the building, asked for personal information and the address."
-    },
-    {
-      "date": "2026-11-19",
-      "type": "Phishing",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "IllinoisFiling",
-      "desc": "sent an email saying my LLC was overdue for filing the annual report."
-    },
-    {
-      "date": "2026-11-19",
-      "type": "Online Purchase",
-      "city": "Winnetka, IL",
-      "amt": 200,
-      "biz": "Lilysetter",
-      "desc": "I bought the product online in September and now it is November and I have received no emails back or the product"
     }
   ]
 }
