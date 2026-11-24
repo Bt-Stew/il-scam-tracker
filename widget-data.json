@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "source": "BBB Scam Tracker — Illinois",
   "source_url": "https://www.bbb.org/scamtracker/lookupscam",
   "dashboard_url": "https://bt-stew.github.io/il-scam-tracker/",
   "reports": [
+    {
+      "date": "2026-11-24",
+      "type": "Sweepstakes/Lottery/Prizes",
+      "city": "Oregon, IL",
+      "amt": 0,
+      "biz": "PCA Financial",
+      "desc": "Caller stated that I won a sweepstakes and then I should call back the financial department, but I am literally that this is real. Can someone help me confirm this as a senior citizen? My phone number is 815-881-8005."
+    },
+    {
+      "date": "2026-11-24",
+      "type": "Phishing",
+      "city": "Westchester, IL",
+      "amt": 0,
+      "biz": "AE Home Warranty Dept",
+      "desc": "Trying to scam me into a home warranty on a house I do not own."
+    },
+    {
+      "date": "2026-11-24",
+      "type": "Utility",
+      "city": "Chicago, IL",
+      "amt": 250,
+      "biz": "Promobills",
+      "desc": "I was calling the people gas to pay my bill which this company so happen to answer I ask were they people gas they said yeah I proceed to make my payment somehow I get a letter from people gas saying they return payment back I asked why they said not enough funds than they said card number off so I&rsquo;m like how when it was took out my account I been calling these people&rsquo;s they answer one min the next they won&rsquo;t when they say a day my funds should be back in my account I cancel out my cards because when I tried to get it back on Cash App they took more money out saying I had to pay for my refund back did understand that"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Online Purchase",
+      "city": "Chicago, IL",
+      "amt": 5.51,
+      "biz": "Ivenore",
+      "desc": "They advertise a rechargeable book that sounds out the words when you press it. It even mentions waterproof pages and a rigid gift box. What you actually receive is a pdf file. I called immediately to tell them to cancel the order because that's not what I ordered and they said they would refund the money. Instead of refunding me, they charged me an additional $44.19. I had to report it to my credit card and cancel my card."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Phishing",
+      "city": "Vienna, IL",
+      "amt": 0,
+      "biz": "—",
+      "desc": "Received a package with items I didn&rsquo;t order"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Phishing",
+      "city": "Rockford, IL",
+      "amt": 0,
+      "biz": "Ssas llc",
+      "desc": "Apparently I am being taken to court for a loan I never opened. When I tried to call back for the 5th time the number no longer exists. I'm afraid my identity has been stolen"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Phishing",
+      "city": "Hidalgo, IL",
+      "amt": 0,
+      "biz": "4Ever Home Warranty",
+      "desc": "A letter  stating  my home warranty had expired .  or  was about  to. I don't  have  any home warranties.  Also  they  stated  this  would  be their  final attempt to notify  me.Atemporary id card was attached with  a fake  ID number. With  my name, address. No  return  address.  Postal zip is 23231. Phone  # 888-343-5440. Totally  misleading,and deceptive.  Aiming  at the  elderly I feel."
+    },
     {
       "date": "2026-11-23",
       "type": "Phishing",
@@ -14,6 +70,14 @@
     },
     {
       "date": "2026-11-23",
+      "type": "Phishing",
+      "city": "Okawville, IL",
+      "amt": 0,
+      "biz": "RoamyCurve",
+      "desc": "I received a package I did not order.  It is a pair of pants. My credit card has not been charged at this time, but it is something I had been looking at online."
+    },
+    {
+      "date": "2026-11-23",
       "type": "Online Purchase",
       "city": "Elburn, IL",
       "amt": 105.98,
@@ -21,108 +85,44 @@
       "desc": "1 SUNJOY LARGE 2-PIECE CHRISTMAS LIGHTED LYING DEED, 3D TINSEL SANTA LYING DEER OUT (407252286558) was ordered, #04-15399-86256, from blackwoodarthur thru EBAY'S website or by EBAY'S CUTOMER SERVICE LINE. The package was ordered Nov 4, 2026 and shows delivered by EBAY and the Seller, blackwoodarthur. The issue is the FEDEX Tracking number is not correct as confirmed by FEDEX, and the picture showing delivery is not my black stone front porch, mine is concrete, and there is no actual house address in the picture confirming location. i have been given nothing but the runaround when trying to phone into or talk to EBAY. Messages have been sent to the SELLER, who keeps advising the package was delivered. THE PACKAGE HAS NOT BEEN DELIVERED, THIS IS NOT MY HOUSE, AND I HAVE BEEN UNABLE TO TO RECEIVE MY MONEY BACK THRU EBAY'S REFUND GUARANTEE POLICY."
     },
     {
-      "date": "2026-11-23",
-      "type": "Credit Cards",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Not given",
-      "desc": "$25"
-    },
-    {
-      "date": "2026-11-23",
+      "date": "2026-11-20",
       "type": "Online Purchase",
-      "city": "Grayslake, IL",
-      "amt": 17,
-      "biz": "Maya Parts",
-      "desc": "Searched the web for a very specific part for my Skilsaw. Site came up with the part I needed. Filled out all the information needed to make the purchase. Completed the purchase. Received an email that said they received me order. It&rsquo;s been over a month and have not received the product or any tracking information. Have sent emails with no response. Tried to call &ldquo; phone is disconnected &ldquo;"
-    },
-    {
-      "date": "2026-11-23",
-      "type": "Online Purchase",
-      "city": "West Frankfort, IL",
-      "amt": 259.96,
-      "biz": "Wire Salad",
-      "desc": "$26"
-    },
-    {
-      "date": "2026-11-23",
-      "type": "Retail Business",
-      "city": "Huntley, IL",
-      "amt": 100,
-      "biz": "Cedarandtin.com",
-      "desc": "$27"
-    },
-    {
-      "date": "2026-11-23",
-      "type": "Counterfeit Product",
-      "city": "Riverdale, IL",
-      "amt": 400,
-      "biz": "Black GLP Freedom",
-      "desc": "I ordered from them 3 times, these were small bottle that had liquid, which was supposed to be dark brown liquid, but I didnt know this until I made the last order. When I got it I immediately open it up and saw it was much lighter then the first and second set. I called and told them, but as expected, they denied it, so I took a picture and sent it to them, and they said I could sent it back, and I did, which cost me $17 more dollars. I got a notion they had received it on the 19th of November 2026 and today&rsquo;s date is 23th of November 2026, looks like I have to call my bank. People watch out, lots of scammers out there.\nSincerely\nKaren Chestang\nShipping Address\n2701 Couchville pike\nNashville TN 37217\nReturn Product Address\n19655 E. 35th Dr Ste 100\nAurora Co 80011"
-    },
-    {
-      "date": "2026-11-22",
-      "type": "Online Purchase",
-      "city": "Winthrop Harbor, IL",
-      "amt": 200,
-      "biz": "Emma & Olivia Boutique",
-      "desc": "3 items ordered from website - only received 2.  Site shows enhanced/false pictures and description. The website shows an US address 30 W Gould Street, Ste R, Sheridan WY 82801.  When contacted for return via email, they state returns are sent to China at customers expense, and only 20% refund."
-    },
-    {
-      "date": "2026-11-22",
-      "type": "Online Purchase",
-      "city": "McHenry, IL",
-      "amt": 58,
-      "biz": "Euphoria",
-      "desc": "Made the order- they said it would ship the next day. Now they say it will be several months. Refused to refund or cancel order"
-    },
-    {
-      "date": "2026-11-22",
-      "type": "Travel/Vacation/Timeshare",
-      "city": "Brookfield, IL",
-      "amt": 0.49,
-      "biz": "2026 Brookfield Travel  Adventure Show",
-      "desc": "I won a free cruise for 2 never received the voucher"
+      "city": "Matteson, IL",
+      "amt": 35,
+      "biz": "Winsleigh",
+      "desc": "Ordered comforter and a few other things been so long I don&rsquo;t remember all.\nI contacted them several times.  First they said it was delivered.  I have demanded my money back several times.\nGoing to ale a website warning all about them."
     },
     {
       "date": "2026-11-20",
-      "type": "Counterfeit Product",
-      "city": "Palatine, IL",
-      "amt": 45.17,
-      "biz": "Valors-Ca",
-      "desc": "I ordered a LED Hockey themed nightlight which now i believe is AI generated. They sent me some flimsy snowflake nightlight.  I asked repeadtly to refund and ill ship it back but not getting anywhere. see attachments"
-    },
-    {
-      "date": "2026-11-20",
-      "type": "Home Improvement",
-      "city": "Rockford, IL",
-      "amt": 2137.02,
-      "biz": "Garage Door Repair Services Rockford IL / T.H. Garage Doors",
-      "desc": "called to have new springs put on my garage door. technician showed up in dodge ram truck with colorado plates. no signage or company name. no estimate before work completed. charged us over $2000 for a job that should have been no more than $600..( according to other companies.)  when I called and complained, manager argued and hung up on me.  every time I had phone calls it was from a different #  Do not use this company,,"
-    },
-    {
-      "date": "2026-11-20",
-      "type": "Other",
-      "city": "Palatine, IL",
-      "amt": 2800,
-      "biz": "Fifth Third ***Imposter***",
-      "desc": "$25"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "Online Purchase",
-      "city": "Springfield, IL",
-      "amt": 189,
-      "biz": "ebikeglide",
-      "desc": "I was looking for an e bike and i found a good deal with ebikeglide so i ordered a bike and its been months and no support no bike nothing"
-    },
-    {
-      "date": "2026-11-19",
       "type": "Phishing",
-      "city": "Chicago, IL",
+      "city": "Pekin, IL",
       "amt": 0,
-      "biz": "IDT TPV",
-      "desc": "A person named Raven Sully 213-524-4472 rang the apartment doorbell and represented to check in to ensure we were enrolled in the green program and that com-ed sent emails about it and asked to see our electric bill. After showing them the bill, they said we needed to sign up for the Going Green program and my partner sign papers then their representative called my partners cell to &ldquo;complete the process&rdquo; and asked if the representatives came into the building, asked for personal information and the address."
+      "biz": "Home warranty division",
+      "desc": "Issued customer ID number issued expiration date supplied phone number address and correct last name and provided temporary home protection identification card"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "Identity Theft",
+      "city": "Hoffman Estates, IL",
+      "amt": 0,
+      "biz": "Wavdik Koryra",
+      "desc": "I haven''t interacted with them, but this company hijacked my neighbor''s house as their address on Google Maps and is using AI to generate fake images of a company based out of their house that I don''t believe actually exists."
+    },
+    {
+      "date": "2026-11-20",
+      "type": "Counterfeit Product",
+      "city": "Shorewood, IL",
+      "amt": 118,
+      "biz": "Emma",
+      "desc": "Emma supplement greatly differs from the real product i previously purchased.  Smaller bottle, faded label, no lot # , lighter color &amp; size of capsule."
+    },
+    {
+      "date": "2026-11-20",
+      "type": "Phishing",
+      "city": "Fairfield, IL",
+      "amt": 0,
+      "biz": "PLS SUBCONTRACTED BY COUNTY",
+      "desc": "Received phone call"
     }
   ]
 }
