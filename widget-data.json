@@ -15,6 +15,14 @@
     {
       "date": "2026-11-25",
       "type": "Online Purchase",
+      "city": "Brookfield, IL",
+      "amt": 400,
+      "biz": "Curve  Bloom",
+      "desc": "I purchased dresses from this website. When they arrived the dresses were not in any way as described ('embroidered', 'tailored', etc.). Instead, the patterns on the dresses were all printed, the material was thin when it was described as lined, etc. None of the dresses fit, one dress was sent in the wrong size. The website notes a return must be 'authorized' by Curve &amp; Bloom customer service to obtain an address to send the items to within 30 days of receipt. Upon corresponding with Curve &amp; Bloom customer service on multiple occasions, I was informed I could receive a 15% discount on the items and did not need to return them, however they continually, passively (meaning never outright said no I can't return the items) have not given me an address to return my purchase to and have not 'approved' the refund. I have now lost $400 on this fraudulent company!"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "Online Purchase",
       "city": "Tinley Park, IL",
       "amt": 1.45,
       "biz": "Northern Collective",
@@ -77,12 +85,12 @@
       "desc": "I purchased the product after seeing an ad on Instagram and I never received the order. I know there are ads on TikTok, too. No one has responded to my customer service emails seeking a refund."
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-23",
       "type": "Online Purchase",
-      "city": "Harmon, IL",
-      "amt": 67,
-      "biz": "Smallhappying.com",
-      "desc": "The marketing ad shown a crisp clear projection of different moving images like the night sky or the sea. After receiving the product the projector shown a stationary picture, blurry, and did not show moving images.\nI asked for a refund with no response."
+      "city": "Grayslake, IL",
+      "amt": 17,
+      "biz": "Maya Parts",
+      "desc": "Searched the web for a very specific part for my Skilsaw. Site came up with the part I needed. Filled out all the information needed to make the purchase. Completed the purchase. Received an email that said they received me order. It&rsquo;s been over a month and have not received the product or any tracking information. Have sent emails with no response. Tried to call &ldquo; phone is disconnected &ldquo;"
     },
     {
       "date": "2026-11-23",
@@ -115,14 +123,6 @@
       "amt": 400,
       "biz": "Black GLP Freedom",
       "desc": "I ordered from them 3 times, these were small bottle that had liquid, which was supposed to be dark brown liquid, but I didnt know this until I made the last order. When I got it I immediately open it up and saw it was much lighter then the first and second set. I called and told them, but as expected, they denied it, so I took a picture and sent it to them, and they said I could sent it back, and I did, which cost me $17 more dollars. I got a notion they had received it on the 19th of November 2026 and today&rsquo;s date is 23th of November 2026, looks like I have to call my bank. People watch out, lots of scammers out there.\nSincerely\nKaren Chestang\nShipping Address\n2701 Couchville pike\nNashville TN 37217\nReturn Product Address\n19655 E. 35th Dr Ste 100\nAurora Co 80011"
-    },
-    {
-      "date": "2026-11-23",
-      "type": "Employment",
-      "city": "Chicago, IL",
-      "amt": 0,
-      "biz": "Viconia Design",
-      "desc": "They offered $62 dollars an hour to complete an 18-day training. discontinued contact when I refused to complete the financial form with my bank information."
     }
   ]
 }

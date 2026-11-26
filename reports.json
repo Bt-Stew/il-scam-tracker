@@ -11,6 +11,14 @@
     {
       "date": "2026-11-25",
       "type": "Online Purchase",
+      "city": "Brookfield, IL",
+      "amt": 400,
+      "biz": "Curve  Bloom",
+      "desc": "I purchased dresses from this website. When they arrived the dresses were not in any way as described ('embroidered', 'tailored', etc.). Instead, the patterns on the dresses were all printed, the material was thin when it was described as lined, etc. None of the dresses fit, one dress was sent in the wrong size. The website notes a return must be 'authorized' by Curve &amp; Bloom customer service to obtain an address to send the items to within 30 days of receipt. Upon corresponding with Curve &amp; Bloom customer service on multiple occasions, I was informed I could receive a 15% discount on the items and did not need to return them, however they continually, passively (meaning never outright said no I can't return the items) have not given me an address to return my purchase to and have not 'approved' the refund. I have now lost $400 on this fraudulent company!"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "Online Purchase",
       "city": "Tinley Park, IL",
       "amt": 1.45,
       "biz": "Northern Collective",
@@ -73,12 +81,12 @@
       "desc": "I purchased the product after seeing an ad on Instagram and I never received the order. I know there are ads on TikTok, too. No one has responded to my customer service emails seeking a refund."
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-23",
       "type": "Online Purchase",
-      "city": "Harmon, IL",
-      "amt": 67,
-      "biz": "Smallhappying.com",
-      "desc": "The marketing ad shown a crisp clear projection of different moving images like the night sky or the sea. After receiving the product the projector shown a stationary picture, blurry, and did not show moving images.\nI asked for a refund with no response."
+      "city": "Grayslake, IL",
+      "amt": 17,
+      "biz": "Maya Parts",
+      "desc": "Searched the web for a very specific part for my Skilsaw. Site came up with the part I needed. Filled out all the information needed to make the purchase. Completed the purchase. Received an email that said they received me order. It&rsquo;s been over a month and have not received the product or any tracking information. Have sent emails with no response. Tried to call &ldquo; phone is disconnected &ldquo;"
     },
     {
       "date": "2026-11-23",
@@ -153,12 +161,12 @@
       "desc": "Say they were gonna serve me at Home or Work saying I had an account from capital one from years ago not even sure if I had one. There&rsquo;s nothing on my credit report that I had anything out now they&rsquo;re calling nonstop since I refuse to make payments anymore."
     },
     {
-      "date": "2026-11-21",
-      "type": "Phishing",
-      "city": "Galesburg, IL",
-      "amt": 950,
-      "biz": "—",
-      "desc": "Richard Lee (917-244-6018) and Eryn Murrel (415-449-8235) called my daughter that was selling prom dress for 75 dollars and they told her because she did not have a business account, they couldn''t send the 75 for her, they asked her to call 833-767-0522 and they saw her Venmo account and took 490 on onepay and 500 on venmo.  950 dollars gone, all her summer money working for college gone in an instant."
+      "date": "2026-11-20",
+      "type": "Counterfeit Product",
+      "city": "Palatine, IL",
+      "amt": 45.17,
+      "biz": "Valors-Ca",
+      "desc": "I ordered a LED Hockey themed nightlight which now i believe is AI generated. They sent me some flimsy snowflake nightlight.  I asked repeadtly to refund and ill ship it back but not getting anywhere. see attachments"
     },
     {
       "date": "2026-11-20",
@@ -233,12 +241,12 @@
       "desc": "I was trying to purchase 4 Goodyear tires when I came across this website on Google. I saw they had a really good price on those tires, so I proceeded to buy them. At checkout, I entered my debit card information and pressed continue. Then a spinning circle with the word \" processing \" in it appeared. My bank sent me a code needed to go on with the purchase. At that point, I started becoming suspicious, so I checked my bank's website. To my unpleasant surprise, I saw an unauthorized transaction of $316.40 for JetBlue Airlines flight tickets. I called the bank right away to file a fraud dispute. The agent told me that I had to wait until the transaction posted so I could file a dispute. I called back on Monday the following week to file the dispute since the transaction had already been posted and my money had been taken for good. Unfortunately, and despite the irrefutable evidence of a scam, the bank hasn't credited that money back into my account. I have also file a report with the Joliet Police Department."
     },
     {
-      "date": "2026-11-19",
-      "type": "Counterfeit Product",
-      "city": "Hoffman Estates, IL",
-      "amt": 45.17,
-      "biz": "Valors.ca",
-      "desc": "I received an inaccurate item. It was supposed to be a hockey themed projector. The item is absolutely not the item I ordered. It is a cheap snowflake projector. They are not helping in the return process and blaming their supplier while not offering a refund or ability to return the incorrect item. This is obviously a scam for money."
+      "date": "2026-11-18",
+      "type": "Other",
+      "city": "Rock Island, IL",
+      "amt": 146,
+      "biz": "Enclave Emma",
+      "desc": "I ordered 2 items and they sent 5 and charged me an extra 146 dollars i tried to call but they only offer email the number shows Florida so i e.ailed and asked how do i return and get a refund they had me take steps and then they still havnt given me address to send back i have been going back and fourt today i reached out to my bank and put a claim in"
     },
     {
       "date": "2026-11-18",
@@ -313,12 +321,12 @@
       "desc": "Called to have taken off the list. Finally spoke to a person who put me on hold. The person they are mailing is deceased."
     },
     {
-      "date": "2026-11-18",
-      "type": "Online Purchase",
-      "city": "Caseyville, IL",
-      "amt": 108,
-      "biz": "Instant Hydration",
-      "desc": "Instant Hydration offered a deal where you would receive a discounted rate on their product when you sign up for a subscription that you can &ldquo;cancel anytime&rdquo;   However their website has no cancellation process and uses a &ldquo;cancel&rdquo; button in a  deceptive way.  There is no reminder before you are billed for your next subscription shipment. Then, if you sign on your account and select cancel under manage subscription, it takes you only to a page to delay your subscription shipment. If you select &ldquo;cancel&rdquo; on that screen, it only &ldquo;cancels&rdquo; the process of delaying your shipment and takes you back to the menu- it does not cancel your subscription."
+      "date": "2026-11-17",
+      "type": "Phishing",
+      "city": "Chicago, IL",
+      "amt": 0,
+      "biz": "UnitedHealthCare",
+      "desc": "Someone called on behalf of so called \"UnitedHealthCare\", stating that I have a report of insurance which submitted on Oct 27th that can be reimbursed and a travel insurance that submitted on Sep. Which I did not. When I told him to double check and reported to his supervisor, he asked me to get to Minnesota to their office to investigate. Also threated that it might be involved into a financial fraud."
     },
     {
       "date": "2026-11-17",
@@ -393,12 +401,12 @@
       "desc": "Imperial left voice mail: This is Imperial contacting you with an important business matter. Press 1 to be connected or dial 855-762-5665. This message is intended for name withheld."
     },
     {
-      "date": "2026-11-16",
-      "type": "Online Purchase",
-      "city": "Buffalo Grove, IL",
-      "amt": 4275,
-      "biz": "Aquadreamusa",
-      "desc": "I bought a Fish tank and Stand combo. I received the product and set it up. As soon as I filled it with water it leaked and poured all over my homes floor.  I contacted the company to allow me to pay and send it back to them and asked many times for the return shipping address they completely ignored my request to do so. Finally I got a response that quoted if you where to return it to us we we gladly refund you $6.00.!!!!!"
+      "date": "2026-11-14",
+      "type": "Phishing",
+      "city": "Charleston, IL",
+      "amt": 166,
+      "biz": "U.S.Travel Passports",
+      "desc": "I searched for passport renewal online and believed I was on the Dept of State website. It was the first search result that came up.\nI put in SSN, address and old passport # for both my husband and I. We paid $296 each. A few days later, my husband received an envelope in the mail with a filled out DS-82 with his information and the photo we submitted online, along with a check for $130 made out to the Dept of State so that he can sign and submit the application. This is how we figured out the scam.\nSeveral days later and I have not received anything for my application."
     },
     {
       "date": "2026-11-14",
@@ -473,12 +481,12 @@
       "desc": "$25"
     },
     {
-      "date": "2026-11-13",
-      "type": "Counterfeit Product",
-      "city": "Naperville, IL",
-      "amt": 103.42,
-      "biz": "Brooks & Bennett Newport",
-      "desc": "Placed an order and almost immediately (within 15 mins.) I realized the site was questionable because of lack of readable reviews and no serviceable phone number for customer service, only a email listed. I emailed them and requested the order be cancelled, multiple times. I got one AI generated response which promised someone would contact me with 48 hrs. No acknowledgment of cancellation. Shortly thereafter, around 15 mins, a email came saying the order was shipped. I have since seen a lot of information on line that leads me to believe this company is ripping people off and should be shut down."
+      "date": "2026-11-12",
+      "type": "Advance Fee Loan",
+      "city": "Plainfield, IL",
+      "amt": 0,
+      "biz": "Top Five Financal",
+      "desc": "Person on the phone stated I had an approved load for $55,000"
     },
     {
       "date": "2026-11-12",
@@ -553,12 +561,12 @@
       "desc": "This website will accept a passport renewal application and charge money. In return they provide an online packet to send in with your old passport. However, this is a third party passport service and not affiliated with the government."
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-10",
       "type": "Phishing",
-      "city": "Saint Charles, IL",
+      "city": "McHenry, IL",
       "amt": 0,
-      "biz": "State Location Services",
-      "desc": "Received call threatening complaint filed against me from Tyler Jones Sate Location Services in Dupage county, listed my age and full name.  threatened to contact employer which they named, and family, (and friends lol) and noted my home address, until they process and get me served.\nThis Slug also had a bit of a southern accent or twang to their voice, and spoke very quickly so much to the point where it was difficult to understand.\nI don&rsquo;t currently have any outstanding debts that I&rsquo;m aware of, or issues in Dupage county that would warrant receiving a call (that I&rsquo;m aware of).  Stay aware and don&rsquo;t answer the phone for anyone you don&rsquo;t know.\nThis sort of thing has been happening to me for years now either from robo callers or real people."
+      "biz": "Lori Myers, business funding advisor.",
+      "desc": "Getting 10 calls a day from different phone numbers either telling me they want to lend me $$$ or to be tax relief for my tax debt. I'm retired 6 years"
     },
     {
       "date": "2026-11-10",
@@ -633,12 +641,12 @@
       "desc": "I google searched who delivers flowers in Rogers Park Chicago. I ordered a beautiful arrangement. I received a confirmation email from SIlverline Florists. My credit card was charged by a company with a different name than the website called \"Starluck Flowers\". The flowers were never delivered. I called Starluck Flowers to see where my order was and they informed me that they have no idea who Silverline Florists are. I found another number and spoke to someone from the Silverline website, she said my order was canceled and I received a refund and an email from Silverline. I have NOT received an email or a refund. This website is scamming people. I also checked out some other reviews and they all say the same thing. Kindly put this website out of business. Thank you!"
     },
     {
-      "date": "2026-11-10",
-      "type": "Sweepstakes/Lottery/Prizes",
-      "city": "Hillsboro, IL",
-      "amt": 500,
-      "biz": "PCH",
-      "desc": "I received a call from Publisher's Clearinghouse from Patrick Butterfield, badge # ****** *******************************) that I had won their lottery, $4.5 million and a new Mercedes Benz.  Then he asked me to get the cash pack cards for $500 in order to register to get this and gave the names of Nancy White and Walter Williams.  They said they had to go to Bank of America in Springfield to get the money.  He wanted my bank information and I didn't give it to him.  We had been telling him it's a hoax.  I called BBB to report this to them and to warn others too."
+      "date": "2026-11-09",
+      "type": "Online Purchase",
+      "city": "Joliet, IL",
+      "amt": 1700,
+      "biz": "Propane Tank traders",
+      "desc": "Bought a propane tank, 500 gallon. Never received."
     },
     {
       "date": "2026-11-09",
@@ -713,12 +721,12 @@
       "desc": "$25"
     },
     {
-      "date": "2026-11-09",
-      "type": "Other",
+      "date": "2026-11-06",
+      "type": "Phishing",
       "city": "Chicago, IL",
       "amt": 0,
-      "biz": "IMPOSTER Bay Area Times",
-      "desc": "I am receiving relentless daily emails from info@bayareatimes.com and tips@bayareatimes.com with no working or reliable way to unsubscribe. This operation (Bay Area Times) uses quasi-government language or scare tactics to push products or loans without clearly disclosing that they are advertisements. Do not reply or call any phone numbers listed in those suspicious mailers or emails."
+      "biz": "Hidea Keepsakes",
+      "desc": "I received a package that I did not order that contained a journal with my name engraved on it, a pen, stickers, and a hair clip. The package was addressed only to my first name, and it was shipped from near me but had a return address in a different state. It contained no gift receipt or note whatsoever from someone I&rsquo;d know, and it is something that someone who knows me would absolutely not order for me. The insert had AI-generated art with a storefront URL, Hideakeepsakes.com, that takes me to a broken page, and the Etsy shop with the same name and AI-generated photos was opened recently and only has one sale. The name on the return address is &ldquo;DORIS(001)-YASFBARA.&rdquo;"
     },
     {
       "date": "2026-11-06",
@@ -791,15 +799,7 @@
       "amt": 0,
       "biz": "None",
       "desc": "Left a message stating the following............This message is for \"My first and last name\" Press one to speak to an agent. We received a file in our office naming you as a respondent. It is imperative that we hear from you or your authorized representative. If you do wish to handle this matter voluntarily, we can be reached at 351-837-0407, refer to file number 1027939. This is a time sensitive matter, we expect to hear from you immediately."
-    },
-    {
-      "date": "2026-11-06",
-      "type": "Online Purchase",
-      "city": "Chicago, IL",
-      "amt": 37,
-      "biz": "Vendepay",
-      "desc": "I said I would get paid money for viewing videos on tiktok"
     }
   ],
-  "total_on_file": 25480
+  "total_on_file": 25481
 }
